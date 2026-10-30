@@ -1,0 +1,94 @@
+{
+ "restaurant": {
+  "name": "享蒔舒肥餐盒 南港店",
+  "address": "11579臺北市南港區南港里興中路28巷25號",
+  "lat": 25.0554627,
+  "lng": 121.6064169,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AB%E8%92%99%E8%88%92%E8%82%A5%E9%A4%90%E7%9B%92%20%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJATOlE_qrQjQRR04uVTp6DO4"
+ },
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2.jpg",
+ "items": [
+  {
+   "name": "舒肥雞胸肉",
+   "price": 130,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "照燒雞腿",
+   "price": 170,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "舒肥炙燒板腱牛",
+   "price": 190,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.8
+  },
+  {
+   "name": "舒肥海鹽松阪豚",
+   "price": 175,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "泡菜豚",
+   "price": 140,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "舒肥香蒜鯛魚",
+   "price": 150,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "舒肥炙燒鮭魚（有刺）",
+   "price": 200,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "舒肥薄鹽鯖魚（有刺）",
+   "price": 160,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "享蒔時蔬餐（無肉）",
+   "price": 100,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  }
+ ]
+}

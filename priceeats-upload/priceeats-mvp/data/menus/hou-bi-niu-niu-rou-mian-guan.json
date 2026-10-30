@@ -1,0 +1,130 @@
+{
+ "restaurant": {
+  "name": "後壁牛牛肉麵館",
+  "address": "115臺北市南港區南港里興華路83號",
+  "lat": 25.0555376,
+  "lng": 121.6060201,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BE%8C%E5%A3%81%E7%89%9B%E7%89%9B%E8%82%89%E9%BA%B5%E9%A4%A8&query_place_id=ChIJReqjJV6rQjQRYKnp5xeNEBQ"
+ },
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2.jpg",
+ "items": [
+  {
+   "name": "小豆干（3片）",
+   "price": 20,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "海帶（條）",
+   "price": 15,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "滷蛋（個）",
+   "price": 15,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "油豆腐（個）",
+   "price": 15,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "素雞（條）",
+   "price": 20,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "皮蛋（顆）",
+   "price": 20,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "大豆干（個）",
+   "price": 25,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "花干（個）",
+   "price": 25,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "小黃瓜（份）",
+   "price": 40,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬耳朵（骨）",
+   "price": 45,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬頭皮（肉）",
+   "price": 45,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "皮蛋豆腐（份）",
+   "price": 45,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肚（份）",
+   "price": 80,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.7
+  }
+ ]
+}

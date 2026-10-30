@@ -1,0 +1,247 @@
+{
+  "restaurant": {
+    "name": "金仙蝦捲飯 南港店",
+    "address": "No. 2號, Lane 137, Section 1, Nangang Rd, 南港區臺北市115",
+    "lat": 25.0548653,
+    "lng": 121.6138253,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E4%BB%99%E8%9D%A6%E6%8D%B2%E9%A3%AF%20%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJdwzIQKyrQjQRRlYSxyIQHJE"
+  },
+  "source_date": "2026-01-01",
+  "source_image": "google-maps-menu-photo-1.jpg",
+  "items": [
+    {
+      "name": "蝦捲飯",
+      "price": 120,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "排骨飯",
+      "price": 120,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "綜合飯",
+      "price": 120,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "控肉飯",
+      "price": 120,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "豬腳飯",
+      "price": 120,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "雞排飯",
+      "price": 120,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "雞腿飯",
+      "price": 130,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "魚排飯",
+      "price": 130,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "魯肉便當",
+      "price": 75,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "魯肉飯",
+      "price": 40,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "魚丸湯",
+      "price": 45,
+      "category": "小吃",
+      "tags": [
+        "小吃"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "蝦丸湯",
+      "price": 45,
+      "category": "小吃",
+      "tags": [
+        "小吃"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "貢丸湯",
+      "price": 45,
+      "category": "小吃",
+      "tags": [
+        "小吃"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "綜合湯",
+      "price": 45,
+      "category": "小吃",
+      "tags": [
+        "小吃"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "炸蝦捲（2條）",
+      "price": 40,
+      "category": "小吃",
+      "tags": [
+        "小吃"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "炸排骨",
+      "price": 65,
+      "category": "肉類",
+      "tags": [
+        "肉類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "炸雞排",
+      "price": 70,
+      "category": "肉類",
+      "tags": [
+        "肉類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "炸雞腿",
+      "price": 80,
+      "category": "肉類",
+      "tags": [
+        "肉類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "炸魚排",
+      "price": 80,
+      "category": "肉類",
+      "tags": [
+        "肉類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "滷蛋",
+      "price": 15,
+      "category": "小吃",
+      "tags": [
+        "小吃"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "白飯",
+      "price": 15,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "燙青菜",
+      "price": 45,
+      "category": "小吃",
+      "tags": [
+        "小吃"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "油豆腐",
+      "price": 45,
+      "category": "小吃",
+      "tags": [
+        "小吃"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "筍絲",
+      "price": 45,
+      "category": "小吃",
+      "tags": [
+        "小吃"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "豬腳",
+      "price": 70,
+      "category": "肉類",
+      "tags": [
+        "肉類"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "控肉",
+      "price": 70,
+      "category": "肉類",
+      "tags": [
+        "肉類"
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

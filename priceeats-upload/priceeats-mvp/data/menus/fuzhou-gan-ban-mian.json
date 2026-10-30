@@ -1,0 +1,202 @@
+{
+ "restaurant": {
+  "name": "南港福州乾拌麵",
+  "address": "臺北市南港區南港路一段225號",
+  "lat": 25.0548917,
+  "lng": 121.610847,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%B8%AF%E7%A6%8F%E5%B7%9E%E4%B9%BE%E6%8B%8C%E9%BA%B5&query_place_id=ChIJPxod1F6rQjQRa89GlnXj2Zg"
+ },
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-1.jpg",
+ "items": [
+  {
+   "name": "乾拌麵（小）",
+   "price": 40,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "乾拌麵（大）",
+   "price": 55,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "餛飩湯",
+   "price": 45,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚丸湯",
+   "price": 50,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "餛飩魚丸湯",
+   "price": 65,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "餛飩蛋包湯",
+   "price": 55,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚丸蛋包湯",
+   "price": 55,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合湯",
+   "price": 75,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛋包湯",
+   "price": 30,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "餛飩麵",
+   "price": 75,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚丸麵",
+   "price": 85,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "餛飩蛋包麵",
+   "price": 80,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚丸蛋包麵",
+   "price": 85,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "餛飩魚丸麵",
+   "price": 90,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合麵",
+   "price": 100,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛋包麵",
+   "price": 55,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅油抄手",
+   "price": 65,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅油抄手加麵",
+   "price": 100,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "燙青菜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "各式小菜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "古早味蔥油拌飯",
+   "price": 25,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.95
+  }
+ ]
+}

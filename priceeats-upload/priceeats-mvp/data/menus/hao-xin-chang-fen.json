@@ -1,0 +1,175 @@
+{
+ "restaurant": {
+  "name": "好心腸粉",
+  "address": "115臺北市南港區南港里南港路一段152-4號",
+  "lat": 25.0555714,
+  "lng": 121.6123196,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A5%BD%E5%BF%83%E8%85%B8%E7%B2%89&query_place_id=ChIJS_oDcJKrQjQRSAhz_KIg1GI"
+ },
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2.jpg",
+ "items": [
+  {
+   "name": "新鮮雞蛋",
+   "price": 60,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "杏鮑菇",
+   "price": 80,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "甘味絲瓜",
+   "price": 80,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛五花",
+   "price": 90,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.8
+  },
+  {
+   "name": "台灣豬肉",
+   "price": 90,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "台灣吻仔魚",
+   "price": 90,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "甘甜鮮蝦",
+   "price": 100,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "海味帆立貝",
+   "price": 100,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "海味透抽",
+   "price": 110,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "絲瓜杏鮑菇",
+   "price": 100,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "絲瓜吻仔魚",
+   "price": 110,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉杏鮑菇",
+   "price": 110,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉吻仔魚",
+   "price": 120,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮮蝦吻仔魚",
+   "price": 130,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉鮮蝦",
+   "price": 130,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮮蝦帆立貝",
+   "price": 140,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "海陸仔（牛肉、鮮蝦、吻仔魚）",
+   "price": 150,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "海鮮擺來（鮮蝦、吻仔魚、透抽、帆立貝）",
+   "price": 210,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  }
+ ]
+}

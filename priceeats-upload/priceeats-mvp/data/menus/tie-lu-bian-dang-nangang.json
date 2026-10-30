@@ -1,0 +1,202 @@
+{
+  "restaurant": {
+    "name": "鐵路便當 南港站",
+    "address": "115臺北市南港區東新里興華路106號",
+    "lat": 25.0565227,
+    "lng": 121.6055674,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rail%20Lunch%20Box%20Bade&query_place_id=ChIJh84FuMGrQjQRwihOFy5XIIA"
+  },
+  "source_date": "2026-07-01",
+  "source_image": "google-maps-menu-photo-1.jpg",
+  "items": [
+    {
+      "name": "鐵路菜飯",
+      "price": 80,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "鐵路滷肉飯",
+      "price": 90,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "鐵路蝦捲飯",
+      "price": 120,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "鐵路懷舊雞腿飯",
+      "price": 120,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "鐵路焦糖雞腿飯",
+      "price": 120,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "鐵路脆皮雞腿飯",
+      "price": 120,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "鐵路排骨飯",
+      "price": 120,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "鐵路香腸飯",
+      "price": 120,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "鐵路炸雞排飯",
+      "price": 120,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "鐵路鯖魚飯",
+      "price": 125,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "鐵路厚切炸豬排飯",
+      "price": 130,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "鐵路精緻便當",
+      "price": 160,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "鐵路雙拼飯",
+      "price": 190,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "蝦捲3條",
+      "price": 60,
+      "category": "小吃",
+      "tags": [
+        "小吃"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "香腸",
+      "price": 60,
+      "category": "肉類",
+      "tags": [
+        "肉類"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "懷舊排骨",
+      "price": 65,
+      "category": "肉類",
+      "tags": [
+        "肉類"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "酥炸雞排",
+      "price": 65,
+      "category": "肉類",
+      "tags": [
+        "肉類"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "雞腿",
+      "price": 75,
+      "category": "肉類",
+      "tags": [
+        "肉類"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "香煎鯖魚",
+      "price": 75,
+      "category": "肉類",
+      "tags": [
+        "肉類"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "炸豬排",
+      "price": 80,
+      "category": "肉類",
+      "tags": [
+        "肉類"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "滷肉飯（單點）",
+      "price": 45,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

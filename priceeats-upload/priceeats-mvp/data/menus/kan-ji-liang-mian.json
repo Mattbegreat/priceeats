@@ -1,0 +1,751 @@
+{
+ "restaurant": {
+  "name": "闞記涼麵",
+  "address": "115臺北市南港區東新里興華路108號",
+  "lat": 25.0565395,
+  "lng": 121.6055756,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%97%9E%E8%A8%98%E6%B6%BC%E9%BA%B5&query_place_id=ChIJr3ho1V-rQjQRX3JDgEJd6TE"
+ },
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-1.jpg",
+ "items": [
+  {
+   "name": "魷魚羹麵（大）",
+   "price": 80,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "魷魚羹麵（小）",
+   "price": 65,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉羹麵（大）",
+   "price": 80,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉羹麵（小）",
+   "price": 65,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "榨菜肉絲麵（大）",
+   "price": 80,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "榨菜肉絲麵（小）",
+   "price": 65,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "餛飩麵（大）",
+   "price": 80,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "餛飩麵（小）",
+   "price": 65,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肝麵（大）",
+   "price": 80,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肝麵（小）",
+   "price": 65,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻醬麵（大）",
+   "price": 60,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻醬麵（小）",
+   "price": 50,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸醬麵（大）",
+   "price": 60,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸醬麵（小）",
+   "price": 50,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "沙茶麵（大）",
+   "price": 60,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "沙茶麵（小）",
+   "price": 50,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "陽春麵（大）",
+   "price": 55,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "陽春麵（小）",
+   "price": 40,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "乾麵（大）",
+   "price": 55,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "乾麵（小）",
+   "price": 40,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "涼麵（大）",
+   "price": 60,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "涼麵（小）",
+   "price": 50,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷肉飯（大）",
+   "price": 40,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷肉飯（小）",
+   "price": 30,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "米粉湯（大）",
+   "price": 40,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "米粉湯（小）",
+   "price": 30,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙醬麵（大）",
+   "price": 70,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙醬麵（小）",
+   "price": 60,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合羹麵（大）",
+   "price": 90,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合羹麵（小）",
+   "price": 80,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "肝連麵（大）",
+   "price": 90,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.8
+  },
+  {
+   "name": "肝連麵（小）",
+   "price": 75,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "頭骨肉湯",
+   "price": 60,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "小腸豬血湯",
+   "price": 60,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "魷魚羹湯",
+   "price": 50,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "肉羹湯",
+   "price": 50,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬肝腸湯",
+   "price": 50,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "肝連湯",
+   "price": 50,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "餛飩湯",
+   "price": 50,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "粉腸湯",
+   "price": 50,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "大腸湯",
+   "price": 50,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬肝湯",
+   "price": 45,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "貢丸蛋花湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "青菜蛋花湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "青菜豆腐湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬血湯",
+   "price": 25,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "青菜湯",
+   "price": 25,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "蛋花湯",
+   "price": 25,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "貢丸湯",
+   "price": 25,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "綜合羹湯",
+   "price": 65,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "粉腸",
+   "price": 60,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "大腸",
+   "price": 60,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "小腸",
+   "price": 60,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "肝連",
+   "price": 60,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "脆管",
+   "price": 60,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "五花肉",
+   "price": 60,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "梅花肉",
+   "price": 60,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "頭骨肉",
+   "price": 60,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "燙豬肝",
+   "price": 60,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "魯小肚",
+   "price": 60,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "豬舌",
+   "price": 60,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "豬心",
+   "price": 60,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "燙魷魚",
+   "price": 70,
+   "category": "海鮮",
+   "tags": [
+    "海鮮"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "大腸頭",
+   "price": 75,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "生腸",
+   "price": 75,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "豬皮",
+   "price": 30,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "豬肺",
+   "price": 30,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "素雞",
+   "price": 30,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "豬頭皮",
+   "price": 30,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "豬耳朵",
+   "price": 30,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "乾餛飩",
+   "price": 60,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "皮蛋豆腐",
+   "price": 30,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "燙青菜",
+   "price": 30,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "油豆腐（份）",
+   "price": 30,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "魯豆腐（份）",
+   "price": 30,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "皮蛋（顆）",
+   "price": 15,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "豆干（份）",
+   "price": 15,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "油豆腐（塊）",
+   "price": 15,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "魯蛋（顆）",
+   "price": 15,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "魯豆腐（塊）",
+   "price": 15,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "海帶（條）",
+   "price": 15,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "花干（片）",
+   "price": 20,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.85
+  }
+ ]
+}

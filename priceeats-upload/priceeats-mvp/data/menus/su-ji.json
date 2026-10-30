@@ -1,0 +1,418 @@
+{
+ "restaurant": {
+  "name": "蘇記小吃店",
+  "address": "臺北市南港區興中路44巷18號1樓",
+  "lat": 25.0558918,
+  "lng": 121.6064328,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%98%87%E8%A8%98%E5%B0%8F%E5%90%83%E5%BA%97&query_place_id=ChIJGdrbM16rQjQRpM0ppA34-io"
+ },
+ "source_date": "2025-09-02",
+ "source_image": "google-maps-menu-photo-1.png",
+ "items": [
+  {
+   "name": "雞肉炒飯（小）",
+   "price": 55,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞肉炒飯（大）",
+   "price": 65,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉炒飯（小）",
+   "price": 60,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉炒飯（大）",
+   "price": 70,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬肉炒飯（小）",
+   "price": 60,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬肉炒飯（大）",
+   "price": 70,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞肉燴飯（小）",
+   "price": 55,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞肉燴飯（大）",
+   "price": 65,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉燴飯（小）",
+   "price": 60,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉燴飯（大）",
+   "price": 70,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬肉燴飯（小）",
+   "price": 60,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬肉燴飯（大）",
+   "price": 70,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞肉炒麵（小）",
+   "price": 55,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞肉炒麵（大）",
+   "price": 65,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉炒麵（小）",
+   "price": 60,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉炒麵（大）",
+   "price": 70,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬肉炒麵（小）",
+   "price": 60,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬肉炒麵（大）",
+   "price": 70,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞肉燴麵（小）",
+   "price": 55,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞肉燴麵（大）",
+   "price": 65,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉燴麵（小）",
+   "price": 60,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉燴麵（大）",
+   "price": 70,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬肉燴麵（小）",
+   "price": 60,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬肉燴麵（大）",
+   "price": 70,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "蝦仁炒飯（小）",
+   "price": 80,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "蝦仁炒飯（大）",
+   "price": 90,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "炒牛肉（小）",
+   "price": 90,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "炒牛肉（大）",
+   "price": 110,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.85
+  },
+  {
+   "name": "肉燥乾麵（小）",
+   "price": 40,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "肉燥乾麵（大）",
+   "price": 50,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "肉燥湯麵（小）",
+   "price": 40,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "肉燥湯麵（大）",
+   "price": 50,
+   "category": "麵食",
+   "tags": [
+    "麵食"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "青菜豆腐湯（小）",
+   "price": 30,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "青菜豆腐湯（大）",
+   "price": 40,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "貢丸湯（小）",
+   "price": 30,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "貢丸湯（大）",
+   "price": 40,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "味噌湯（小）",
+   "price": 30,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "味噌湯（大）",
+   "price": 40,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "蛋花湯（小）",
+   "price": 30,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "蛋花湯（大）",
+   "price": 40,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "豬頭皮",
+   "price": 35,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "滷蛋",
+   "price": 35,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "花干",
+   "price": 25,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "豆干",
+   "price": 20,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "海帶",
+   "price": 15,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.7
+  }
+ ]
+}
