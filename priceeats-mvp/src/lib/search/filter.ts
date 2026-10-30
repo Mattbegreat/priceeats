@@ -1,4 +1,5 @@
 import { haversineM } from '@/lib/geo/haversine';
+import { isSideDish } from './side-dish';
 import { freshnessOf } from '@/lib/pricing/freshness';
 import { groupByFood, latestVerification } from '@/lib/pricing/verification';
 import type { CategoryName, Dataset, FoodView, SearchParams } from '@/types';
@@ -64,6 +65,7 @@ export function search(index: FoodBase[], p: SearchParams): FoodView[] {
     if (!b.food.is_available) continue;
     if (b.food.price > p.budget) continue;
     if (p.cat !== '不限' && b.categoryName !== p.cat && !b.tagNames.includes(p.cat)) continue;
+    if (p.sides === false && isSideDish(b)) continue;
     if (p.minRating > 0 && (b.rating === null || b.rating < p.minRating)) continue;
     const distanceM = haversineM(center, { lat: b.restaurant.latitude, lng: b.restaurant.longitude });
     if (distanceM > p.dist) continue;

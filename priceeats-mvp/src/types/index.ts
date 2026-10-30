@@ -110,6 +110,8 @@ export interface SearchParams {
   dist: number;
   sort: SortKey;
   minRating: number;
+  /** 是否顯示單點小菜、湯品、配菜 (false=只看主餐類) */
+  sides: boolean;
   lat: number;
   lng: number;
 }

@@ -12,13 +12,27 @@ const USAGE = `用法：npm run import:menu -- [--dry-run] <json檔或資料夾>
 
 function tryLoadEnvFile(): void {
   // 方便本機使用：若有 .env.local 就載入（已存在的環境變數不會被覆蓋）。.env.local 已在 .gitignore。
+  // 自己解析，相容 Windows 記事本存的 BOM、CRLF、UTF-16 與引號。
   const p = resolve(process.cwd(), '.env.local');
-  if (existsSync(p) && typeof process.loadEnvFile === 'function') {
-    try {
-      process.loadEnvFile(p);
-    } catch {
-      /* 讀不到就只用現有環境變數 */
+  if (!existsSync(p)) {
+    console.error('提示：目前資料夾沒有 .env.local，只使用現有環境變數。');
+    return;
+  }
+  try {
+    const buf = readFileSync(p);
+    const text =
+      buf[0] === 0xff && buf[1] === 0xfe ? buf.toString('utf16le') : buf.toString('utf8');
+    for (const raw of text.replace(/^\uFEFF/, '').split(/\r?\n/)) {
+      const line = raw.trim();
+      if (!line || line.startsWith('#')) continue;
+      const m = /^(?:export\s+)?([A-Za-z_][A-Za-z0-9_]*)\s*=\s*(.*)$/.exec(line);
+      if (!m) continue;
+      let v = m[2].trim();
+      if ((v.startsWith('"') && v.endsWith('"')) || (v.startsWith("'") && v.endsWith("'"))) v = v.slice(1, -1);
+      if (process.env[m[1]] === undefined) process.env[m[1]] = v;
     }
+  } catch (e) {
+    console.error(`提示：讀取 .env.local 失敗：${(e as Error).message}`);
   }
 }
 
@@ -82,6 +96,7 @@ async function main() {
     const key = process.env.SUPABASE_SERVICE_ROLE_KEY;
     if (!url || !key) {
       console.error('缺少環境變數：需要 SUPABASE_SERVICE_ROLE_KEY，以及 SUPABASE_URL（或 NEXT_PUBLIC_SUPABASE_URL）。');
+      console.error(`目前狀態：SUPABASE_URL ${url ? '有' : '沒有'}，SUPABASE_SERVICE_ROLE_KEY ${key ? '有' : '沒有'}。`);
       console.error('只想驗證檔案請加 --dry-run。');
       process.exit(2);
     }

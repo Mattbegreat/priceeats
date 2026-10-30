@@ -60,6 +60,16 @@ export function FilterBar({ params, onParams }: { params: SearchParams; onParams
           </select>
         </label>
       </div>
+      <label className="flex items-center gap-2 text-sm text-ink">
+        <input
+          type="checkbox"
+          aria-label="含單點小菜與湯品"
+          className="h-4 w-4"
+          checked={params.sides}
+          onChange={(e) => onParams({ sides: e.target.checked })}
+        />
+        含單點小菜、湯品
+      </label>
     </section>
   );
 }

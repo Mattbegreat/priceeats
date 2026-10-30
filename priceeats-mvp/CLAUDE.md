@@ -15,6 +15,8 @@
 - 資料：`src/data/seed`（固定種子測試資料）→ `npm run gen:seed` 產生 `supabase/seed.sql`
 - DB：`supabase/migrations/0001_init.sql`（RLS：anon 只能讀、只能新增 pending）、`0002_production.sql`（正式分類、google_maps_url／source、restaurants name+address 唯一鍵）
 - 正式資料匯入：`npm run import:menu -- [--dry-run] <json檔或資料夾>`（`scripts/import-menu.ts`；驗證與座標解析 `src/lib/import/menu.ts`、PostgREST 寫入 `src/lib/import/writer.ts`；需本機環境變數 `SUPABASE_SERVICE_ROLE_KEY`，絕不進前端或 Netlify）
+- 部署：Netlify 靜態輸出（Base `priceeats-mvp`、Build `npm run build:demo`、Publish `out`）；正式模式預設中心南港車站、預設只看主餐（`src/lib/search/side-dish.ts` 規則式，可勾選含單點小菜）
+- 菜單照片：`scripts/download_menus.py --cdp`（連已登入 Google 的 Chrome）→ 辨識成 `data/menus/*.json`
 - 正式模式（Supabase 啟用）：`SupabaseRepository.load` 只載入 `is_test_data=false`；正式資料不顯示評分，詳情頁改「在 Google Maps 看評價」連結（`src/lib/geo/maps-url.ts`）
 
 ## 指令

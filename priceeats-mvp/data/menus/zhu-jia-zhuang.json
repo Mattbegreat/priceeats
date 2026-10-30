@@ -1,0 +1,175 @@
+{
+  "restaurant": {
+    "name": "豬家莊",
+    "address": "115臺北市南港區南港里興華路85號",
+    "lat": 25.0555816,
+    "lng": 121.6060144,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B1%AC%E5%AE%B6%E8%8E%8A&query_place_id=ChIJwUKK01-rQjQRDBZk2nOv4Pc"
+  },
+  "source_date": "2025-02-01",
+  "source_image": "google-maps-menu-photo-2.jpg",
+  "items": [
+    {
+      "name": "配菜飯（配菜四樣）",
+      "price": 70,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "梅干肉燥飯（配菜四樣）",
+      "price": 85,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "香腸飯（配菜四樣）",
+      "price": 95,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "紅糟肉飯（配菜四樣）",
+      "price": 95,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "腿庫飯（配菜四樣）",
+      "price": 100,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "name": "炸排骨飯（配菜四樣）",
+      "price": 100,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "蝦捲飯（配菜四樣）",
+      "price": 100,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "炸雞腿飯（配菜四樣）",
+      "price": 120,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "滷雞腿飯（配菜四樣）",
+      "price": 130,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "白飯（一碗）",
+      "price": 15,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "梅干肉燥飯（一碗）",
+      "price": 35,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "蝦捲（一條）",
+      "price": 15,
+      "category": "小吃",
+      "tags": [
+        "小吃"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "香腸（一份）",
+      "price": 60,
+      "category": "肉類",
+      "tags": [
+        "肉類"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "name": "紅糟肉（一份）",
+      "price": 60,
+      "category": "肉類",
+      "tags": [
+        "肉類"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "炸排骨（一片）",
+      "price": 60,
+      "category": "肉類",
+      "tags": [
+        "肉類"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "炸雞腿（一支）",
+      "price": 80,
+      "category": "肉類",
+      "tags": [
+        "肉類"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "滷雞腿（一支）",
+      "price": 90,
+      "category": "肉類",
+      "tags": [
+        "肉類"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "name": "小菜（一樣）",
+      "price": 40,
+      "category": "小吃",
+      "tags": [
+        "小吃"
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

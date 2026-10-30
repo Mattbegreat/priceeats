@@ -1,0 +1,148 @@
+{
+  "restaurant": {
+    "name": "福德烤雞腿飯",
+    "address": "115029臺北市南港區南港里興中路12巷21號1樓",
+    "lat": 25.0550206,
+    "lng": 121.6066039,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%BE%B7%E7%83%A4%E9%9B%9E%E8%85%BF%E9%A3%AF&query_place_id=ChIJR87PddOrQjQRc1x2JMDj2G0"
+  },
+  "source_date": "2025-12-01",
+  "source_image": "google-maps-menu-photo-2.jpg",
+  "items": [
+    {
+      "name": "烤牛小排飯",
+      "price": 125,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "烤雞腿飯",
+      "price": 125,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "炸雞腿飯",
+      "price": 125,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "炸雞排飯",
+      "price": 125,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "蜜汁雞排飯",
+      "price": 125,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "烤鯖魚飯",
+      "price": 125,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "炸蝦捲飯",
+      "price": 95,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "烤鯛魚飯",
+      "price": 100,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "烤排骨飯",
+      "price": 100,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "炸排骨飯",
+      "price": 100,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "復古排骨飯",
+      "price": 100,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "紅糟肉飯",
+      "price": 100,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "烤肉飯",
+      "price": 95,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "香腸飯",
+      "price": 95,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "焢肉飯",
+      "price": 95,
+      "category": "飯類",
+      "tags": [
+        "飯類"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

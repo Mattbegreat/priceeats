@@ -1,0 +1,607 @@
+{
+ "restaurant": {
+  "name": "台灣鐵路便當 南港站",
+  "address": "115臺北市南港區新富里研究院路一段26號",
+  "lat": 25.0539618,
+  "lng": 121.6162611,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E7%81%A3%E9%90%B5%E8%B7%AF%E4%BE%BF%E7%95%B6%20%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJT2512lmrQjQRfAWQehh8VsQ"
+ },
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-3.jpg",
+ "items": [
+  {
+   "name": "蔥爆蛋炒牛肉（附白飯）",
+   "price": 155,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "蔥爆蛋炒豬肉（附白飯）",
+   "price": 140,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "糖醋排骨（附白飯）",
+   "price": 145,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "湖南豆瓣回鍋肉（附白飯）",
+   "price": 145,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "古早味筍絲炒豬肉（附白飯）",
+   "price": 120,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "剝皮辣椒蛋炒豬肉片（附白飯）",
+   "price": 150,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "麻油高麗菜炒豬肉（附白飯）",
+   "price": 140,
+   "category": "肉類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "糖醋魚片（附白飯）",
+   "price": 140,
+   "category": "海鮮",
+   "tags": [
+    "海鮮"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "蔥爆豆腐魚（附白飯）",
+   "price": 140,
+   "category": "海鮮",
+   "tags": [
+    "海鮮"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "上海排骨菜飯（特價）",
+   "price": 105,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "上海雞腿菜飯（特價）",
+   "price": 105,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "上海雙排骨菜飯（特價）",
+   "price": 155,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "上海排骨加雞腿菜飯（特價）",
+   "price": 155,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "沙茶牛肉客飯",
+   "price": 130,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "美乃滋炸排骨飯",
+   "price": 115,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "招牌滷肉飯（1匙）",
+   "price": 40,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "招牌滷肉飯（2匙）",
+   "price": 65,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "招牌滷肉飯加荷包蛋（1匙）",
+   "price": 60,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "招牌滷肉飯加荷包蛋（2匙）",
+   "price": 80,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "瘦滷肉飯",
+   "price": 50,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "魚鬆滷肉飯",
+   "price": 55,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "招牌紅燒滷肉飯",
+   "price": 70,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "紅燒瘦滷肉飯",
+   "price": 72,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "酥炸鯛魚片便當（台灣鯛，特價）",
+   "price": 140,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "鐵路招牌里肌肉飯",
+   "price": 110,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "鐵路古早味香腸飯",
+   "price": 85,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "鐵路蝦排飯",
+   "price": 80,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "鐵路酥炸排骨飯",
+   "price": 110,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "鐵路滷雞腿飯",
+   "price": 110,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "鐵路滷雞排飯",
+   "price": 100,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "鐵路酥炸雞排飯",
+   "price": 100,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "鐵路黑胡椒排骨飯",
+   "price": 110,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "鐵路紅燒排骨飯",
+   "price": 110,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "鐵路滷排骨飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "酥炸北海魚條飯",
+   "price": 95,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "鐵路魚排飯",
+   "price": 100,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "檸檬雞柳飯",
+   "price": 100,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "烤肉醬排骨飯（炸）",
+   "price": 110,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "琵琶蝦捲飯",
+   "price": 115,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "紅燒滷肉便當",
+   "price": 120,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸五花紅糟肉便當",
+   "price": 125,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "古早味紅燒焢肉便當",
+   "price": 120,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "香腸滷肉便當",
+   "price": 115,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "酥炸脆皮排骨便當",
+   "price": 115,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "滷大雞腿便當",
+   "price": 125,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸大雞腿便當",
+   "price": 130,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "香炸黃金鯖魚便當",
+   "price": 105,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "酥炸多利魚便當",
+   "price": 115,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸紅糟排骨便當",
+   "price": 115,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "現炸酥脆滷排骨便當",
+   "price": 120,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "山東燒雞",
+   "price": 65,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "臘肉炒高麗菜",
+   "price": 60,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "臘肉炒青江菜",
+   "price": 60,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "酥炸鯛魚片（台灣鯛）",
+   "price": 75,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "酥炸多利魚",
+   "price": 75,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "蒜香紅燒虱目魚皮",
+   "price": 60,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸五花紅糟肉",
+   "price": 70,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "招牌滷紅燒肉",
+   "price": 70,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "鐵路滷大雞腿",
+   "price": 70,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "鐵路炸大雞腿",
+   "price": 75,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "鐵路滷排骨",
+   "price": 65,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸排骨",
+   "price": 60,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "黃金鯖魚",
+   "price": 55,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "檸檬雞柳（3條）",
+   "price": 50,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸蝦捲（2隻）",
+   "price": 30,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸魚條（2條）",
+   "price": 30,
+   "category": "小吃",
+   "tags": [
+    "小吃"
+   ],
+   "confidence": 0.9
+  }
+ ]
+}

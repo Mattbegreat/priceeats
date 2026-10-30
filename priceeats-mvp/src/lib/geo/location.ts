@@ -1,3 +1,4 @@
+import { DEFAULT_CENTER } from '@/data/centers';
 import type { LatLng } from '@/types';
 
 export type LocateResult =
@@ -7,10 +8,10 @@ export type LocateResult =
 export const LOCATE_TIMEOUT_MS = 8000;
 
 export const LOCATE_MESSAGE: Record<'unsupported' | 'denied' | 'timeout' | 'error', string> = {
-  unsupported: '此裝置不支援定位，已使用預設位置：台北車站',
-  denied: '無法取得定位權限，已使用預設位置：台北車站',
-  timeout: '定位逾時 (8 秒)，已使用預設位置：台北車站',
-  error: '定位失敗，已使用預設位置：台北車站',
+  unsupported: `此裝置不支援定位，已使用預設位置：${DEFAULT_CENTER.name}`,
+  denied: `無法取得定位權限，已使用預設位置：${DEFAULT_CENTER.name}`,
+  timeout: `定位逾時 (8 秒)，已使用預設位置：${DEFAULT_CENTER.name}`,
+  error: `定位失敗，已使用預設位置：${DEFAULT_CENTER.name}`,
 };
 
 /** 取得目前位置；8 秒逾時，拒絕/不支援/逾時都回傳失敗原因讓 UI fallback */

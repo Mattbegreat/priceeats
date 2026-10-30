@@ -181,7 +181,7 @@ npm run import:menu -- ./menus/store-a.json ./menus/store-b.json     # 或指定
 Netlify 原生支援 Next.js，**不需要另裝 plugin、不需要 `netlify.toml`**；只有建置失敗時才再評估 `@netlify/plugin-nextjs`。
 
 1. Netlify → Add new site → Import an existing project → 選 GitHub 的 `priceeats`，Branch 選 `main`。
-2. Build settings 保持自動偵測的 Next.js 預設（Build command `npm run build`）。**Publish directory 不要填 `out`**——`out/` 是下方示範版（`build:demo`）的輸出，正式站不用。
+2. Build settings（實測可用的靜態輸出）：Base directory `priceeats-mvp`、Build command `npm run build:demo`、Publish directory `out`。伺服器模式（`npm run build`）在 Netlify 上實測一直回 404，所以正式站改用靜態輸出；靜態輸出沒有 `/api/*`，網站直接在瀏覽器連 Supabase。
 3. Site configuration → Environment variables 設兩個：
    ```
    NEXT_PUBLIC_SUPABASE_URL=https://xxxx.supabase.co
@@ -189,10 +189,19 @@ Netlify 原生支援 Next.js，**不需要另裝 plugin、不需要 `netlify.tom
    ```
    `NEXT_PUBLIC_` 變數是**建置時**內嵌進前端的，新增或修改後要重新部署（Deploys → Trigger deploy）才會生效。**不要在 Netlify 設 `SUPABASE_SERVICE_ROLE_KEY`**——它只給本機匯入工具用。
 4. 之後每次 push `main` 自動建置並部署；其他分支與 PR 會產生預覽網址。
-5. 驗收：開 `https://<站名>.netlify.app/api/health` 應回傳 `{"ok":true,"repository":"supabase"}`（若顯示 `mock` 代表環境變數沒生效，檢查後重新部署）；手機開首頁，預算 100 元搜尋，結果只會是匯入工具寫進 Supabase 的餐點，且沒有「測試資料」標記。
+5. 驗收：手機開首頁，預設中心為南港車站（正式模式）、預算 100 元搜尋，結果只會是匯入工具寫進 Supabase 的餐點，且沒有「測試資料」標記。預設只看主餐，勾選「含單點小菜、湯品」才會顯示滷蛋、湯品、小菜。
 6. 資料庫要先執行 `0001_init.sql`、`0002_production.sql`（見上方「Supabase 設定」），並用「正式資料匯入」寫入至少一家店；沒有任何正式資料時，網站會顯示查無結果，這是正常的。
 
-> 這個設定沿用本機 `npm run build` 的成功結果；尚未在 Netlify 上實際部署驗證。
+### 取得菜單照片（Google 地圖）
+
+`scripts/download_menus.py` 讀 `data/shops.csv`，下載各店 Google 地圖「菜單」分頁的照片到 `menu_dataset/`（已在 .gitignore）。需要已登入 Google 的 Chrome，否則看不到菜單分頁：
+
+```
+chrome.exe --remote-debugging-port=9222 --user-data-dir=C:\chrome-menu
+python scripts\download_menus.py --cdp http://localhost:9222 [--only 12]
+```
+
+照片辨識後寫成 `data/menus/<店名>.json`，信心低於 0.8 的品項匯入時會略過。新增相依：Python `playwright`（只在本機下載菜單時使用，不進網站）。
 
 ### Vercel（一般建置，含 API 路由）
 

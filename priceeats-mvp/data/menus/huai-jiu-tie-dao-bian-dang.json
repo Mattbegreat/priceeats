@@ -1,0 +1,283 @@
+{
+ "restaurant": {
+  "name": "懷舊鐵道物語-鐵道便當",
+  "address": "115臺北市南港區南港里南港路一段216號",
+  "lat": 25.0551805,
+  "lng": 121.610548,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%87%B7%E8%88%8A%E9%90%B5%E9%81%93%E7%89%A9%E8%AA%9E-%E9%90%B5%E9%81%93%E4%BE%BF%E7%95%B6&query_place_id=ChIJ7Unp116rQjQRrPvAYiUko8w"
+ },
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-1.jpg",
+ "items": [
+  {
+   "name": "菜飯",
+   "price": 70,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "小資經濟餐盒",
+   "price": 80,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "花枝排飯",
+   "price": 85,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "香酥魚排飯",
+   "price": 90,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "蒲燒鯛魚飯",
+   "price": 90,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "滷香雞腿飯",
+   "price": 90,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "香酥棒棒腿飯",
+   "price": 95,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "酥炸雞排飯",
+   "price": 90,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "香腸飯",
+   "price": 95,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "蝦捲飯",
+   "price": 100,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "焢肉飯",
+   "price": 100,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "紅燒肉飯",
+   "price": 95,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "日式鯖魚飯",
+   "price": 95,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "梅干扣肉飯",
+   "price": 110,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "招牌滷排骨飯",
+   "price": 100,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "懷舊黃金炸排骨飯",
+   "price": 100,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "懷舊鮮嫩炸雞腿飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.8
+  },
+  {
+   "name": "椒麻雞腿飯",
+   "price": 130,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.7
+  },
+  {
+   "name": "銷魂雞飯（小，海鹽）",
+   "price": 75,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "銷魂雞飯（小，煙茶糖）",
+   "price": 80,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "黯然銷魂飯（大，海鹽）",
+   "price": 100,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "黯然銷魂飯（大，煙茶糖）",
+   "price": 110,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "雙饗銷魂飯（海鹽＋煙茶糖）",
+   "price": 125,
+   "category": "飯類",
+   "tags": [
+    "飯類"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "超值雙主餐A 炸排骨＋蝦捲",
+   "price": 120,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "超值雙主餐B 花枝排＋鯛魚",
+   "price": 115,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "超值雙主餐C 雞排＋鯛魚",
+   "price": 120,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "超值雙主餐E 炸（滷）雞腿＋鯛魚",
+   "price": 120,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "超值雙主餐F 炸（滷）雞腿＋魚排",
+   "price": 120,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "超值雙主餐G 炸（滷）雞腿＋蝦捲",
+   "price": 120,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "name": "超值雙主餐H 紅燒肉＋鯛魚",
+   "price": 110,
+   "category": "便當",
+   "tags": [
+    "便當"
+   ],
+   "confidence": 0.9
+  }
+ ]
+}
