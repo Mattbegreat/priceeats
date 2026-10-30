@@ -1,0 +1,18 @@
+{
+  "restaurant": {
+    "name": "匯入樣本店（範例檔，請勿匯入正式資料庫）",
+    "address": "台北市中正區範例路 1 號",
+    "google_maps_url": "https://www.google.com/maps/place/sample/@25.0478,121.5170,17z/data=!3m1!4b1"
+  },
+  "source_date": "2026-10-30",
+  "source_image": "sample-menu.jpg",
+  "items": [
+    { "name": "排骨便當", "price": 95, "category": "便當", "tags": ["肉類"], "confidence": 0.95 },
+    { "name": "滷肉飯", "price": 40, "category": "飯類", "tags": [], "confidence": 0.9 },
+    { "name": "陽春麵", "price": 50, "category": "麵食", "tags": [], "confidence": 0.8 },
+    { "name": "模糊的小菜", "price": 30, "category": "小吃", "tags": [], "confidence": 0.62 },
+    { "name": "價格異常的便當", "price": 0, "category": "便當", "tags": [], "confidence": 0.95 },
+    { "name": "價格有小數的湯", "price": 35.5, "category": "小吃", "tags": [], "confidence": 0.95 },
+    { "name": "不存在分類的甜點", "price": 60, "category": "甜點", "tags": [], "confidence": 0.95 }
+  ]
+}

@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { -webkit-text-size-adjust: 100%; }
+body { background: #F7F8F5; color: #202823; }
+
+/* 觸控目標至少 44px */
+.tap { min-height: 44px; min-width: 44px; }
+
+input[type='range'] { accent-color: #172C28; }
+:focus-visible { outline: 2px solid #172C28; outline-offset: 2px; }
+
+.chip-scroll { scrollbar-width: none; }
+.chip-scroll::-webkit-scrollbar { display: none; }
+
+.leaflet-container { font-family: inherit; }
+.price-marker {
+  background: #172C28; color: #fff; font-weight: 700; font-size: 13px; line-height: 1;
+  padding: 6px 8px; border-radius: 10px; border: 2px solid #fff; white-space: nowrap;
+  box-shadow: 0 1px 4px rgba(0,0,0,.35); font-variant-numeric: tabular-nums; text-align: center;
+}
+.price-marker.sel { background: #D6F5B5; color: #172C28; border-color: #172C28; }
+.center-marker {
+  width: 16px; height: 16px; border-radius: 50%; background: #2563eb; border: 3px solid #fff;
+  box-shadow: 0 0 0 2px #2563eb;
+}
