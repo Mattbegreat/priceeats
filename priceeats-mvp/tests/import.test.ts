@@ -220,6 +220,35 @@ describe('寫入器 MenuImportWriter（假的 PostgREST）', () => {
     expect(rows.map((v) => v.reported_price).sort()).toEqual([40, 50]);
   });
 
+  it('source 未填預設 menu_photo；pos_online 寫入對應的 source_type／status，去重查詢也依來源篩選', async () => {
+    expect(loadStore().source).toBe('menu_photo');
+    const r = validateStore({ ...fixture, source: 'pos_online' }, 'pos.json');
+    if (!r.ok) throw new Error('invalid');
+    expect(r.store.source).toBe('pos_online');
+    const { calls, writer } = fakeDb();
+    await writer.writeStore(r.store);
+    const rPost = calls.find((c) => c.method === 'POST' && c.url.includes('/restaurants?'))!;
+    expect((rPost.body as Record<string, unknown>[])[0]).toMatchObject({ source: 'pos_online' });
+    const get = calls.find((c) => c.method === 'GET' && c.url.includes('/price_verifications?'))!;
+    expect(decodeURIComponent(get.url)).toContain('source_type=eq.pos_online');
+    const vPost = calls.find((c) => c.method === 'POST' && c.url.endsWith('/price_verifications'))!;
+    expect((vPost.body as Record<string, unknown>[]).every((v) => v.source_type === 'pos_online' && v.verification_status === 'pos_online')).toBe(true);
+  });
+
+  it('brand_official 可通過驗證並寫入對應來源', async () => {
+    const r = validateStore({ ...fixture, source: 'brand_official' }, 'brand.json');
+    if (!r.ok) throw new Error('invalid');
+    const { calls, writer } = fakeDb();
+    await writer.writeStore(r.store);
+    const vPost = calls.find((c) => c.method === 'POST' && c.url.endsWith('/price_verifications'))!;
+    expect((vPost.body as Record<string, unknown>[]).every((v) => v.source_type === 'brand_official' && v.verification_status === 'brand_official')).toBe(true);
+  });
+
+  it('source 不是 menu_photo／pos_online → 整店跳過', () => {
+    const r = validateStore({ ...fixture, source: 'ubereats' }, 'bad.json');
+    expect(r.ok).toBe(false);
+  });
+
   it('既有店不重複計為新增', async () => {
     const { writer } = fakeDb({ existingRestaurant: true });
     expect((await writer.writeStore(loadStore())).newRestaurants).toBe(0);

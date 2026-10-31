@@ -43,8 +43,8 @@ export interface FoodTag {
   category_id: string;
 }
 
-export type VerificationStatus = 'store_confirmed' | 'menu_photo' | 'user_report' | 'pending';
-export type SourceType = 'store' | 'menu_photo' | 'user_report';
+export type VerificationStatus = 'store_confirmed' | 'menu_photo' | 'user_report' | 'pos_online' | 'brand_official' | 'pending';
+export type SourceType = 'store' | 'menu_photo' | 'user_report' | 'pos_online' | 'brand_official';
 export type ReportType = 'price_up' | 'price_down' | 'discontinued' | 'info_error';
 
 export interface PriceVerification {

@@ -56,7 +56,7 @@ export class MenuImportWriter {
           latitude: store.lat,
           longitude: store.lng,
           ...(store.google_maps_url ? { google_maps_url: store.google_maps_url } : {}),
-          source: 'menu_photo',
+          source: store.source,
           is_test_data: false,
         },
       ],
@@ -97,14 +97,14 @@ export class MenuImportWriter {
       await this.call('POST', 'food_tags?on_conflict=food_id,category_id', tags, 'resolution=ignore-duplicates,return=minimal');
     }
 
-    // 4. 價格驗證：每筆價格新增一筆 menu_photo；同餐點、同日、同價已存在則略過，重跑同一檔不會重複堆疊
+    // 4. 價格驗證：每筆價格新增一筆（來源 menu_photo／pos_online）；同餐點、同日、同價已存在則略過，重跑同一檔不會重複堆疊
     const ids = [...foodId.values()];
     const seen = new Set<string>();
     for (let i = 0; i < ids.length; i += 50) {
       const chunk = ids.slice(i, i + 50);
       const rows = await this.call<{ food_id: string; reported_price: number | null; verified_at: string }[]>(
         'GET',
-        `price_verifications?select=food_id,reported_price,verified_at&source_type=eq.menu_photo&food_id=in.(${chunk.join(',')})`,
+        `price_verifications?select=food_id,reported_price,verified_at&source_type=eq.${store.source}&food_id=in.(${chunk.join(',')})`,
       );
       for (const r of rows) seen.add(`${r.food_id}|${r.verified_at.slice(0, 10)}|${r.reported_price}`);
     }
@@ -121,9 +121,9 @@ export class MenuImportWriter {
         reported_price: it.price,
         report_type: null,
         note: null,
-        source_type: 'menu_photo',
+        source_type: store.source,
         source_image_url: store.source_image,
-        verification_status: 'menu_photo',
+        verification_status: store.source,
         verified_at: store.source_date,
         confidence_score: Math.round(it.confidence * 100) / 100,
       });

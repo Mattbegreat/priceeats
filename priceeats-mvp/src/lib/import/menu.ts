@@ -67,6 +67,10 @@ const httpUrl = z
     }
   }, 'google_maps_url 不是有效網址');
 
+/** 匯入來源：menu_photo＝菜單照片辨識（預設）、pos_online＝店家 POS 線上點餐頁、brand_official＝連鎖品牌官網公告價 */
+export const IMPORT_SOURCES = ['menu_photo', 'pos_online', 'brand_official'] as const;
+export type ImportSource = (typeof IMPORT_SOURCES)[number];
+
 const storeSchema = z.object({
   restaurant: z.object({
     name: z.string().trim().min(1, 'restaurant.name 不可空白').max(60, 'restaurant.name 過長 (上限 60 字)'),
@@ -77,6 +81,7 @@ const storeSchema = z.object({
   }),
   source_date: isoDate,
   source_image: z.string().trim().min(1, 'source_image 不可空白'),
+  source: z.enum(IMPORT_SOURCES, '"source" 需為 menu_photo、pos_online 或 brand_official').default('menu_photo'),
   items: z.array(z.unknown(), 'items 需為陣列'),
 });
 
@@ -111,6 +116,7 @@ export interface ValidStore {
   google_maps_url: string | null;
   source_date: string;
   source_image: string;
+  source: ImportSource;
   items: ValidItem[];
   skippedItems: SkippedItem[];
 }
@@ -168,7 +174,7 @@ export function validateStore(raw: unknown, file: string): StoreResult {
     const issue = parsed.error.issues[0];
     return fail(`格式錯誤：${issue?.path.join('.') || '(根)'} — ${issue?.message ?? '未知'}`);
   }
-  const { restaurant, source_date, source_image, items } = parsed.data;
+  const { restaurant, source_date, source_image, source, items } = parsed.data;
 
   let lat = restaurant.lat;
   let lng = restaurant.lng;
@@ -208,6 +214,7 @@ export function validateStore(raw: unknown, file: string): StoreResult {
       google_maps_url: restaurant.google_maps_url ?? null,
       source_date,
       source_image,
+      source,
       items: [...kept.values()],
       skippedItems,
     },

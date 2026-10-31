@@ -4,6 +4,8 @@ export const STATUS_LABEL: Record<VerificationStatus, string> = {
   store_confirmed: '店家確認',
   menu_photo: '近期菜單照片辨識',
   user_report: '使用者回報',
+  pos_online: '線上點餐價',
+  brand_official: '品牌官網價',
   pending: '待確認',
 };
 
