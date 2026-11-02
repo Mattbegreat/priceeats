@@ -7,6 +7,8 @@ import type { MenuSubmissionInput, Repository, StoredMenuSubmission } from './ty
  * 以 Supabase PostgREST (REST API) 實作，不額外引入 @supabase/supabase-js。
  * 只使用 anon key；權限完全由資料庫 RLS 決定 (見 supabase/migrations/0001_init.sql)。
  */
+const PAGE = 1000;
+
 export class SupabaseRepository implements Repository {
   readonly kind = 'supabase' as const;
 
@@ -20,12 +22,23 @@ export class SupabaseRepository implements Repository {
     return { apikey: this.anonKey, Authorization: `Bearer ${this.anonKey}`, ...extra };
   }
 
+  /** PostgREST 每次最多回 1000 筆（Supabase max-rows），所以先取總數再平行分頁抓完 */
   private async get<T>(table: string, query = 'select=*'): Promise<T[]> {
-    const res = await this.fetchImpl(`${this.url.replace(/\/$/, '')}/rest/v1/${table}?${query}&limit=10000`, {
-      headers: this.headers(),
-    });
-    if (!res.ok) throw new Error(`Supabase 讀取 ${table} 失敗 (${res.status})`);
-    return (await res.json()) as T[];
+    const base = `${this.url.replace(/\/$/, '')}/rest/v1/${table}?${query}`;
+    const page = async (from: number, count = false) => {
+      const res = await this.fetchImpl(`${base}&limit=${PAGE}&offset=${from}`, {
+        headers: this.headers(count ? { Prefer: 'count=exact' } : {}),
+      });
+      if (!res.ok) throw new Error(`Supabase 讀取 ${table} 失敗 (${res.status})`);
+      return { rows: (await res.json()) as T[], range: res.headers?.get?.('content-range') ?? null };
+    };
+    const first = await page(0, true);
+    const total = Number(first.range?.split('/')[1]);
+    if (!Number.isFinite(total) || total <= first.rows.length) return first.rows;
+    const offsets: number[] = [];
+    for (let o = PAGE; o < total; o += PAGE) offsets.push(o);
+    const rest = await Promise.all(offsets.map((o) => page(o)));
+    return first.rows.concat(...rest.map((r) => r.rows));
   }
 
   /** 正式模式：只載入 is_test_data = false 的店，其餘資料表依店家／餐點一併過濾，測試資料不會出現 */

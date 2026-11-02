@@ -1,34 +1,484 @@
 # 資料品質報告
 
-店家 67、餐點 2359
+店家 971、餐點 29852
 
 | 項目 | 筆數 |
 |---|---|
-| 餐點少於 3 道 | 1 |
-| 餐點超過 150 道（可能重複或含飲料） | 1 |
-| 疑似加料 | 4 |
-| 價格 ≥500（確認是否為多人份） | 6 |
-| 同店同名重複 | 1 |
+| 餐點少於 3 道 | 137 |
+| 價格 ≥500（確認是否為多人份） | 941 |
+| 價格 <10 | 4 |
+| 餐點超過 150 道（可能重複或含飲料） | 11 |
+| 疑似加料 | 66 |
+| 同店同名重複 | 9 |
+| 疑似飲料（規則不收） | 30 |
 
-## 餐點少於 3 道（1）
+## 餐點少於 3 道（137）
+- menus-maps2/100.json 韓國一隻雞 (南港Lalaport)（2）
+- menus-maps2/1001.json 段純貞-信義威秀店（0）
+- menus-maps2/102.json 黃媽媽私房雞肉（後山碑店）（0）
+- menus-maps2/1027.json 六六製麵信義店（0）
+- menus-maps2/1032.json 鍋貼水餃專賣店（0）
+- menus-maps2/1037.json 永春店-蝦餃貨冷凍水餃（0）
+- menus-maps2/1043.json 饗 A Joy（0）
+- menus-maps2/1044.json 饗饗 微風信義店（0）
+- menus-maps2/1045.json URBAN PARADISE 信義店（0）
+- menus-maps2/1046.json 旭集 和食集錦 信義店（0）
+- menus-maps2/1048.json 探索廚房（0）
+- menus-maps2/1050.json 飯鑫熱炒自助餐（0）
+- menus-maps2/1051.json 【台北君悅酒店】凱菲屋 Café（0）
+- menus-maps2/1052.json 小鳳軒（0）
+- menus-maps2/1054.json Yi Social（0）
+- menus-maps2/1057.json 掌廚自助餐（0）
+- menus-maps2/1063.json 吟鮮熱炒食堂（0）
+- menus-maps2/1065.json 新。榮親王炒飯（0）
+- menus-maps2/1084.json 【台北君悅酒店】茶苑 Cha Lounge（0）
+- menus-maps2/1086.json 菜鳥書蒔101店（1）
+- menus-maps2/1087.json 婷園堡素食坊（0）
+- menus-maps2/1101.json 微想咖哩（0）
+- menus-maps2/1103.json 麵屋千雲 信義101店（2）
+- menus-maps2/1107.json 一幻拉麵 台北信義店（1）
+- menus-maps2/1133.json 依鼎越式美食（0）
+- menus-maps2/1157.json 嘉珍港式燒臘店（0）
+- menus-maps2/1163.json ANJU 新韓式餐酒館（0）
+- menus-maps2/1164.json Twozzim韓國燉雞-台北信義店（1）
+- menus-maps2/1165.json 梨谷-韓式鐵板炭火烤肉 信義ATT店（0）
+- menus-maps2/1166.json HAN:ON 韓溫（0）
+- menus-maps2/1168.json 金春喜韓廚-誠品松菸店（2）
+- menus-maps2/1170.json 道食樂韓式小吃（0）
+- menus-maps2/1184.json 虎山腳古早味小吃（0）
+- menus-maps2/1189.json 南村小吃店（0）
+- menus-maps2/119.json 淳手工冷凍水餃專賣店（0）
+- menus-maps2/1194.json 陳根找茶（0）
+- menus-maps2/1209.json GreenHouse早午餐（0）
+- menus-maps2/1214.json BRUN不然-信義店(捷運大安站)（0）
+- menus-maps2/1217.json BRUN不然-ATT店（0）
+- menus-maps2/1219.json We&Me Cafe好好文化創意（0）
+- menus-maps2/1220.json Snob Cafe（1）
+- menus-maps2/1245.json 富鼎餐館 信義忠孝熱炒店（0）
+- menus-maps2/1259.json 棒棒噠 義麵屋 C'est si bon Pasta House（0）
+- menus-maps2/128.json 敘日 全日餐廳-台北六福萬怡酒店（0）
+- menus-maps2/1282.json 日日升元気ご膳 x 輕食餐盒【信義店】（0）
+- menus-maps2/1288.json NUMÉRO QUATRE（0）
+- menus-maps2/129.json 阿美自助餐（0）
+- menus-maps2/1292.json 飽貝 貝果專賣店（0）
+- menus-maps2/1294.json 泰集 微風信義店（0）
+- menus-maps2/1296.json Range Bistrokaya（0）
+- menus-maps2/1311.json 本然生活Nisarga Cafe/無訂位/輕聲交談（2）
+- menus-maps2/1313.json 象山韮菜盒子（2）
+- menus-maps2/1318.json 解解渴有限公司 (愛玉專門店Aiyu shop)（1）
+- menus-maps2/135.json 香味自助餐（0）
+- menus-maps2/136.json 大豐自助餐（0）
+- menus-maps2/1361.json 明水然・樂-遠百信義店(遠百A13店)（0）
+- menus-maps2/1363.json 心泰GLin-信義A13（0）
+- menus-maps2/1365.json Q Burger 信義松仁店(直營)（0）
+- menus-maps2/1366.json CLOVER BELLAVITA（1）
+- menus-maps2/137.json 嘉義盒餐（1）
+- menus-maps2/1395.json 餓補煎酥包（1）
+- menus-maps2/1397.json 大方冰品（0）
+- menus-maps2/1399.json 大阪屋章魚燒（2）
+- menus-maps2/1410.json 小北平麵食館（0）
+- menus-maps2/1453.json 老楊在二樓 私廚牛肉麵（0）
+- menus-maps2/1473.json 安德烈廚房 . André Fine Food（0）
+- menus-maps2/1482.json 勝興手工水餃（富錦店）（0）
+- menus-maps2/1483.json 一戶手作水餃（0）
+- menus-maps2/1490.json 松山全自助餐（0）
+- menus-maps2/1495.json 隨意自助餐（0）
+- menus-maps2/1496.json 萬發自助餐（0）
+- menus-maps2/1497.json 蔬食百匯（首都松山店）（0）
+- menus-maps2/150.json 阿春鵝肉（0）
+- menus-maps2/1500.json 娘家自助餐（0）
+- menus-maps2/1503.json 合順自助餐（0）
+- menus-maps2/1510.json 新東街廖家蚵仔煎 炒飯 炒麵（0）
+- menus-maps2/1520.json 有哆創意蔬食洋食舘（0）
+- menus-maps2/1533.json 蔡老師蔬食 Vegan Deli（0）
+- menus-maps2/1538.json NAGOYA 道地日式蛋包飯（開放電話及私訊訂位）（1）
+- menus-maps2/168.json METTA咖啡素食（1）
+- menus-maps2/181.json 花心廚房(不定休)平日午晚餐營養餐盒與咖哩、假日全天早午餐（1）
+- menus-maps2/188.json 一風堂 南港CityLink店（0）
+- menus-maps2/189.json 麵匡匡拉麵食堂 南港同德店（0）
+- menus-maps2/192.json 京都柚子豚骨拉麵 南港環球店（1）
+- menus-maps2/199.json 涮乃葉 南港中信店（0）
 - menus-maps2/21.json 台鐵便當-南港車站（1）
+- menus-maps2/213.json 南港川楓酒食館（0）
+- menus-maps2/232.json 聚豐德燒臘專賣店（南港燒臘專賣店）（0）
+- menus-maps2/238.json 龍記燒臘 台北南港店（0）
+- menus-maps2/241.json 東方樓 台北漢來店（1）
+- menus-maps2/249.json MAMI COOKING 南港Lalaport（0）
+- menus-maps2/251.json 家庭私廚（0）
+- menus-maps2/264.json 朱記餡餅粥店 環球南港車站店（0）
+- menus-maps2/270.json 成德市場內自助餐 、清粥小菜（78號、79號攤位、溫州大餛飩對面攤位）（0）
+- menus-maps2/288.json SHAIOOO CAFE(休假日請看IG）（0）
+- menus-maps2/289.json 詠珈咖啡（0）
+- menus-maps2/303.json 陶膳日式料理（0）
+- menus-maps2/314.json 青丹扎西_南港展覽館店（0）
+- menus-maps2/315.json SIMPLE KAFFA 興波咖啡超級棧・南港展覽館（0）
+- menus-maps2/319.json 田野咖啡 TIAN YE COFFEE（0）
+- menus-maps2/321.json 享鮮餐廳南港分店（0）
+- menus-maps2/333.json 書與咖啡&喵甜圈（0）
+- menus-maps2/339.json 悠悠龍貓咖啡（0）
+- menus-maps2/340.json 金色三麥 南港citylink店（2）
+- menus-maps2/345.json 手工蒸餃/大腸麵線（0）
+- menus-maps2/351.json 黃媽媽水煎包（0）
+- menus-maps2/353.json 麥當勞-忠孝八餐廳（0）
+- menus-maps2/359.json 鶴茶樓- 鶴頂紅茶商店(南港興華店)（0）
+- menus-maps2/360.json 再睡5分鐘 - 南港興華店（0）
+- menus-maps2/364.json 無名豬血糕（0）
+- menus-maps2/368.json 22:02火鍋南港店（1）
+- menus-maps2/378.json 中研珈琲所 SINICA COFFEE（0）
+- menus-maps2/386.json J.S. FOODIES 南港LALAPORT（2）
+- menus-maps2/394.json 添好運南港三井店（0）
+- menus-maps2/404.json 陋巷咖啡廳（0）
+- menus-maps2/407.json HALOA POKE 夏威夷拌飯 LaLaport南港三井店（0）
+- menus-maps2/410.json Ikinari Steak（0）
+- menus-maps2/417.json OMuSuBi GABA嘎吧！日式飯糰 南港快閃店（2）
+- menus-maps2/421.json 秋風軒鍋物 南港店（0）
+- menus-maps2/423.json NARA Thai Cuisine 泰式料理 台北南港CITYLINK店（0）
+- menus-maps2/426.json 漢堡排 嘉 CITYLINK南港店（0）
+- menus-maps2/429.json DON DON DONKI CITYLINK 南港店（0）
+- menus-maps2/431.json 龜記茗品-南港車站CITYLINK店（0）
+- menus-maps2/432.json 50嵐南港CITYLINK店（0）
+- menus-maps2/434.json nxcoffee 南港CITYLINK店（0）
+- menus-maps2/447.json 香辣屋麻辣燙滷味（0）
+- menus-maps2/448.json 無名炭烤（0）
+- menus-maps2/461.json 無名便當店（0）
+- menus-maps2/467.json 阿呆麵店（0）
+- menus-maps2/468.json 三商巧福 南港門市（2）
+- menus-maps2/487.json Greenriver Roastery．Archive（0）
+- menus-maps2/491.json THE LOUNGE 大廳酒吧-台北六福萬怡酒店（2）
+- menus-maps2/495.json Hello 南港 (卡洛貍健康餐盒）（0）
+- menus-maps2/496.json ProVegCarb 頗微康輕食餐盒 南港店（0）
+- menus-maps2/497.json POKÈ YAY 低GI健康餐 南港環球店（1）
+- menus-maps2/512.json 大戶屋南港中信金融園區店（0）
+- menus-maps2/91.json 瑞哥雞肉飯昆陽店（1）
 
-## 餐點超過 150 道（可能重複或含飲料）（1）
+## 價格 ≥500（確認是否為多人份）（941）
+- menus-maps2/100.json 韓國一隻雞 (南港Lalaport)：2-3人套餐 1950
+- menus-maps2/100.json 韓國一隻雞 (南港Lalaport)：3-4人套餐 2600
+- menus-maps2/101.json Second Floor 貳樓南港車站店：舒肥牛排橙香法式丹麥 600
+- menus-maps2/101.json Second Floor 貳樓南港車站店：生酮總匯海陸拼盤 580
+- menus-maps2/101.json Second Floor 貳樓南港車站店：BBQ溫烤半雞 760
+- menus-maps2/101.json Second Floor 貳樓南港車站店：主廚脆皮豬腳 790
+- menus-maps2/1029.json 無敵水餃：酸菜白肉鍋（單點小） 800
+- menus-maps2/1029.json 無敵水餃：酸菜白肉鍋（單點大） 1100
+- menus-maps2/1029.json 無敵水餃：甜蜜蜜套餐 950
+- menus-maps2/1029.json 無敵水餃：小圍爐套餐 1500
+- menus-maps2/1029.json 無敵水餃：全家福套餐 1850
+- menus-maps2/1047.json 饗食天堂 台北信義店：午餐（平日週一至五） 928
+- menus-maps2/1047.json 饗食天堂 台北信義店：下午餐（平日週一至五） 758
+- menus-maps2/1047.json 饗食天堂 台北信義店：晚餐（平日週一至五） 1028
+- menus-maps2/1047.json 饗食天堂 台北信義店：午餐（週六至日、例假日） 1028
+- menus-maps2/1047.json 饗食天堂 台北信義店：下午餐（週六至日、例假日） 928
+- menus-maps2/1047.json 饗食天堂 台北信義店：晚餐（週六至日、例假日） 1128
+- menus-maps2/1053.json 微風南山星空塔4樓 Fundamental：成人價（平日） 780
+- menus-maps2/1053.json 微風南山星空塔4樓 Fundamental：學生價（平日） 600
+- menus-maps2/1053.json 微風南山星空塔4樓 Fundamental：兒童價（平日） 550
+- menus-maps2/1053.json 微風南山星空塔4樓 Fundamental：成人價（節假日） 840
+- menus-maps2/1053.json 微風南山星空塔4樓 Fundamental：學生價（節假日） 660
+- menus-maps2/1053.json 微風南山星空塔4樓 Fundamental：兒童價（節假日） 610
+- menus-maps2/1066.json 心潮飯店：にんにく海老チャーハン / Garlic Shrimp Fried Rice 520
+- menus-maps2/1066.json 心潮飯店：炙るホタテカラスミチャーハン / Mullet Roe Fried Rice with Seared Scallops 680
+- menus-maps2/1066.json 心潮飯店：アメリカ産リブステーキの炒飯 / USDA Prime Ribeye Steak (10oz) Fried Rice 1550
+- menus-maps2/1066.json 心潮飯店：タロ芋と鴨の胸肉入り角煮炒飯 / Braised Pork Fried Rice with Taro and Seared Duck Breast 520
+- menus-maps2/1066.json 心潮飯店：赤ウニチャーハン / Sea Urchin and Nostoc Fried Rice 1380
+- menus-maps2/1066.json 心潮飯店：ロブスターフェンネルバターチャーハン / Fresh Lobster Butter Fried Rice with Fennel 2280
+- menus-maps2/107.json 金春發牛肉店：牛蛋（大） 600
+- menus-maps2/1072.json 享佳客家小館：筍干蹄膀 580
+- menus-maps2/1072.json 享佳客家小館：招牌玉米雞（半隻） 600
+- menus-maps2/1072.json 享佳客家小館：三杯中卷（中） 520
+- menus-maps2/1072.json 享佳客家小館：三杯土雞腿（中） 530
+- menus-maps2/1072.json 享佳客家小館：圓籠蒸蝦 660
+- menus-maps2/1072.json 享佳客家小館：紅燒黃魚 680
+- menus-maps2/1072.json 享佳客家小館：大蒜黃魚 680
+- menus-maps2/1072.json 享佳客家小館：豆瓣黃魚 680
+- menus-maps2/1072.json 享佳客家小館：糖醋黃魚 680
+- menus-maps2/1072.json 享佳客家小館：香菇雞鍋 880
+- menus-maps2/1072.json 享佳客家小館：麻油雞鍋 880
+- menus-maps2/1072.json 享佳客家小館：老菜脯雞鍋 880
+- menus-maps2/1072.json 享佳客家小館：海鮮米粉鍋 880
+- menus-maps2/1072.json 享佳客家小館：海鮮什錦火鍋 880
+- menus-maps2/1072.json 享佳客家小館：鳳梨苦瓜雞鍋 880
+- menus-maps2/1074.json Herbivore 信義店：脆皮波特菇塔塔堡 525
+- menus-maps2/1074.json Herbivore 信義店：檸檬美乃滋櫛瓜肉排漢堡 525
+- menus-maps2/1083.json 全養知異國蔬食 莊敬店：薑黃燉飯（A套餐組） 500
+- menus-maps2/1085.json 梅門食踐堂：上品全套 980
+- menus-maps2/1100.json 新牛屋厚切牛排-永吉店：限量厚片頂級（16oz） 519
+- menus-maps2/1100.json 新牛屋厚切牛排-永吉店：限量厚片頂級（32oz） 819
+- menus-maps2/1100.json 新牛屋厚切牛排-永吉店：黑松露頂級（16oz） 540
+- menus-maps2/1118.json 日本橋海鮮丼辻半 微風信義店：絢 Aya 1299
+- menus-maps2/1118.json 日本橋海鮮丼辻半 微風信義店：松 Matsu 999
+- menus-maps2/1118.json 日本橋海鮮丼辻半 微風信義店：焱 Hono 999
+- menus-maps2/1118.json 日本橋海鮮丼辻半 微風信義店：竹 Take 799
+- menus-maps2/1118.json 日本橋海鮮丼辻半 微風信義店：梅 Ume 599
+- menus-maps2/1120.json 長浜魚屋-信義遠百A13：隱藏版豪華海鮮丼 798
+- menus-maps2/1120.json 長浜魚屋-信義遠百A13：散壽司 598
+- menus-maps2/1120.json 長浜魚屋-信義遠百A13：黑鮪魚丼 518
+- menus-maps2/1120.json 長浜魚屋-信義遠百A13：鮭魚親子丼 518
+- menus-maps2/1120.json 長浜魚屋-信義遠百A13：綜合生魚片盤 598
+- menus-maps2/1121.json 南方漁場：豪華極上一八重握 580
+- menus-maps2/1121.json 南方漁場：極上海鮮丼 570
+- menus-maps2/1123.json 初の鮨：日本TORO黑鮪魚大腹 900
+- menus-maps2/1123.json 初の鮨：扣死不累的烏龍冷麵1.5-有海膽 649
+- menus-maps2/1123.json 初の鮨：扣死不累的烏龍冷麵1.5 549
+- menus-maps2/1123.json 初の鮨：究極海鮮生魚丼-有海膽 649
+- menus-maps2/1123.json 初の鮨：究極海鮮生魚丼 549
+- menus-maps2/1123.json 初の鮨：北海道五色丼 799
+- menus-maps2/1123.json 初の鮨：海膽三色丼 659
+- menus-maps2/1123.json 初の鮨：好衝丼 599
+- menus-maps2/1123.json 初の鮨：飽到不會丼 579
+- menus-maps2/1123.json 初の鮨：極上握壽司(10貫) 999
+- menus-maps2/1123.json 初の鮨：進擊的綜合握壽司(有海膽) 649
+- menus-maps2/1123.json 初の鮨：進擊的綜合握壽司(10貫) 549
+- menus-maps2/1123.json 初の鮨：TORO握壽司（二貫） 650
+- menus-maps2/1124.json 西湖水產：極の海鮮丼飯 500
+- menus-maps2/1124.json 西湖水產：握壽司套餐（9貫） 500
+- menus-maps2/1125.json 金子半之助 新光A8店：雙人套餐（江戶前天丼+上天丼） 1059
+- menus-maps2/1125.json 金子半之助 新光A8店：雙人套餐（江戶前天丼2碗） 1099
+- menus-maps2/1126.json 博多天麩羅 山海（不提供訂位）：豪華海之幸定食 580
+- menus-maps2/1127.json 猛甲生魚片 信義店：特大刺身盛合 800
+- menus-maps2/1127.json 猛甲生魚片 信義店：大盒刺身盛合 500
+- menus-maps2/1130.json 丼飯店：雙人套餐（580） 580
+- menus-maps2/1131.json 山口小鼎膾：十二金釵浮誇握壽司 1688
+- menus-maps2/1131.json 山口小鼎膾：山口四色丼 1588
+- menus-maps2/1131.json 山口小鼎膾：北海道極品三色丼 1288
+- menus-maps2/1131.json 山口小鼎膾：山口迷你丼 988
+- menus-maps2/1131.json 山口小鼎膾：極上紐約客燒肉丼 1288
+- menus-maps2/1131.json 山口小鼎膾：極焱生牛丼 1088
+- menus-maps2/1131.json 山口小鼎膾：羽下翼板燒肉丼 898
+- menus-maps2/1131.json 山口小鼎膾：板腱牛燒肉丼 898
+- menus-maps2/1131.json 山口小鼎膾：理性牛燒肉丼 798
+- menus-maps2/1131.json 山口小鼎膾：感性和牛燒肉丼 698
+- menus-maps2/1131.json 山口小鼎膾：山口極饗定食 1288
+- menus-maps2/1131.json 山口小鼎膾：山口迎香定食 598
+- menus-maps2/1131.json 山口小鼎膾：鮭魚親子丼 589
+- menus-maps2/1131.json 山口小鼎膾：伊比利梅花燒肉丼 538
+- menus-maps2/1131.json 山口小鼎膾：極上紐約客燒肉片 1260
+- menus-maps2/1131.json 山口小鼎膾：翼板燒肉片 870
+- menus-maps2/1131.json 山口小鼎膾：板腱燒肉片 870
+- menus-maps2/1131.json 山口小鼎膾：理性系列和牛燒肉片 770
+- menus-maps2/1131.json 山口小鼎膾：感性系列和牛燒肉片 670
+- menus-maps2/1131.json 山口小鼎膾：伊比利梅花燒肉片 510
+- menus-maps2/1131.json 山口小鼎膾：沖浪和牛 680
+- menus-maps2/1131.json 山口小鼎膾：上品生魚片（9切） 890
+- menus-maps2/1131.json 山口小鼎膾：黑鮪魚中腹握壽司（三貫） 520
+- menus-maps2/1131.json 山口小鼎膾：炙燒鰈邊握壽司（三貫） 520
+- menus-maps2/1131.json 山口小鼎膾：柔煮花心大蘿蔔（和牛腱心） 680
+- menus-maps2/1147.json PhoEver 越苑2.0 極粉麵專賣店：雙肋排粉 520
+- menus-maps2/1148.json 極之好味 燒臘茶餐廳 台北松菸店：燒味雙拼盤（例牌） 560
+- menus-maps2/1148.json 極之好味 燒臘茶餐廳 台北松菸店：燒味三拼盤（例牌） 560
+- menus-maps2/1148.json 極之好味 燒臘茶餐廳 台北松菸店：蜜汁叉燒（壹斤） 640
+- menus-maps2/1148.json 極之好味 燒臘茶餐廳 台北松菸店：肥籠叉燒（壹斤） 720
+- menus-maps2/1148.json 極之好味 燒臘茶餐廳 台北松菸店：脆皮燒肉（壹斤） 800
+- menus-maps2/1148.json 極之好味 燒臘茶餐廳 台北松菸店：貴妃雞（壹隻） 900
+- menus-maps2/1148.json 極之好味 燒臘茶餐廳 台北松菸店：玫瑰油雞（壹隻） 900
+- menus-maps2/1148.json 極之好味 燒臘茶餐廳 台北松菸店：掛爐燒鴨（半隻） 900
+- menus-maps2/1148.json 極之好味 燒臘茶餐廳 台北松菸店：掛爐燒鴨（壹隻） 1800
+- menus-maps2/1150.json 香港高記燒臘：掛爐烤鴨（一隻） 890
+- menus-maps2/1150.json 香港高記燒臘：玫瑰油雞（一隻） 680
+- menus-maps2/1151.json 新德士港味燒臘舖：玫瑰油雞（全雞） 520
+- menus-maps2/1151.json 新德士港味燒臘舖：明爐烤鴨（半鴨） 650
+- menus-maps2/1151.json 新德士港味燒臘舖：明爐烤鴨（全鴨） 1200
+- menus-maps2/1156.json 香港88港式茶餐廳：蔗香雞一隻 1100
+- menus-maps2/1156.json 香港88港式茶餐廳：蔗香雞半隻 600
+- menus-maps2/1156.json 香港88港式茶餐廳：玫瑰油雞一隻 1200
+- menus-maps2/1158.json 㡣龍香港茶餐廳：財氣大拼 四樣 660
+- menus-maps2/1158.json 㡣龍香港茶餐廳：明爐燒鴨（一隻） 1300
+- menus-maps2/1158.json 㡣龍香港茶餐廳：明爐燒鴨（半隻） 680
+- menus-maps2/1158.json 㡣龍香港茶餐廳：玫瑰油雞（一隻） 1200
+- menus-maps2/1160.json 上悅龍記燒臘-台北世貿店：碳烤櫻桃鴨（一隻） 950
+- menus-maps2/1160.json 上悅龍記燒臘-台北世貿店：碳烤櫻桃鴨（半隻） 500
+- menus-maps2/1160.json 上悅龍記燒臘-台北世貿店：港式玫瑰油雞（一隻） 780
+- menus-maps2/1160.json 上悅龍記燒臘-台北世貿店：綜合燒臘拼盤 590
+- menus-maps2/1164.json Twozzim韓國燉雞-台北信義店：半半套餐（3~4人份） 1788
+- menus-maps2/1168.json 金春喜韓廚-誠品松菸店：雙人套餐 988
+- menus-maps2/1168.json 金春喜韓廚-誠品松菸店：四人套餐 1988
+- menus-maps2/1169.json 紫木槿韓餐酒館(遠東Garden City 大巨蛋店)：經典雙饗（2人） 880
+- menus-maps2/1169.json 紫木槿韓餐酒館(遠東Garden City 大巨蛋店)：招牌饗宴（2人） 1380
+- menus-maps2/1169.json 紫木槿韓餐酒館(遠東Garden City 大巨蛋店)：韓風饗宴（4人） 2380
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：牛脾氣雙人套餐 1450
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：牛脾氣海陸套餐 1550
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：肉多多雙人套餐 1385
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：肉多多海陸套餐 1485
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：牛脾氣單人套餐 750
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：肉多多單人套餐 680
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：富貴海陸鮮套餐 680
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：寶島海陸盛合套餐 580
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：安格斯無骨霜降牛（海鮮擇1雙拼） 705
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：安格斯無骨霜降牛（海鮮擇2三拼） 768
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：紐西蘭修清牛舌（海鮮擇1雙拼） 645
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：紐西蘭修清牛舌（海鮮擇2三拼） 715
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：特選修清雪花牛（海鮮擇1雙拼） 538
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：特選修清雪花牛（海鮮擇2三拼） 605
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：嚴選特級牛板腱（海鮮擇1雙拼） 528
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：嚴選特級牛板腱（海鮮擇2三拼） 568
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：精選培根牛（海鮮擇2三拼） 535
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：寶島活力霜降豬（海鮮擇1雙拼） 578
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：寶島活力霜降豬（海鮮擇2三拼） 648
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：紐西蘭嫩羊肩（海鮮擇1雙拼） 510
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：紐西蘭嫩羊肩（海鮮擇2三拼） 578
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：招牌藥膳嫩雞柳（海鮮擇2三拼） 558
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：寶島CAS安心豚（海鮮擇2三拼） 535
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：安格斯無骨霜降牛套餐 718
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：紐西蘭修清牛舌套餐 688
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：特選修清雪花牛套餐 508
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：寶島活力霜降豬套餐 508
+- menus-maps2/1174.json 韓國大叔餐廳：辣牛肉湯鍋 630
+- menus-maps2/1174.json 韓國大叔餐廳：人蔘雞湯 620
+- menus-maps2/1174.json 韓國大叔餐廳：海鮮香菇豆腐辣湯（大） 660
+- menus-maps2/1174.json 韓國大叔餐廳：部隊鍋 620
+- menus-maps2/1174.json 韓國大叔餐廳：馬鈴薯豬骨湯（大） 960
+- menus-maps2/1174.json 韓國大叔餐廳：馬鈴薯豬骨湯（中） 660
+- menus-maps2/1174.json 韓國大叔餐廳：烤肉拼盤（大） 1420
+- menus-maps2/1174.json 韓國大叔餐廳：烤肉拼盤（小） 720
+- menus-maps2/1174.json 韓國大叔餐廳：韓國烤牛小排（一人份） 500
+- menus-maps2/1174.json 韓國大叔餐廳：銅盤烤肉起鍋（豬肉） 500
+- menus-maps2/1174.json 韓國大叔餐廳：銅盤烤肉起鍋（牛肉） 520
+- menus-maps2/1176.json 姜娜小廚韓式料理：厚切豬五花 600
+- menus-maps2/1176.json 姜娜小廚韓式料理：去骨牛小排（醃製） 700
+- menus-maps2/1176.json 姜娜小廚韓式料理：部隊鍋 600
+- menus-maps2/1176.json 姜娜小廚韓式料理：韓式泡菜火鍋 600
+- menus-maps2/1176.json 姜娜小廚韓式料理：韓式海鮮火鍋 600
+- menus-maps2/1176.json 姜娜小廚韓式料理：馬鈴薯排骨湯（中） 540
+- menus-maps2/1176.json 姜娜小廚韓式料理：馬鈴薯排骨湯（大） 800
+- menus-maps2/1176.json 姜娜小廚韓式料理：人參雞（全雞） 800
+- menus-maps2/1176.json 姜娜小廚韓式料理：A套餐 990
+- menus-maps2/1176.json 姜娜小廚韓式料理：B套餐 1500
+- menus-maps2/1176.json 姜娜小廚韓式料理：C套餐 2500
+- menus-maps2/1176.json 姜娜小廚韓式料理：D套餐 3500
+- menus-maps2/1176.json 姜娜小廚韓式料理：豪華套餐 4500
+- menus-maps2/1177.json 韓蒔HAN SHIH：雙人份銅盤烤肉牛 680
+- menus-maps2/1177.json 韓蒔HAN SHIH：雙人份銅盤烤肉豬 680
+- menus-maps2/1180.json 星島海南雞（松山店）：海南全雞 540
+- menus-maps2/1182.json 泰緬姐妹小館忠孝店：雲味蹄膀 880
+- menus-maps2/1182.json 泰緬姐妹小館忠孝店：泰式清蒸檸檬石斑魚 780
+- menus-maps2/1182.json 泰緬姐妹小館忠孝店：金錢蝦餅（10個） 680
+- menus-maps2/1188.json The Chips 信義店：The Chips 早餐盤 890
+
+## 價格 <10（4）
+- menus-maps2/1019.json 詹字號麵食館：豆干 5
+- menus-maps2/1173.json 阿豬媽韓式烤肉吃到飽信義ATT店：阿嬤豬油拌飯 8
+- menus-maps2/1416.json 福隆月台便當（南京店）：豆干 6
+- menus-maps2/374.json 狸禾堂秘製滷味（南港總本店）：雞爪（1支） 5
+
+## 餐點超過 150 道（可能重複或含飲料）（11）
+- menus-maps2/1068.json 美佳佳厨房（231）
+- menus-maps2/1335.json すき家信義安和（163）
+- menus-maps2/1422.json 東引快刀手 光復店（152）
+- menus-maps2/1515.json 力松平價熱炒（153）
+- menus-maps2/337.json 海原日式涮涮鍋中研店（199）
+- menus-maps2/370.json 興華早餐店（160）
+- menus-maps2/441.json 東引快刀手 東湖店（152）
 - menus-maps2/45.json 弘弘朝食（南港1店）（288）
+- menus-maps2/473.json 蓁好呷精緻早午餐（211）
+- menus-maps2/479.json 漢堡大師南港園區店（160）
+- menus-maps2/484.json 樂晨早餐坊（189）
 
-## 疑似加料（4）
+## 疑似加料（66）
+- menus-maps2/1192.json 忠青商行 遠百信義A13店：濃厚雞白湯加蛋 68
+- menus-maps2/1195.json 威美早餐店：原味蔥抓餅加蛋 45
+- menus-maps2/1195.json 威美早餐店：培根蔥抓餅加蛋 55
+- menus-maps2/1195.json 威美早餐店：火腿蔥抓餅加蛋 55
+- menus-maps2/1195.json 威美早餐店：起司蔥抓餅加蛋 55
+- menus-maps2/1195.json 威美早餐店：鮪魚蔥抓餅加蛋 55
+- menus-maps2/1195.json 威美早餐店：蔬菜蔥抓餅加蛋 55
+- menus-maps2/1203.json 家香豆漿店：白饅頭加蛋 35
+- menus-maps2/1203.json 家香豆漿店：黑糖饅頭加蛋 35
+- menus-maps2/1203.json 家香豆漿店：肉包加蛋 37
+- menus-maps2/1203.json 家香豆漿店：菜包加蛋 37
+- menus-maps2/1206.json 早饗&晚饗：蔥抓餅加蛋 60
+- menus-maps2/1317.json 邱記涼麵：味噌加蛋 40
+- menus-maps2/1373.json JK studio：鹽麴Prime板腱牛排與松露醬汁 880
+- menus-maps2/1381.json 老逗的店：加青菜（小盤） 100
+- menus-maps2/1381.json 老逗的店：加青菜（大盤） 150
+- menus-maps2/1381.json 老逗的店：加白飯 20
+- menus-maps2/143.json 巷口蛋炒飯：素炒飯加蛋 100
+- menus-maps2/1471.json 陳家涼麵：味噌加貢丸加蛋 55
+- menus-maps2/1471.json 陳家涼麵：味噌加蛋 35
+- menus-maps2/1471.json 陳家涼麵：貢丸加蛋 45
+- menus-maps2/214.json 呂壽司：加州捲（鮭魚酪梨） 350
+- menus-maps2/224.json 越南美食料理：排骨飯加蛋 140
+- menus-maps2/379.json 古得早午餐：蘿蔔糕加蛋 55
+- menus-maps2/379.json 古得早午餐：蔥抓餅加蛋 50
+- menus-maps2/379.json 古得早午餐：義大利肉醬麵加蛋 65
+- menus-maps2/400.json 壹晨食光早午餐-南港人氣早午餐：宮保雞丁鐵板麵加蛋 80
+- menus-maps2/400.json 壹晨食光早午餐-南港人氣早午餐：義大利肉醬鐵板麵加蛋 80
+- menus-maps2/400.json 壹晨食光早午餐-南港人氣早午餐：蘑菇鐵板麵加蛋 65
+- menus-maps2/400.json 壹晨食光早午餐-南港人氣早午餐：黑胡椒鐵板麵加蛋 65
+- menus-maps2/439.json 豆漿哥早點宵夜：鮮肉包加蛋 40
+- menus-maps2/439.json 豆漿哥早點宵夜：素菜包加蛋 40
+- menus-maps2/439.json 豆漿哥早點宵夜：蔥抓餅加蛋 60
+- menus-maps2/439.json 豆漿哥早點宵夜：韭菜盒加蛋 65
 - menus-maps2/45.json 弘弘朝食（南港1店）：蔥抓餅加蛋 45
+- menus-maps2/471.json That's all：蔥油餅加蛋 50
+- menus-maps2/471.json That's all：黑胡椒肉醬鐵板麵加蛋 60
+- menus-maps2/471.json That's all：蘑菇肉醬鐵板麵加蛋 60
+- menus-maps2/471.json That's all：義大利肉醬鐵板麵加蛋 60
+- menus-maps2/471.json That's all：原味肉燥鐵板麵加蛋 60
+- menus-maps2/471.json That's all：辣味肉燥鐵板麵加蛋 60
+- menus-maps2/472.json 口味多早餐店：蔥抓餅加蛋 35
+- menus-maps2/472.json 口味多早餐店：蘿蔔糕一粒加蛋 35
+- menus-maps2/472.json 口味多早餐店：西式燒餅加蛋 55
+- menus-maps2/474.json 晚安早餐 南港新民店：加倍重乳酪脆皮蛋餅 65
+- menus-maps2/479.json 漢堡大師南港園區店：抓餅加蛋 40
+- menus-maps2/481.json 秘密基地：玉米酥皮蛋餅加起司 50
+- menus-maps2/481.json 秘密基地：火腿酥皮蛋餅加起司 50
+- menus-maps2/481.json 秘密基地：培根酥皮蛋餅加起司 55
+- menus-maps2/481.json 秘密基地：薯餅酥皮蛋餅加起司 60
+- menus-maps2/481.json 秘密基地：熱狗酥皮蛋餅加起司 60
+- menus-maps2/481.json 秘密基地：燒肉酥皮蛋餅加起司 65
+- menus-maps2/484.json 樂晨早餐坊：泰式酸辣鐵板麵加蛋 60
+- menus-maps2/484.json 樂晨早餐坊：黑胡椒鐵板麵加蛋 60
+- menus-maps2/484.json 樂晨早餐坊：蘑菇鐵板麵加蛋 60
+- menus-maps2/484.json 樂晨早餐坊：沙茶鐵板麵加蛋 70
+- menus-maps2/484.json 樂晨早餐坊：咖哩鐵板麵加蛋 70
+- menus-maps2/484.json 樂晨早餐坊：肉醬鐵板麵加蛋 70
+- menus-maps2/484.json 樂晨早餐坊：奶油鐵板麵加蛋 70
+- menus-maps2/484.json 樂晨早餐坊：老眷村雙醬鐵板麵加蛋 70
+- menus-maps2/484.json 樂晨早餐坊：宮保雞丁鐵板麵加蛋 80
+- menus-maps2/484.json 樂晨早餐坊：羅勒青醬鐵板麵加蛋 80
+- menus-maps2/484.json 樂晨早餐坊：打拋豬肉鐵板麵加蛋 80
 - menus-maps2/55.json 南港無招牌早餐：燒餅加蛋 32
 - menus-maps2/55.json 南港無招牌早餐：饅頭加蛋 27
 - menus-maps2/55.json 南港無招牌早餐：飯糰加蛋 47
 
-## 價格 ≥500（確認是否為多人份）（6）
-- menus-maps2/49.json 樂子 南港店：冠軍牛排與雙蛋 600
-- menus-maps2/67.json 欣葉小聚 南港店：香烤烏魚子 720
-- menus-maps2/70.json 磚窯古早料理南港創始店：佛跳牆 1250
-- menus-maps2/70.json 磚窯古早料理南港創始店：椒鹽千里馬 880
-- menus-maps2/70.json 磚窯古早料理南港創始店：古早味四方肉 680
-- menus-pos/pos-biHMXNMK.json 唐潮雞排(南港分舵)：霸王全雞(單點)(不切)(附醬,椒鹽包,辣包) 550
-
-## 同店同名重複（1）
+## 同店同名重複（9）
+- menus-maps2/1206.json 早饗&晚饗：薯條、雞塊（5個）
+- menus-maps2/1279.json 源次郎壽司丼飯：竹筴魚一夜干、花魚一夜干
+- menus-maps2/1424.json 東引小吃店：牛肉湯麵（小）、牛肉湯麵（大）
+- menus-maps2/1466.json 老吳家傳麵店：麻辣鴨血（牛肉湯）
+- menus-maps2/328.json 崔妮傑恩 微風中研院店：紅燒牛肉湯（無肉）
+- menus-maps2/335.json 轉角海鮮食堂：特級大白蝦（大盤）、特級大白蝦（小盤）
+- menus-maps2/337.json 海原日式涮涮鍋中研店：鮮蚵肉片鍋（大菜盤+A肉盤）、鮮蚵肉片鍋（大菜盤+B肉盤）、鮮蚵肉片鍋（小菜盤+超大C肉盤）
+- menus-maps2/382.json 二姐麵店：海帶
 - menus-maps2/52.json 南港人 早午餐：老味道蛋餅、酥香厚蛋餅
+
+## 疑似飲料（規則不收）（30）
+- menus-maps2/1302.json 老漿家OHsoymilk 台北永春店 - 24h不睡覺豆漿店（文青早午餐：鹹豆漿加蛋 70
+- menus-maps2/1421.json 豚米TUNMI x 魯肉飯・燉湯：D套餐（水餃10顆+紅茶） 130
+- menus-maps2/212.json 卡好食堂：清酒蛤蜊湯 40
+- menus-maps2/273.json 春日部食堂：咖哩雞肉飯（附紅茶/小） 100
+- menus-maps2/273.json 春日部食堂：咖哩雞肉飯（附紅茶/大） 115
+- menus-maps2/273.json 春日部食堂：宮保雞丁燴飯（附紅茶/小） 100
+- menus-maps2/273.json 春日部食堂：宮保雞丁燴飯（附紅茶/大） 115
+- menus-maps2/273.json 春日部食堂：辣炒豬肉飯（附紅茶/小） 100
+- menus-maps2/273.json 春日部食堂：辣炒豬肉飯（附紅茶/大） 115
+- menus-maps2/273.json 春日部食堂：咖哩雞肉烏龍麵（附紅茶/小） 110
+- menus-maps2/273.json 春日部食堂：咖哩雞肉烏龍麵（附紅茶/大） 125
+- menus-maps2/273.json 春日部食堂：辣炒豬肉麵（附紅茶/小） 100
+- menus-maps2/273.json 春日部食堂：辣炒豬肉麵（附紅茶/大） 115
+- menus-maps2/273.json 春日部食堂：宮保雞丁麵（附紅茶/小） 100
+- menus-maps2/273.json 春日部食堂：宮保雞丁麵（附紅茶/大） 115
+- menus-maps2/309.json JIM'S PIZZA 南港：單片披薩+美式軟餅乾/布朗尼+飲料（個人套餐No.1） 230
+- menus-maps2/309.json JIM'S PIZZA 南港：單片披薩+薯條/雞塊+飲料（個人套餐No.2） 250
+- menus-maps2/309.json JIM'S PIZZA 南港：單片披薩+炸雞翅(四隻)+飲料（個人套餐No.3） 270
+- menus-maps2/331.json 義猶未盡&KLG中研店：2號餐（雞翅＆腿排＆飲料） 125
+- menus-maps2/331.json 義猶未盡&KLG中研店：3號餐（雞翅＆腿排＆雞腿＆飲料） 175
+- menus-maps2/331.json 義猶未盡&KLG中研店：4號餐（腿排＆雞腿＆飲料） 135
+- menus-maps2/348.json 佳欣早餐吧：特餐（起司火腿蛋+中奶茶） 60
+- menus-maps2/348.json 佳欣早餐吧：1號餐（薯餅+熱狗+蛋+中奶茶） 60
+- menus-maps2/348.json 佳欣早餐吧：2號餐（漢堡蛋+中奶茶） 60
+- menus-maps2/348.json 佳欣早餐吧：3號餐（香雞蛋堡+中奶茶） 65
+- menus-maps2/348.json 佳欣早餐吧：4號餐（鐵板麵+蛋+中奶茶） 65
+- menus-maps2/348.json 佳欣早餐吧：5號餐（烤總匯+中奶茶） 80
+- menus-maps2/348.json 佳欣早餐吧：6號餐（雞塊+熱狗+蛋+小奶茶） 60
+- menus-maps2/348.json 佳欣早餐吧：7號餐（嫩汁雞排蛋+中奶茶） 80
+- menus-maps2/509.json 格拉比主題餐廳：啤酒花魷魚圈圈 280

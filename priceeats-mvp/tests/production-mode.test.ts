@@ -50,6 +50,25 @@ describe('正式模式 (Supabase 啟用)', () => {
     expect(data.restaurants.some((r) => r.is_test_data)).toBe(false);
   });
 
+  it('超過 1000 筆時分頁抓完（PostgREST max-rows 限制）', async () => {
+    const many = Array.from({ length: 2500 }, (_, i) => ({ id: `f${i}`, restaurant_id: 'r-real', name: `餐${i}`, price: 50 }));
+    const urls: string[] = [];
+    const big = (async (input: string) => {
+      urls.push(input);
+      const u = new URL(input);
+      const table = u.pathname.split('/').pop()!;
+      let data = table === 'foods' ? many : rows[table] ?? [];
+      if (table === 'restaurants') data = data.filter((r) => (r as { is_test_data: boolean }).is_test_data === false);
+      const off = Number(u.searchParams.get('offset') ?? 0);
+      const lim = Math.min(Number(u.searchParams.get('limit') ?? 1000), 1000);
+      const slice = data.slice(off, off + lim);
+      return new Response(JSON.stringify(slice), { status: 200, headers: { 'content-range': `${off}-${off + slice.length - 1}/${data.length}` } });
+    }) as unknown as typeof fetch;
+    const data = await new SupabaseRepository('https://x.supabase.co', 'anon', big).load();
+    expect(data.foods).toHaveLength(2500);
+    expect(urls.filter((x) => x.includes('/foods?')).length).toBe(3);
+  });
+
 });
 
 describe('Google Maps 評價連結', () => {
