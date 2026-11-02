@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "松山市場水餃",
+  "address": "105臺北市松山區八德路四段673巷12號",
+  "lat": 25.0504465,
+  "lng": 121.5759476,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E5%B1%B1%E5%B8%82%E5%A0%B4%E6%B0%B4%E9%A4%83&query_place_id=ChIJ4RSE4purQjQR8Ig7NZTDF_4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "水餃（10顆，每顆8元）",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣湯",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚丸湯",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,392 @@
+{
+ "restaurant": {
+  "name": "大慶麵店(信義店)",
+  "address": "110臺北市信義區永春里永吉路524號",
+  "lat": 25.045216,
+  "lng": 121.5804382,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%85%B6%E9%BA%B5%E5%BA%97%28%E4%BF%A1%E7%BE%A9%E5%BA%97%29&query_place_id=ChIJMWXBop-rQjQRLt2vJ-lSzRI"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "超人氣什錦麵",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蚵麵",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蚌麵",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸菜白肉麵（小）",
+   "price": 95,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸菜白肉麵（大）",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手工湯意麵（小）",
+   "price": 65,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手工湯意麵（大）",
+   "price": 105,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "古早味湯陽春細麵（小）",
+   "price": 65,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "古早味湯陽春細麵（大）",
+   "price": 105,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "餛飩麵（小）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "餛飩麵（大）",
+   "price": 135,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肝麵（小）",
+   "price": 95,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肝麵（大）",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舌肉麵（小）",
+   "price": 105,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舌肉麵（大）",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手工乾意麵（小）",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手工乾意麵（大）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "乾陽春細麵（小）",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "乾陽春細麵（大）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻醬麵（小）",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻醬麵（大）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉燥麻醬麵（小）",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉燥麻醬麵（大）",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醡醬拉麵（小）",
+   "price": 75,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醡醬拉麵（大）",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅油抄手麵（辣）（小）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅油抄手麵（辣）（大）",
+   "price": 135,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特製川辣松花麵（小）",
+   "price": 105,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特製川辣松花麵（大）",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蘿蔔貢丸湯",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛋花湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肝湯",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "隔間肉湯",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "餛飩湯",
+   "price": 65,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛤仔湯",
+   "price": 60,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬血湯",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舌肉湯",
+   "price": 75,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蚵仔湯（季節限定）",
+   "price": 65,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白飯",
+   "price": 20,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魯肉飯",
+   "price": 40,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "旗魚鬆魯肉飯",
+   "price": 55,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "東石鮮蚵滷肉飯",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燙青菜（時菜）",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燙豆芽菜",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅油抄手（辣）",
+   "price": 75,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌皮蛋豆腐",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "頭骨肉",
+   "price": 80,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜泥白肉",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "涼拌豬肝",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白切舌肉",
+   "price": 75,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣鴨血",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣臭豆腐",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣綜合",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "老油條",
+   "price": 20,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

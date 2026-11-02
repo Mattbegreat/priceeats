@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "韓姜熙의小廚房 信義A11店",
+  "address": "110405臺北市信義區西村里松壽路11號B2",
+  "lat": 25.0365446,
+  "lng": 121.5672369,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%9F%93%E5%A7%9C%E7%86%99%EC%9D%98%E5%B0%8F%E5%BB%9A%E6%88%BF%20%E4%BF%A1%E7%BE%A9A11%E5%BA%97&query_place_id=ChIJO5iJ5XyrQjQRrXlBuhgUlOQ"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "韓式糖醋肉（單點）",
+   "price": 158,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "醬味炸雞（單點）",
+   "price": 138,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "辣味炸雞（單點）",
+   "price": 138,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "韓式辣炒年糕（單點）",
+   "price": 128,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "釜山炸魚板（單點）",
+   "price": 128,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香酥炸豆腐（單點）",
+   "price": 88,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "溏心蛋（單點）",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "白飯（一碗）",
+   "price": 19,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "韓式小菜（一碟）",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "味噌湯（一碗）",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.85
+  }
+ ]
+}

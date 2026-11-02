@@ -1,0 +1,546 @@
+{
+ "restaurant": {
+  "name": "象廚泰式料理",
+  "address": "110臺北市信義區興雅里基隆路一段147巷9號",
+  "lat": 25.0425035,
+  "lng": 121.5662513,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B1%A1%E5%BB%9A%E6%B3%B0%E5%BC%8F%E6%96%99%E7%90%86&query_place_id=ChIJO46uGryrQjQR3yMBrqKHf4E"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "涼拌荷包蛋",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "涼拌青木瓜",
+   "price": 199,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹹蛋青木瓜",
+   "price": 210,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青木瓜生蝦（5隻）",
+   "price": 350,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "涼拌芒果",
+   "price": 330,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "涼拌海鮮泡麵",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "涼拌海鮮冬粉",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "涼拌海鮮",
+   "price": 340,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "涼拌花枝",
+   "price": 340,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "涼拌生蝦",
+   "price": 320,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣拌牛肉末",
+   "price": 240,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣拌松阪豬",
+   "price": 360,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香茅松阪豬",
+   "price": 360,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香茅拌豬肉片",
+   "price": 330,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香茅拌牛肉片",
+   "price": 390,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰北傳統拼盤",
+   "price": 580,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦醬空心菜",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦醬高麗菜",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "什錦蔬菜",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "脆皮炒芥藍",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦醬四季豆",
+   "price": 190,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣炒四季豆",
+   "price": 190,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹹蛋四季豆",
+   "price": 210,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式茄子",
+   "price": 190,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蠔油青花炒鮮蝦",
+   "price": 320,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸三味魚",
+   "price": 440,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸羅旺魚",
+   "price": 440,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸芒果魚",
+   "price": 450,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸紅咖哩魚",
+   "price": 440,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清蒸檸檬魚",
+   "price": 420,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸香茅魚",
+   "price": 440,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "打拋豬肉",
+   "price": 220,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "打拋雞肉",
+   "price": 210,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "打拋牛肉",
+   "price": 230,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "打拋海鮮",
+   "price": 360,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "打拋脆皮",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣炒豬肉末",
+   "price": 290,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式炒海瓜子",
+   "price": 320,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑胡椒鮮蝦",
+   "price": 360,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式冬粉鮮蝦煲",
+   "price": 320,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式酸辣冬粉鮮蝦煲",
+   "price": 320,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椒麻雞",
+   "price": 290,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸五花肉",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "月亮蝦餅（8片）",
+   "price": 360,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式炸雞翅（5隻）",
+   "price": 220,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸軟殼蟹",
+   "price": 350,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式炸魚餅",
+   "price": 330,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "沙嗲豬肉串（5串）",
+   "price": 220,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "沙嗲雞肉串（5串）",
+   "price": 220,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "傳統烤豬肉串（5串）",
+   "price": 220,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤五花肉",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式香茅烤雞腿",
+   "price": 300,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤松阪豬",
+   "price": 360,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤牛肉片",
+   "price": 380,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰北傳統烤香腸",
+   "price": 310,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式傳統炒飯",
+   "price": 190,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式炒河粉",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣雞肉炒河粉",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鳳梨炒飯",
+   "price": 190,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綠咖哩雞",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綠咖哩牛肉",
+   "price": 350,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綠咖哩鮮蝦（6隻）",
+   "price": 360,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒紅咖哩雞",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒紅咖哩牛肉",
+   "price": 350,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "瑪莎曼牛腩",
+   "price": 590,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃咖哩雞",
+   "price": 380,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒黃咖哩鮮蝦（8隻）",
+   "price": 560,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃咖哩軟殼蟹",
+   "price": 590,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椰子綜合海鮮",
+   "price": 620,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰北雞湯",
+   "price": 290,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椰香雞湯",
+   "price": 300,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "什錦蔬菜湯",
+   "price": 290,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰北排骨湯",
+   "price": 330,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣鮮蝦湯",
+   "price": 360,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣海鮮湯",
+   "price": 350,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白飯（人頭計費）",
+   "price": 30,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

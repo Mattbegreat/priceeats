@@ -1,0 +1,329 @@
+{
+ "restaurant": {
+  "name": "SUBWAY 南港展覽館",
+  "address": "115臺北市南港區三重里經貿二路1號",
+  "lat": 25.0568622,
+  "lng": 121.6172757,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SUBWAY%20%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8&query_place_id=ChIJN6QVvz6tQjQR10Af9P0HB1A"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "香烤雞肉（6吋）",
+   "price": 125,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香烤雞肉（12吋）",
+   "price": 225,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "照燒雞肉（6吋）",
+   "price": 128,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "照燒雞肉（12吋）",
+   "price": 230,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮嫩雞柳（6吋）",
+   "price": 125,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮嫩雞柳（12吋）",
+   "price": 225,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嫩切雞肉（6吋）",
+   "price": 110,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嫩切雞肉（12吋）",
+   "price": 198,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚切嫩牛（6吋）",
+   "price": 149,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚切嫩牛（12吋）",
+   "price": 268,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燒烤牛肉（6吋）",
+   "price": 139,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燒烤牛肉（12吋）",
+   "price": 250,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義大利牛肉丸（6吋）",
+   "price": 129,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義大利牛肉丸（12吋）",
+   "price": 232,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥辣牛（6吋）",
+   "price": 115,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥辣牛（12吋）",
+   "price": 207,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "火腿（6吋）",
+   "price": 105,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "火腿（12吋）",
+   "price": 189,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮪魚（6吋）",
+   "price": 125,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮪魚（12吋）",
+   "price": 225,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義大利經典（6吋）",
+   "price": 135,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義大利經典（12吋）",
+   "price": 243,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "百味俱樂部（6吋）",
+   "price": 128,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "百味俱樂部（12吋）",
+   "price": 230,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "哈燒起司總匯（6吋）",
+   "price": 125,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "哈燒起司總匯（12吋）",
+   "price": 225,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛋沙拉（6吋）",
+   "price": 120,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛋沙拉（12吋）",
+   "price": 216,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鷹嘴豆泥餅（6吋）",
+   "price": 125,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鷹嘴豆泥餅（12吋）",
+   "price": 225,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素食蔬菜（6吋）",
+   "price": 91,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素食蔬菜（12吋）",
+   "price": 164,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "照燒雞肉沙拉",
+   "price": 170,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮嫩雞柳沙拉",
+   "price": 163,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚切嫩牛沙拉",
+   "price": 188,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥辣牛沙拉",
+   "price": 158,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "火腿沙拉",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮪魚沙拉",
+   "price": 163,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛋沙拉",
+   "price": 165,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鷹嘴豆泥餅沙拉",
+   "price": 170,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素食蔬菜沙拉",
+   "price": 134,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚切牛起司蛋（6吋）",
+   "price": 82,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根起司蛋（6吋）",
+   "price": 72,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "火腿起司蛋（6吋）",
+   "price": 62,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司蛋（6吋）",
+   "price": 52,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

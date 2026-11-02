@@ -1,0 +1,504 @@
+{
+ "restaurant": {
+  "name": "豆漿哥",
+  "address": "115臺北市南港區萬福里同德路21號",
+  "lat": 25.0452066,
+  "lng": 121.5838742,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B1%86%E6%BC%BF%E5%93%A5&query_place_id=ChIJ1_-Xc3WrQjQR-lfRZ7fkt9A"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "原味蛋餅",
+   "price": 30,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "河粉蛋餅",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "肉鬆蛋餅",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "玉米蛋餅",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "起司蛋餅",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "培根蛋餅",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "火腿蛋餅",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮪魚蛋餅",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬排蛋餅",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "薯餅蛋餅",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蛋餅油條",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燻雞蛋餅",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "乳酪蛋餅",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "生菜蛋餅捲",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "熱狗蛋餅",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "乳酪河粉蛋餅",
+   "price": 65,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "水煎包",
+   "price": 25,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮮肉包",
+   "price": 25,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "素菜包",
+   "price": 25,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "胡椒赤肉包",
+   "price": 30,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮮肉包加蔥蛋",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "素菜包加蔥蛋",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶酥酥餅",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "芝麻酥餅",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "麥芽酥餅",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "花生酥餅",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "原味飯糰",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "甜飯糰",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "素食飯糰",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鹹甜飯糰",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "荷包蛋飯糰",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蔥蛋飯糰",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "起司蔥蛋飯糰",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "海苔蔥蛋飯糰",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "火腿蔥蛋飯糰",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "培根蔥蛋飯糰",
+   "price": 80,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮪魚蔥蛋飯糰",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬排蔥蛋飯糰",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燻雞蔥蛋飯糰",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "無敵飯糰",
+   "price": 95,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬排堡",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞腿堡",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "三明治",
+   "price": 25,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "法式三明治",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燒餅",
+   "price": 25,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "油條",
+   "price": 25,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燒餅荷包蛋",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燒餅蔥蛋",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燒餅油條",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燒餅起司蔥蛋",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燒餅火腿蔥蛋",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燒餅肉鬆蔥蛋",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燒餅培根蔥蛋",
+   "price": 65,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燒餅鮪魚蔥蛋",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燒餅豬排蔥蛋",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "生菜燒餅",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燒餅油條蔥蛋",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "無敵燒餅",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蘿蔔糕（二片）",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蘿蔔糕加蔥蛋",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鍋貼（五個）",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蔥抓餅",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蔥抓餅加蔥蛋",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "韭菜盒",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "韭菜盒加蔥蛋",
+   "price": 65,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "湯包（八顆）",
+   "price": 95,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蒸餃（八顆）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮮蝦燒賣（六顆）",
+   "price": 130,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蘑菇鐵板麵",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "黑胡椒鐵板麵",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "雞湯桑 南港lalaport",
+  "address": "115臺北市南港區環河里經貿二路131號B1",
+  "lat": 25.0593449,
+  "lng": 121.6175825,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%9B%9E%E6%B9%AF%E6%A1%91%20%E5%8D%97%E6%B8%AFlalaport&query_place_id=ChIJbxReLgCtQjQRb24vFg9l9cg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "櫻花柚子",
+   "price": 248,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露牛肝菌",
+   "price": 248,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "東京雞白湯",
+   "price": 248,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露旨味雞白湯",
+   "price": 298,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海膽魚子雞白湯",
+   "price": 298,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞湯桑兒童餐",
+   "price": 149,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "明太子炙燒雞肉定食",
+   "price": 298,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "櫻花柚子雞肉定食",
+   "price": 298,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燒鳥盛合",
+   "price": 99,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蔬菜盛合",
+   "price": 89,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

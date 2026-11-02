@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "嘉義盒餐",
+  "address": "115臺北市南港區玉成里南港路三段143-1號",
+  "lat": 25.0524748,
+  "lng": 121.5848256,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%9B%92%E9%A4%90&query_place_id=ChIJSwXTm3erQjQRUaLdcEswhBE"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-12-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "精緻特餐",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

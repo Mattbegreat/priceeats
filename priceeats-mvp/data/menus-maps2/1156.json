@@ -1,0 +1,1022 @@
+{
+ "restaurant": {
+  "name": "香港88港式茶餐廳",
+  "address": "110臺北市信義區三張里吳興街269巷18弄2號1樓",
+  "lat": 25.0271967,
+  "lng": 121.5646269,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E6%B8%AF88%E6%B8%AF%E5%BC%8F%E8%8C%B6%E9%A4%90%E5%BB%B3&query_place_id=ChIJzfL-asnWDRQRn1tm1EaHGP8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "無敵五寶飯",
+   "price": 199,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "財氣四寶飯",
+   "price": 170,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "好味三寶飯",
+   "price": 160,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔗香雞腿飯",
+   "price": 170,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玫瑰油雞腿飯",
+   "price": 150,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "食神叉燒飯",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "王牌雙拼飯",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "港味豬扒飯",
+   "price": 150,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "極品酥炸雞腿飯",
+   "price": 150,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃金腐皮蝦卷飯",
+   "price": 160,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆豉蒸排骨飯",
+   "price": 170,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大拼三樣",
+   "price": 480,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "中拼二樣",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "單點（蔗香雞/叉燒/香腸）",
+   "price": 160,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油雞腿",
+   "price": 120,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肝腸一條",
+   "price": 85,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "臘腸一條",
+   "price": 85,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔗香雞一隻",
+   "price": 1100,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔗香雞半隻",
+   "price": 600,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玫瑰油雞一隻",
+   "price": 1200,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙寶粥品",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚片粥",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生滾牛肉粥",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "皮蛋瘦肉粥",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "養生蔬食粥",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生菜魚片粥",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明火白粥",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "好運到常餐",
+   "price": 250,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "元氣牛肉湯",
+   "price": 140,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薑絲魚片湯",
+   "price": 130,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "老香港麻辣湯",
+   "price": 130,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹹菜湯",
+   "price": 130,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油玉米湯",
+   "price": 110,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔬菜蛋花湯",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹹魚雞粒炒飯",
+   "price": 198,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "櫻花蝦炒飯",
+   "price": 198,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燻鮭魚炒飯",
+   "price": 188,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "XO醬豬扒炒飯",
+   "price": 180,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "XO醬海鮮炒飯",
+   "price": 180,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑椒炒飯",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鳳梨炒飯",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "老香港麻辣招牌炒飯",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "沙茶牛肉炒飯",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生炒牛肉炒飯",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦蝦炒飯",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "廣州炒飯",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "臘味炒飯",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "老香港麻辣燴飯",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "原汁牛肉燴飯",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥爆燴飯",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑椒燴飯",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "廣州燴飯",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滑蛋燴飯",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "糖醋牛肉燴飯",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滑蛋雙寶飯",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "XO醬蝦球撈麵",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薑蔥蠔油撈麵",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "老香港麻辣撈麵",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燥臘撈麵",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秘製牛肉蛋湯河粉",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秘製豬肉蛋湯河粉",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "XO醬炒烏冬麵",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "XO醬雞蛋烏冬湯麵",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子蝦球烏冬麵",
+   "price": 188,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "超推三眼仔飯",
+   "price": 230,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬扒餐肉煎雙蛋飯",
+   "price": 200,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "餐肉煎雙蛋飯",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "食神叉燒煎雙蛋飯",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "德腸煎雙蛋飯",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹹魚雞粒豆腐煲",
+   "price": 249,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蟹粉蝦球豆腐煲",
+   "price": 249,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮豆腐煲",
+   "price": 249,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣雞丁豆腐煲",
+   "price": 249,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑椒煲",
+   "price": 249,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "XO醬蝦球炒公仔麵",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "XO醬豬排炒公仔麵",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "XO醬牛肉炒公仔麵",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "XO醬叉燒炒公仔麵",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "叉燒雞蛋公仔湯麵",
+   "price": 160,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "餐肉雞蛋公仔湯麵",
+   "price": 160,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "德腸雞蛋公仔湯麵",
+   "price": 160,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉雞蛋公仔湯麵",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣雞蛋公仔湯麵",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉炒麵",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "叉燒炒麵",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦球炒麵",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "廣州炒麵",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "老香港麻辣廣州炒麵",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "糖醋蝦球炒麵",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "干炒蝦仁河粉",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "干炒豬肉河粉",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "干炒牛肉河粉",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "干炒叉燒河粉",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "星洲炒米粉",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鼓油皇炒麵",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "避風塘蝦",
+   "price": 218,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "XO炒蘿蔔糕",
+   "price": 198,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "時菜炒魚片",
+   "price": 218,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椒鹽爆炒花枝",
+   "price": 218,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "糖醋咕咾肉",
+   "price": 218,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "糖醋魚片",
+   "price": 218,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥爆牛肉/豬肉",
+   "price": 218,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蠔油炒牛肉",
+   "price": 218,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芥蘭炒牛肉",
+   "price": 218,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滑蛋炒蝦仁/牛肉/叉燒",
+   "price": 218,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "山苦瓜爆炒牛肉/豬肉",
+   "price": 218,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹹蛋炒山苦瓜",
+   "price": 198,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒豆腐",
+   "price": 198,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金沙豆腐",
+   "price": 188,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "櫻花蝦炒高麗菜",
+   "price": 168,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清炒時蔬",
+   "price": 148,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "高麗菜",
+   "price": 148,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芥蘭",
+   "price": 148,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "西生菜",
+   "price": 148,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素紅燒豆腐（含白飯）",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "干炒羅漢齋",
+   "price": 160,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素炒時蔬",
+   "price": 140,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸流沙奶皇包 X3",
+   "price": 98,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爆漿奶皇流沙球 X3",
+   "price": 98,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爆漿芝麻球 X3",
+   "price": 98,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蝦炸雲吞 X3",
+   "price": 98,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金黃炸春捲 X2",
+   "price": 98,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金黃腐皮鮮蝦捲 X2",
+   "price": 118,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎蘿蔔糕 X3",
+   "price": 108,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蜜汁叉燒酥 X2",
+   "price": 118,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香炸豬扒",
+   "price": 118,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸燒賣 X4",
+   "price": 118,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹹水角 X3",
+   "price": 118,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小雞薯條",
+   "price": 118,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金黃炸脆薯",
+   "price": 98,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典馬蹄條",
+   "price": 90,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "午餐肉 X2",
+   "price": 50,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "德腸 X1",
+   "price": 30,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白飯",
+   "price": 20,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典叉燒包X3",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小籠湯包X5",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綿密流沙奶皇包 X3",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦餃皇 X3",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚子蝦燒賣 X4",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒸蒸蘿蔔糕 X3",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆豉蒸排骨",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蜜汁蒸鳳爪",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "榮華蒸富貴",
+   "price": 158,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大三元",
+   "price": 158,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

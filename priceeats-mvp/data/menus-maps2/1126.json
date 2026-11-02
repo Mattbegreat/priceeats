@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "博多天麩羅 山海（不提供訂位）",
+  "address": "110臺北市信義區忠孝東路五段8號B2F",
+  "lat": 25.040592,
+  "lng": 121.5652216,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%9A%E5%A4%9A%E5%A4%A9%E9%BA%A9%E7%BE%85%20%E5%B1%B1%E6%B5%B7%EF%BC%88%E4%B8%8D%E6%8F%90%E4%BE%9B%E8%A8%82%E4%BD%8D%EF%BC%89&query_place_id=ChIJreauX7mrQjQR6cVeDmpQsho"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "豪華海之幸定食",
+   "price": 580,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "山海定食",
+   "price": 360,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸蝦天麩羅定食",
+   "price": 450,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "山之幸定食",
+   "price": 370,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚天麩羅定食",
+   "price": 460,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "野菜天麩羅定食（野菜5品）",
+   "price": 310,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "野菜天麩羅定食（野菜7品）",
+   "price": 350,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "博多天麩羅丼",
+   "price": 360,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸蝦天麩羅丼",
+   "price": 420,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉天麩羅丼",
+   "price": 360,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烏龍麵天麩羅定食",
+   "price": 360,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "天麩羅兒童餐",
+   "price": 220,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

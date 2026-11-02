@@ -1,0 +1,616 @@
+{
+ "restaurant": {
+  "name": "好捲早午餐",
+  "address": "11578臺北市南港區西新里昆陽街71號",
+  "lat": 25.0522591,
+  "lng": 121.5934429,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A5%BD%E6%8D%B2%E6%97%A9%E5%8D%88%E9%A4%90&query_place_id=ChIJp5S_sHqrQjQR2wwsbgynL4M"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "蔬菜蛋餅",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玉米蛋餅",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根蛋餅",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉排蛋餅",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮪魚蛋餅",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "德式香腸蛋餅",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "夕陽蛋餅",
+   "price": 65,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚切豬排蛋餅",
+   "price": 65,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式蝦排蛋餅",
+   "price": 65,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菇雞菇雞蛋餅",
+   "price": 65,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "皮蛋肉鬆蛋餅",
+   "price": 80,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤火腿蛋吐司",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤香雞蛋吐司（吐司）",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤香雞蛋吐司（總匯）",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤肉排蛋吐司（吐司）",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤肉排蛋吐司（總匯）",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤蔬菜水煮蛋吐司",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤鮪魚蛋吐司（吐司）",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤鮪魚蛋吐司（總匯）",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤花生培根蛋吐司（吐司）",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤花生培根蛋吐司（總匯）",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤厚切豬排吐司（吐司）",
+   "price": 65,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤厚切豬排吐司（總匯）",
+   "price": 95,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤菲力雞蛋吐司（吐司）",
+   "price": 65,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤菲力雞蛋吐司（總匯）",
+   "price": 95,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤日式豬排吐司（吐司）",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "烤日式豬排吐司（總匯）",
+   "price": 100,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "烤菇雞菇雞吐司",
+   "price": 65,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤勁辣雞腿吐司（吐司）",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤勁辣雞腿吐司（總匯）",
+   "price": 100,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉排漢堡",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香雞漢堡",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "德式香腸堡",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚切豬排堡",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥肉排堡",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菲力雞排堡",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "檸檬雞柳堡",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式豬排堡",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "泰式蝦排堡",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菇雞菇雞堡",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "勁辣雞腿堡",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根起司蛋捲",
+   "price": 105,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燻雞起司蛋捲",
+   "price": 110,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔬菜起司蛋捲",
+   "price": 110,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香腸起司蛋捲",
+   "price": 110,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥雞肉起司蛋捲",
+   "price": 120,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "碎杏巧克力厚片",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "碎杏花生厚片",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "碎杏奶酥厚片",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油乳酪厚片",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "翡翠抓餅",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蘿蔔糕",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煎餃",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白醬濃湯",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "番茄清湯",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薯餅（2個/份）",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小熱狗（5個/份）",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小雞塊（5個/份）",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "檸檬雞柳（2個/份）",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式雞球（7個/份）",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "水煮青花椰",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃金脆薯",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑胡椒義大利麵",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香培根麵",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃金蛋蛋麵",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油燻雞麵",
+   "price": 95,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮪魚番茄麵",
+   "price": 95,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芝士肉醬麵",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉野菇青醬麵",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燻雞胡麻麵",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青醬炒飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白醬炒飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉醬炒飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油炸雞燉飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青醬炸蝦燉飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉醬日式豬燉飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青醬燻雞裙擺蛋包飯",
+   "price": 155,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白醬培根裙擺蛋包飯",
+   "price": 155,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉醬香腸裙擺蛋包飯",
+   "price": 155,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "水果蔬菜沙拉",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮪魚沙拉",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燻雞沙拉",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "德式香腸沙拉",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "菲力雞沙拉",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蔬菜水煮蛋焙果",
+   "price": 80,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菇雞菇雞焙果",
+   "price": 80,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

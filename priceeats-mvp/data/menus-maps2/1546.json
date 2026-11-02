@@ -1,0 +1,483 @@
+{
+ "restaurant": {
+  "name": "咖食堂 南京店",
+  "address": "105臺北市松山區東勢里南京東路四段133巷4弄12號",
+  "lat": 25.0523184,
+  "lng": 121.5547136,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%92%96%E9%A3%9F%E5%A0%82%20%E5%8D%97%E4%BA%AC%E5%BA%97&query_place_id=ChIJ_VhK5-qrQjQRcNsupuzyNoM"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "咖哩飯",
+   "price": 95,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩蛋飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞辣咖哩飯",
+   "price": 135,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩雞腿丁飯",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩豬排飯",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩雞排飯",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩魚排飯",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩雞米花飯",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩牛肉飯",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩可樂餅飯",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩起司雞飯",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅咖哩（蔬菜無肉）",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綠咖哩（蔬菜無肉）",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅咖哩（豬）",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綠咖哩（豬）",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅咖哩（雞/牛）",
+   "price": 135,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綠咖哩（雞/牛）",
+   "price": 135,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "馬來西亞海鮮咖哩",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "馬來西亞雞肉咖哩",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮咖哩烏龍麵",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉咖哩烏龍麵",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉丼飯",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "野菜丼飯",
+   "price": 115,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞辣丼飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬排丼飯",
+   "price": 125,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞排丼飯",
+   "price": 125,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚排丼飯",
+   "price": 125,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞米花丼飯",
+   "price": 125,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞腿丁丼飯",
+   "price": 125,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉丼飯",
+   "price": 135,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "可樂餅丼飯",
+   "price": 135,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司雞丼飯",
+   "price": 145,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鍋燒烏龍麵",
+   "price": 135,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜烏龍麵",
+   "price": 145,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素食蔬菜鍋",
+   "price": 135,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮豆腐鍋",
+   "price": 145,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜豆腐鍋",
+   "price": 145,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "川味麻辣鍋",
+   "price": 155,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式味噌鍋",
+   "price": 165,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式酸辣海鮮鍋",
+   "price": 165,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉壽喜鍋",
+   "price": 175,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉壽喜鍋",
+   "price": 175,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椰椰咖哩鍋",
+   "price": 185,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式泡菜（單點）",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞米花（單點）",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞辣塊（單點）",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞腿丁（單點）",
+   "price": 65,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬排/雞排（單點）",
+   "price": 65,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "可樂餅（單點）",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司雞（單點）",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司可樂餅（單點）",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜咖哩飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜咖哩豬排飯",
+   "price": 155,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜咖哩雞排飯",
+   "price": 155,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜咖哩牛肉飯",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "緬甸咖哩",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "高湯烏龍麵",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉烏龍麵",
+   "price": 105,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞辣烏龍麵",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞腿丁烏龍麵",
+   "price": 125,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬排烏龍麵",
+   "price": 125,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞排烏龍麵",
+   "price": 125,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚排烏龍麵",
+   "price": 125,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞米花烏龍麵",
+   "price": 125,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉烏龍麵",
+   "price": 135,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "可樂餅烏龍麵",
+   "price": 135,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司雞烏龍麵",
+   "price": 145,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

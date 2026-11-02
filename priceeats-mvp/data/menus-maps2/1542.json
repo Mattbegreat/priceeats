@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "暖日拾光_咖喱",
+  "address": "105臺北市松山區富泰里新東街3巷4號",
+  "lat": 25.0575027,
+  "lng": 121.5658301,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9A%96%E6%97%A5%E6%8B%BE%E5%85%89_%E5%92%96%E5%96%B1&query_place_id=ChIJ_zR6526rQjQRe1mCN9o-jEs"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "唐揚炸雞咖喱飯",
+   "price": 220,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸鮮魚咖喱飯",
+   "price": 220,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉咖喱飯",
+   "price": 220,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚炸雞親子丼",
+   "price": 200,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚炸雞親子丼（加起司）",
+   "price": 230,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚炸雞",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸鮮魚",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌湯",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

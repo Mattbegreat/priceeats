@@ -1,0 +1,154 @@
+{
+ "restaurant": {
+  "name": "炒飯",
+  "address": "110臺北市信義區松光里林口街39號",
+  "lat": 25.037714,
+  "lng": 121.579168,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%82%92%E9%A3%AF&query_place_id=ChIJHVv7IOWrQjQR4arJWycxgYc"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "台式肉絲炒麵",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台式什錦炒麵",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台式蝦仁炒麵",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台式海鮮炒麵",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "沙茶肉絲炒麵",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "沙茶什錦炒麵",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "沙茶海鮮炒麵",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "沙茶牛肉炒麵",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩肉絲炒麵",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "咖哩什錦炒麵",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "咖哩海鮮炒麵",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "經典肉絲蛋炒飯",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "什錦總燴蛋炒飯",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "深海蝦仁蛋炒飯",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙味臘腸蛋炒飯",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "櫻花蝦蛋炒飯",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式培根蛋炒飯",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蕃茄蛋炒飯",
+   "price": 85,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.6
+  },
+  {
+   "name": "薄鹽鯖魚蛋炒飯",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚切牛肉蛋炒飯",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

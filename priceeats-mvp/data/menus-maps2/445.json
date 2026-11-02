@@ -1,0 +1,378 @@
+{
+ "restaurant": {
+  "name": "串居留居酒屋（南港店）",
+  "address": "115臺北市南港區中南里中南街21號",
+  "lat": 25.0546521,
+  "lng": 121.6153263,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%B2%E5%B1%85%E7%95%99%E5%B1%85%E9%85%92%E5%B1%8B%EF%BC%88%E5%8D%97%E6%B8%AF%E5%BA%97%EF%BC%89&query_place_id=ChIJtayIA6erQjQRtvrN0hbyYlc"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "鹽烤雞腿肉串",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒雞腿肉串",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子雞腿肉串",
+   "price": 80,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜味雞腿肉串",
+   "price": 75,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒雞皮串",
+   "price": 45,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒雞屁股串",
+   "price": 50,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒雞心串",
+   "price": 50,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒雞軟骨串",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椒鹽雞翅中串",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌烤肥腸串",
+   "price": 80,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜味烤肥腸串",
+   "price": 65,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽烤豬肉串",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椒鹽豬肉串",
+   "price": 65,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蘆筍豬肉捲串",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "胭脂蝦豬肉捲串",
+   "price": 90,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "伊比利豬肋條串",
+   "price": 75,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬培根干貝捲",
+   "price": 90,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽烤牛肋排串",
+   "price": 80,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒牛橫膈膜串",
+   "price": 80,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "CH牛小排串",
+   "price": 100,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油娃娃菜",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒麻糬茄串",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒香菇串",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽烤厚切節瓜串",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤玉米筍",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤杏包菇串",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油金針菇",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒秋葵串",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "山葵小章魚",
+   "price": 100,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醃漬鮭魚卵",
+   "price": 120,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鱈魚肝沙拉",
+   "price": 210,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "和風沙拉",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "涼拌蒜味毛豆",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "乳酪豆腐",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "溏心蛋",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花枝干貝燒串",
+   "price": 50,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "竹葉魚糕串",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌烤透抽",
+   "price": 250,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤柳葉魚",
+   "price": 140,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽烤鯖魚",
+   "price": 160,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "午魚一夜干",
+   "price": 300,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚飯糰",
+   "price": 70,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子飯糰",
+   "price": 70,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式厚蛋燒",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "居留燒",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤豬五花",
+   "price": 160,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌湯",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮味噌湯",
+   "price": 150,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞皮裙邊串",
+   "price": 40,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒雞骨輪串",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特製雞肉串",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛小排串",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

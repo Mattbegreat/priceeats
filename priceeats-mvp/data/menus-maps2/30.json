@@ -1,0 +1,112 @@
+{
+ "restaurant": {
+  "name": "無招牌麵攤",
+  "address": "115臺北市南港區南港里南港路一段165巷1號",
+  "lat": 25.054992,
+  "lng": 121.613361,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%84%A1%E6%8B%9B%E7%89%8C%E9%BA%B5%E6%94%A4&query_place_id=ChIJAZxvAcOrQjQR7qEyd5gxv9w"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "賽螃蟹拌麵",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "皮蛋臭豆腐麵",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "皮蛋臭豆腐飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪菜皮蛋肉燥麵",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪菜皮蛋肉燥飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "皮蛋肉燥乾拌麵",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪菜肉燥乾拌麵",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪菜肉燥湯麵",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合湯",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合湯加麵",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合湯加飯",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "福州魚丸湯",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "福州魚丸湯加麵",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "福州魚丸湯加飯",
+   "price": 70,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

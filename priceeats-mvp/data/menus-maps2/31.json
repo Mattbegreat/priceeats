@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "湯心麵屋 南港",
+  "address": "115臺北市南港區新富里南港路一段65號",
+  "lat": 25.0550573,
+  "lng": 121.6158653,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B9%AF%E5%BF%83%E9%BA%B5%E5%B1%8B%E3%82%B9%E3%83%BC%E3%83%97%E3%81%AE%E5%BF%83----%E7%82%BA%E5%A4%96%E5%B8%B6%E8%80%8C%E7%94%9F%E7%9A%84%E6%B9%AF%E6%8B%8C%E9%BA%B5&query_place_id=ChIJw7wayPyrQjQR0Q6WBqnHHh0"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "濤饗海味套餐",
+   "price": 348,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豪胸豚肉套餐",
+   "price": 368,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "極牛套餐",
+   "price": 388,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "柚香胡麻醬湯拌麵",
+   "price": 178,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮑汁海味肉醬湯拌麵",
+   "price": 198,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露和牛肉醬湯拌麵",
+   "price": 218,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒豚五花（單點）",
+   "price": 35,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒牛五花（單點）",
+   "price": 40,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒舒肥雞（單點）",
+   "price": 45,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "干貝燒（單點）",
+   "price": 40,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

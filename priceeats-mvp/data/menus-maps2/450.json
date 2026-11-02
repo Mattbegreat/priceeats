@@ -1,0 +1,273 @@
+{
+ "restaurant": {
+  "name": "洪記豆漿大王南港店",
+  "address": "115臺北市南港區南港里南港路一段189號",
+  "lat": 25.0550717,
+  "lng": 121.612048,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B4%AA%E8%A8%98%E8%B1%86%E6%BC%BF%E5%A4%A7%E7%8E%8B%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJVVVVVVirQjQRqnaiWZFR3oE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "各式饅頭",
+   "price": 20,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "各式花卷",
+   "price": 20,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "饅頭夾蛋",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆沙包",
+   "price": 20,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香菇素菜包",
+   "price": 30,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮肉包",
+   "price": 30,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "馬來糕",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮肉蒸餃（8顆）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小籠湯包（8顆）",
+   "price": 95,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蝦燒賣（4顆）",
+   "price": 95,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燒餅",
+   "price": 25,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油條",
+   "price": 25,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燒餅蛋",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燒餅油條",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生菜燒餅",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生菜豬排燒餅",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生菜牛肉燒餅",
+   "price": 100,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蘑菇鐵板麵",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑胡椒鐵板麵",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉燥鐵板麵",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蘑菇鐵板麵套餐",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "飯糰",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素飯糰",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根飯糰",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛋包飯糰",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬排飯糰",
+   "price": 65,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "原味蛋餅",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玉米蛋餅",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉鬆蛋餅",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "火腿蛋餅",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根蛋餅",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司蛋餅",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "荳芽蛋餅",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮪魚蛋餅",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬排蛋餅",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛋餅夾油條",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根豆芽蛋餅",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

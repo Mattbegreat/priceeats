@@ -1,0 +1,343 @@
+{
+ "restaurant": {
+  "name": "久賀日式小吃",
+  "address": "115臺北市南港區中研里研究院路二段70巷12號攤位30",
+  "lat": 25.0453134,
+  "lng": 121.6146059,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B9%85%E8%B3%80%E6%97%A5%E5%BC%8F%E5%B0%8F%E5%90%83&query_place_id=ChIJq9lkI0WrQjQR9iB-1N4gQTE"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "豆皮壽司",
+   "price": 60,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆皮+海苔壽司",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合壽司",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花壽司",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式涼麵(烏)",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式涼麵(細)",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生菜沙拉",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蟹肉棒",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "毛豆",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "可樂餅",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小卷一隻",
+   "price": 30,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆干",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛蒡絲",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "養生黑豆",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "養生川耳",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃金泡菜",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷味拼盤",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮麵",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉麵",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小卷麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜豬肉麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜牛肉麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜海鮮麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式海鮮粥",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式魚片粥",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉片粥",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚丸湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛋花湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚片湯",
+   "price": 70,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮湯",
+   "price": 70,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉片湯",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛丼",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉丼",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "親子丼",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "養生菇菇丼",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩豬肉",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩雞腿",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生薑豬肉",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生薑牛肉",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司可樂餅",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎鮭魚",
+   "price": 140,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎鯖魚",
+   "price": 140,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎牛排",
+   "price": 140,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式炸豬排",
+   "price": 110,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸雞柳",
+   "price": 120,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸牡蠣",
+   "price": 120,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "和風牛肉",
+   "price": 130,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

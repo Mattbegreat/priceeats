@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "BaganHood 蔬食餐酒館",
+  "address": "110臺北市信義區新仁里忠孝東路四段553巷46弄11號",
+  "lat": 25.0443206,
+  "lng": 121.5634869,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BaganHood%20%E8%94%AC%E9%A3%9F%E9%A4%90%E9%85%92%E9%A4%A8&query_place_id=ChIJN0PzbxurQjQRM-pwzpJL3tI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "松露野菇披薩",
+   "price": 470,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青醬野菇洋薊披薩",
+   "price": 450,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式綠咖哩鮭魚披薩",
+   "price": 470,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "BBQ新豬肉披薩",
+   "price": 430,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨式香料醬烤圓茄",
+   "price": 300,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸辣花椰",
+   "price": 350,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "川味椒麻炸雞",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣松露蘿蔔糕",
+   "price": 300,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "享味素食漢堡",
+  "address": "115臺北市南港區中南里市民大道八段600號",
+  "lat": 25.0541936,
+  "lng": 121.6154398,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AB%E5%91%B3%E7%B4%A0%E9%A3%9F%E6%BC%A2%E5%A0%A1&query_place_id=ChIJYYCZSlirQjQRVptbgMHeTeA"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "美式素雙牛堡",
+   "price": 125,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美式素牛排堡",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蜂蜜芥末素雞堡",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃金豬排素漢堡",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥辣椒培根堡",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香酥魚排素漢堡",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美式熱狗堡",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "新疆羊排素漢堡",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "沙茶豆包素漢堡",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "風味咖哩素漢堡",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鳳梨薯餅素漢堡",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司薯餅素漢堡",
+   "price": 80,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

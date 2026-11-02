@@ -1,0 +1,287 @@
+{
+ "restaurant": {
+  "name": "公園素食",
+  "address": "115臺北市南港區東新里興南街70號",
+  "lat": 25.0558955,
+  "lng": 121.6015521,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%AC%E5%9C%92%E7%B4%A0%E9%A3%9F&query_place_id=ChIJu9AOPmGrQjQRJwfmSV4UMdI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "炒麵",
+   "price": 35,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒冬粉",
+   "price": 35,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "拉麵",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "乾意麵",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "板條",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "米苔目",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蕎麥麵",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "陽春麵",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻醬麵",
+   "price": 55,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "米粉湯",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "冬粉湯",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "板條湯",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "米苔目湯",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "陽春湯麵",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "湯意麵",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸菜麵",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合麵",
+   "price": 65,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焿麵",
+   "price": 65,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒麵",
+   "price": 75,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燙青菜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焿湯",
+   "price": 25,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合湯",
+   "price": 25,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆皮湯",
+   "price": 25,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蘿蔔湯",
+   "price": 25,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "丸子湯",
+   "price": 25,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆腐湯",
+   "price": 25,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒湯",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆包",
+   "price": 15,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆干",
+   "price": 15,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海帶",
+   "price": 15,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海苔捲",
+   "price": 20,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菜捲",
+   "price": 20,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素雞",
+   "price": 25,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素肚",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "百頁豆腐",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "茶鵝",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素滷飯",
+   "price": 30,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油飯",
+   "price": 35,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "便當",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

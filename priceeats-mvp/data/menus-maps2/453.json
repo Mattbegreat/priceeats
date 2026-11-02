@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "賣三頓盒餐",
+  "address": "115臺北市南港區中研里研究院路二段43號",
+  "lat": 25.0446993,
+  "lng": 121.6159819,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B3%A3%E4%B8%89%E9%A0%93%E7%9B%92%E9%A4%90&query_place_id=ChIJ6T55QkWrQjQRdVHWr57NyG4"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-11-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "雞腿飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鯖魚飯",
+   "price": 90,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大雞排飯",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸排骨飯",
+   "price": 90,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷排骨飯",
+   "price": 90,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸雞排飯",
+   "price": 90,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花枝排飯",
+   "price": 90,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚排飯",
+   "price": 90,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "獅子頭飯",
+   "price": 90,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香腸飯",
+   "price": 90,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

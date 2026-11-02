@@ -1,0 +1,371 @@
+{
+ "restaurant": {
+  "name": "越南美食料理",
+  "address": "1F, No No, No. 424號忠孝東路六段新光里南港區臺北市115",
+  "lat": 25.0500331,
+  "lng": 121.5932183,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B6%8A%E5%8D%97%E7%BE%8E%E9%A3%9F%E6%96%99%E7%90%86&query_place_id=ChIJow0JMACrQjQRddSsYSlXPA0"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "蛋炒飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉炒飯",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉炒飯",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮炒飯",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦仁炒飯",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛腩飯",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "排骨飯加蛋",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉蓋飯",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉蓋飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛋炒麵",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉炒麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉炒麵",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮炒麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮湯",
+   "price": 70,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣海鮮湯",
+   "price": 80,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉丸湯",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生牛肉湯",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉湯",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉湯",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生牛肉，牛肉丸湯",
+   "price": 100,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生牛肉河粉",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生牛肉，牛肉丸河粉",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉丸河粉",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛腩河粉",
+   "price": 160,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合牛肉河粉",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉河粉",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉河粉",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉河粉",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦蝦河粉",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合海鮮河粉",
+   "price": 160,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蕃茄海鮮米線",
+   "price": 160,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "順化牛肉粉",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮酸辣米線",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉酸辣米線",
+   "price": 160,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉酸辣米線",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤肉米線",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸春捲米線",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒牛肉米線",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉米線",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉米線",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法國麵包（豬）",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法國麵包（豬，火腿）",
+   "price": 130,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法國麵包（牛）",
+   "price": 130,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛腩法國麵包",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法國麵包（加蛋）",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉青木瓜",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮涼拌青木瓜",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉涼拌高麗菜",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生春捲",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸春捲",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒青菜",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

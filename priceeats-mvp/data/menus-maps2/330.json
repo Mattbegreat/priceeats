@@ -1,0 +1,161 @@
+{
+ "restaurant": {
+  "name": "飲飽食醉",
+  "address": "115臺北市南港區中研里研究院路二段25號",
+  "lat": 25.0462716,
+  "lng": 121.6153457,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%A3%B2%E9%A3%BD%E9%A3%9F%E9%86%89&query_place_id=ChIJ3VFpylqrQjQREI5anFRCx-E"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "東坡燜肉",
+   "price": 450,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "無錫子排",
+   "price": 400,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "四季肥腸",
+   "price": 360,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香茄肥腸煲",
+   "price": 380,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香干豬肉絲",
+   "price": 300,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "客家香辣小炒",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韭黃豬肉絲",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪菜豬肉絲",
+   "price": 280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒼蠅頭",
+   "price": 280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "桔醬（蒜泥）白肉",
+   "price": 280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "螞蟻上樹",
+   "price": 240,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "茄燒牛腩煲",
+   "price": 400,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韭黃牛肉絲",
+   "price": 340,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑胡椒牛柳",
+   "price": 340,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香干牛肉絲",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芥蘭牛肉絲",
+   "price": 330,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "宮保牛肉",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "水蓮牛肉",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪菜牛肉絲",
+   "price": 300,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "水煮牛",
+   "price": 360,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白灼牛肉",
+   "price": 300,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

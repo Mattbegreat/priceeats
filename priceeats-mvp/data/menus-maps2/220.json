@@ -1,0 +1,126 @@
+{
+ "restaurant": {
+  "name": "小紅越南美食",
+  "address": "115臺北市南港區新富里研究院路一段67號",
+  "lat": 25.0528473,
+  "lng": 121.6164022,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%B4%85%E8%B6%8A%E5%8D%97%E7%BE%8E%E9%A3%9F&query_place_id=ChIJs9yCSQCrQjQRkAH_ugjCXRY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "牛肉河粉",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清燉牛肉河粉",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉米線",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清燉牛肉米線",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉河粉",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉米線",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉冬粉",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉河粉",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉米線",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮河粉",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮米線",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "涼拌米線炸春捲",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸春捲",
+   "price": 110,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生菜春捲",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "涼拌大頭菜豬耳朵",
+   "price": 110,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮木瓜涼拌",
+   "price": 110,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

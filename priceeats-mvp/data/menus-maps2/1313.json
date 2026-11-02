@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "象山韮菜盒子",
+  "address": "110臺北市信義區三犁里松仁路219號號",
+  "lat": 25.0265163,
+  "lng": 121.5685725,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B1%A1%E5%B1%B1%E9%9F%AE%E8%8F%9C%E7%9B%92%E5%AD%90&query_place_id=ChIJb7dP3rKrQjQRLzZSIhhgTm0"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "韭菜盒",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "高麗菜盒",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

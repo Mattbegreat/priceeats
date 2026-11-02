@@ -1,0 +1,763 @@
+{
+ "restaurant": {
+  "name": "森小館",
+  "address": "110臺北市信義區新仁里忠孝東路四段559巷18號",
+  "lat": 25.0424021,
+  "lng": 121.5637437,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A3%AE%E5%B0%8F%E9%A4%A8&query_place_id=ChIJV_710NSrQjQRA6HzeyEA6fs"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "招牌盒餐",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦捲盒餐",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鯖魚盒餐",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬排盒餐",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焢肉盒餐",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞腿盒餐",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒青菜",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸豆腐",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻婆豆腐",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉醬豆腐",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥花煎蛋",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菜脯煎蛋",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "九層塔煎蛋",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蕃茄炒蛋",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芙蓉香蛋",
+   "price": 130,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "宮保高麗",
+   "price": 130,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "桂竹筍肉絲",
+   "price": 130,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆乾肉絲",
+   "price": 140,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "開陽白菜",
+   "price": 140,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚香茄子",
+   "price": 140,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉醬茄子",
+   "price": 140,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒肉",
+   "price": 150,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚香烘蛋",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "苦瓜鹹蛋",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "苦瓜肉絲",
+   "price": 150,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "回鍋肉",
+   "price": 160,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒼蠅頭",
+   "price": 160,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "宮保皮蛋",
+   "price": 160,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根高麗",
+   "price": 160,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "家常豆腐",
+   "price": 160,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥爆肉絲",
+   "price": 170,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "京醬肉絲",
+   "price": 170,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚香肉絲",
+   "price": 170,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青椒肉絲",
+   "price": 170,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥肉絲",
+   "price": 170,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦仁煎蛋",
+   "price": 180,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦仁滑蛋",
+   "price": 180,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青蚵煎蛋",
+   "price": 180,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滑蛋牛",
+   "price": 180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滑蛋羊肉",
+   "price": 180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜泥白肉",
+   "price": 180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椒鹽里肌",
+   "price": 180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌小炒",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆乾牛肉絲",
+   "price": 180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "乾煸四季豆",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椒鹽魚塊",
+   "price": 190,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "糖醋里肌",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "糖醋雞丁",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青椒雞丁",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣味雞丁",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "宮保雞丁",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥爆牛",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥爆羊肉",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "沙茶牛",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "沙茶羊肉",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青椒牛",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青椒羊肉",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "時菜牛",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "時菜羊肉",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "桂筍牛",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "桂筍羊肉",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薑絲牛",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薑絲羊肉",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥牛",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥羊肉",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "苦瓜牛",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "苦瓜羊肉",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒蛤蜊",
+   "price": 200,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "宮保魷魚",
+   "price": 200,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦仁豆腐",
+   "price": 200,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵板豆腐",
+   "price": 200,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛤蜊絲瓜",
+   "price": 200,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "五更腸旺",
+   "price": 210,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒三鮮",
+   "price": 210,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "宮保三鮮",
+   "price": 210,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清炒蝦仁",
+   "price": 210,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "宮保蝦仁",
+   "price": 210,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒魚塊",
+   "price": 220,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "糖醋魚塊",
+   "price": 220,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒花枝",
+   "price": 220,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "宮保花枝",
+   "price": 220,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒吳郭魚",
+   "price": 230,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦仁絲瓜",
+   "price": 230,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒獅子頭",
+   "price": 230,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆豉青蚵",
+   "price": 260,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽酥青蚵",
+   "price": 260,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥燒青蚵",
+   "price": 260,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵板青蚵",
+   "price": 260,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清炒中卷",
+   "price": 260,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椒鹽花枝",
+   "price": 260,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆瓣魚塊",
+   "price": 260,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三杯雞",
+   "price": 260,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白灼蝦",
+   "price": 270,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽酥蝦",
+   "price": 270,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三杯中卷",
+   "price": 270,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薑絲大腸",
+   "price": 270,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "脆皮大腸",
+   "price": 270,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "宮保肥腸",
+   "price": 270,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三杯肥腸",
+   "price": 270,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆瓣吳郭魚",
+   "price": 280,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽酥虱目魚",
+   "price": 350,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒虱目魚",
+   "price": 350,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽酥黃魚",
+   "price": 350,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清蒸鱈魚",
+   "price": 380,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆酥鱈魚",
+   "price": 380,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒黃魚",
+   "price": 380,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "糖醋黃魚",
+   "price": 380,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

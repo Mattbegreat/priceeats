@@ -1,0 +1,329 @@
+{
+ "restaurant": {
+  "name": "中興眷村-南港昆陽店",
+  "address": "115臺北市南港區忠孝東路六段420號",
+  "lat": 25.0500243,
+  "lng": 121.5931433,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E8%88%88%E7%9C%B7%E6%9D%91-%E5%8D%97%E6%B8%AF%E6%98%86%E9%99%BD%E5%BA%97&query_place_id=ChIJIwZZwAarQjQRAdIBGXW0Hfg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "黑金魯肉飯",
+   "price": 38,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥開拌麵",
+   "price": 45,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椒麻肉燥麵",
+   "price": 59,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅油皮蛋麵",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "勾魂炸醬麵",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅油抄手麵",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉乾拌麵（牛腱）",
+   "price": 148,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉湯麵",
+   "price": 75,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣湯麵",
+   "price": 75,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "餛飩湯麵",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛雙寶牛肉麵（牛腱+牛肚）",
+   "price": 188,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "私房牛肉麵（牛腱）",
+   "price": 148,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "貢丸湯",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣湯",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "餛飩湯",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉湯",
+   "price": 148,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉蛋花湯",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燙青菜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷豆腐",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魯白菜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛汁花干",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷蛋蘿蔔糕",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷牛腱",
+   "price": 99,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅油抄手",
+   "price": 65,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菲力豬",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肝連",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷大腸",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷味拼盤盲盒",
+   "price": 99,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌豆包（非油炸）",
+   "price": 25,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆干",
+   "price": 10,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海帶",
+   "price": 15,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魯蛋",
+   "price": 15,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "甜不辣",
+   "price": 15,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "米血糕",
+   "price": 20,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "百頁豆腐",
+   "price": 20,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛汁白蘿蔔",
+   "price": 20,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "杏鮑菇（1份）",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花椰菜（1份）",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香菇（1份）",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "貢丸",
+   "price": 13,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "吉古拉",
+   "price": 20,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬頭皮（1份）",
+   "price": 40,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬耳朵（1份）",
+   "price": 50,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬皮（1份）",
+   "price": 40,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肚（1份）",
+   "price": 99,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

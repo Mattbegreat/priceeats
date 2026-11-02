@@ -1,0 +1,105 @@
+{
+ "restaurant": {
+  "name": "台灣美食（無招牌；炒飯麵）",
+  "address": "115臺北市南港區西新里南港路三段80巷8號",
+  "lat": 25.0543402,
+  "lng": 121.5910936,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E7%81%A3%E7%BE%8E%E9%A3%9F%EF%BC%88%E7%84%A1%E6%8B%9B%E7%89%8C%EF%BC%9B%E7%82%92%E9%A3%AF%E9%BA%B5%EF%BC%89&query_place_id=ChIJzS1YDwCrQjQR8Ia2EQqy1b4"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-12-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "什錦湯麵",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉絲湯麵",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肝湯",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛋花湯",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛤仔湯",
+   "price": 40,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒豬肝",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒肉絲",
+   "price": 80,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒什錦",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒牛肉",
+   "price": 80,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒羊肉",
+   "price": 80,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦仁炒蛋",
+   "price": 130,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥仔蛋",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒青菜",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

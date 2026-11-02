@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "伊禾白湯",
+  "address": "110臺北市信義區中興里光復南路519巷9號",
+  "lat": 25.0319551,
+  "lng": 121.558028,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8A%E7%A6%BE%E7%99%BD%E6%B9%AF&query_place_id=ChIJ07YaaWirQjQRUpgzJR2EK_M"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "基隆。沙茶咖喱牛白湯",
+   "price": 380,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "時雨。磯香烏骨雞白湯",
+   "price": 380,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "替玉有料",
+   "price": 30,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

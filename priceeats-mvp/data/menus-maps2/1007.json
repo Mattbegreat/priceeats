@@ -1,0 +1,252 @@
+{
+ "restaurant": {
+  "name": "太官私房牛肉麵",
+  "address": "110臺北市信義區永吉里松山路143號",
+  "lat": 25.0468516,
+  "lng": 121.5780539,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%AA%E5%AE%98%E7%A7%81%E6%88%BF%E7%89%9B%E8%82%89%E9%BA%B5&query_place_id=ChIJB18U1F-rQjQRejgTIOMTF4Q"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "招牌清燉牛肉麵（小）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌清燉牛肉麵（大）",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒牛肉麵（小）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒牛肉麵（大）",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "川味麻辣牛肉麵（小）",
+   "price": 210,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "川味麻辣牛肉麵（大）",
+   "price": 240,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清燉牛肉湯麵（小）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清燉牛肉湯麵（大）",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "川味麻辣牛肉湯麵（小）",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "川味麻辣牛肉湯麵（大）",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉乾拌麵（小）",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉乾拌麵附湯（小）",
+   "price": 250,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉乾拌麵（大）",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉乾拌麵附湯（大）",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣牛肉乾麵（小）",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣牛肉乾麵附湯（小）",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣牛肉乾麵（大）",
+   "price": 280,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣牛肉乾麵附湯（大）",
+   "price": 310,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清燉牛肉湯",
+   "price": 200,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燉牛肉湯",
+   "price": 200,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小菜",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥油拌麵（小）",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥油拌麵（大）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻醬麵（小）",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻醬麵（大）",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "餛飩麵（小）",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "餛飩麵（大）",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "餛飩麵",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅油抄手",
+   "price": 90,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛腱肉切盤",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肚切盤",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛筋切盤",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛三寶拼盤",
+   "price": 350,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "夫妻肺片",
+   "price": 380,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

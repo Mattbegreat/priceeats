@@ -1,0 +1,1631 @@
+{
+ "restaurant": {
+  "name": "美佳佳厨房",
+  "address": "110臺北市信義區安康里松德路169巷25號",
+  "lat": 25.0362259,
+  "lng": 121.5758942,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E4%BD%B3%E4%BD%B3%E5%8E%A8%E6%88%BF&query_place_id=ChIJ9xWnB3arQjQRfooidBR-m2Q"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "香濃牛奶鍋燒（意麵）",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香濃牛奶鍋燒（雞絲麵）",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香濃牛奶鍋燒（冬粉）",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香濃牛奶鍋燒（烏龍麵）",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "海鮮鍋燒（意麵）",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "海鮮鍋燒（雞絲麵）",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "海鮮鍋燒（冬粉）",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "海鮮鍋燒（烏龍麵）",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "泡菜海鮮鍋燒（意麵）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "泡菜海鮮鍋燒（雞絲麵）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "泡菜海鮮鍋燒（冬粉）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "泡菜海鮮鍋燒（烏龍麵）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩海鮮鍋燒（意麵）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩海鮮鍋燒（雞絲麵）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩海鮮鍋燒（冬粉）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩海鮮鍋燒（烏龍麵）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蕃茄海鮮鍋燒（意麵）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蕃茄海鮮鍋燒（雞絲麵）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蕃茄海鮮鍋燒（冬粉）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蕃茄海鮮鍋燒（烏龍麵）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "榨菜肉絲麵",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "手工餛飩麵",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蒸蛋湯麵（意麵）",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蒸蛋湯麵（雞絲麵）",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蒸蛋湯麵（冬粉）",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蒸蛋湯麵（烏龍麵）",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉湯餃",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "私房魯排麵（意麵）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "私房魯排麵（雞絲麵）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "私房魯排麵（冬粉）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "私房魯排麵（烏龍麵）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "紅燒牛肉麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "清湯麵",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蕃茄牛肉麵",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "清湯麵（加麵）",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "黑胡椒鐵板炒麵",
+   "price": 45,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "黑胡椒鐵板炒麵（+蛋）",
+   "price": 55,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "黑胡椒鐵板炒麵（+蛋&里肌）",
+   "price": 75,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "黑胡椒鐵板炒麵（+無骨雞排）",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蘑菇鐵板炒麵",
+   "price": 45,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蘑菇鐵板炒麵（+蛋）",
+   "price": 55,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蘑菇鐵板炒麵（+蛋&里肌）",
+   "price": 75,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蘑菇鐵板炒麵（+無骨雞排）",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩鐵板炒麵",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩鐵板炒麵（+蛋）",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩鐵板炒麵（+蛋&里肌）",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩鐵板炒麵（+無骨雞排）",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "韓式鐵板炒麵",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "韓式鐵板炒麵（+蛋）",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "韓式鐵板炒麵（+蛋&里肌）",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "韓式鐵板炒麵（+無骨雞排）",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "義大利肉醬鐵板炒麵",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "義大利肉醬鐵板炒麵（+蛋）",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "義大利肉醬鐵板炒麵（+蛋&里肌）",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "義大利肉醬鐵板炒麵（+無骨雞排）",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "宮保雞丁鐵板炒麵",
+   "price": 65,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "宮保雞丁鐵板炒麵（+蛋）",
+   "price": 75,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "打拋豬鐵板炒麵",
+   "price": 65,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "打拋豬鐵板炒麵（+蛋）",
+   "price": 75,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "沙茶牛肉鐵板炒麵",
+   "price": 95,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "沙茶羊肉鐵板炒麵",
+   "price": 95,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "沙茶豬肉鐵板炒麵",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "什錦炒麵",
+   "price": 95,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蛤蜊湯",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香菇貢丸湯",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蕃茄蛋花湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "紅燒牛肉湯(有肉)",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "豆腐味噌湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蕃茄牛肉湯(有肉)",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "手工餛飩湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "私房蒸蛋湯",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "里肌總匯套餐",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "西式套餐",
+   "price": 90,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "中式套餐",
+   "price": 95,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "實惠套餐",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蔥香肉燥飯",
+   "price": 35,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "無骨雞排飯",
+   "price": 80,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "特製嫩排飯",
+   "price": 90,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香滷控肉飯",
+   "price": 90,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "招牌泡菜燒肉飯",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香煎去骨雞腿飯",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "私房魯排骨飯",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香煎牛排飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮭魚餐盒",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "薄脆大雞腿飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "培根蛋炒飯",
+   "price": 70,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "韓式蛋炒飯",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "里肌肉蛋炒飯",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "日式蛋炒飯",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蝦仁蛋炒飯",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "德式香腸蛋炒飯",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "沙茶牛肉蛋炒飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "沙茶羊肉蛋炒飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "三杯雞腿蛋炒飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮭魚蛋炒飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "魯排骨蛋炒飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "XO醬蛋炒飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩牛肉蛋炒飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鳳梨蝦仁蛋炒飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "素蒸蛋炒飯",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "里肌肉燴飯",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "沙茶豬肉燴飯",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "沙茶牛肉燴飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "沙茶羊肉燴飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩豬肉燴飯",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩牛肉燴飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩海鮮燴飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "招牌烏醋麵（小）",
+   "price": 40,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "招牌烏醋麵（大）",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "沙茶麵（小）",
+   "price": 40,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "沙茶麵（大）",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "肉燥麵（小）",
+   "price": 40,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "肉燥麵（大）",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "煎蛋（吐司）",
+   "price": 30,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "煎蛋（漢堡）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "煎蛋（乳酪餅）",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "漢堡肉蛋（吐司）",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "漢堡肉蛋（漢堡）",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "漢堡肉蛋（乳酪餅）",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蔬菜蛋（吐司）",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蔬菜蛋（漢堡）",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蔬菜蛋（乳酪餅）",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "培根蛋（吐司）",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "培根蛋（漢堡）",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "培根蛋（乳酪餅）",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "火腿蛋（吐司）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "火腿蛋（漢堡）",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "火腿蛋（乳酪餅）",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "起司蛋（吐司）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "起司蛋（漢堡）",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "起司蛋（乳酪餅）",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮪魚蛋（吐司）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮪魚蛋（漢堡）",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮪魚蛋（乳酪餅）",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "肉鬆蛋（吐司）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "肉鬆蛋（漢堡）",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "肉鬆蛋（乳酪餅）",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "薯餅蛋（吐司）",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "薯餅蛋（漢堡）",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "薯餅蛋（乳酪餅）",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香雞蛋（吐司）",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香雞蛋（漢堡）",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香雞蛋（乳酪餅）",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燻雞蛋（吐司）",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燻雞蛋（漢堡）",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燻雞蛋（乳酪餅）",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "里肌肉蛋（吐司）",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "里肌肉蛋（漢堡）",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "里肌肉蛋（乳酪餅）",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "檸檬雞柳蛋（吐司）",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "檸檬雞柳蛋（漢堡）",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咔啦雞腿蛋（吐司）",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咔啦雞腿蛋（漢堡）",
+   "price": 65,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "厚切牛排蛋（吐司）",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "厚切牛排蛋（漢堡）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "花生厚切牛排蛋（吐司）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "花生厚切牛排蛋（漢堡）",
+   "price": 80,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "招牌總匯（吐司）",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "草莓果醬（吐司）",
+   "price": 20,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "草莓果醬（厚片）",
+   "price": 30,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "草莓果醬（貝果）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "草莓果醬（乳酪餅）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "花生果醬（吐司）",
+   "price": 20,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "花生果醬（厚片）",
+   "price": 30,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "花生果醬（貝果）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "花生果醬（乳酪餅）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "巧克力果醬（吐司）",
+   "price": 20,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "巧克力果醬（厚片）",
+   "price": 30,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "巧克力果醬（貝果）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "巧克力果醬（乳酪餅）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "椰香果醬（吐司）",
+   "price": 20,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "椰香果醬（厚片）",
+   "price": 30,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "椰香果醬（貝果）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "椰香果醬（乳酪餅）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油果醬（吐司）",
+   "price": 20,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油果醬（厚片）",
+   "price": 30,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油果醬（貝果）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油果醬（乳酪餅）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "藍莓果醬（吐司）",
+   "price": 20,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "藍莓果醬（厚片）",
+   "price": 30,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "藍莓果醬（貝果）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "藍莓果醬（乳酪餅）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "抹茶果醬（吐司）",
+   "price": 20,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "抹茶果醬（厚片）",
+   "price": 30,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "抹茶果醬（貝果）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "抹茶果醬（乳酪餅）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香蒜果醬（吐司）",
+   "price": 20,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香蒜果醬（厚片）",
+   "price": 30,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香蒜果醬（貝果）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香蒜果醬（乳酪餅）",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "荷包蛋",
+   "price": 15,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "上海生煎包",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "熱狗",
+   "price": 15,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燙(炒)青菜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "黃金薯餅",
+   "price": 20,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "油豆腐",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "黃金脆薯",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "皮蛋豆腐",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "德國香腸",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "薄脆大雞腿",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "檸檬雞柳條",
+   "price": 30,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香蔥雞肉捲(4條)",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "麥克雞塊",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "QQ地瓜球",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "港式蘿蔔糕",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "滷排骨",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "手工抓餅蛋",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "無骨雞排",
+   "price": 45,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "煎餃",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞薯條(6條)",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "法式奶油",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "法式起司",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "法式鮪魚",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "法式肉鬆",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "法式草莓煉乳",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "港式西多士",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "原味蛋餅",
+   "price": 30,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "肉鬆蛋餅",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香雞蛋餅",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "火腿蛋餅",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "培根蛋餅",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "漢堡肉蛋餅",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "起司蛋餅",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮪魚蛋餅",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "里肌肉蛋餅",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "玉米蛋餅",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蔬菜蛋餅",
+   "price": 40,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咔啦雞蛋餅",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "九層塔蛋餅",
+   "price": 35,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "薯餅蛋餅",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燻雞蛋餅",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

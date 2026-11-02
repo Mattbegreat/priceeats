@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "NEVERLAND Bakery Cafe",
+  "address": "115臺北市南港區南港里南港路一段265號",
+  "lat": 25.0544859,
+  "lng": 121.6087657,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=NEVERLAND%20Bakery%20Cafe&query_place_id=ChIJmTG6816rQjQROj9fjiCafjY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "綠蓉蛤蜊義大利麵",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式牛肉丸肉醬義大利麵",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香骰子牛義大利麵",
+   "price": 380,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露奶油義大利麵",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子奶油燻鮭魚義大利麵",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香蒜辣椒雞肉起司義大利麵",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "西西里香料烤雞腿排義大利麵",
+   "price": 360,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紫蘇蒜香辣味海鮮義大利麵",
+   "price": 390,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

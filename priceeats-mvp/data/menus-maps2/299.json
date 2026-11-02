@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "Café Kitsuné LaLaport 南港",
+  "address": "115臺北市南港區環河里經貿二路131號1樓",
+  "lat": 25.0592558,
+  "lng": 121.618031,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Kitsun%C3%A9%20LaLaport%20%E5%8D%97%E6%B8%AF&query_place_id=ChIJ-ytmryetQjQRT-jLNPzoTXs"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "蛋沙拉三明治",
+   "price": 240,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式雞排三明治",
+   "price": 260,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法式火腿起司三明治",
+   "price": 280,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典法式鹹派",
+   "price": 320,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "土耳其香料水波蛋",
+   "price": 450,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚班尼迪克蛋",
+   "price": 300,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法式炒蛋搭配酸種麵包",
+   "price": 280,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "地中海香料番茄燉蛋",
+   "price": 420,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酪梨酸種麵包",
+   "price": 300,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式乳酪開心果酸種麵包",
+   "price": 300,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油胡蘿蔔濃湯佐烤起司三明治",
+   "price": 320,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

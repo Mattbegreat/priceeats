@@ -1,0 +1,161 @@
+{
+ "restaurant": {
+  "name": "狐月小館",
+  "address": "115臺北市南港區中研里研究院路二段70巷15號一樓",
+  "lat": 25.0457463,
+  "lng": 121.6145928,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%8B%90%E6%9C%88%E5%B0%8F%E9%A4%A8&query_place_id=ChIJfceySQCrQjQRDOgAVXsVK1I"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "肉絲炒飯",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香腸炒飯",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦仁炒飯",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "羊肉炒飯",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉炒飯",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "德腸炒飯",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉絲炒麵",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦仁炒麵",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛤蜊炒麵",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮炒麵",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "羊肉炒麵",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉炒麵",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滑蛋蝦仁燴飯",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滑蛋蛤蜊燴飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滑蛋海鮮燴飯",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滑蛋羊肉燴飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滑蛋牛肉燴飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛤蜊湯麵",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮湯麵",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛤蜊湯",
+   "price": 65,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "每日雞湯",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

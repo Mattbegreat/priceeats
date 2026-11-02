@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "梨谷韓式鐵板烤肉 忠孝總店",
+  "address": "110臺北市信義區永春里忠孝東路五段699號",
+  "lat": 25.0423518,
+  "lng": 121.580102,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A2%A8%E8%B0%B7%E9%9F%93%E5%BC%8F%E9%90%B5%E6%9D%BF%E7%83%A4%E8%82%89%20%E5%BF%A0%E5%AD%9D%E7%B8%BD%E5%BA%97&query_place_id=ChIJeahVgUSrQjQRBv_WbkHfDRU"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "馬鈴薯排骨湯",
+   "price": 420,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合海鮮煎餅",
+   "price": 350,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燒酒蛤兩吃（鮑魚粥）",
+   "price": 420,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式生菜包肉（牛）",
+   "price": 330,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式生菜包肉（豬）",
+   "price": 330,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "尹食烤肉冬粉",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蜂蜜炸薯條",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "梨泰院海陸嫩豆腐鍋",
+   "price": 320,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "姜虎韓醬義麵",
+   "price": 350,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燒肉石鍋拌飯",
+   "price": 270,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵板帶骨牛小排",
+   "price": 420,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

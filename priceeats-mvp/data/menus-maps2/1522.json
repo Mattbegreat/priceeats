@@ -1,0 +1,105 @@
+{
+ "restaurant": {
+  "name": "素媽辣素食麻辣鍋",
+  "address": "105臺北市松山區東光里南京東路五段61-3號1樓",
+  "lat": 25.0519548,
+  "lng": 121.5592916,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%B4%A0%E5%AA%BD%E8%BE%A3%E7%B4%A0%E9%A3%9F%E9%BA%BB%E8%BE%A3%E9%8D%8B&query_place_id=ChIJ-RT7t2KrQjQRjes9ZE1-G_k"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "經典鍋物",
+   "price": 380,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爆漿福氣鍋物",
+   "price": 430,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "猴頭菇鍋物",
+   "price": 480,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豪華升級鍋物",
+   "price": 550,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香酥炸雞腿",
+   "price": 99,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露起司薯球",
+   "price": 99,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽酥雞",
+   "price": 69,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥辣味雞塊",
+   "price": 69,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "港式春捲",
+   "price": 69,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸小丸子",
+   "price": 59,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "脆薯條",
+   "price": 59,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸物拼盤",
+   "price": 160,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "必吃香椿拌麵（大份）",
+   "price": 79,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

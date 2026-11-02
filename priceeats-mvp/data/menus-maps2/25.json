@@ -1,0 +1,105 @@
+{
+ "restaurant": {
+  "name": "友怡盒餐",
+  "address": "115臺北市南港區南港里南港路一段137巷1號",
+  "lat": 25.0548351,
+  "lng": 121.6140223,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%8B%E6%80%A1%E7%9B%92%E9%A4%90&query_place_id=ChIJV8Ca-FirQjQRvVfQ0TKnrto"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "京醬肉絲飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "精緻排骨飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香雞排飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秘滷扣肉飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "宮保雞丁飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玫瑰油雞飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜泥白肉飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香酥雞腿飯",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒獅子頭",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒸肉餅飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特製雞排",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚排飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "叉燒飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

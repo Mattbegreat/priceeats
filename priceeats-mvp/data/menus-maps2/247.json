@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "高麗園銅盤烤肉 Citylink南港市場",
+  "address": "115臺北市南港區新光里忠孝東路七段299號7樓",
+  "lat": 25.0527115,
+  "lng": 121.6048763,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%BA%97%E5%9C%92%E9%8A%85%E7%9B%A4%E7%83%A4%E8%82%89%20Citylink%E5%8D%97%E6%B8%AF%E5%B8%82%E5%A0%B4&query_place_id=ChIJtUEYXWerQjQR1pzIaipmJ0g"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "平日午餐（成人）",
+   "price": 538,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "平日午餐（敬老價65歲以上）",
+   "price": 458,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "平日午餐（兒童3~5歲）",
+   "price": 138,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "平日午餐（兒童6~12歲）",
+   "price": 338,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "平日晚餐及例假日全天（成人）",
+   "price": 688,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "平日晚餐及例假日全天（敬老價65歲以上）",
+   "price": 598,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "平日晚餐及例假日全天（兒童3~5歲）",
+   "price": 138,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "平日晚餐及例假日全天（兒童6~12歲）",
+   "price": 338,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

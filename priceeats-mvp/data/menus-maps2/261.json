@@ -1,0 +1,322 @@
+{
+ "restaurant": {
+  "name": "粥大福-南港昆陽店",
+  "address": "115臺北市南港區新光里忠孝東路六段454號1樓",
+  "lat": 25.0502785,
+  "lng": 121.5942941,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%B2%A5%E5%A4%A7%E7%A6%8F-%E5%8D%97%E6%B8%AF%E6%98%86%E9%99%BD%E5%BA%97&query_place_id=ChIJFfeKCQCrQjQRNeSAWN5Vp-o"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "皮蛋瘦肉粥",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "皮蛋干貝瘦肉粥",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青青菜菜粥",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "吻仔魚瘦肉粥",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花菇燉雞粥",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花菇松阪豬粥",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滑蛋牛肉粥",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛤蜊絲瓜粥",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小卷雙魚粥",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小卷絲瓜粥",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "極品海鮮粥",
+   "price": 160,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "虱目魚肚粥",
+   "price": 210,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "家常三杯雞粥",
+   "price": 95,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜起司粥",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜起司牛肉粥",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜起司松阪豬粥",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "XO醬干貝瘦肉粥",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "XO醬絲瓜蛤蜊粥",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻油燉雞粥",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻油松阪豬粥",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞絲湯麵",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉絲湯麵",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "川味麻辣麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香濃奶香麵",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式泡菜麵",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣肥腸麵",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金湯酸菜魚麵",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞湯白粥（任選三樣料）",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "單點雞湯白粥",
+   "price": 70,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薑絲蛤蜊湯",
+   "price": 60,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香蛤蜊湯",
+   "price": 60,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "時蔬菜花湯",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉蛋花湯",
+   "price": 80,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海魚海鮮湯",
+   "price": 80,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "私房滷大腸",
+   "price": 100,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌深坑臭豆腐（一塊）",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌滷鴨血",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "四川口水雞",
+   "price": 80,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮燙小卷（三隻）",
+   "price": 90,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鵝油蔥拌蔬食",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "脆皮豬頭皮",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "皮蛋豆腐",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "胡麻豆腐",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典麻油粉肝",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

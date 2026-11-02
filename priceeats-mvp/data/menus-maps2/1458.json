@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "蕭家牛雜湯",
+  "address": "105臺北市松山區新東里新東街26巷1號",
+  "lat": 25.0587234,
+  "lng": 121.5660612,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%95%AD%E5%AE%B6%E7%89%9B%E9%9B%9C%E6%B9%AF&query_place_id=ChIJUahmDo6rQjQRf2NTI5JdeZ4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "牛肉炒麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉炒米粉",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉絲炒麵",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉絲炒米粉",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒牛肉",
+   "price": 150,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大腸麵線",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛雜湯",
+   "price": 110,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,245 @@
+{
+ "restaurant": {
+  "name": "虱目魚湯 豬排飯 滷肉飯",
+  "address": "115臺北市南港區舊莊里舊莊街一段155號",
+  "lat": 25.0396653,
+  "lng": 121.6207857,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%99%B1%E7%9B%AE%E9%AD%9A%E6%B9%AF%20%E8%B1%AC%E6%8E%92%E9%A3%AF%20%E6%BB%B7%E8%82%89%E9%A3%AF&query_place_id=ChIJvU-YzE6rQjQRT7teX3FstQ4"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-05-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "豬排飯",
+   "price": 85,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞腿飯",
+   "price": 115,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焢肉飯",
+   "price": 95,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷肉飯便當",
+   "price": 70,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "紅燒魚便當",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛋炒飯",
+   "price": 60,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉絲蛋炒飯",
+   "price": 70,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蝦仁蛋炒飯",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "滷肉飯（小）",
+   "price": 25,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷肉飯（大）",
+   "price": 35,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮粥",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鯛魚片粥",
+   "price": 70,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "虱目魚丸粥",
+   "price": 50,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "虱目魚肚粥",
+   "price": 105,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "什錦烏龍麵",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "什錦冬粉",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮烏龍麵",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮冬粉",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肝烏龍麵",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肝冬粉",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "虱目魚肚湯",
+   "price": 100,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "虱目魚丸湯",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蚵仔湯",
+   "price": 60,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鯛魚片湯",
+   "price": 60,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肝湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛋花湯",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合湯",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷油豆腐",
+   "price": 10,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷豬皮",
+   "price": 20,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三層肉（單點）",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焢肉（單點）",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬排（單點）",
+   "price": 45,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞腿（單點）",
+   "price": 80,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

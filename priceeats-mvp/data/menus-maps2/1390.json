@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "顏加唐麵線",
+  "address": "105臺北市松山區慈祐里八德路四段803號",
+  "lat": 25.0513626,
+  "lng": 121.5788487,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%A1%8F%E5%8A%A0%E5%94%90%E9%BA%B5%E7%B7%9A&query_place_id=ChIJt2ScRJyrQjQR8GjGxp0al7g"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "蚵仔麵線",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉焿",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油飯",
+   "price": 50,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷肉飯",
+   "price": 40,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉焿飯",
+   "price": 85,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小菜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "筍絲",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

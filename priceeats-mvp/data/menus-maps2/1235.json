@@ -1,0 +1,161 @@
+{
+ "restaurant": {
+  "name": "享蒔舒肥餐盒 松山店",
+  "address": "110臺北市信義區松隆路329巷6之1號",
+  "lat": 25.048495,
+  "lng": 121.5793005,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AB%E8%92%94%E8%88%92%E8%82%A5%E9%A4%90%E7%9B%92%20%E6%9D%BE%E5%B1%B1%E5%BA%97&query_place_id=ChIJu2Tzjp6rQjQR_eV9k3emSKE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "舒肥雞胸肉",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "照燒雞腿",
+   "price": 170,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣味雞腿",
+   "price": 170,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥炙燒板腱牛",
+   "price": 190,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜豚",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥海鹽松阪豚",
+   "price": 175,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥香蒜鯛魚",
+   "price": 150,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥薄鹽鯖魚(有刺)",
+   "price": 160,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥炙燒鮭魚(有刺)",
+   "price": 200,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "享蒔時蔬餐(無肉)",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞胸肉（單點）",
+   "price": 50,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "照燒雞腿（單點）",
+   "price": 90,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣味雞腿（單點）",
+   "price": 90,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒板腱牛（單點）",
+   "price": 90,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜豚（單點）",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鹽松阪豚（單點）",
+   "price": 90,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香蒜鯛魚（單點）",
+   "price": 70,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薄鹽鯖魚(有刺)（單點）",
+   "price": 80,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒鮭魚(有刺)（單點）",
+   "price": 130,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜（單點）",
+   "price": 25,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三色米飯",
+   "price": 25,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

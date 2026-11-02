@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "洪瑞珍南港lalaport店",
+  "address": "115臺北市南港區環河里經貿二路131號B1",
+  "lat": 25.0593449,
+  "lng": 121.6175825,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B4%AA%E7%91%9E%E7%8F%8D%E5%8D%97%E6%B8%AFlalaport%E5%BA%97&query_place_id=ChIJV8NQPwCtQjQRI_XFXmEOC5s"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-11-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "中華滿漢",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌火腿",
+   "price": 42,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麥類起司",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麥類火腿",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "原味起司",
+   "price": 42,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

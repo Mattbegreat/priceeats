@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "全民咖哩",
+  "address": "105臺北市松山區東光里南京東路五段123巷6弄1-2號",
+  "lat": 25.0530249,
+  "lng": 121.5608424,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%A8%E6%B0%91%E5%92%96%E5%93%A9&query_place_id=ChIJL6KrpJSrQjQRzdzXkCDORTQ"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "日式咖哩雞飯（小）",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式咖哩雞飯（大）",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "印度咖哩雞飯（小）",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "印度咖哩雞飯（大）",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

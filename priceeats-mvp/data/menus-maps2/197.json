@@ -1,0 +1,336 @@
+{
+ "restaurant": {
+  "name": "拉麵郎",
+  "address": "115臺北市南港區舊莊里舊莊街一段27號",
+  "lat": 25.0416354,
+  "lng": 121.6180473,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%8B%89%E9%BA%B5%E9%83%8E&query_place_id=ChIJQ7o8pzWrQjQRHw1pMgfSymI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "博多豚骨拉麵（一般）",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "博多豚骨拉麵（加大）",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "博多豚骨拉麵（特盛）",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "博多豚骨拉麵（特盛加大）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "札幌味噌拉麵（一般）",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "札幌味噌拉麵（加大）",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "札幌味噌拉麵（特盛）",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "札幌味噌拉麵（特盛加大）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬油豚骨拉麵（一般）",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬油豚骨拉麵（加大）",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬油豚骨拉麵（特盛）",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬油豚骨拉麵（特盛加大）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬油鹽味拉麵（一般）",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬油鹽味拉麵（加大）",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬油鹽味拉麵（特盛）",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬油鹽味拉麵（特盛加大）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式泡菜拉麵（一般）",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式泡菜拉麵（加大）",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式泡菜拉麵（特盛）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式泡菜拉麵（特盛加大）",
+   "price": 210,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "地獄豚骨拉麵（一般）",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "地獄豚骨拉麵（加大）",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "地獄豚骨拉麵（特盛）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "地獄豚骨拉麵（特盛加大）",
+   "price": 210,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "地獄味噌拉麵（一般）",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "地獄味噌拉麵（加大）",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "地獄味噌拉麵（特盛）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "地獄味噌拉麵（特盛加大）",
+   "price": 210,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉麻辣乾拌麵（一般）",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉麻辣乾拌麵（加大）",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉咖哩飯（一般）",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉咖哩飯（加大）",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙拼咖哩飯（雞+牛）（一般）",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙拼咖哩飯（雞+牛）（加大）",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪花牛咖哩飯（一般）",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪花牛咖哩飯（加大）",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "夏威夷咖哩飯（一般）",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "夏威夷咖哩飯（加大）",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "慢燉牛肋咖哩飯（一般）",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "慢燉牛肋咖哩飯（加大）",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪花牛丼飯（一般）",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪花牛丼飯（加大）",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒美乃雞丼飯（一般）",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒美乃雞丼飯（加大）",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "糖漬小黃瓜",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式泡菜",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

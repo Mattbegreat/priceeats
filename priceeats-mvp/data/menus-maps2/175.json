@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "蜥蜴咖哩",
+  "address": "115臺北市南港區三重里南港路一段136巷6弄3號",
+  "lat": 25.0558235,
+  "lng": 121.6132319,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%9C%A5%E8%9C%B4%E5%92%96%E5%93%A9&query_place_id=ChIJa_vj7FirQjQRXOgDoshC5c4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "雙拼咖哩（M）",
+   "price": 155,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙拼咖哩（L）",
+   "price": 155,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉咖哩（M）",
+   "price": 145,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉咖哩（L）",
+   "price": 145,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸雞咖哩（M）",
+   "price": 145,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸雞咖哩（L）",
+   "price": 145,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞腿咖哩（M）",
+   "price": 135,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞腿咖哩（L）",
+   "price": 135,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "野菜咖哩（M）",
+   "price": 125,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "野菜咖哩（L）",
+   "price": 125,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蜥蜴炸雞",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "開胃小菜",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

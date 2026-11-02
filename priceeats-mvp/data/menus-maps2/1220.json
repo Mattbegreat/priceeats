@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "Snob Cafe｜早午餐｜可頌專賣",
+  "address": "110臺北市信義區興雅里基隆路一段147巷21號",
+  "lat": 25.0424935,
+  "lng": 121.5666933,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snob%20Cafe%EF%BD%9C%E6%97%A9%E5%8D%88%E9%A4%90%EF%BD%9C%E5%8F%AF%E9%A0%8C%E5%B0%88%E8%B3%A3&query_place_id=ChIJwcX3otarQjQRIitJYrhT0do"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "原味可頌",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

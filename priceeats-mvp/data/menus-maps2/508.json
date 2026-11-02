@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "享。THAI",
+  "address": "115臺北市南港區環河里經貿二路131號6樓",
+  "lat": 25.0592558,
+  "lng": 121.618031,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AB%E3%80%82THAI&query_place_id=ChIJB551WgCtQjQR3WpWg4q7LUw"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-08-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "小曼谷椒麻雞",
+   "price": 360,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦醬空心菜",
+   "price": 250,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌黃金蝦餅（6個）",
+   "price": 530,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蟹肉歐姆蛋",
+   "price": 380,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綠咖哩椰汁蝦",
+   "price": 420,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮果酸蝦",
+   "price": 420,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰味蝦鬆",
+   "price": 420,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "軟殼蟹蟹酥",
+   "price": 480,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃咖哩軟殼蟹",
+   "price": 480,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清蒸檸檬魚",
+   "price": 580,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸椰椰魚片",
+   "price": 699,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小霸王什錦海鮮桶",
+   "price": 699,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

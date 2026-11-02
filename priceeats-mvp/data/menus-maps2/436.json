@@ -1,0 +1,140 @@
+{
+ "restaurant": {
+  "name": "趙咖丼飯烏龍麵",
+  "address": "No. 37號, Xinmin St, 三重里南港區臺北市115",
+  "lat": 25.0561011,
+  "lng": 121.612805,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B6%99%E5%92%96%E4%B8%BC%E9%A3%AF%E7%83%8F%E9%BE%8D%E9%BA%B5&query_place_id=ChIJcRaldn2rQjQRKU6BPKBlHqk"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "馬鈴薯燉肉",
+   "price": 130,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜炒牛",
+   "price": 130,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜炒豬肉",
+   "price": 130,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑醋油淋雞",
+   "price": 130,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦仁炒時蔬",
+   "price": 130,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦仁滑蛋",
+   "price": 130,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "番茄炒牛",
+   "price": 130,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "番茄炒豬肉",
+   "price": 130,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "番茄炒蛋",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式唐揚雞",
+   "price": 120,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "時令炒蔬菜",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白飯",
+   "price": 10,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸雞咖哩飯",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦仁蛋炒飯",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚雞炒飯",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉絲蛋炒飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜炒烏龍麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式炒烏龍麵",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

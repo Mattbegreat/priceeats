@@ -1,0 +1,119 @@
+{
+ "restaurant": {
+  "name": "小器食堂 微風南山店",
+  "address": "110臺北市信義區西村里松智路17號3樓",
+  "lat": 25.0342551,
+  "lng": 121.5659837,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E5%99%A8%E9%A3%9F%E5%A0%82%20%E5%BE%AE%E9%A2%A8%E5%8D%97%E5%B1%B1%E5%BA%97&query_place_id=ChIJo7MDdNOrQjQRHj-ZspLJxYw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "龍田揚炸雞塊（單點）",
+   "price": 240,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "龍田揚炸雞塊（定食）",
+   "price": 340,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "番茄醬起司漢堡排（單點）",
+   "price": 240,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "番茄醬起司漢堡排（定食）",
+   "price": 340,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "赤峰奶油雞肉咖哩（單點）",
+   "price": 240,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "赤峰奶油雞肉咖哩（定食）",
+   "price": 340,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽烤雞腿排（單點）",
+   "price": 240,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽烤雞腿排（定食）",
+   "price": 340,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "本日特製烤鮭魚(銀鮭日切)（單點）",
+   "price": 280,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "本日特製烤鮭魚(銀鮭日切)（定食）",
+   "price": 380,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒澎湖小卷（單點）",
+   "price": 280,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒澎湖小卷（定食）",
+   "price": 380,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "柚庵燒大比目魚（單點）",
+   "price": 280,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "柚庵燒大比目魚（定食）",
+   "price": 380,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒲燒鰻魚（定食）",
+   "price": 490,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

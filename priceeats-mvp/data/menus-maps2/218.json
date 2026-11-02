@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "福古南洋（越南之家老店）",
+  "address": "115臺北市南港區西新里南港路三段16巷3弄8號",
+  "lat": 25.0546587,
+  "lng": 121.5921938,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%8F%A4%E5%8D%97%E6%B4%8B%EF%BC%88%E8%B6%8A%E5%8D%97%E4%B9%8B%E5%AE%B6%E8%80%81%E5%BA%97%EF%BC%89&query_place_id=ChIJx-7DG3urQjQRnkfYT9Ni71c"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-02-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "招牌沙茶牛肉麵",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秘製咖哩羊肉麵",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "越式酸辣雞絲米線",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清湯牛肉河粉",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜豬肉米線",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩醬拌牛肉",
+   "price": 120,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "越式酸辣雞絲沙律",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

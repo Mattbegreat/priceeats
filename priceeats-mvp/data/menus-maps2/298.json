@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "阿巴德印度餐廳 Abad indian Halal Restaurant",
+  "address": "115臺北市南港區鴻福里玉成街176號",
+  "lat": 25.0441766,
+  "lng": 121.5843643,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E5%B7%B4%E5%BE%B7%E5%8D%B0%E5%BA%A6%E9%A4%90%E5%BB%B3%20Abad%20indian%20Halal%20Restaurant&query_place_id=ChIJIXC7ayOrQjQRQZYAUXeIJPI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "奶油雞肉咖哩",
+   "price": 299,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "印式風味牛肉咖哩",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "羊肉咖哩",
+   "price": 350,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "印度鮮蝦咖哩",
+   "price": 330,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉義大利麵",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "印度米飯（大）",
+   "price": 70,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "印度米飯（小）",
+   "price": 40,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

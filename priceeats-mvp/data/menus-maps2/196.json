@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "太陽蕃茄拉麵 南港LaLaport",
+  "address": "115606臺北市南港區經貿二路131號5 樓",
+  "lat": 25.0593449,
+  "lng": 121.6175825,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%AA%E9%99%BD%E8%95%83%E8%8C%84%E6%8B%89%E9%BA%B5%20%E5%8D%97%E6%B8%AFLaLaport&query_place_id=ChIJCX-oNKCpQjQR4e2XponZQd8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "酥脆炸豬排",
+   "price": 170,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特製炸雞塊",
+   "price": 160,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "漢堡排（牛豬混合）",
+   "price": 240,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸薯條",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "植物肉排",
+   "price": 220,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

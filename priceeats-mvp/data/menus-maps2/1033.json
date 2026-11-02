@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "吳興12號 ＜俊賢水餃號(鍋貼水餃店)＞",
+  "address": "110臺北市信義區景聯里吳興街8巷1號",
+  "lat": 25.031458,
+  "lng": 121.5593808,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%90%B3%E8%88%8812%E8%99%9F%20%EF%BC%9C%E4%BF%8A%E8%B3%A2%E6%B0%B4%E9%A4%83%E8%99%9F%28%E9%8D%8B%E8%B2%BC%E6%B0%B4%E9%A4%83%E5%BA%97%29%EF%BC%9E&query_place_id=ChIJ4Q03c8qrQjQRNWfu4nRAnKg"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-04-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "招牌鍋貼（10顆，每顆6元）",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜鍋貼（10顆，每顆6元）",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "高麗菜水餃（10顆，每顆5元）",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韭菜水餃（10顆，每顆5元）",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合水餃（10顆，每顆5元）",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣湯餃",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玉米湯餃",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣湯",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玉米湯",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "各式小菜",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "restaurant": {
+  "name": "老逗的店",
+  "address": "110臺北市信義區西村里基隆路一段380巷1號",
+  "lat": 25.0345259,
+  "lng": 121.5598134,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%80%81%E9%80%97%E7%9A%84%E5%BA%97&query_place_id=ChIJz8DSnxyrQjQRKz3KhtyALOI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "加青菜（小盤）",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "加青菜（大盤）",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "加白飯",
+   "price": 20,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "時蔬雞丁",
+   "price": 250,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "時蔬肉片",
+   "price": 250,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "辣炒雞丁",
+   "price": 300,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "豆干雞丁",
+   "price": 280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "豆干肉片",
+   "price": 280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "乾煎午仔魚",
+   "price": 350,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "乾煎黃魚",
+   "price": 380,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "紅燒午仔魚",
+   "price": 400,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "紅燒黃魚",
+   "price": 400,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蝦仁烘蛋（小）",
+   "price": 400,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蝦仁烘蛋（大）",
+   "price": 450,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蛤蜊絲瓜",
+   "price": 450,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

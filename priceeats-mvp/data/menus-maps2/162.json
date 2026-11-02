@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "TG 蔬坊 The Greenery 南港環球店",
+  "address": "115臺北市南港區新光里忠孝東路七段371號B1",
+  "lat": 25.0528955,
+  "lng": 121.6072597,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TG%20%E8%94%AC%E5%9D%8A%20The%20Greenery%20%E5%8D%97%E6%B8%AF%E7%92%B0%E7%90%83%E5%BA%97&query_place_id=ChIJMcs8xF2rQjQR7BccAbbR-jM"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "TG沙拉（大）",
+   "price": 219,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "TG沙拉（中）",
+   "price": 199,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "TG沙拉（小）",
+   "price": 169,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

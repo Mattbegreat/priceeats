@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "小陳紅燒牛肉麵",
+  "address": "110臺北市信義區廣居里虎林街135號",
+  "lat": 25.039869,
+  "lng": 121.576847,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E9%99%B3%E7%B4%85%E7%87%92%E7%89%9B%E8%82%89%E9%BA%B5&query_place_id=ChIJzyqO_qOrQjQR2lwRY8GcyUc"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "紅燒牛肉麵（小）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒牛肉麵（大）",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒牛肉湯（小）",
+   "price": 200,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒牛肉湯（大）",
+   "price": 230,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清湯牛肉麵（小）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清湯牛肉麵（大）",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清湯牛肉湯（小）",
+   "price": 200,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清湯牛肉湯（大）",
+   "price": 230,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "榨菜肉絲麵（小）",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "榨菜肉絲麵（大）",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸醬麵（小）",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸醬麵（大）",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

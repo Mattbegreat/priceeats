@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "J.S. FOODIES 南港LALAPORT",
+  "address": "115臺北市南港區環河里經貿二路131號2樓",
+  "lat": 25.0593449,
+  "lng": 121.6175825,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=J.S.%20FOODIES%20%E5%8D%97%E6%B8%AFLALAPORT&query_place_id=ChIJz60EHPytQjQRdhdkxBAjFfE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "二人套餐",
+   "price": 1288,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三人套餐",
+   "price": 1688,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

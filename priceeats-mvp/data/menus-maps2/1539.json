@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "巴雷巴雷印度餐廳",
+  "address": "105臺北市松山區復勢里光復北路12號1樓",
+  "lat": 25.0486993,
+  "lng": 121.5576634,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B7%B4%E9%9B%B7%E5%B7%B4%E9%9B%B7%E5%8D%B0%E5%BA%A6%E9%A4%90%E5%BB%B3&query_place_id=ChIJJ-1vL8CrQjQR5-OL_J-WxL8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "白醬窯烤嫩雞塊",
+   "price": 440,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "窯烤無骨鯛魚",
+   "price": 415,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "風味菠菜咖哩雞",
+   "price": 410,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "阿姆利則洋蔥青椒酪塊",
+   "price": 365,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "薑黃飯",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香烤餅",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "全麥手工抓餅",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

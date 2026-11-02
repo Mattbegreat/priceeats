@@ -194,6 +194,7 @@ def main():
     ap.add_argument("--out", default="menu_dataset")
     ap.add_argument("--only", default="", help="只跑指定編號，逗號分隔，例如 12 或 01,02")
     ap.add_argument("--headless", action="store_true")
+    ap.add_argument("--force", action="store_true", help="已完成的店也重新下載（更新舊照片用）")
     ap.add_argument("--cdp", default="", help="連到已登入 Google 的 Chrome，例如 http://localhost:9222")
     a = ap.parse_args()
 
@@ -227,7 +228,7 @@ def main():
                     done = json.load(open(meta, encoding="utf-8")).get("status") == "ok"
                 except Exception:
                     done = False
-            if done:
+            if done and not a.force:
                 print(f"[跳過] {s['id']} {s['name']}（已完成）")
                 continue
             os.makedirs(sdir, exist_ok=True)

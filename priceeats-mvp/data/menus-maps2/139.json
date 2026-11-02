@@ -1,0 +1,126 @@
+{
+ "restaurant": {
+  "name": "南港燴館中餐廳",
+  "address": "115臺北市南港區三重里經貿二路1號3樓",
+  "lat": 25.0570479,
+  "lng": 121.6179926,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%B8%AF%E7%87%B4%E9%A4%A8%E4%B8%AD%E9%A4%90%E5%BB%B3&query_place_id=ChIJXfCvReOrQjQRs3K2Lo84HaI"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "紅燒牛肉麵",
+   "price": 420,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清燉牛肉麵",
+   "price": 420,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "胡麻舒肥雞",
+   "price": 395,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蟹粉獅子頭",
+   "price": 395,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔬食紅燒番茄牛肉麵",
+   "price": 395,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑胡椒猴菇排",
+   "price": 395,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "脆皮雞(半隻)",
+   "price": 658,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "無錫嫩排骨",
+   "price": 658,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露臘味蘿蔔糕",
+   "price": 125,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥油白斬雞",
+   "price": 355,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪蛤人蔘雞",
+   "price": 168,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙色燒賣",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香滷牛腱",
+   "price": 200,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮑魚佛跳牆",
+   "price": 168,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "月亮蝦餅",
+   "price": 195,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "冰釀醉蝦",
+   "price": 200,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

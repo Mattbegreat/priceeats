@@ -1,0 +1,329 @@
+{
+ "restaurant": {
+  "name": "竹記食堂",
+  "address": "110臺北市信義區廣居里虎林街163號1樓",
+  "lat": 25.039282,
+  "lng": 121.57671,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%AB%B9%E8%A8%98%E9%A3%9F%E5%A0%82&query_place_id=ChIJU3DOpNmrQjQRD86wb-xh05k"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-12-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "排骨蛋炒飯",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "魚排蛋炒飯",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞肉蛋炒飯",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "羊肉蛋炒飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉蛋炒飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蝦仁蛋炒飯",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "肉絲蛋炒飯",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "馬來風味炒飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蛋炒飯",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬肉燴飯",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉燴飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "羊肉燴飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "海鮮燴飯",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "海鮮炒麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "羊肉炒麵",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉炒麵",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "肉絲炒麵",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炒青菜",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "時蔬炒烏龍",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "台式炒泡麵",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "醉雞",
+   "price": 90,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "花椰菜",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "嘴邊肉",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "肝連",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燙青菜",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "皮蛋豆腐",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "油豆腐",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "三色滷味（海帶、豆乾、滷蛋）",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "什錦海鮮湯麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蛤蜊肉絲麵",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "麻辣鴨血",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "麻辣臭豆腐",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "麻辣鴨血臭豆腐",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "清燉臭豆腐",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "清燉鴨血臭豆腐",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬血糕",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸鯰魚排",
+   "price": 60,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸檸檬雞柳條",
+   "price": 55,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸排骨",
+   "price": 80,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "貢丸湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "紫菜蛋花湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蕃茄蛋花湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "肝連湯",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "嘴邊肉湯",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蛤蜊湯",
+   "price": 60,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

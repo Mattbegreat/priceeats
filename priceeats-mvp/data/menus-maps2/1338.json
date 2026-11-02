@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "Le Partage 樂享小法廚",
+  "address": "106臺北市大安區安和路一段90巷35號",
+  "lat": 25.0347975,
+  "lng": 121.5503521,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Partage%20%E6%A8%82%E4%BA%AB%E5%B0%8F%E6%B3%95%E5%BB%9A&query_place_id=ChIJbzoD2c2rQjQRlY1xUnGfYIE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "厚培根野菇筆管麵",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子海鮮義大利麵",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆腐乳蜂蜜雞翅義大利麵",
+   "price": 280,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蝦青醬吸管麵",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣味蒜香海鮮義大利麵",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙花女海鮮筆管麵",
+   "price": 310,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "新鮮牛肝菌野菇燉飯",
+   "price": 340,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "主廚每日心情燉飯",
+   "price": 360,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "北海道干貝.墨魚奶油燉飯",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎肋眼.紅酒香料燉飯",
+   "price": 400,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

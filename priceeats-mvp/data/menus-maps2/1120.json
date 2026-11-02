@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "長浜魚屋-信義遠百A13",
+  "address": "110臺北市信義區西村里松仁路58號B3",
+  "lat": 25.0370458,
+  "lng": 121.5677863,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E6%B5%9C%E9%AD%9A%E5%B1%8B-%E4%BF%A1%E7%BE%A9%E9%81%A0%E7%99%BEA13&query_place_id=ChIJZ8rzl4-rQjQRdvbF0r9bslE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "隱藏版豪華海鮮丼",
+   "price": 798,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "散壽司",
+   "price": 598,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑鮪魚丼",
+   "price": 518,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚親子丼",
+   "price": 518,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒鮨邊星鰻丼",
+   "price": 498,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合生魚片盤",
+   "price": 598,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日本A5和牛丼飯",
+   "price": 498,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

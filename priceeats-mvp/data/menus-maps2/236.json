@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "鎮興燒臘",
+  "address": "115臺北市南港區新富里研究院路一段106號",
+  "lat": 25.0521802,
+  "lng": 121.6159705,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%8E%AE%E8%88%88%E7%87%92%E8%87%98&query_place_id=ChIJ18b67lmrQjQRst776m5jREI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "油雞飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香腸飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "叉燒飯",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙拼飯",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燒肉飯",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燒鴨飯",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油雞腿飯",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤雞腿飯",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三寶飯",
+   "price": 160,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "臘味飯",
+   "price": 160,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鴨腿飯",
+   "price": 170,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌飯",
+   "price": 190,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "restaurant": {
+  "name": "卡好食堂",
+  "address": "115臺北市南港區南港里中南街8號",
+  "lat": 25.0549846,
+  "lng": 121.6152038,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%A1%E5%A5%BD%E9%A3%9F%E5%A0%82&query_place_id=ChIJZUThIK6rQjQRKqXJzCnThHI"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "卡好豚丼",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "卡好牛丼",
+   "price": 115,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "卡好親子丼",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "照燒雞腿丼",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "火烤骰子牛丼",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔬食野菇丼",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "脆薯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "無骨炸雞",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "甜不辣",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "可樂餅",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌湯",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清酒蛤蜊湯",
+   "price": 40,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美味牛蒡絲",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式醃蘿蔔",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

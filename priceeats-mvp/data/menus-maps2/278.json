@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "馬的關東煮專賣店",
+  "address": "115臺北市南港區中研里研究院路二段9-2號馬的關東煮1樓",
+  "lat": 25.046711,
+  "lng": 121.615558,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%A6%AC%E7%9A%84%E9%97%9C%E6%9D%B1%E7%85%AE%E5%B0%88%E8%B3%A3%E5%BA%97&query_place_id=ChIJX5upkkirQjQRHEicvcA5f7g"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "極上海鮮生魚片寶船（35片）",
+   "price": 880,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豪華全盛宴鮭魚船",
+   "price": 880,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞佛手捲",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒豬肉烏龍",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒鮭魚烏龍",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒雞佛烏龍",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤明太子山藥",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤明太子麵包",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "明太子毛豆手捲",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "巨無爸鮭魚壽司",
+   "price": 380,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

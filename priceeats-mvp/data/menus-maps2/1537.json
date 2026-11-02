@@ -1,0 +1,189 @@
+{
+ "restaurant": {
+  "name": "山雀咖哩",
+  "address": "2號, No. 2八德路四段709巷慈祐里松山區臺北市105",
+  "lat": 25.0504466,
+  "lng": 121.5768548,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E9%9B%80%E5%92%96%E5%93%A9&query_place_id=ChIJEdaUs_mrQjQRURRmMcdGjGo"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "銀座豪華四重奏咖哩飯（單點）",
+   "price": 340,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "銀座豪華四重奏咖哩飯（套餐）",
+   "price": 400,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "山雀特盛咖哩飯（單點）",
+   "price": 270,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "山雀特盛咖哩飯（套餐）",
+   "price": 330,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "華麗炸物MIX咖哩飯Ⅰ（單點）",
+   "price": 300,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "華麗炸物MIX咖哩飯Ⅰ（套餐）",
+   "price": 360,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "華麗炸物MIX咖哩飯Ⅱ（單點）",
+   "price": 270,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "華麗炸物MIX咖哩飯Ⅱ（套餐）",
+   "price": 330,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "華麗炸物MIX咖哩飯Ⅲ（單點）",
+   "price": 260,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "華麗炸物MIX咖哩飯Ⅲ（套餐）",
+   "price": 320,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美式俱樂部咖哩飯（單點）",
+   "price": 260,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美式俱樂部咖哩飯（套餐）",
+   "price": 320,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "半半咖哩飯（單點）",
+   "price": 230,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "半半咖哩飯（套餐）",
+   "price": 290,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "吉祥寺風炸牛肉餅咖哩飯（單點）",
+   "price": 190,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "吉祥寺風炸牛肉餅咖哩飯（套餐）",
+   "price": 250,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚炸雞腿塊咖哩飯（單點）",
+   "price": 200,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚炸雞腿塊咖哩飯（套餐）",
+   "price": 260,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃金炸蝦咖哩飯（單點）",
+   "price": 200,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃金炸蝦咖哩飯（套餐）",
+   "price": 260,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玉米奶油炸丸子咖哩飯（單點）",
+   "price": 180,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玉米奶油炸丸子咖哩飯（套餐）",
+   "price": 240,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃金泡菜豆腐",
+   "price": 90,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薯條",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸物拼盤",
+   "price": 240,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

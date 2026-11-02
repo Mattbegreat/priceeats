@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "龍一海南雞 南京三民店",
+  "address": "105臺北市松山區新聚里南京東路五段250巷5-1號",
+  "lat": 25.0503906,
+  "lng": 121.5659966,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BE%8D%E4%B8%80%E6%B5%B7%E5%8D%97%E9%9B%9E%20%E5%8D%97%E4%BA%AC%E4%B8%89%E6%B0%91%E5%BA%97&query_place_id=ChIJxTHbA_yrQjQRUIO4A0hTRTg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "1號餐（雞腿半隻）",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "2號餐（雞腿半隻）",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "3號餐（雞腿半隻）",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "4號餐（豬腱肉一份）",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "5號餐（小食量首選）",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "6號餐（小食量首選）",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "7號餐（泰式打拋雞胸）",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "8號餐（蒜泥豬肉片）",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "旭穗蔬食VEGANala",
+  "address": "b1, No. 327號松隆路永吉里信義區臺北市110",
+  "lat": 25.048302,
+  "lng": 121.5790201,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%97%AD%E7%A9%97%E8%94%AC%E9%A3%9FVEGANala&query_place_id=ChIJ86OgMmurQjQRzRz1_YBBCYs"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "平日午餐",
+   "price": 420,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "週六日&國定假日午餐",
+   "price": 450,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "平日下午茶",
+   "price": 379,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "週六日&國定假日下午茶",
+   "price": 399,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

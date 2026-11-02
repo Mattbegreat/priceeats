@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "AWESOME BURGER",
+  "address": "110臺北市信義區新仁里基隆路一段190巷11號",
+  "lat": 25.0420143,
+  "lng": 121.5641962,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AWESOME%20BURGER&query_place_id=ChIJoeYaSrmrQjQRl7CUbo2Pluc"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "美國切達起士牛肉堡",
+   "price": 220,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "普羅伏洛起士牛肉堡",
+   "price": 230,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "BBQ起士牛肉堡",
+   "price": 220,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "BBQ培根起士牛肉堡",
+   "price": 240,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "BBQ鳳梨起士牛肉堡",
+   "price": 240,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根起士牛肉堡",
+   "price": 250,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花生醬培根起士牛肉堡",
+   "price": 260,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥辣味培根起士牛肉堡",
+   "price": 260,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒野菇起士牛肉堡",
+   "price": 270,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣肉醬起士牛肉堡",
+   "price": 300,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣肉醬野菇起士牛肉堡",
+   "price": 300,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "碳烤起士雞腿堡",
+   "price": 230,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

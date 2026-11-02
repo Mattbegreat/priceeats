@@ -1,0 +1,140 @@
+{
+ "restaurant": {
+  "name": "DuDu Viet Nam Food 越南美食",
+  "address": "110202臺北市信義區中興里光復南路473巷29號1樓",
+  "lat": 25.033782,
+  "lng": 121.5588746,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=DuDu%20Viet%20Nam%20Food%20%E8%B6%8A%E5%8D%97%E7%BE%8E%E9%A3%9F&query_place_id=ChIJy9y7GRqrQjQRrSWuGD4PFYA"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "豬肉酸辣湯麵",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉酸辣湯麵",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮酸辣湯麵",
+   "price": 280,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香腸酸辣湯麵",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮑魚酸辣湯麵",
+   "price": 350,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛤蜊酸辣湯麵",
+   "price": 250,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "扇貝酸辣湯麵",
+   "price": 350,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生牛肉河粉",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "扣肉飯",
+   "price": 190,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "越式排骨飯",
+   "price": 190,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生春捲",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸春捲",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生牛肉蛋花湯",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "火腿",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式酸辣去骨雞爪",
+   "price": 170,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香茅金句去骨雞爪",
+   "price": 170,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香茅清蒸蛤蜊",
+   "price": 100,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香茅清蒸鮑魚",
+   "price": 150,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

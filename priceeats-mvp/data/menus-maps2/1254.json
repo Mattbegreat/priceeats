@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "Lazy Pasta 慵懶義式廚房信義市府店",
+  "address": "110臺北市信義區忠孝東路五段71巷30號1樓",
+  "lat": 25.0426602,
+  "lng": 121.5672962,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lazy%20Pasta%20%E6%85%B5%E6%87%B6%E7%BE%A9%E5%BC%8F%E5%BB%9A%E6%88%BF%E4%BF%A1%E7%BE%A9%E5%B8%82%E5%BA%9C%E5%BA%97&query_place_id=ChIJ0_vBimarQjQRaWXEDcDd5qw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "青醬花捲麵佐北海道干貝蛤蠣",
+   "price": 468,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "帕達諾起司辣肉醬佐溫泉蛋花捲麵",
+   "price": 398,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑鑽松露牛肝菌佐松阪豬花捲麵",
+   "price": 488,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "漁光盛宴奶油花捲麵",
+   "price": 468,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

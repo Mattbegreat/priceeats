@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "伊勢路勝勢日式豬排 南港LaLaport店",
+  "address": "115臺北市南港區環河里經貿二路131號6樓",
+  "lat": 25.0592558,
+  "lng": 121.618031,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8A%E5%8B%A2%E8%B7%AF%E5%8B%9D%E5%8B%A2%E6%97%A5%E5%BC%8F%E8%B1%AC%E6%8E%92%20%E5%8D%97%E6%B8%AFLaLaport%E5%BA%97&query_place_id=ChIJv-ldVgCtQjQRgLi9GgYY04k"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "平埔黑豚厚切里肌豬排套餐（240g）",
+   "price": 540,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "平埔黑豚腰內豬排套餐（160g）",
+   "price": 470,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "平埔黑豚里肌豬排（中份）套餐（160g）",
+   "price": 450,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

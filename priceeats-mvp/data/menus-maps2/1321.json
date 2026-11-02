@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "花寓・遇寓好食丨台北下午茶・空間租借・企業團建・手作甜點",
+  "address": "110臺北市信義區三犁里信義路五段150巷22弄61號",
+  "lat": 25.0273039,
+  "lng": 121.5705842,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E5%AF%93%E3%83%BB%E9%81%87%E5%AF%93%E5%A5%BD%E9%A3%9F%E4%B8%A8%E5%8F%B0%E5%8C%97%E4%B8%8B%E5%8D%88%E8%8C%B6%E3%83%BB%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F%E3%83%BB%E4%BC%81%E6%A5%AD%E5%9C%98%E5%BB%BA%E3%83%BB%E6%89%8B%E4%BD%9C%E7%94%9C%E9%BB%9E&query_place_id=ChIJXRD4OmOrQjQREpSTeLkCeUQ"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "蔬食咖哩飯",
+   "price": 340,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "堅果雞胸咖哩飯",
+   "price": 400,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油封鴨腿咖哩飯",
+   "price": 440,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻牛肉咖哩飯",
+   "price": 460,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油封鴨腿蔬食餐",
+   "price": 440,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "堅果雞胸蔬食餐",
+   "price": 400,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻牛肉蔬食餐",
+   "price": 460,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "一蘭 台灣台北本店",
+  "address": "11051臺北市信義區松仁路97號",
+  "lat": 25.0364415,
+  "lng": 121.5692243,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E8%98%AD%20%E5%8F%B0%E7%81%A3%E5%8F%B0%E5%8C%97%E6%9C%AC%E5%BA%97&query_place_id=ChIJ41wbgbqrQjQR75mxQgbywys"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "天然豚骨拉麵(創業以來)",
+   "price": 310,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白飯-嚴選越光米-",
+   "price": 60,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燉煮叉燒肉",
+   "price": 145,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

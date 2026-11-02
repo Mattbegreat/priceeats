@@ -1,0 +1,126 @@
+{
+ "restaurant": {
+  "name": "JK studio",
+  "address": "110臺北市信義區興雅里基隆路一段147巷5弄13號",
+  "lat": 25.0428905,
+  "lng": 121.5662123,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=JK%20studio&query_place_id=ChIJz8_rGbyrQjQRD1-qfRm5C1M"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "培根蛋奶麵",
+   "price": 480,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "波隆那肉醬麵",
+   "price": 480,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑松露蕈菇燉飯",
+   "price": 480,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油封鴨腿與芥末籽醬",
+   "price": 680,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "檸香奶油嫩煎鮭魚",
+   "price": 680,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "諾曼第豬排",
+   "price": 880,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "勃根地紅酒燉和牛頰與奶油飯",
+   "price": 880,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽麴Prime板腱牛排與松露醬汁",
+   "price": 880,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法式小羔羊與波特莓果醬",
+   "price": 1080,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "穀飼300天牛肩小排5oz",
+   "price": 1080,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "噶瑪蘭戰斧豬排16oz（限量）",
+   "price": 1280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "澳洲M9和牛菲力",
+   "price": 1480,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美國頂級無骨牛小排",
+   "price": 1680,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "波士頓龍蝦麵（限量）",
+   "price": 1680,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美國Prime肋眼牛排薯條24oz",
+   "price": 3280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "JK經典戰斧牛排42oz",
+   "price": 4680,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

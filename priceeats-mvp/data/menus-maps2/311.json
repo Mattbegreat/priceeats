@@ -1,0 +1,105 @@
+{
+ "restaurant": {
+  "name": "1010湘 南港中信店",
+  "address": "115臺北市南港區經貿二路186-1號C棟",
+  "lat": 25.0585362,
+  "lng": 121.6149812,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1010%E6%B9%98%20%E5%8D%97%E6%B8%AF%E4%B8%AD%E4%BF%A1%E5%BA%97&query_place_id=ChIJfwxWn6isQjQRjmr4eEmBaFs"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "東安仔雞",
+   "price": 350,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "左宗棠雞",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雲耳腐乳嫩雞",
+   "price": 360,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣子尋雞丁",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸口水雞",
+   "price": 350,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "腐乳空心菜",
+   "price": 250,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "湘西臘肉高麗菜",
+   "price": 250,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醋溜土豆絲",
+   "price": 195,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香空心菜",
+   "price": 195,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "一罐香",
+   "price": 480,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌魷魚花生排骨燉湯",
+   "price": 420,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌蛤蜊冬瓜上湯",
+   "price": 398,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "苦瓜排骨湯",
+   "price": 398,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

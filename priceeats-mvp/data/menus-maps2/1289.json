@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "新村站著吃烤肉 台北市府店",
+  "address": "110臺北市信義區忠孝東路五段159號",
+  "lat": 25.0412313,
+  "lng": 121.5685155,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%9D%91%E7%AB%99%E8%91%97%E5%90%83%E7%83%A4%E8%82%89%20%E5%8F%B0%E5%8C%97%E5%B8%82%E5%BA%9C%E5%BA%97&query_place_id=ChIJIWk2Q_qrQjQRHAVUOKCblUc"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "招牌牛橫膈膜便當",
+   "price": 390,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "伊比利豬炒泡菜便當",
+   "price": 340,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燒烤肥牛韓式炒泡麵",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣牛肉湯飯",
+   "price": 270,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚板湯",
+   "price": 220,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣牛肉湯",
+   "price": 220,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司辣炒年糕",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮煎餅",
+   "price": 200,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤一盒蔬菜",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "極細脆薯",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

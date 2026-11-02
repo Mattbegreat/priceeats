@@ -1,0 +1,126 @@
+{
+ "restaurant": {
+  "name": "華姐鴨肉店",
+  "address": "115臺北市南港區東新里重陽路160號",
+  "lat": 25.0570867,
+  "lng": 121.6007845,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%8F%AF%E5%A7%90%E9%B4%A8%E8%82%89%E5%BA%97&query_place_id=ChIJIweoQtirQjQRGdZ8T3rAKjg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "鴨肉飯",
+   "price": 85,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白飯",
+   "price": 20,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "乾油麵",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "乾意麵",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "乾陽春麵",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "乾米苔目",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "切仔油麵",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "切仔意麵",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "切仔陽春麵",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "切仔米苔目",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "切仔冬粉",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "綜合油麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "綜合意麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "綜合陽春麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "綜合米苔目",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "綜合冬粉",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

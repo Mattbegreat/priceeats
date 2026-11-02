@@ -1,0 +1,133 @@
+{
+ "restaurant": {
+  "name": "弘道街小吃",
+  "address": "221新北市汐止區橫科里弘道街43號",
+  "lat": 25.0486414,
+  "lng": 121.6180813,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BC%98%E9%81%93%E8%A1%97%E5%B0%8F%E5%90%83&query_place_id=ChIJc-VlBgerQjQRfr5AVGZAwXw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-31",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "魯肉飯",
+   "price": 30,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "米粉湯",
+   "price": 30,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "乾麵",
+   "price": 40,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "湯麵",
+   "price": 40,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬血湯",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大腸湯",
+   "price": 55,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小腸湯",
+   "price": 55,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肝連湯",
+   "price": 55,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆干",
+   "price": 15,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海帶",
+   "price": 15,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆皮",
+   "price": 15,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油豆腐",
+   "price": 15,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒肉",
+   "price": 55,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大腸",
+   "price": 55,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小腸",
+   "price": 55,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肝連",
+   "price": 55,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燙青菜",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

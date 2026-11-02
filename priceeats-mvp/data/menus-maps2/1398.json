@@ -1,0 +1,140 @@
+{
+ "restaurant": {
+  "name": "吉好吃！涼麵",
+  "address": "105臺北市松山區吉祥里吉祥路12號",
+  "lat": 25.0491313,
+  "lng": 121.5625291,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%90%89%E5%A5%BD%E5%90%83%EF%BC%81%E6%B6%BC%E9%BA%B5&query_place_id=ChIJYZkfHACrQjQR1lOJ8csWuc4"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-11-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "芝麻涼麵（小）",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芝麻涼麵（大）",
+   "price": 65,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "和風涼麵（小）",
+   "price": 65,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "和風涼麵（大）",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙醬涼麵（小）",
+   "price": 75,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙醬涼麵（大）",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式涼麵（小）",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式涼麵（大）",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芝麻熱麵",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉燥熱麵",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙醬熱麵",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌湯麵",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌湯",
+   "price": 25,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌蛋花",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌貢丸",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌三合一",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "湯青菜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉鬆皮蛋豆腐",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

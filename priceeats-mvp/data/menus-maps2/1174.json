@@ -1,0 +1,350 @@
+{
+ "restaurant": {
+  "name": "韓國大叔餐廳",
+  "address": "11049臺北市信義區黎順里基隆路二段185號",
+  "lat": 25.0248675,
+  "lng": 121.5533232,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%9F%93%E5%9C%8B%E5%A4%A7%E5%8F%94%E9%A4%90%E5%BB%B3&query_place_id=ChIJQ7tqMhSrQjQRke0jTexrMe8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "辣牛肉湯鍋",
+   "price": 630,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "人蔘雞湯",
+   "price": 620,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮香菇豆腐辣湯（大）",
+   "price": 660,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮香菇豆腐辣湯（中）",
+   "price": 460,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "部隊鍋",
+   "price": 620,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式泡菜鍋",
+   "price": 460,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "馬鈴薯豬骨湯（大）",
+   "price": 960,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "馬鈴薯豬骨湯（中）",
+   "price": 660,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤肉拼盤（大）",
+   "price": 1420,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤肉拼盤（小）",
+   "price": 720,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓國烤牛小排（一人份）",
+   "price": 500,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松阪豬肉（一人份）",
+   "price": 420,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤五花肉（一人份）",
+   "price": 390,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤梅花肉（一人份）",
+   "price": 390,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "銅盤烤肉起鍋（豬肉）",
+   "price": 500,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "銅盤烤肉起鍋（牛肉）",
+   "price": 520,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "銅盤加肉（每份）",
+   "price": 200,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣炒魷魚",
+   "price": 300,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒青菜盤",
+   "price": 130,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣炒年糕+泡麵",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式炒冬粉",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式蛋捲",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮餅",
+   "price": 260,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香烤牛肉",
+   "price": 230,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香烤豬肉",
+   "price": 200,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣炒年糕",
+   "price": 250,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜泡麵",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜鍋",
+   "price": 220,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "馬鈴薯豬骨湯",
+   "price": 280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮泡麵",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮香菇豆腐辣湯（白飯）",
+   "price": 200,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮香菇豆腐辣湯（冬粉）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮香菇豆腐辣湯（烏龍麵）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "養生雞湯",
+   "price": 230,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "石鍋拌飯（豬）",
+   "price": 220,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "石鍋拌飯（牛）",
+   "price": 230,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式拌飯（豬）",
+   "price": 200,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式拌飯（牛）",
+   "price": 220,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓國炸醬麵",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓國炸醬飯",
+   "price": 200,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣牛肉湯麵",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣牛肉湯飯",
+   "price": 230,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒馬麵",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒馬飯",
+   "price": 220,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式冷麵（湯）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式冷麵（拌）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白飯",
+   "price": 20,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

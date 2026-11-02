@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "嘉年華自助餐",
+  "address": "115臺北市南港區萬福里同德路72號",
+  "lat": 25.0456971,
+  "lng": 121.5852785,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E5%B9%B4%E8%8F%AF%E8%87%AA%E5%8A%A9%E9%A4%90&query_place_id=ChIJ3_qlOZqrQjQR7EiAL2w_nWY"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-09-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "炸雞腿便當",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸雞排便當",
+   "price": 85,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷雞腿便當",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "無骨雞腿便當",
+   "price": 115,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸排骨便當",
+   "price": 95,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鯖魚便當",
+   "price": 90,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焢肉便當",
+   "price": 95,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香腸便當",
+   "price": 80,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

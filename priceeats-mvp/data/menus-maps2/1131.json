@@ -1,0 +1,469 @@
+{
+ "restaurant": {
+  "name": "山口小鼎膾",
+  "address": "110臺北市信義區興雅里松仁路28號B2",
+  "lat": 25.039439,
+  "lng": 121.5676943,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%8F%A3%E5%B0%8F%E9%BC%8E%E8%86%BE&query_place_id=ChIJVT-YZ2mrQjQRjq5BYFBN5DM"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "十二金釵浮誇握壽司",
+   "price": 1688,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "山口四色丼",
+   "price": 1588,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "北海道極品三色丼",
+   "price": 1288,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "山口迷你丼",
+   "price": 988,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "極上紐約客燒肉丼",
+   "price": 1288,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "極焱生牛丼",
+   "price": 1088,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "羽下翼板燒肉丼",
+   "price": 898,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "板腱牛燒肉丼",
+   "price": 898,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "理性牛燒肉丼",
+   "price": 798,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "感性和牛燒肉丼",
+   "price": 698,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "山口極饗定食",
+   "price": 1288,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "山口迎香定食",
+   "price": 598,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚親子丼",
+   "price": 589,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "北極海甜蝦丼",
+   "price": 469,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三味海鮮丼",
+   "price": 459,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美國牛小排燒肉丼",
+   "price": 458,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅酒和牛咖喱飯",
+   "price": 458,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炭燒和牛漢堡飯",
+   "price": 480,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菲力茶泡飯",
+   "price": 498,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "伊比利梅花燒肉丼",
+   "price": 538,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手工限量兒童餐",
+   "price": 298,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "極上紐約客燒肉片",
+   "price": 1260,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "翼板燒肉片",
+   "price": 870,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "板腱燒肉片",
+   "price": 870,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "理性系列和牛燒肉片",
+   "price": 770,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "感性系列和牛燒肉片",
+   "price": 670,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美國牛小排燒肉片",
+   "price": 430,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "伊比利梅花燒肉片",
+   "price": 510,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "沖浪和牛",
+   "price": 680,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三品刺身（5切）",
+   "price": 330,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "五品刺身（7切）",
+   "price": 430,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "上品生魚片（9切）",
+   "price": 890,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玉子燒握壽司（單貫）",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆皮握壽司（二貫）",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "水章魚握壽司（單貫）",
+   "price": 60,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日本真鯛握壽司（單貫）",
+   "price": 130,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒干貝握壽司（單貫）",
+   "price": 110,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "赤蝦握壽司（單貫）",
+   "price": 120,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮪魚握壽司（單貫）",
+   "price": 120,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特選鮭魚握壽司（單貫）",
+   "price": 130,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青甘握壽司（單貫）",
+   "price": 130,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "宮城牡蠣握壽司（單貫）",
+   "price": 130,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "星鰻握壽司（單貫）",
+   "price": 130,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚卵軍艦（單貫）",
+   "price": 240,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "和牛握壽司（單貫）",
+   "price": 360,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特上海膽軍艦（單貫）",
+   "price": 360,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑鮪魚中腹握壽司（三貫）",
+   "price": 520,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒鰈邊握壽司（三貫）",
+   "price": 520,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日本海膽手捲",
+   "price": 380,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚卵手捲",
+   "price": 260,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紫蘇星鰻手捲",
+   "price": 180,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蟹味蟹膏手捲",
+   "price": 180,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎干貝三重奏",
+   "price": 330,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "荒炊青甘下巴（滷）",
+   "price": 328,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "柔煮花心大蘿蔔（和牛腱心）",
+   "price": 680,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子龍蝦（半隻）",
+   "price": 320,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "南非鮑魚甘露煮",
+   "price": 320,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子山藥",
+   "price": 238,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚卵干貝山藥細麵",
+   "price": 180,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "北歐沙拉（鯡魚子）",
+   "price": 140,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣味螺肉",
+   "price": 120,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "和風干貝唇",
+   "price": 80,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味付南極蝦",
+   "price": 80,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "胡麻青花菜",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "越光米飯",
+   "price": 30,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

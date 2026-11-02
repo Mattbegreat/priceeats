@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "開餵食堂",
+  "address": "115臺北市南港區中南里中南街154號",
+  "lat": 25.051642,
+  "lng": 121.615267,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%96%8B%E9%A4%B5%E9%A3%9F%E5%A0%82&query_place_id=ChIJscYZbY2rQjQRD7fJEHaC164"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "砂鍋-剝皮辣椒",
+   "price": 230,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "砂鍋-茶香",
+   "price": 230,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "麻油燒香嫩豬肝",
+   "price": 230,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "招牌雞腿飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "椒麻雞飯",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "紅燒牛肉飯",
+   "price": 150,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

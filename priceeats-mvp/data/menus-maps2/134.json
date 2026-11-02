@@ -1,0 +1,287 @@
+{
+ "restaurant": {
+  "name": "好味餐食HaoWay",
+  "address": "11572臺北市南港區舊莊里舊莊街一段25號",
+  "lat": 25.0417085,
+  "lng": 121.6180855,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A5%BD%E5%91%B3%E9%A4%90%E9%A3%9FHaoWay&query_place_id=ChIJB1tkhtmrQjQRqPnst-aCbiw"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-07-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "蒜香乾煎沙朗牛餐盒",
+   "price": 220,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香乾煎沙朗牛（單點）",
+   "price": 120,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒燉牛腩餐盒",
+   "price": 220,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒燉牛腩（單點）",
+   "price": 120,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "檸檬椒鹽煎鮭魚餐盒",
+   "price": 200,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "檸檬椒鹽煎鮭魚（單點）",
+   "price": 110,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬香烤魷魚餐盒",
+   "price": 190,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬香烤魷魚（單點）",
+   "price": 105,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒鹽味松阪豬餐盒",
+   "price": 190,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒鹽味松阪豬（單點）",
+   "price": 105,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式烤雞腿排餐盒",
+   "price": 165,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式烤雞腿排（單點）",
+   "price": 95,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紹興醉雞腿餐盒",
+   "price": 165,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紹興醉雞腿（單點）",
+   "price": 95,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥嫩雞胸餐盒",
+   "price": 150,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥嫩雞胸（單點）",
+   "price": 90,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥嫩豬排餐盒",
+   "price": 150,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥嫩豬排（單點）",
+   "price": 90,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "西西里鷹嘴豆燉菇餐盒",
+   "price": 145,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "西西里鷹嘴豆燉菇（單點）",
+   "price": 85,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "京都胡麻豆腐排餐盒",
+   "price": 145,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "京都胡麻豆腐排（單點）",
+   "price": 85,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒虱目魚肚便當",
+   "price": 145,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒虱目魚肚（單點）",
+   "price": 100,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特香鹹豬肉便當",
+   "price": 135,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特香鹹豬肉（單點）",
+   "price": 90,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎薄鹽鯖魚便當",
+   "price": 125,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎薄鹽鯖魚（單點）",
+   "price": 85,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式唐揚雞便當",
+   "price": 125,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式唐揚雞（單點）",
+   "price": 85,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爆漿炸雞腿排便當",
+   "price": 125,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爆漿炸雞腿排（單點）",
+   "price": 85,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "卡滋日式炸豬排便當",
+   "price": 125,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "卡滋日式炸豬排（單點）",
+   "price": 85,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞塊",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薯條",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "季節小菜",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "湯品",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "沙拉",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

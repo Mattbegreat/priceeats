@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "麵屋千雲 信義101店",
+  "address": "110臺北市信義區西村里信義路五段16號",
+  "lat": 25.0326269,
+  "lng": 121.5630331,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BA%B5%E5%B1%8B%E5%8D%83%E9%9B%B2%20%E4%BF%A1%E7%BE%A9101%E5%BA%97&query_place_id=ChIJE9VTMACrQjQRs8GfgQLCodQ"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "旨辣雞白湯拉麵",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌旨辣雞白湯拉麵",
+   "price": 390,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

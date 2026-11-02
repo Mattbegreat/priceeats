@@ -1,0 +1,105 @@
+{
+ "restaurant": {
+  "name": "潮味決・湯滷專門店 台北松山分社",
+  "address": "110臺北市信義區四育里松山路146號",
+  "lat": 25.0469001,
+  "lng": 121.5776114,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%BD%AE%E5%91%B3%E6%B1%BA%E3%83%BB%E6%B9%AF%E6%BB%B7%E5%B0%88%E9%96%80%E5%BA%97%20%E5%8F%B0%E5%8C%97%E6%9D%BE%E5%B1%B1%E5%88%86%E7%A4%BE&query_place_id=ChIJR3AJWDerQjQRVPkvD9qQqR0"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "湯滷合作套餐",
+   "price": 155,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "楊過最愛菇菇雞套餐",
+   "price": 160,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉食系5盎司套餐",
+   "price": 185,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "胖打熊貓豆腐套餐",
+   "price": 175,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "健人最愛高蛋白套餐",
+   "price": 175,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "就是211餐盤套餐",
+   "price": 170,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "只想當仙女套餐",
+   "price": 165,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌滷鴨血",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "麻辣豆腐",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "乒乓魚蛋",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞肉片",
+   "price": 40,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬肉片",
+   "price": 45,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "季節時蔬",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

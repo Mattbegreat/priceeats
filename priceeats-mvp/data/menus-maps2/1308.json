@@ -1,0 +1,238 @@
+{
+ "restaurant": {
+  "name": "Maple Maple Café",
+  "address": "110臺北市信義區廣居里忠孝東路五段410-5號",
+  "lat": 25.040456,
+  "lng": 121.574878,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maple%20Maple%20Caf%C3%A9&query_place_id=ChIJldgpjqOrQjQREzthjRvDtQM"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-07-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "三片麵包和法國奶油",
+   "price": 125,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三片麵包和堅果果乾",
+   "price": 125,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三片麵包和橄欖油",
+   "price": 125,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥培根鹹派",
+   "price": 165,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒙特婁雞肉鹹派",
+   "price": 165,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "番茄起司鹹派",
+   "price": 165,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻鮭魚鹹派",
+   "price": 175,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "楓糖芥末雞肉三明治",
+   "price": 210,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "楓糖手工腸三明治",
+   "price": 210,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒙特婁手工腸三明治",
+   "price": 210,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻鮭魚三明治",
+   "price": 210,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒙特婁煙燻肉三明治",
+   "price": 375,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生菜麵沙拉（標準）",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生菜麵沙拉（大）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法式手工腸沙拉",
+   "price": 325,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芥末雞肉沙拉",
+   "price": 305,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻鮭魚沙拉",
+   "price": 325,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤魚",
+   "price": 295,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤雞腿",
+   "price": 335,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤法式手工腸",
+   "price": 335,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燉牛肉",
+   "price": 395,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤豬排",
+   "price": 495,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法式油封鴨腿",
+   "price": 550,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "切巴瑪火腿（50克）",
+   "price": 125,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綠胡椒風味乾香腸（40克）",
+   "price": 170,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉風味乾義式香腸（40克）",
+   "price": 170,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "伊比利豬辛味香腸（50克）",
+   "price": 170,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塞拉諾火腿（50克）",
+   "price": 275,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "有豬有牛綜合包（4X20克）",
+   "price": 325,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻肉[美國牛肉]（100克）",
+   "price": 390,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "楓糖手工腸（80克）",
+   "price": 100,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒙特婁手工腸（80克）",
+   "price": 100,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

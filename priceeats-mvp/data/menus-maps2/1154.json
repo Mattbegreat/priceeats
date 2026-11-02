@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "小肥鴨港式燒臘專賣店",
+  "address": "110臺北市信義區中興里信義路四段450巷3號",
+  "lat": 25.0323445,
+  "lng": 121.5585756,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E8%82%A5%E9%B4%A8%E6%B8%AF%E5%BC%8F%E7%87%92%E8%87%98%E5%B0%88%E8%B3%A3%E5%BA%97&query_place_id=ChIJd5uSAXqrQjQRvawoE5X5rsk"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "四寶飯",
+   "price": 170,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鴨腿飯",
+   "price": 170,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三寶飯",
+   "price": 150,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美味雙拼",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油雞腿飯",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "脆皮燒肉飯",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蜜汁叉燒飯",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "脆皮燒鴨飯",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蜜汁香腸飯",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "港式臘味飯",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

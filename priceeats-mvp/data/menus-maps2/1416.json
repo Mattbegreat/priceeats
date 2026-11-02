@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "福隆月台便當（南京店）",
+  "address": "105臺北市松山區東光里南京東路五段123巷6弄1-4號",
+  "lat": 25.0531095,
+  "lng": 121.56087,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E9%9A%86%E6%9C%88%E5%8F%B0%E4%BE%BF%E7%95%B6%EF%BC%88%E5%8D%97%E4%BA%AC%E5%BA%97%EF%BC%89&query_place_id=ChIJMaEzXwCrQjQR02JcO-GLxR4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "雞腿（單點）",
+   "price": 40,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌（單點）",
+   "price": 40,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "瘦肉（單點）",
+   "price": 40,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鯛魚（單點）",
+   "price": 40,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞捲",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆干",
+   "price": 6,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香腸",
+   "price": 45,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹹菜",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "高麗菜",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白飯",
+   "price": 10,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

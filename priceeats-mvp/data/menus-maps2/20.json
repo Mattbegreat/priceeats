@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "麥當勞-台北南港餐廳",
+  "address": "115臺北市南港區東明里南港路二段16號",
+  "lat": 25.05435,
+  "lng": 121.605713,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BA%A5%E7%95%B6%E5%8B%9E-%E5%8F%B0%E5%8C%97%E5%8D%97%E6%B8%AF%E9%A4%90%E5%BB%B3&query_place_id=ChIJZ_AZA16rQjQRP1Yb4p2Yy6I"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "正宗韓式辣醬四盎司牛肉堡（經典套餐）",
+   "price": 195,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "正宗韓式辣醬四盎司牛肉堡（單點）",
+   "price": 125,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "正宗韓式辣醬鷄腿堡（經典套餐）",
+   "price": 195,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "正宗韓式辣醬鷄腿堡（單點）",
+   "price": 125,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式泡菜風味搖搖薯條（單點）",
+   "price": 69,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

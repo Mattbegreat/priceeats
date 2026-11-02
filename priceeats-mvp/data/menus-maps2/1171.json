@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "釜山焰韓式烤肉便當專門店",
+  "address": "110臺北市信義區中興里信義路四段450巷5號",
+  "lat": 25.0323162,
+  "lng": 121.5585916,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%87%9C%E5%B1%B1%E7%84%B0%E9%9F%93%E5%BC%8F%E7%83%A4%E8%82%89%E4%BE%BF%E7%95%B6%E5%B0%88%E9%96%80%E5%BA%97&query_place_id=ChIJT_qQOQCrQjQRa2DJSL2-ztg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "醬烤雞肉便當",
+   "price": 148,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.7
+  },
+  {
+   "name": "醬烤豬肉便當",
+   "price": 168,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.7
+  },
+  {
+   "name": "醬烤牛肉便當",
+   "price": 198,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬烤鮮蝦便當",
+   "price": 198,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣醬牛小排便當",
+   "price": 248,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮雙拼便當",
+   "price": 298,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海陸雙拼便當",
+   "price": 318,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬烤雞肉蕎麥冷麵",
+   "price": 148,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬烤豬肉蕎麥冷麵",
+   "price": 168,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬烤牛肉蕎麥冷麵",
+   "price": 198,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

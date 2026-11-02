@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "珍香鍋貼水餃專賣店/松山店",
+  "address": "110臺北市信義區松光里松山路541巷29號",
+  "lat": 25.0379599,
+  "lng": 121.5792313,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%8F%8D%E9%A6%99%E9%8D%8B%E8%B2%BC%E6%B0%B4%E9%A4%83%E5%B0%88%E8%B3%A3%E5%BA%97/%E6%9D%BE%E5%B1%B1%E5%BA%97&query_place_id=ChIJW7b82qarQjQRIiEMvyyWP_4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "鍋貼（10顆，每顆7元）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "韭黃鮮蝦水餃（10顆，每顆12元）",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "麻辣水餃（10顆，每顆8元）",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "玉米水餃（10顆，每顆7元）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "高麗菜水餃（10顆，每顆7元）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "韭菜水餃（10顆，每顆7元）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "酸辣湯",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "玉米湯",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "魚/貢丸湯",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "大腸麵線（小）",
+   "price": 55,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "大腸麵線（大）",
+   "price": 65,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "泡菜",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

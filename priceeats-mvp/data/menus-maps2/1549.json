@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "長生塩人 民生",
+  "address": "105臺北市松山區三民里民生東路五段140號",
+  "lat": 25.0585685,
+  "lng": 121.5618038,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E7%94%9F%E5%A1%A9%E4%BA%BA%20%E6%B0%91%E7%94%9F&query_place_id=ChIJi9ae5j2rQjQR_flEtXwZxTo"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "鹽味拉麵",
+   "price": 165,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬油拉麵",
+   "price": 185,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌拉麵",
+   "price": 195,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣味肉醬拉麵",
+   "price": 225,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日本炒麵(微辣)",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清邁湄平 濃辣夏蟹拉麵",
+   "price": 250,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "自家金黃蘿蔔(60g)",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "自家黃金翡翠(1株)",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓國辣拌年糕",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白飯",
+   "price": 35,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜(70g)",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

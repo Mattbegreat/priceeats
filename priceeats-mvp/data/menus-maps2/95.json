@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "星馬快餐 Sin Ma Express 海南雞飯 星馬料理專賣店 台北南港環球百貨店",
+  "address": "115臺北市南港區忠孝東路七段371號B1F (環球購物中心南港店）櫃位B116地址：115",
+  "lat": 25.0528955,
+  "lng": 121.6072597,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%98%9F%E9%A6%AC%E5%BF%AB%E9%A4%90%20Sin%20Ma%20Express%20%E6%B5%B7%E5%8D%97%E9%9B%9E%E9%A3%AF%20%E6%98%9F%E9%A6%AC%E6%96%99%E7%90%86%E5%B0%88%E8%B3%A3%E5%BA%97%20%E5%8F%B0%E5%8C%97%E5%8D%97%E6%B8%AF%E7%92%B0%E7%90%83%E7%99%BE%E8%B2%A8%E5%BA%97&query_place_id=ChIJ7TAYfLyrQjQRysgf1KWfY2A"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-31",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "雞清湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香茅蛤蜊雞湯",
+   "price": 170,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "星馬海南雞腿（附沾醬）",
+   "price": 140,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩雞腿",
+   "price": 160,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩牛肉",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海南鮮蝦冷盤（附沾醬）",
+   "price": 180,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "米亞吉印度巴基斯坦美食",
+  "address": "115臺北市南港區中南里市民大道八段600號",
+  "lat": 25.0541909,
+  "lng": 121.6153737,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%B1%B3%E4%BA%9E%E5%90%89%E5%8D%B0%E5%BA%A6%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%BE%8E%E9%A3%9F&query_place_id=ChIJj4fqSlirQjQRaT-GXW5LRqc"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "雞肉咖哩 甩餅（2個）",
+   "price": 220,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "羊肉咖哩 甩餅（2個）",
+   "price": 270,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔬菜咖哩 甩餅（2個）",
+   "price": 220,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉咖哩 甩餅（2個）",
+   "price": 270,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特殊美味雞肉飯（1000CC）",
+   "price": 250,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉捲",
+   "price": 100,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉捲",
+   "price": 100,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "羊肉捲",
+   "price": 100,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔬菜捲",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油 甩餅",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "原味甩餅",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

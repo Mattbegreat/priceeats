@@ -1,0 +1,217 @@
+{
+ "restaurant": {
+  "name": "一真亭ラーメン",
+  "address": "11050臺北市信義區三張里莊敬路325巷50號",
+  "lat": 25.0287079,
+  "lng": 121.5645754,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E7%9C%9F%E4%BA%AD%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3&query_place_id=ChIJ0c8PgWyrQjQR9omI7rubK0w"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-05-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "豚骨拉麵",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "叉燒拉麵",
+   "price": 240,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "溏心蛋拉麵",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣味豚骨拉麵",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣味叉燒拉麵",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣味溏心蛋拉麵",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焦蒜蔥豚骨拉麵",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焦蒜蔥叉燒拉麵",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焦蒜蔥溏心蛋拉麵",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩豚骨拉麵",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽味拉麵",
+   "price": 250,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "東坡豚骨拉麵",
+   "price": 400,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "濃口背脂豚骨拉麵",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "濃口背脂（醬）倍增",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "濃口背脂（醬）2倍增",
+   "price": 360,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌拉麵（粗麵）",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬油拉麵（粗麵）",
+   "price": 250,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油麵（粗麵、無蛋）",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油麵（粗麵、有蛋）",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚介豚骨沾麵（極太）",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩沾麵（極太）",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚炸雞（五塊）",
+   "price": 160,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "叉燒（2片）",
+   "price": 40,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "毛豆",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "高麗菜",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白飯（小）",
+   "price": 30,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白飯（大）",
+   "price": 50,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "叉燒飯（小）",
+   "price": 60,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "叉燒飯（大）",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

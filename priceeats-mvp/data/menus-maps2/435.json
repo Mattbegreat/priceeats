@@ -1,0 +1,434 @@
+{
+ "restaurant": {
+  "name": "老先覺功夫窯燒鍋PLUS南港興中店",
+  "address": "115臺北市南港區南港里興中路68巷6號",
+  "lat": 25.0569045,
+  "lng": 121.6066821,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%80%81%E5%85%88%E8%A6%BA%E5%8A%9F%E5%A4%AB%E7%AA%AF%E7%87%92%E9%8D%8BPLUS%E5%8D%97%E6%B8%AF%E8%88%88%E4%B8%AD%E5%BA%97&query_place_id=ChIJe88oZbOrQjQRgAklsB6BOdY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "元氣雞肉鍋（吃不多）",
+   "price": 248,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "元氣雞肉鍋（剛剛好）",
+   "price": 278,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "元氣雞肉鍋（大份量）",
+   "price": 350,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典豬肉鍋（吃不多）",
+   "price": 250,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典豬肉鍋（剛剛好）",
+   "price": 285,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典豬肉鍋（大份量）",
+   "price": 360,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "人氣牛肉鍋（吃不多）",
+   "price": 260,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "人氣牛肉鍋（剛剛好）",
+   "price": 305,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "人氣牛肉鍋（大份量）",
+   "price": 410,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嫩滑魚片鍋（吃不多）",
+   "price": 260,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嫩滑魚片鍋（剛剛好）",
+   "price": 305,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嫩滑魚片鍋（大份量）",
+   "price": 410,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "梅花豬肉鍋（吃不多）",
+   "price": 265,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "梅花豬肉鍋（剛剛好）",
+   "price": 315,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "梅花豬肉鍋（大份量）",
+   "price": 425,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "精選牛肉鍋（吃不多）",
+   "price": 280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "精選牛肉鍋（剛剛好）",
+   "price": 335,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "精選牛肉鍋（大份量）",
+   "price": 455,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "帶骨雞腿鍋",
+   "price": 330,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬蛤雙拼鍋",
+   "price": 290,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛蛤雙拼鍋",
+   "price": 295,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛牛雙拼鍋",
+   "price": 435,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬豬雙拼鍋",
+   "price": 390,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大盛海鮮鍋",
+   "price": 480,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "元氣雞肉盤（70克）",
+   "price": 50,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "元氣雞肉盤（140克）",
+   "price": 80,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典豬肉盤（70克）",
+   "price": 55,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典豬肉盤（140克）",
+   "price": 85,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "人氣牛肉盤（70克）",
+   "price": 65,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "人氣牛肉盤（140克）",
+   "price": 110,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嫩滑魚片盤（70克）",
+   "price": 65,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嫩滑魚片盤（140克）",
+   "price": 110,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "梅花豬肉盤（70克）",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "梅花豬肉盤（140克）",
+   "price": 115,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "精選牛肉盤（70克）",
+   "price": 80,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "精選牛肉盤（140克）",
+   "price": 135,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉肉超全餐",
+   "price": 250,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬豬雙拼餐",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛牛雙拼餐",
+   "price": 235,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛤蜊盤（小）",
+   "price": 55,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛤蜊盤（大）",
+   "price": 95,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蝦盤（小）",
+   "price": 65,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蝦盤（大）",
+   "price": 115,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合海鮮盤（小）",
+   "price": 75,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合海鮮盤（大）",
+   "price": 135,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特大海鮮盤",
+   "price": 280,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃金蛋餃",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芋香丸",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "排骨酥",
+   "price": 65,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手工花枝漿",
+   "price": 65,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手工蝦仁漿",
+   "price": 65,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌麻辣四拼",
+   "price": 155,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大腸滷拼盤",
+   "price": 130,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肚滷拼盤",
+   "price": 130,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "血旺豆腐雙拼",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香滷血旺",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香滷豆腐",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香滷牛肚",
+   "price": 110,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香滷大腸",
+   "price": 110,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香滷玉米筍",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

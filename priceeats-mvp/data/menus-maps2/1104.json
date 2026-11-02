@@ -1,0 +1,133 @@
+{
+ "restaurant": {
+  "name": "麵屋一燈 信義新光A11店",
+  "address": "110臺北市信義區西村里松壽路11號B2",
+  "lat": 25.0367465,
+  "lng": 121.5673196,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BA%B5%E5%B1%8B%E4%B8%80%E7%87%88%20%E4%BF%A1%E7%BE%A9%E6%96%B0%E5%85%89A11%E5%BA%97&query_place_id=ChIJ7dHOKgCrQjQR6nkOdfrAIpE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "魚介冠軍沾麵",
+   "price": 298,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "干貝雞湯拉麵",
+   "price": 268,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒雞豚拉麵",
+   "price": 288,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦湯魚介拉麵",
+   "price": 328,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "兒童拉麵",
+   "price": 149,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特選米飯",
+   "price": 29,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "舒肥雞叉燒（三片）",
+   "price": 59,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "舒肥豬叉燒（三片）",
+   "price": 59,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炙燒牛肝菌雞豚飯",
+   "price": 79,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "東京雞白湯泡飯",
+   "price": 89,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油玉米",
+   "price": 39,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "胡麻龍鬚菜",
+   "price": 39,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鰹魚豆腐",
+   "price": 49,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "魚卵洋芋沙拉",
+   "price": 49,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "佃煮扇貝",
+   "price": 59,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "翠玉芥末章魚盛",
+   "price": 59,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "味噌燉牛筋",
+   "price": 99,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

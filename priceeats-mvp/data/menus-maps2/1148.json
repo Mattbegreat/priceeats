@@ -1,0 +1,357 @@
+{
+ "restaurant": {
+  "name": "極之好味 燒臘茶餐廳 台北松菸店",
+  "address": "110臺北市信義區忠孝東路四段553巷34號1樓",
+  "lat": 25.0438137,
+  "lng": 121.5628964,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A5%B5%E4%B9%8B%E5%A5%BD%E5%91%B3%20%E7%87%92%E8%87%98%E8%8C%B6%E9%A4%90%E5%BB%B3%20%E5%8F%B0%E5%8C%97%E6%9D%BE%E8%8F%B8%E5%BA%97&query_place_id=ChIJY4LeNGKrQjQRiqB4rffDzHI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "玫瑰油雞飯",
+   "price": 210,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明爐燒鴨飯",
+   "price": 230,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蜜汁叉燒飯",
+   "price": 220,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肥籠叉燒飯",
+   "price": 220,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "脆皮燒肉飯",
+   "price": 240,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黯然銷魂飯(肥+瘦)雙蛋",
+   "price": 230,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燒味雙拼飯",
+   "price": 260,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金牌三寶飯",
+   "price": 280,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "單點白飯",
+   "price": 20,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燒味雙拼盤（例牌）",
+   "price": 560,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燒味三拼盤（例牌）",
+   "price": 560,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蜜汁叉燒（半斤）",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蜜汁叉燒（壹斤）",
+   "price": 640,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肥籠叉燒（半斤）",
+   "price": 360,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肥籠叉燒（壹斤）",
+   "price": 720,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "脆皮燒肉（半斤）",
+   "price": 400,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "脆皮燒肉（壹斤）",
+   "price": 800,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "貴妃雞（例牌）",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "貴妃雞（半隻）",
+   "price": 450,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "貴妃雞（壹隻）",
+   "price": 900,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玫瑰油雞（例牌）",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玫瑰油雞（半隻）",
+   "price": 450,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玫瑰油雞（壹隻）",
+   "price": 900,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "掛爐燒鴨（例牌）",
+   "price": 450,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "掛爐燒鴨（半隻）",
+   "price": 900,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "掛爐燒鴨（壹隻）",
+   "price": 1800,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥花牛肉滑蛋飯",
+   "price": 280,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥花叉燒滑蛋飯",
+   "price": 280,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥花蝦仁滑蛋飯",
+   "price": 290,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥花雙拼滑蛋飯",
+   "price": 300,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蝦雲吞湯麵/撈麵",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爽滑牛丸湯麵/撈麵",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "柱候牛腩湯麵/撈麵",
+   "price": 240,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "叉燒煎蛋煲仔麵",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "沙嗲牛肉煎蛋煲仔麵",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥油豬扒炒蛋撈丁",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥油雞扒炒蛋撈丁",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紫菜牛肉湯",
+   "price": 160,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蝦雲吞湯",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "每日港式老火湯",
+   "price": 90,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芝士焗雞扒飯",
+   "price": 260,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芝士焗豬扒飯",
+   "price": 260,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芝士焗牛腩飯",
+   "price": 280,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豉汁排骨煲仔飯",
+   "price": 260,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "臘腸排骨煲仔飯",
+   "price": 260,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "北菇滑雞煲仔飯",
+   "price": 260,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "臘腸滑雞煲仔飯",
+   "price": 260,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "廣式臘味煲仔飯",
+   "price": 280,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鳳爪排骨煲仔飯",
+   "price": 280,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

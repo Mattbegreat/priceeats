@@ -1,0 +1,119 @@
+{
+ "restaurant": {
+  "name": "揪餖燒肉 微風南山店",
+  "address": "110臺北市信義區西村里松智路17號5 樓",
+  "lat": 25.0343166,
+  "lng": 121.566202,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%8F%AA%E9%A4%96%E7%87%92%E8%82%89%20%E5%BE%AE%E9%A2%A8%E5%8D%97%E5%B1%B1%E5%BA%97&query_place_id=ChIJ6_oVSkWrQjQR54cy3l3OqSk"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "堅果生牛肉。野蔬沙拉",
+   "price": 420,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "赤海老。野蔬起司沙拉",
+   "price": 400,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "乳酪。野蔬起司沙拉",
+   "price": 300,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鰻魚醬燒溫玉丼",
+   "price": 220,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式唐揚雞丼",
+   "price": 180,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玄米吻仔魚茶泡飯",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "月見和牛丼",
+   "price": 180,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子和牛拉麵",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香海老飯",
+   "price": 180,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "關東。鰹香貓飯。双吃",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "A5和牛。肋眼（200g）",
+   "price": 1580,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "A5和牛。菲力（100g）",
+   "price": 1280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "A5和牛。紐約客（200g）",
+   "price": 1580,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "F1和牛。肋眼（200g）",
+   "price": 1280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "F1和牛。紐約客（100g）",
+   "price": 680,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

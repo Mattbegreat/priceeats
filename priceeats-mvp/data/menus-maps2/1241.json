@@ -1,0 +1,224 @@
+{
+ "restaurant": {
+  "name": "大吉團Lucky Bowl 信義松仁店 台菜•商務•包場",
+  "address": "110臺北市信義區三犁里信義路五段150巷310號",
+  "lat": 25.0270413,
+  "lng": 121.5695199,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%90%89%E5%9C%98Lucky%20Bowl%20%E4%BF%A1%E7%BE%A9%E6%9D%BE%E4%BB%81%E5%BA%97%20%E5%8F%B0%E8%8F%9C%E2%80%A2%E5%95%86%E5%8B%99%E2%80%A2%E5%8C%85%E5%A0%B4&query_place_id=ChIJe_eHWwCrQjQR5C3mV1-PJms"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "奶爆蝦蝦牛",
+   "price": 499,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸菜泡椒牛",
+   "price": 349,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "本幫紅燒肉",
+   "price": 459,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "極汁牛小排",
+   "price": 599,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香脆皮雞（半隻）",
+   "price": 459,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香脆皮雞（整隻）",
+   "price": 859,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚香茄子煲",
+   "price": 259,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹹魚雞粒豆腐煲",
+   "price": 289,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三杯杏鮑菇",
+   "price": 229,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塔香茄子煲",
+   "price": 229,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蟹粉豆腐煲",
+   "price": 269,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青龍爆皮蛋",
+   "price": 249,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "左宗棠雞球",
+   "price": 329,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "百菇炒雞片",
+   "price": 299,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青蒜回鍋肉",
+   "price": 299,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滑蛋蝦仁",
+   "price": 249,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "宮保雞球",
+   "price": 329,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三杯雞球",
+   "price": 329,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "京都排骨",
+   "price": 329,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香排骨",
+   "price": 329,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡椒燒土豆",
+   "price": 249,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒豆腐",
+   "price": 229,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "櫻花蝦高麗菜",
+   "price": 199,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "季節時蔬",
+   "price": 179,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜炒西蘭花",
+   "price": 179,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清炒西蘭花",
+   "price": 179,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜炒娃娃菜",
+   "price": 179,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清炒娃娃菜",
+   "price": 179,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "皮蛋魚片湯",
+   "price": 329,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "港式老火例湯",
+   "price": 299,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

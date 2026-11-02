@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "韓國一隻雞 (南港Lalaport)",
+  "address": "115臺北市南港區環河里經貿二路131號6樓",
+  "lat": 25.0589828,
+  "lng": 121.617618,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%9F%93%E5%9C%8B%E4%B8%80%E9%9A%BB%E9%9B%9E%20%28%E5%8D%97%E6%B8%AFLalaport%29&query_place_id=ChIJw4aoCACtQjQRDckXiduOKHY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "2-3人套餐",
+   "price": 1950,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "3-4人套餐",
+   "price": 2600,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

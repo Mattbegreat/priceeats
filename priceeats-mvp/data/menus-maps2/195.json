@@ -1,0 +1,119 @@
+{
+ "restaurant": {
+  "name": "一風堂 南港LaLaport店",
+  "address": "115臺北市南港區環河里經貿二路131號B1",
+  "lat": 25.0593449,
+  "lng": 121.6175825,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E9%A2%A8%E5%A0%82%20%E5%8D%97%E6%B8%AFLaLaport%E5%BA%97&query_place_id=ChIJwZoRIQCtQjQRG0AzHBdHYfc"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "白丸元味",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白丸玉子",
+   "price": 310,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白丸野菜",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特製白丸",
+   "price": 350,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大名家系豚骨",
+   "price": 340,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "赤丸新味",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "赤丸玉子",
+   "price": 340,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "赤丸野菜",
+   "price": 360,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特製赤丸",
+   "price": 380,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "柚香鹽味拉麵",
+   "price": 340,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "一風堂辣肉味噌",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣肉味噌玉子",
+   "price": 370,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣肉味噌野菜",
+   "price": 390,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特製辣肉味噌",
+   "price": 410,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香炸雞丼",
+   "price": 200,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

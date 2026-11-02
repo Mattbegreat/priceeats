@@ -1,0 +1,133 @@
+{
+ "restaurant": {
+  "name": "麵咖小館-台北信義松仁店",
+  "address": "11046臺北市信義區六合里松仁路266號",
+  "lat": 25.0242925,
+  "lng": 121.5695588,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BA%B5%E5%92%96%E5%B0%8F%E9%A4%A8-%E5%8F%B0%E5%8C%97%E4%BF%A1%E7%BE%A9%E6%9D%BE%E4%BB%81%E5%BA%97&query_place_id=ChIJnYJAKfWrQjQRhmFdxCYILuw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "招牌雞湯麵",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典豬肉片湯麵",
+   "price": 158,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "元氣牛肉片湯麵",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "聚寶盆(雞 豬 牛)",
+   "price": 258,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "老壇酸菜牛肉鍋",
+   "price": 160,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "川香雞飯",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青花椒麻辣豬肉片湯麵",
+   "price": 218,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩雞肉飯",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩豬肉片飯",
+   "price": 138,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩牛肉片飯",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩三寶飯(雞豬牛)",
+   "price": 258,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "川香雞",
+   "price": 130,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "溏心蛋",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣鴨血",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣豆腐",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合麻辣鴨血豆腐",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麵咖小麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

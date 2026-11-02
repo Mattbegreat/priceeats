@@ -1,0 +1,322 @@
+{
+ "restaurant": {
+  "name": "阿豬媽韓式烤肉吃到飽信義ATT店",
+  "address": "110臺北市信義區西村里松壽路12號5樓",
+  "lat": 25.0352542,
+  "lng": 121.5659448,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E8%B1%AC%E5%AA%BD%E9%9F%93%E5%BC%8F%E7%83%A4%E8%82%89%E5%90%83%E5%88%B0%E9%A3%BD%E4%BF%A1%E7%BE%A9ATT%E5%BA%97&query_place_id=ChIJez2NYdirQjQRxiYZ3YQhbOI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "牛脾氣雙人套餐",
+   "price": 1450,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛脾氣海陸套餐",
+   "price": 1550,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉多多雙人套餐",
+   "price": 1385,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉多多海陸套餐",
+   "price": 1485,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛脾氣單人套餐",
+   "price": 750,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉多多單人套餐",
+   "price": 680,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蚵蛤蠣套餐",
+   "price": 458,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蝦蛤蠣套餐",
+   "price": 468,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "透抽蛤蠣套餐",
+   "price": 498,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "富貴海陸鮮套餐",
+   "price": 680,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "寶島海陸盛合套餐",
+   "price": 580,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "安格斯無骨霜降牛（海鮮擇1雙拼）",
+   "price": 705,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "安格斯無骨霜降牛（海鮮擇2三拼）",
+   "price": 768,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紐西蘭修清牛舌（海鮮擇1雙拼）",
+   "price": 645,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紐西蘭修清牛舌（海鮮擇2三拼）",
+   "price": 715,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特選修清雪花牛（海鮮擇1雙拼）",
+   "price": 538,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特選修清雪花牛（海鮮擇2三拼）",
+   "price": 605,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嚴選特級牛板腱（海鮮擇1雙拼）",
+   "price": 528,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嚴選特級牛板腱（海鮮擇2三拼）",
+   "price": 568,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "精選培根牛（海鮮擇1雙拼）",
+   "price": 468,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "精選培根牛（海鮮擇2三拼）",
+   "price": 535,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "寶島活力霜降豬（海鮮擇1雙拼）",
+   "price": 578,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "寶島活力霜降豬（海鮮擇2三拼）",
+   "price": 648,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紐西蘭嫩羊肩（海鮮擇1雙拼）",
+   "price": 510,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紐西蘭嫩羊肩（海鮮擇2三拼）",
+   "price": 578,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌藥膳嫩雞柳（海鮮擇1雙拼）",
+   "price": 488,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌藥膳嫩雞柳（海鮮擇2三拼）",
+   "price": 558,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "寶島CAS安心豚（海鮮擇1雙拼）",
+   "price": 468,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "寶島CAS安心豚（海鮮擇2三拼）",
+   "price": 535,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "安格斯無骨霜降牛套餐",
+   "price": 718,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紐西蘭修清牛舌套餐",
+   "price": 688,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特選修清雪花牛套餐",
+   "price": 508,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嚴選特級牛板腱套餐",
+   "price": 488,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "精選培根牛套餐",
+   "price": 428,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "寶島活力霜降豬套餐",
+   "price": 508,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紐西蘭嫩羊肩套餐",
+   "price": 488,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌藥膳嫩雞柳套餐",
+   "price": 458,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "寶島CAS安心豚套餐",
+   "price": 428,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素食鍋套餐",
+   "price": 428,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "無主餐套餐（自助吧）",
+   "price": 328,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "阿嬤豬油拌飯",
+   "price": 8,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油蔥麵線",
+   "price": 20,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "讚岐烏龍麵",
+   "price": 20,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓國泡麵",
+   "price": 20,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

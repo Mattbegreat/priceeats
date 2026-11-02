@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "筷炒KUAICHAO",
+  "address": "11073臺北市信義區松仁路58號14樓",
+  "lat": 25.0367179,
+  "lng": 121.5681308,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%AD%B7%E7%82%92KUAICHAO&query_place_id=ChIJSZ89XCmrQjQRlzpduQTbttA"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-12-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "蒜蓉蒸蝦",
+   "price": 550,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛤蜊蒸絲瓜",
+   "price": 390,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清蒸鱈魚",
+   "price": 485,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜蓉鱈魚",
+   "price": 485,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清蒸石斑魚",
+   "price": 980,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "干鍋爆炒脆肥腸",
+   "price": 395,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣炒松阪豬",
+   "price": 385,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣炒牛肉",
+   "price": 385,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "都是蔥爆炒牛肉",
+   "price": 385,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "糖醋排骨",
+   "price": 365,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "宮保腰果雞丁",
+   "price": 385,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "避風塘脆松阪豬",
+   "price": 385,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

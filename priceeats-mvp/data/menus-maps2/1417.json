@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "沐禾手作餐盒|便當外送",
+  "address": "105臺北市松山區寧安街7巷1號",
+  "lat": 25.0495976,
+  "lng": 121.5544697,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%90%E7%A6%BE%E6%89%8B%E4%BD%9C%E9%A4%90%E7%9B%92%7C%E4%BE%BF%E7%95%B6%E5%A4%96%E9%80%81&query_place_id=ChIJaR8U_7SrQjQRep38X5zWSWw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "照燒雞腿丁",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "糖醋雞腿丁",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式舒肥雞胸",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椒麻雞腿丁",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻油醬燒雞",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒲燒鯛魚",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜泥五花肉",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "沐禾炒菇餐",
+   "price": 115,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "時蔬餐盒",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "全養知異國蔬食 莊敬店",
+  "address": "110臺北市信義區三張里莊敬路440號",
+  "lat": 25.0269014,
+  "lng": 121.567031,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%A8%E9%A4%8A%E7%9F%A5%E7%95%B0%E5%9C%8B%E8%94%AC%E9%A3%9F%20%E8%8E%8A%E6%95%AC%E5%BA%97&query_place_id=ChIJdxlIf6mrQjQR2ejSgmHIolY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "薑黃燉飯（單點）",
+   "price": 300,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薑黃燉飯（A套餐組）",
+   "price": 500,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸湯",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "三款精緻小菜",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "京都勝牛-南港LaLaport店",
+  "address": "115018臺北市南港區環河里經貿二路131號5F",
+  "lat": 25.0592558,
+  "lng": 121.618031,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%8B%9D%E7%89%9B-%E5%8D%97%E6%B8%AFLaLaport%E5%BA%97&query_place_id=ChIJiUbnDwCtQjQRJbyFTvS0RWU"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "1983黑豚里肌熟成豬排套餐",
+   "price": 320,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "腰內熟成豬排套餐",
+   "price": 290,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛五花燒肉套餐",
+   "price": 290,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒豚肉套餐",
+   "price": 290,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "腰內豬排味噌拉麵套餐",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸鮭魚套餐",
+   "price": 290,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式咖哩飯腰內豬排套餐",
+   "price": 290,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鯖魚套餐",
+   "price": 290,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "東方樓 台北漢來店",
+  "address": "115臺北市南港區三重里經貿一路168號3F",
+  "lat": 25.0584427,
+  "lng": 121.6191915,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%96%B9%E6%A8%93%20%E5%8F%B0%E5%8C%97%E6%BC%A2%E4%BE%86%E5%BA%97&query_place_id=ChIJPUX9iw6tQjQRE-UwkTLnci4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "臻尚A套餐",
+   "price": 2980,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

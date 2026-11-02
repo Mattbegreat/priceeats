@@ -1,0 +1,161 @@
+{
+ "restaurant": {
+  "name": "猛甲生魚片 信義店",
+  "address": "110臺北市信義區永春里松山路219號1樓",
+  "lat": 25.0449454,
+  "lng": 121.5779713,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%8C%9B%E7%94%B2%E7%94%9F%E9%AD%9A%E7%89%87%20%E4%BF%A1%E7%BE%A9%E5%BA%97&query_place_id=ChIJO0CW3hCrQjQRuJs5gAAGSYo"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "特大刺身盛合",
+   "price": 800,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大盒刺身盛合",
+   "price": 500,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "中盒刺身盛合",
+   "price": 300,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小盒刺身盛合",
+   "price": 200,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豪華海鮮丼飯（附味噌湯）",
+   "price": 320,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "極上海鮮丼飯（附味噌湯）",
+   "price": 250,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "海膽鮭魚卵丼飯（附味噌湯）",
+   "price": 250,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.75
+  },
+  {
+   "name": "鮭魚丼飯（附味噌湯）",
+   "price": 250,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "鮪魚丼飯（附味噌湯）",
+   "price": 230,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "生食級鮭魚卵（單點）",
+   "price": 150,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "阿根廷天使紅蝦（單點）",
+   "price": 65,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "生食級甜蝦（每份5隻）（單點）",
+   "price": 50,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "茶碗蒸（每份）（單點）",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "北海道生食級干貝（每顆）（單點）",
+   "price": 50,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "生食級赤蝦（每隻）（單點）",
+   "price": 40,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "生食級花枝（每片）（單點）",
+   "price": 35,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "味噌豆腐湯（每碗）（單點）",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "和風裙帶絲（每份）（單點）",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "尼信黃金鯡魚卵（每份4片）（單點）",
+   "price": 30,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "玉子燒（每份4片）（單點）",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "日式蟹味棒（每份）（單點）",
+   "price": 10,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

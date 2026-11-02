@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "蓋飯咖",
+  "address": "115臺北市南港區新富里研究院路一段67之1號後棟",
+  "lat": 25.0528317,
+  "lng": 121.6166048,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%93%8B%E9%A3%AF%E5%92%96&query_place_id=ChIJyzN5cQCrQjQRpOChVpA8Rmc"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "滑蛋蓋飯",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "藍帶豬排蓋飯",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香腸蓋飯",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸雞蓋飯",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式豬排蓋飯",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燒肉蓋飯",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜燒肉蓋飯",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸魚蓋飯",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

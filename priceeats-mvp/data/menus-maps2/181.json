@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "花心廚房(不定休)平日午晚餐營養餐盒與咖哩、假日全天早午餐",
+  "address": "115臺北市南港區富康街84號1樓",
+  "lat": 25.0520615,
+  "lng": 121.6169267,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E5%BF%83%E5%BB%9A%E6%88%BF%28%E4%B8%8D%E5%AE%9A%E4%BC%91%29%E5%B9%B3%E6%97%A5%E5%8D%88%E6%99%9A%E9%A4%90%E7%87%9F%E9%A4%8A%E9%A4%90%E7%9B%92%E8%88%87%E5%92%96%E5%93%A9%E3%80%81%E5%81%87%E6%97%A5%E5%85%A8%E5%A4%A9%E6%97%A9%E5%8D%88%E9%A4%90&query_place_id=ChIJbdxVNwCrQjQR3S6nw6ih34w"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "今日例湯",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

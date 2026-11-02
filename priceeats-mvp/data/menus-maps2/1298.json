@@ -1,0 +1,385 @@
+{
+ "restaurant": {
+  "name": "男子漢拉麵食堂-信義永春店",
+  "address": "110臺北市信義區廣居里虎林街132巷42號",
+  "lat": 25.0404186,
+  "lng": 121.5755568,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%94%B7%E5%AD%90%E6%BC%A2%E6%8B%89%E9%BA%B5%E9%A3%9F%E5%A0%82-%E4%BF%A1%E7%BE%A9%E6%B0%B8%E6%98%A5%E5%BA%97&query_place_id=ChIJ-50v7aOrQjQRh06yRSKjB6c"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "東京醬油拉麵(雞骨高湯)",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "東京醬油拉麵(雞骨高湯)（升級炸蝦x2）",
+   "price": 210,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "札幌味噌拉麵(雞骨高湯)",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "札幌味噌拉麵(雞骨高湯)（升級炸蝦x2）",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豚骨叉燒拉麵",
+   "price": 160,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豚骨叉燒拉麵（升級炸蝦x2）",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豚骨醬油叉燒拉麵",
+   "price": 160,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豚骨醬油叉燒拉麵（升級炸蝦x2）",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豚骨味噌叉燒拉麵",
+   "price": 160,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豚骨味噌叉燒拉麵（升級炸蝦x2）",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜味豚骨叉燒拉麵(重口味)",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜味豚骨叉燒拉麵(重口味)（升級炸蝦x2）",
+   "price": 240,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豚骨地獄叉燒拉麵(含牛油)",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豚骨地獄叉燒拉麵(含牛油)（升級炸蝦x2）",
+   "price": 240,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣味噌豚骨叉燒拉麵(鹹)",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣味噌豚骨叉燒拉麵(鹹)（升級炸蝦x2）",
+   "price": 240,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "糸島雞白湯蔦拉麵",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "糸島雞白湯蔦拉麵（升級炸蝦x2）",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "柚香雞白湯蔦拉麵",
+   "price": 250,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "柚香雞白湯蔦拉麵（升級炸蝦x2）",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "福岡門土豚骨蔦拉麵",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "福岡門土豚骨蔦拉麵（升級炸蝦x2）",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太宰府豚骨蔦拉麵",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太宰府豚骨蔦拉麵（升級炸蝦x2）",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "藤元味噌豚骨蔦拉麵",
+   "price": 240,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "藤元味噌豚骨蔦拉麵（升級炸蝦x2）",
+   "price": 310,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "男子漢元祖豚骨蔦拉麵",
+   "price": 240,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "男子漢元祖豚骨蔦拉麵（升級炸蝦x2）",
+   "price": 310,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "赤焰椒麻蒜味豚骨蔦拉麵",
+   "price": 250,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "赤焰椒麻蒜味豚骨蔦拉麵（升級炸蝦x2）",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焦蒜黑武士豚骨蔦拉麵",
+   "price": 250,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焦蒜黑武士豚骨蔦拉麵（升級炸蝦x2）",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大盛牛丼（單點）",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大盛牛丼飯（定食）",
+   "price": 260,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚雞親子丼（單點）",
+   "price": 180,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚雞親子丼飯（定食）",
+   "price": 270,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚切豬排丼（單點）",
+   "price": 200,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚切豬排丼飯（定食）",
+   "price": 290,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸蝦黑咖哩飯(2隻炸蝦)",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚炸雞黑咖哩飯",
+   "price": 190,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鱈魚排黑咖哩飯",
+   "price": 190,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚切豬排黑咖哩飯",
+   "price": 220,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大海的滋味黑咖哩飯",
+   "price": 240,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃金泡菜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式海帶絲",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日本咖哩可樂餅",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "北海道南瓜可樂餅",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式起司可樂餅",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式炸蝦排",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式炸蝦2隻",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式唐揚炸雞腿肉",
+   "price": 90,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸白深魚排",
+   "price": 90,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚切豬排",
+   "price": 100,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

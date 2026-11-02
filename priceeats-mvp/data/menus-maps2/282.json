@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "靜心苑",
+  "address": "115臺北市南港區昆陽街164號",
+  "lat": 25.048481,
+  "lng": 121.593493,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%9C%E5%BF%83%E8%8B%91&query_place_id=ChIJo1AkxEerQjQRqZifoDTKgEw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "去骨鮮嫩油雞腿",
+   "price": 380,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒲燒魚腹排",
+   "price": 380,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜味鴨賞",
+   "price": 380,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

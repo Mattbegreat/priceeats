@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "瀧厚炙燒熟成牛排 台北.南港店",
+  "address": "115011臺北市南港區中南里忠孝東路七段369號A棟南港車站City Link3樓",
+  "lat": 25.0527358,
+  "lng": 121.6065258,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%80%A7%E5%8E%9A%E7%82%99%E7%87%92%E7%86%9F%E6%88%90%E7%89%9B%E6%8E%92%20%E5%8F%B0%E5%8C%97.%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJjRHspSCrQjQRrNW8m8IhrTA"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "精選牛豬雙人套餐",
+   "price": 1299,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "尊享牛鴨雙人套餐",
+   "price": 1399,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "極緻雙人套餐",
+   "price": 1499,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "Vege Burger",
+  "address": "115臺北市南港區環河里經貿二路131號B1",
+  "lat": 25.0592245,
+  "lng": 121.6175459,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vege%20Burger&query_place_id=ChIJx3yeIgCtQjQRiqekrGSIh64"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "植物G米花無肉咖哩飯",
+   "price": 239,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚切植物牛排無肉咖哩飯",
+   "price": 289,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥脆金薯無肉咖哩飯",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥猴菇酥無肉咖哩飯",
+   "price": 289,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚切植物牛排（單點）",
+   "price": 129,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

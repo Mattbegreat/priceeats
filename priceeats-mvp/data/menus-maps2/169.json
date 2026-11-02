@@ -1,0 +1,112 @@
+{
+ "restaurant": {
+  "name": "Kailash Kitchen 凱拉薩印度料理",
+  "address": "30號, No. 30 115舊莊街一段3巷舊莊里南港區臺北市115",
+  "lat": 25.04253,
+  "lng": 121.6185202,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kailash%20Kitchen%20%E5%87%B1%E6%8B%89%E8%96%A9%E5%8D%B0%E5%BA%A6%E6%96%99%E7%90%86&query_place_id=ChIJpVkc8PSrQjQR636dv35Lfq8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "紅腰豆咖喱套餐",
+   "price": 200,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃扁豆咖喱套餐",
+   "price": 200,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鷹嘴豆咖喱套餐",
+   "price": 200,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "什錦蔬菜咖喱套餐",
+   "price": 200,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蘑菇咖喱套餐",
+   "price": 200,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "印度起司咖喱套餐",
+   "price": 220,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚肉咖喱套餐",
+   "price": 220,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉咖喱套餐",
+   "price": 250,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "羊肉咖喱套餐",
+   "price": 275,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "南印度蒸米糕搭配桑巴湯(3個)",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "南印度炸豆餅搭配桑巴湯(2個)",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "馬薩拉多薩",
+   "price": 200,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "原味多薩",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烏塔帕姆(2個)",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

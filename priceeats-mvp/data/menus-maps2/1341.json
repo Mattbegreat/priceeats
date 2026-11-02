@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "吉品海鮮餐廳 信義店",
+  "address": "106臺北市大安區通安里信義路四段236號三商美邦宏遠大樓2樓",
+  "lat": 25.0329721,
+  "lng": 121.5530035,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%90%89%E5%93%81%E6%B5%B7%E9%AE%AE%E9%A4%90%E5%BB%B3%20%E4%BF%A1%E7%BE%A9%E5%BA%97&query_place_id=ChIJDwI5a8yrQjQR76BWieGKPjY"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "精緻午餐（每位980）",
+   "price": 980,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "精緻午餐（每位1580）",
+   "price": 1580,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "精緻午餐（每位2880）",
+   "price": 2880,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "精緻午餐（每位3380）",
+   "price": 3380,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "小菜（每盤）",
+   "price": 130,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

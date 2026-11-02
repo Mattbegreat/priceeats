@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "The Chips 信義店",
+  "address": "110臺北市信義區西村里松壽路12號5 樓",
+  "lat": 25.03531,
+  "lng": 121.5660665,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Chips%20%E4%BF%A1%E7%BE%A9%E5%BA%97&query_place_id=ChIJHd7EPMarQjQRNjXqec_9Cys"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "The Chips 早餐盤",
+   "price": 890,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "無花果生火腿開放三明治",
+   "price": 420,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法式活力早餐",
+   "price": 360,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焦糖培根脆皮法式",
+   "price": 360,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酪梨燻鮭魚班尼蛋（六日）",
+   "price": 400,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

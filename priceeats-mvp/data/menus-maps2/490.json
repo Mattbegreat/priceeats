@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "幸福肥計劃咖啡店",
+  "address": "115臺北市南港區南港里南港路一段171巷16號",
+  "lat": 25.0546256,
+  "lng": 121.6130036,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B9%B8%E7%A6%8F%E8%82%A5%E8%A8%88%E5%8A%83%E5%92%96%E5%95%A1%E5%BA%97&query_place_id=ChIJ1zDhc1StQjQRO5rSNVmgn3E"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "水耕蔬菜盤",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蒜香無骨牛小排",
+   "price": 220,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "日式唐揚雞",
+   "price": 220,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "法式香榭雞腿排",
+   "price": 220,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "瑪格麗特披薩",
+   "price": 290,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "黑松露菇菇披薩",
+   "price": 360,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蜂蜜起司披薩",
+   "price": 280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "美式盤",
+   "price": 220,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "綜合炸物盤",
+   "price": 250,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

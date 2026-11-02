@@ -1,0 +1,161 @@
+{
+ "restaurant": {
+  "name": "老黑九牛肉麵",
+  "address": "105臺北市松山區吉祥里八德路四段245巷50號1 樓",
+  "lat": 25.0503303,
+  "lng": 121.5643052,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%80%81%E9%BB%91%E4%B9%9D%E7%89%9B%E8%82%89%E9%BA%B5&query_place_id=ChIJK7loSQCrQjQRL2yimqox_BI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "牛肉麵（小）",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉麵（大）",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛湯麵(沒有肉)（小）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛湯麵(沒有肉)（大）",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛筋麵（小）",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛筋麵（大）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "半筋半肉麵（小）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "半筋半肉麵（大）",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸醬麵(台灣豬肉)（小）",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸醬麵(台灣豬肉)（大）",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉乾麵（小）",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉乾麵（大）",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛筋乾麵（小）",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛筋乾麵（大）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "半筋半肉乾麵（小）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "半筋半肉乾麵（大）",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉湯",
+   "price": 170,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛筋湯",
+   "price": 180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "半筋半肉湯",
+   "price": 200,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "滷牛筋",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "小菜自取",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

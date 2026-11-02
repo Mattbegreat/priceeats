@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "築間幸福鍋物 台北南港店",
+  "address": "11579臺北市南港區南港里興中路56巷3號",
+  "lat": 25.0565743,
+  "lng": 121.606695,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%AF%89%E9%96%93%E5%B9%B8%E7%A6%8F%E9%8D%8B%E7%89%A9%20%E5%8F%B0%E5%8C%97%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJ5-0jQImrQjQR3hGd7TFck_4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "豪華海鮮拼盤",
+   "price": 680,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮四拼",
+   "price": 480,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛤蜊草蝦",
+   "price": 480,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合魚片",
+   "price": 450,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "潮鯛魚片",
+   "price": 420,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

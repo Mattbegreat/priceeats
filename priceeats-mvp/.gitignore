@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+*.tsbuildinfo
+.env
+.env.local
+out-artifact
+
+# 菜單照片下載資料夾（含瀏覽器設定檔），不要上傳
+menu_dataset/

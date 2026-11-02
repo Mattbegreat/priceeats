@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "三商巧福 南港門市",
+  "address": "115臺北市南港區西新里南港路三段7號",
+  "lat": 25.0539614,
+  "lng": 121.5919994,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E5%95%86%E5%B7%A7%E7%A6%8F%20%E5%8D%97%E6%B8%AF%E9%96%80%E5%B8%82&query_place_id=ChIJTQB843qrQjQRp2TX39SXr-0"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-12-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "原汁牛肉麵",
+   "price": 109,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒排骨飯",
+   "price": 109,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

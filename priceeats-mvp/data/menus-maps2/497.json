@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "POKÈ YAY 低GI健康餐 南港環球店",
+  "address": "115臺北市南港區南港里忠孝東路七段371號南側戶外廣場A棟",
+  "lat": 25.0524566,
+  "lng": 121.6074823,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=POK%C3%88%20YAY%20%E4%BD%8EGI%E5%81%A5%E5%BA%B7%E9%A4%90%20%E5%8D%97%E6%B8%AF%E7%92%B0%E7%90%83%E5%BA%97&query_place_id=ChIJ8xmDE9SrQjQRfiWfxqhctO8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "客製波奇碗",
+   "price": 139,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

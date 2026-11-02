@@ -1,0 +1,406 @@
+{
+ "restaurant": {
+  "name": "找餐2店",
+  "address": "110臺北市信義區雙和里吳興街284巷20弄27號",
+  "lat": 25.0251092,
+  "lng": 121.5630765,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%89%BE%E9%A4%902%E5%BA%97&query_place_id=ChIJjdZJGUuqQjQRTWIRXKkJOKI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "手工豬肉排起司堡（單點）",
+   "price": 80,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手工豬肉排起司堡（套餐）",
+   "price": 165,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "西西里嫩雞腿堡（單點）",
+   "price": 80,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "西西里嫩雞腿堡（套餐）",
+   "price": 165,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花生醬豬肉排起司堡（單點）",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花生醬豬肉排起司堡（套餐）",
+   "price": 175,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "好菇蔬食堡（單點）",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "好菇蔬食堡（套餐）",
+   "price": 175,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "波隆納肉醬起司蛋堡（單點）",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "波隆納肉醬起司蛋堡（套餐）",
+   "price": 175,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "BBQ烤肉醬雞腿堡（單點）",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "BBQ烤肉醬雞腿堡（套餐）",
+   "price": 175,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥肉排堡（單點）",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥肉排堡（套餐）",
+   "price": 175,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塔塔醬雞排堡（單點）",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塔塔醬雞排堡（套餐）",
+   "price": 175,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎雞排堡（單點）",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎雞排堡（套餐）",
+   "price": 175,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式雞腿堡（單點）",
+   "price": 95,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式雞腿堡（套餐）",
+   "price": 180,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "火山爆發酸辣雞排堡（單點）",
+   "price": 95,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "火山爆發酸辣雞排堡（套餐）",
+   "price": 180,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "藍紋雞腿堡（單點）",
+   "price": 100,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "藍紋雞腿堡（套餐）",
+   "price": 185,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塔塔魚排堡（單點）",
+   "price": 100,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塔塔魚排堡（套餐）",
+   "price": 185,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "英式水煮蛋香腸堡（單點）",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "英式水煮蛋香腸堡（套餐）",
+   "price": 170,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "莎莎醬馬鈴薯香腸堡（單點）",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "莎莎醬馬鈴薯香腸堡（套餐）",
+   "price": 170,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "自製辣味培根香腸堡（單點）",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "自製辣味培根香腸堡（套餐）",
+   "price": 170,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "波隆納肉醬香腸堡（單點）",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "波隆納肉醬香腸堡（套餐）",
+   "price": 175,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛奶起司法式吐司（單點）",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛奶起司法式吐司（套餐）",
+   "price": 145,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花生醬牛奶法式吐司（單點）",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花生醬牛奶法式吐司（套餐）",
+   "price": 145,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焦糖牛奶法式吐司（單點）",
+   "price": 65,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焦糖牛奶法式吐司（套餐）",
+   "price": 150,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "火腿起司法式吐司（單點）",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "火腿起司法式吐司（套餐）",
+   "price": 155,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "好菇鮪魚法式吐司（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "好菇鮪魚法式吐司（套餐）",
+   "price": 160,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香蕉巧克力法式吐司（單點）",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香蕉巧克力法式吐司（套餐）",
+   "price": 170,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "火腿蛋起司熱三明治（單點）",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "火腿蛋起司熱三明治（套餐）",
+   "price": 140,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "英式蛋起司熱三明治（單點）",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "英式蛋起司熱三明治（套餐）",
+   "price": 140,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥鮪魚蛋起司熱三明治（單點）",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥鮪魚蛋起司熱三明治（套餐）",
+   "price": 145,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "打拋豬肉熱三明治（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "打拋豬肉熱三明治（套餐）",
+   "price": 160,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩豬肉蛋熱三明治（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩豬肉蛋熱三明治（套餐）",
+   "price": 160,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

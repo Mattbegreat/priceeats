@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "粥師傅昆陽分店",
+  "address": "115004臺北市南港區西新里南港路三段19號1樓",
+  "lat": 25.0537885,
+  "lng": 121.5915445,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%B2%A5%E5%B8%AB%E5%82%85%E6%98%86%E9%99%BD%E5%88%86%E5%BA%97&query_place_id=ChIJN9A7HOyrQjQRC8233GZEql8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "田園蔬菜粥",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "皮蛋瘦肉粥",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香菇瘦肉粥",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "吻仔魚粥",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "皮蛋牛肉粥",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "海蟹粥",
+   "price": 120,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "粥王",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦仁粥",
+   "price": 115,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "御膳粥",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

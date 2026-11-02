@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "沐履拉麵 MURI RAMEN",
+  "address": "110044臺北市信義區永春里松山路401號",
+  "lat": 25.0415427,
+  "lng": 121.578027,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%90%E5%B1%A5%E6%8B%89%E9%BA%B5%20MURI%20RAMEN&query_place_id=ChIJWb2KZcurQjQRoBkU3Fsqa9s"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "鹽味雞清湯",
+   "price": 250,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "柚子胡椒鹽味雞清湯",
+   "price": 280,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞白湯",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "柚子胡椒雞白湯",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬油雞清湯",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豚骨醬油濃湯",
+   "price": 250,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤鬼頭刀鹽味雞清湯",
+   "price": 360,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "烤鬼頭刀雞白湯",
+   "price": 400,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "特製小丼飯（雞）",
+   "price": 70,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "特製小丼飯（豬）",
+   "price": 70,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "特製小丼飯（海苔雞）",
+   "price": 70,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炒時蔬",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

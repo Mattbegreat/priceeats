@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "巷仔內麵線焿",
+  "address": "115臺北市南港區聯成里東新街84號",
+  "lat": 25.046318,
+  "lng": 121.5871642,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B7%B7%E4%BB%94%E5%85%A7%E9%BA%B5%E7%B7%9A%E7%84%BF&query_place_id=ChIJjWu_W3SrQjQRGl6-XTed5Ns"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "綜合麵線（大）",
+   "price": 75,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合麵線（小）",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉焿麵線（大）",
+   "price": 75,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉焿麵線（小）",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬腸麵線（大）",
+   "price": 75,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬腸麵線（小）",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清麵線（大）",
+   "price": 55,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清麵線（小）",
+   "price": 35,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "茶嶋咖喱-南港Lalaport店",
+  "address": "115臺北市南港區三重里經貿二路131號Mitsui Shopping Park LaLaport 南港1",
+  "lat": 25.0592619,
+  "lng": 121.6175436,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E5%B6%8B%E5%92%96%E5%96%B1-%E5%8D%97%E6%B8%AFLalaport%E5%BA%97&query_place_id=ChIJkR_HbwCtQjQR9JVMDakOEa4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "咖哩套餐（蔬菜）",
+   "price": 250,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩套餐（雞肉）",
+   "price": 275,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩套餐（牛肉）",
+   "price": 295,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩套餐（炸豬排）",
+   "price": 345,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "茶嶋肉丸子（單點）",
+   "price": 99,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司可樂餅（單點）",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "茶嶋風味炸薯條（單點）",
+   "price": 140,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "甜薯條佐沖繩黑糖蜜醬（單點）",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸里肌豬排（單點）",
+   "price": 180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌湯（單點）",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "單點白飯",
+   "price": 25,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "單點麵",
+   "price": 40,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

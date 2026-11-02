@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "想吃拉麵-南港店",
+  "address": "115臺北市南港區東明里南港路二段24號1樓",
+  "lat": 25.0543334,
+  "lng": 121.6055845,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%83%B3%E5%90%83%E6%8B%89%E9%BA%B5-%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJswvX1LKrQjQRNFHpOib1SO0"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-11-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "原味豚骨拉麵",
+   "price": 145,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜味豚骨拉麵",
+   "price": 155,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣豚骨拉麵",
+   "price": 155,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜味麻辣豚骨拉麵",
+   "price": 155,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

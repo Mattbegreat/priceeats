@@ -1,0 +1,126 @@
+{
+ "restaurant": {
+  "name": "三分半海鮮鍋物",
+  "address": "110臺北市信義區興雅里基隆路一段147巷5弄9號",
+  "lat": 25.0427995,
+  "lng": 121.5661503,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E5%88%86%E5%8D%8A%E6%B5%B7%E9%AE%AE%E9%8D%8B%E7%89%A9&query_place_id=ChIJQfEpbRCrQjQRlmtmfIQ9kIk"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "波士頓龍蝦",
+   "price": 699,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "沙公",
+   "price": 699,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "沙母",
+   "price": 799,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "生蠔（生食級）",
+   "price": 130,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮑魚",
+   "price": 150,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "生鮮大牛奶貝 5顆",
+   "price": 99,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "台灣特選好大蛤蠣",
+   "price": 99,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "北海道生食級干貝 2顆",
+   "price": 99,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "南美特選大白蝦 3隻",
+   "price": 79,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "特選宜蘭生食級胭脂蝦",
+   "price": 99,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "無毒草蝦王",
+   "price": 99,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "澎湖野生大明蝦",
+   "price": 99,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "特選太平洋香蕉蝦 2隻",
+   "price": 99,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "日本廣島大牡蠣 2顆",
+   "price": 99,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "特選台灣鱸魚菲力",
+   "price": 259,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "特選智利肥鮭魚",
+   "price": 259,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

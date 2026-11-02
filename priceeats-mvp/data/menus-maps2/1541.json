@@ -1,0 +1,119 @@
+{
+ "restaurant": {
+  "name": "卡滋日式豬排專賣店",
+  "address": "105臺北市松山區新聚里八德路四段277號",
+  "lat": 25.0492617,
+  "lng": 121.5656367,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%A1%E6%BB%8B%E6%97%A5%E5%BC%8F%E8%B1%AC%E6%8E%92%E5%B0%88%E8%B3%A3%E5%BA%97&query_place_id=ChIJAzWpd5arQjQRWzZdhIm9l2A"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "茄子咖喱豬排",
+   "price": 330,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大雞排蓋飯",
+   "price": 370,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "野菇牛肉燒",
+   "price": 370,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薑燒豬肉片",
+   "price": 350,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬排丼（原味）",
+   "price": 280,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬排丼（辣味）",
+   "price": 280,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司肉卷+雞排",
+   "price": 390,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司肉卷+魚排",
+   "price": 390,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司肉卷+豬排",
+   "price": 390,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬排+魚排",
+   "price": 380,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬排+蝦",
+   "price": 380,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "腰蘿雙拼",
+   "price": 380,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牡蠣+豬排",
+   "price": 430,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牡蠣+魚排",
+   "price": 430,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牡蠣+炸蝦",
+   "price": 430,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

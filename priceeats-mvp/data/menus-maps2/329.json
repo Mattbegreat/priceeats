@@ -1,0 +1,105 @@
+{
+ "restaurant": {
+  "name": "北雲餐廳(研究院店)",
+  "address": "No. 128號, 研究院路二段中研里南港區臺北市115",
+  "lat": 25.0408431,
+  "lng": 121.612308,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E9%9B%B2%E9%A4%90%E5%BB%B3%28%E7%A0%94%E7%A9%B6%E9%99%A2%E5%BA%97%29&query_place_id=ChIJNZ3_twurQjQRoQlcjzU_wEc"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "鐵板豆腐",
+   "price": 330,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵板牛柳",
+   "price": 415,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵板魚塊",
+   "price": 415,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵板雞丁",
+   "price": 415,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵板鮮蚵",
+   "price": 330,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒牛腩",
+   "price": 400,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芥蘭牛肉",
+   "price": 315,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅椒牛肉",
+   "price": 315,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薑絲牛肉",
+   "price": 315,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青椒牛肉",
+   "price": 315,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥爆牛肉",
+   "price": 315,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅椒豆干牛肉絲",
+   "price": 315,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "水煮牛",
+   "price": 400,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

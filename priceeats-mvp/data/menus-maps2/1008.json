@@ -1,0 +1,224 @@
+{
+ "restaurant": {
+  "name": "牛味",
+  "address": "110臺北市信義區廣居里虎林街131號",
+  "lat": 25.039953,
+  "lng": 121.576869,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%89%9B%E5%91%B3&query_place_id=ChIJv71tLKSrQjQRpejKG3Q1u0Q"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "牛肉麵（大）",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉麵（小）",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "半筋半肉（大）",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "半筋半肉（小）",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香辣牛肉麵（大）",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香辣牛肉麵（小）",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香辣半筋半肉（大）",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香辣半筋半肉（小）",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉湯麵（大）",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉湯麵（小）",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香辣牛肉湯麵（大）",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香辣牛肉湯麵（小）",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "乾拌牛肉麵（附湯）（大）",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "乾拌牛肉麵（附湯）（小）",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "乾拌半筋半肉（附湯）（大）",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "乾拌半筋半肉（附湯）（小）",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香辣乾拌牛肉麵（附湯）（大）",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香辣乾拌牛肉麵（附湯）（小）",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香辣乾拌半筋半肉（附湯）（大）",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香辣乾拌半筋半肉（附湯）（小）",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸醬麵（大）",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸醬麵（小）",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉湯（小）",
+   "price": 220,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉湯（大）",
+   "price": 270,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "半筋半肉湯（小）",
+   "price": 220,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "半筋半肉湯（大）",
+   "price": 270,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉清湯（小）",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉清湯（大）",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燙青菜",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉(3塊)",
+   "price": 200,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

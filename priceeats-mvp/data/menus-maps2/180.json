@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "二食食堂",
+  "address": "11572臺北市南港區舊莊街一段92號",
+  "lat": 25.0405703,
+  "lng": 121.6191149,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%8C%E9%A3%9F%E9%A3%9F%E5%A0%82&query_place_id=ChIJDwKdlOyrQjQRciop9Fl2izA"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "四季蔬食餐盒",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥雞胸餐盒",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬香豬里肌餐盒",
+   "price": 145,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "好牛肋條餐盒",
+   "price": 195,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "四季蔬食咖哩",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥雞胸咖哩",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬香豬里肌咖哩",
+   "price": 175,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "好牛肋條咖哩",
+   "price": 225,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥雞胸（單點）",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬香豬里肌（單點）",
+   "price": 75,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "好牛肋條（單點）",
+   "price": 125,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "restaurant": {
+  "name": "欣葉日本料理丨彩膳楽亭",
+  "address": "105臺北市松山區健康路156號1樓",
+  "lat": 25.0533872,
+  "lng": 121.5572541,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%AC%A3%E8%91%89%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86%E4%B8%A8%E5%BD%A9%E8%86%B3%E6%A5%BD%E4%BA%AD&query_place_id=ChIJ9RGBduurQjQRv0R601SF9Sw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "白飯",
+   "price": 25,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛魯飯",
+   "price": 59,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "乾麵",
+   "price": 49,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "乾米粉",
+   "price": 49,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "現沖牛肉湯（大）",
+   "price": 165,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "現沖牛肉湯（小）",
+   "price": 125,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛骨湯",
+   "price": 90,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "貢丸湯",
+   "price": 55,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燙高麗菜",
+   "price": 49,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椒麻口水雞",
+   "price": 120,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥鹽雞胸肉",
+   "price": 120,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣鴨血",
+   "price": 65,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣米血",
+   "price": 65,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣臭豆腐",
+   "price": 65,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣鴨血臭豆腐王子麵",
+   "price": 115,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

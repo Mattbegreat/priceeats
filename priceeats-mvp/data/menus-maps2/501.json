@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "熊厚呷hoja LaLaport台北南港店",
+  "address": "115臺北市南港區環河里經貿二路131號B1",
+  "lat": 25.0593449,
+  "lng": 121.6175825,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E5%8E%9A%E5%91%B7hoja%20LaLaport%E5%8F%B0%E5%8C%97%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJNYQ5aQCtQjQRifbwCTgixPA"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "古早味滷肉菜飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典鹹酥雞滷肉飯",
+   "price": 150,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "第一名棒腿滷肉飯",
+   "price": 165,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "重磅厚雞排",
+   "price": 150,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

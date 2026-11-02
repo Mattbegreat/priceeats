@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "Que 原木燒烤餐廳",
+  "address": "115臺北市南港區合成里市民大道七段8號17樓",
+  "lat": 25.0492807,
+  "lng": 121.5805022,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Que%20%E5%8E%9F%E6%9C%A8%E7%87%92%E7%83%A4%E9%A4%90%E5%BB%B3&query_place_id=ChIJcUrc3J2rQjQRHqNWF_SN9OE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "澳洲和牛肋眼（10oz）",
+   "price": 2980,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "原木燒烤美國菲力牛排（7oz）",
+   "price": 2180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "原木燒烤法式羔羊排（8oz）",
+   "price": 1880,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鳳梨醬燒 BBQ 豬肋排（10oz）",
+   "price": 1780,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "原木燒烤波士頓活龍蝦（15oz）",
+   "price": 2680,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎智利鮭魚菲力（7oz）",
+   "price": 1780,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "原木燒烤迷迭香雞腿（6oz）",
+   "price": 1380,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露野菇奶油燉飯",
+   "price": 1280,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

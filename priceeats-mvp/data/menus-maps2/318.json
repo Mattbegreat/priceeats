@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "武蔵野森珈琲Diner LaLaport南港店",
+  "address": "115臺北市南港區環河里經貿二路131號4 樓",
+  "lat": 25.0593449,
+  "lng": 121.6175825,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%AD%A6%E8%94%B5%E9%87%8E%E6%A3%AE%E7%8F%88%E7%90%B2Diner%20LaLaport%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJP_fPOACtQjQRgEsA-DOSwUA"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "蒜香白醬雞肉野菇義大利麵",
+   "price": 390,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣味嫩肩牛肉起士焗飯",
+   "price": 430,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白醬野菇綜合乳酪義大利餃",
+   "price": 430,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜味鮮蝦義大利麵",
+   "price": 430,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉豆腐漢堡排咖哩飯",
+   "price": 390,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特薦雙人套餐",
+   "price": 1300,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

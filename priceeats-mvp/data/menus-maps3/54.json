@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "Coppii Lumii living coffee 冉冉生活(經貿)",
+  "address": "115臺北市南港區三重里經貿二路196-1號",
+  "lat": 25.0598291,
+  "lng": 121.6147732,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Coppii%20Lumii%20living%20coffee%20%E5%86%89%E5%86%89%E7%94%9F%E6%B4%BB%28%E7%B6%93%E8%B2%BF%29&query_place_id=ChIJeaEzcFmtQjQRwt4k3fE2mng"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "芥籽豬排",
+   "price": 348,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥照燒炒雞",
+   "price": 368,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爆炒客家風味鹹豬肉",
+   "price": 368,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻奶油玉米濃醬",
+   "price": 338,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薑麻雞肉濃醬",
+   "price": 368,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露奶油信功培根義大利麵",
+   "price": 328,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爆炒客家風味鹹豬肉義大利麵",
+   "price": 358,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "檸檬胡椒小豬義大利麵",
+   "price": 368,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青醬蕈菇蔬菜義大利麵",
+   "price": 308,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

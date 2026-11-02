@@ -1,0 +1,623 @@
+{
+ "restaurant": {
+  "name": "宇啡商行Real cafė（準確營業時間請關注ig及臉書唷～感謝各位）",
+  "address": "115臺北市南港區南港路一段43號",
+  "lat": 25.055062,
+  "lng": 121.6163842,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%87%E5%95%A1%E5%95%86%E8%A1%8CReal%20caf%C4%97%EF%BC%88%E6%BA%96%E7%A2%BA%E7%87%9F%E6%A5%AD%E6%99%82%E9%96%93%E8%AB%8B%E9%97%9C%E6%B3%A8ig%E5%8F%8A%E8%87%89%E6%9B%B8%E5%94%B7%EF%BD%9E%E6%84%9F%E8%AC%9D%E5%90%84%E4%BD%8D%EF%BC%89&query_place_id=ChIJCW4NM-arQjQRjXDUDfKotew"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-11-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "終極版燻鮭魚蛋鐵板三明治（單點）",
+   "price": 225,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "終極版燻鮭魚蛋鐵板三明治（套餐）",
+   "price": 249,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菲力起司雞肉蛋鐵板三明治（單點）",
+   "price": 95,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菲力起司雞肉蛋鐵板三明治（套餐）",
+   "price": 119,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菲力花生雞肉蛋鐵板三明治（單點）",
+   "price": 95,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菲力花生雞肉蛋鐵板三明治（套餐）",
+   "price": 119,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菲力辣椒雞肉蛋鐵板三明治（單點）",
+   "price": 95,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菲力辣椒雞肉蛋鐵板三明治（套餐）",
+   "price": 119,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "普通版燻鮭魚蛋鐵板三明治（單點）",
+   "price": 95,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "普通版燻鮭魚蛋鐵板三明治（套餐）",
+   "price": 119,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煎烤雞腿蛋鐵板三明治（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煎烤雞腿蛋鐵板三明治（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煎烤豬排蛋鐵板三明治（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煎烤豬排蛋鐵板三明治（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙層肉排蛋鐵板三明治（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙層肉排蛋鐵板三明治（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙層火腿蛋鐵板三明治（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙層火腿蛋鐵板三明治（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙層培根蛋鐵板三明治（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙層培根蛋鐵板三明治（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙層薯餅蛋鐵板三明治（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙層薯餅蛋鐵板三明治（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蔬彩菇蛋鐵板三明治（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蔬彩菇蛋鐵板三明治（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔬菜番茄蛋鐵板三明治（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔬菜番茄蛋鐵板三明治（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "純粹起司蛋鐵板三明治（單點）",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "純粹起司蛋鐵板三明治（套餐）",
+   "price": 79,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "純粹花生蛋鐵板三明治（單點）",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "純粹花生蛋鐵板三明治（套餐）",
+   "price": 79,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "純粹肉鬆蛋鐵板三明治（單點）",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "純粹肉鬆蛋鐵板三明治（套餐）",
+   "price": 79,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "純粹厚雞蛋鐵板三明治（單點）",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "純粹厚雞蛋鐵板三明治（套餐）",
+   "price": 79,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司/花生/辣椒 雞腿蛋鐵板三明治（單點）",
+   "price": 95,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司/花生/辣椒 雞腿蛋鐵板三明治（套餐）",
+   "price": 119,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司/花生/辣椒 豬排蛋鐵板三明治（單點）",
+   "price": 95,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司/花生/辣椒 豬排蛋鐵板三明治（套餐）",
+   "price": 119,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司/花生/辣椒 肉排蛋鐵板三明治（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司/花生/辣椒 肉排蛋鐵板三明治（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司/花生/辣椒 火腿蛋鐵板三明治（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司/花生/辣椒 火腿蛋鐵板三明治（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司/花生/辣椒 培根蛋鐵板三明治（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司/花生/辣椒 培根蛋鐵板三明治（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司/花生/辣椒 薯餅蛋鐵板三明治（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司/花生/辣椒 薯餅蛋鐵板三明治（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司/花生/辣椒 肉鬆蛋鐵板三明治（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司/花生/辣椒 肉鬆蛋鐵板三明治（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司/花生/辣椒 鮪魚蛋鐵板三明治（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司/花生/辣椒 鮪魚蛋鐵板三明治（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菲力雞肉蛋捲餅（單點）",
+   "price": 105,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菲力雞肉蛋捲餅（套餐）",
+   "price": 129,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煎烤雞腿蛋捲餅（單點）",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煎烤雞腿蛋捲餅（套餐）",
+   "price": 109,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煎烤豬排蛋捲餅（單點）",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煎烤豬排蛋捲餅（套餐）",
+   "price": 109,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煎烤火腿蛋捲餅（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煎烤火腿蛋捲餅（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煎烤培根蛋捲餅（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煎烤培根蛋捲餅（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "老墨肉排蛋捲餅（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "老墨肉排蛋捲餅（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "老墨鮪魚蛋捲餅（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "老墨鮪魚蛋捲餅（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "老墨肉鬆蛋捲餅（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "老墨肉鬆蛋捲餅（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "拌炒鮮菇蛋捲餅（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "拌炒鮮菇蛋捲餅（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薯餅起司蛋捲餅（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薯餅起司蛋捲餅（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蔬番茄蛋捲餅（單點）",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蔬番茄蛋捲餅（套餐）",
+   "price": 99,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬的奶油厚片早晚餐",
+   "price": 230,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞的奶油厚片早晚餐",
+   "price": 230,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚的奶油厚片早晚餐",
+   "price": 230,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菇的奶油厚片早晚餐",
+   "price": 230,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油厚片（small小）",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油厚片（large大）",
+   "price": 80,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菲力雞肉大碗沙拉",
+   "price": 230,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "和風雞腿大碗沙拉",
+   "price": 230,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "和風豬肉大碗沙拉",
+   "price": 230,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻鮭魚大碗沙拉",
+   "price": 230,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蔬炒菇大碗沙拉",
+   "price": 230,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬的咖哩飯早晚餐",
+   "price": 230,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞的咖哩飯早晚餐",
+   "price": 230,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛的咖哩飯早晚餐",
+   "price": 230,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菇的咖哩飯早晚餐",
+   "price": 230,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

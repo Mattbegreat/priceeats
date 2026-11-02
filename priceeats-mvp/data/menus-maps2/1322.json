@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "JOYCE EAST",
+  "address": "110臺北市信義區三犁里信義路五段128號1樓",
+  "lat": 25.032393,
+  "lng": 121.5692072,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=JOYCE%20EAST&query_place_id=ChIJk-t4sLGrQjQRG0XNTYo1jgg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "松露奶油義大利燉飯 飾 嫩煎日本北海道干貝",
+   "price": 2680,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嫩煎 到港鮮魚 佐 薑黃咖哩沙司",
+   "price": 2680,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "碳烤 熟成美國特級紐約克牛排 佐 原味肉汁",
+   "price": 2800,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爐烤櫻桃鴨胸 香煎法國鴨肝 佐 馬爹拉甜酒沙司",
+   "price": 3000,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "中大小館",
+  "address": "110臺北市信義區廣居里虎林街129號",
+  "lat": 25.039997,
+  "lng": 121.576885,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%A4%A7%E5%B0%8F%E9%A4%A8&query_place_id=ChIJO4204qOrQjQRTfnRIdYFjJo"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "水餃（韭菜）（10顆，每顆7元）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "水餃（高麗菜）（10顆，每顆7元）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣湯餃",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玉米湯餃",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣湯",
+   "price": 25,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玉米湯",
+   "price": 25,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

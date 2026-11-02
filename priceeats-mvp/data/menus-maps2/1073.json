@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "Miacucina信義店",
+  "address": "110臺北市信義區西村里松壽路11號2 樓",
+  "lat": 25.0361873,
+  "lng": 121.5671425,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Miacucina%E4%BF%A1%E7%BE%A9%E5%BA%97&query_place_id=ChIJMxoKdLqrQjQRiFDQr8nIhug"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "蒜香手撕三起士麵包",
+   "price": 425,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "瘋狂西蘭花",
+   "price": 365,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "2種起士焗烤甜薯",
+   "price": 350,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油野菇焗烤蘑菇與孢子甘藍",
+   "price": 350,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "北非蛋（半熟蛋）",
+   "price": 365,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "布拉塔奶酪烤蒜番茄與酸麵包",
+   "price": 485,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "四起士太陽蛋三明治",
+   "price": 425,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "西部燒烤酥炸洋蔥堡",
+   "price": 425,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大壞蛋「揍扁」酪梨堡",
+   "price": 425,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法式洋蔥炒菇葛瑞爾起士三明治",
+   "price": 425,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

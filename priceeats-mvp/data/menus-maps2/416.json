@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "樂雅樂餐廳 生技園區店",
+  "address": "115臺北市南港區中南里忠孝東路七段508號2樓",
+  "lat": 25.0522286,
+  "lng": 121.6099135,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%82%E9%9B%85%E6%A8%82%E9%A4%90%E5%BB%B3%20%E7%94%9F%E6%8A%80%E5%9C%92%E5%8D%80%E5%BA%97&query_place_id=ChIJ0TklDKqrQjQRLAWzZf2HNbI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "海鮮石狩火鍋",
+   "price": 550,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮珠寶盒套餐",
+   "price": 1280,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "和牛漢堡排＆青森帆立貝（單點）",
+   "price": 450,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

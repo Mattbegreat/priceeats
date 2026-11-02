@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "METTA咖啡素食",
+  "address": "115臺北市南港區中南里市民大道八段583號",
+  "lat": 25.0545123,
+  "lng": 121.6154612,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=METTA%E5%92%96%E5%95%A1%E7%B4%A0%E9%A3%9F&query_place_id=ChIJn4yM8NyrQjQR4Qkw677wBQM"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "素滷豆腐飯",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

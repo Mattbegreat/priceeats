@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "實話咖哩 日式熟成咖哩專賣 南軟店",
+  "address": "115臺北市南港區南港里新民街68號",
+  "lat": 25.0559098,
+  "lng": 121.6113656,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AF%A6%E8%A9%B1%E5%92%96%E5%93%A9%20%E6%97%A5%E5%BC%8F%E7%86%9F%E6%88%90%E5%92%96%E5%93%A9%E5%B0%88%E8%B3%A3%20%E5%8D%97%E8%BB%9F%E5%BA%97&query_place_id=ChIJW7CrlSqrQjQRYciHLULJw0g"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "煎蛋蔬香咖哩飯",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "復古炸排骨咖哩飯",
+   "price": 175,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式唐揚雞咖哩飯",
+   "price": 185,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "濃厚炸豬排咖哩飯",
+   "price": 185,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大實話咖哩飯",
+   "price": 210,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "復古大實話咖哩飯",
+   "price": 210,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "漉 海鮮蒸氣鍋-南港中信店",
+  "address": "115臺北市南港區三重里經貿二路188號B棟三樓",
+  "lat": 25.0592838,
+  "lng": 121.6149647,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%BC%89%20%E6%B5%B7%E9%AE%AE%E8%92%B8%E6%B0%A3%E9%8D%8B-%E5%8D%97%E6%B8%AF%E4%B8%AD%E4%BF%A1%E5%BA%97&query_place_id=ChIJB0TR2KesQjQR8tpI1wN_rh8"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "四人豪鮮套餐",
+   "price": 6480,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "四人御選套餐",
+   "price": 8280,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合蔬菜盤（以下任選三樣）",
+   "price": 220,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆苗",
+   "price": 140,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "高麗菜",
+   "price": 140,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玉米",
+   "price": 140,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香菇",
+   "price": 140,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花椰菜",
+   "price": 140,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "甜椒",
+   "price": 140,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "甜心地瓜",
+   "price": 160,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

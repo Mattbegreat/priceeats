@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "鐵丸十三堂",
+  "address": "115臺北市南港區新光里昆陽街157巷7號",
+  "lat": 25.0499269,
+  "lng": 121.5945274,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%90%B5%E4%B8%B8%E5%8D%81%E4%B8%89%E5%A0%82&query_place_id=ChIJH2mJIHCrQjQRXlTlfa0BWCY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "柚香雪花牛肉拉麵",
+   "price": 240,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "淡麗雞湯雞腿排拉麵",
+   "price": 205,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "剝皮辣椒櫻桃鴨拉麵",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽味雞湯蛤蜊拉麵",
+   "price": 210,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特濃豚骨拉麵",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞軟骨",
+   "price": 65,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "水煮鮮蔬",
+   "price": 65,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜酥腐",
+   "price": 75,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式炸雞",
+   "price": 115,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式炸蝦",
+   "price": 170,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

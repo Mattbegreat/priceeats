@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "rén bistronomy",
+  "address": "110臺北市信義區西村里松仁路90號",
+  "lat": 25.0351042,
+  "lng": 121.5679889,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=r%C3%A9n%20bistronomy&query_place_id=ChIJ_8Yu0WqrQjQRxQx5jtrvakM"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "鮮蝦蕃茄義大利麵",
+   "price": 420,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "川味花椒肉醬義大利麵",
+   "price": 420,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒小卷·自製XO醬義大利麵",
+   "price": 460,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑松露野菇奶油燉飯",
+   "price": 340,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒海鮮南瓜燉飯",
+   "price": 440,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "慢燉和牛臉頰·古岡左拉起司燉飯",
+   "price": 540,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

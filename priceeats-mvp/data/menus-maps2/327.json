@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "REAL真烘焙坊(南港展覽館1店)",
+  "address": "115臺北市南港區三重里經貿二路1號",
+  "lat": 25.0564452,
+  "lng": 121.6179513,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=REAL%E7%9C%9F%E7%83%98%E7%84%99%E5%9D%8A%28%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A81%E5%BA%97%29&query_place_id=ChIJv26AB6isQjQRFYRlw7bXGrU"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "咖哩燜菇蔬牛腱餐",
+   "price": 320,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "羅馬香草牛肉餐",
+   "price": 320,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司雞肉湯醬餐",
+   "price": 320,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油煙燻雞肉湯醬餐",
+   "price": 320,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蕃茄牛肉千層麵",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油雞肉千層麵",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燻雞香頌可頌餐",
+   "price": 290,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮪魚香頌可頌餐",
+   "price": 290,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "每日例湯",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

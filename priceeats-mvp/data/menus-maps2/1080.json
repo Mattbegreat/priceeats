@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "養心茶樓 蔬食飲茶 信義店",
+  "address": "110臺北市信義區興雅里松高路11號4 樓",
+  "lat": 25.0396065,
+  "lng": 121.5655332,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%A4%8A%E5%BF%83%E8%8C%B6%E6%A8%93%20%E8%94%AC%E9%A3%9F%E9%A3%B2%E8%8C%B6%20%E4%BF%A1%E7%BE%A9%E5%BA%97&query_place_id=ChIJ76ONRQCrQjQRUWxKGVQTOPU"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "泰式青木瓜沙拉",
+   "price": 280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "川味吉絲拉皮",
+   "price": 280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松子起司鮮蔬捲（4件）",
+   "price": 220,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "天府紅油抄手",
+   "price": 118,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香菜蘿蔔絲湯包",
+   "price": 148,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蜜汁叉燒包",
+   "price": 118,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "天蒸四寶",
+   "price": 158,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香椿荷葉飯",
+   "price": 138,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "MO-MO-PARADISE 南港潤泰牧場",
+  "address": "115臺北市南港區新光里忠孝東路七段369號C棟10樓",
+  "lat": 25.0525582,
+  "lng": 121.604518,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MO-MO-PARADISE%20%E5%8D%97%E6%B8%AF%E6%BD%A4%E6%B3%B0%E7%89%A7%E5%A0%B4&query_place_id=ChIJVQqbZ2erQjQRf7WsuLPWyr4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "平日午餐成人一款湯底（吃到飽）",
+   "price": 469,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "平日午餐成人兩款湯底（吃到飽）",
+   "price": 519,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "晚餐例假日成人一款湯底（吃到飽）",
+   "price": 629,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "晚餐例假日成人兩款湯底（吃到飽）",
+   "price": 679,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

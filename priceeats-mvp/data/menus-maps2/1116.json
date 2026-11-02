@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "研二拉麵屋 Ramen Kenji",
+  "address": "11041臺北市信義區松光里忠孝東路五段524巷20號1樓",
+  "lat": 25.040221,
+  "lng": 121.579927,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A0%94%E4%BA%8C%E6%8B%89%E9%BA%B5%E5%B1%8B%20Ramen%20Kenji&query_place_id=ChIJeyDRqVerQjQRsIoNWHGGh4E"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "研二豚骨醬油拉麵",
+   "price": 165,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辛辛豚骨醬油拉麵",
+   "price": 185,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海苔香鬆白飯",
+   "price": 25,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嚴選壽司米白飯",
+   "price": 20,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "角煮mini丼飯",
+   "price": 95,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "叉燒mini丼飯",
+   "price": 95,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香辣泡菜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "人氣辣蘿蔔",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

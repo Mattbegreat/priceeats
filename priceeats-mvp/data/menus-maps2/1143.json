@@ -1,0 +1,112 @@
+{
+ "restaurant": {
+  "name": "黑龍越南法國麵包 Oroo Banh Mi Shop",
+  "address": "110臺北市信義區松山路197號",
+  "lat": 25.045652,
+  "lng": 121.578013,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BB%91%E9%BE%8D%E8%B6%8A%E5%8D%97%E6%B3%95%E5%9C%8B%E9%BA%B5%E5%8C%85%20Oroo%20Banh%20Mi%20Shop&query_place_id=ChIJl3BFvB6rQjQRb8LDyhM2bMs"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "黑龍麵包",
+   "price": 135,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙烤叉燒麵包",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "脆皮豬肉麵包",
+   "price": 125,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "沙嗲牛肉麵包",
+   "price": 125,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菲力雞排麵包",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮪魚沙拉麵包",
+   "price": 115,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "火腿煎蛋麵包",
+   "price": 105,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔬菜煎蛋麵包",
+   "price": 90,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香蒜起士麵包",
+   "price": 85,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油煉乳麵包",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香濃花生麵包",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "原味麵包",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "原味麵包（3入）",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "原味麵包（6入）",
+   "price": 175,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

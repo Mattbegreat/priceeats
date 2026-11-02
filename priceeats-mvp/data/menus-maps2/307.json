@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "爭厚厚切牛排。南港店",
+  "address": "115臺北市南港區南港里南港路一段289-2號",
+  "lat": 25.0544301,
+  "lng": 121.6081643,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%88%AD%E5%8E%9A%E5%8E%9A%E5%88%87%E7%89%9B%E6%8E%92%E3%80%82%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJ03r2vwqrQjQRNS1f8Ln8r7g"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "脆皮德國豬腳",
+   "price": 410,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典薯條（中）",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典薯條（大）",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸棒腿（1支）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司條",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥圈",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麥克雞塊",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "微笑薯餅",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸物拼盤",
+   "price": 160,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮切菲力牛排（約8oz）",
+   "price": 520,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "角尖菲力牛排（約9oz）",
+   "price": 520,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

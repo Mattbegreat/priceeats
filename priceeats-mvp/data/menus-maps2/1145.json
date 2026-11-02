@@ -1,0 +1,224 @@
+{
+ "restaurant": {
+  "name": "福柔越南美味",
+  "address": "106臺北市大安區光武里忠孝東路四段97號B1",
+  "lat": 25.0417877,
+  "lng": 121.5478902,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E6%9F%94%E8%B6%8A%E5%8D%97%E7%BE%8E%E5%91%B3&query_place_id=ChIJp7yfVnerQjQRtugkM2yIUyg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "招牌牛腱河粉",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "生牛肉河粉",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬肉河粉",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞肉河粉",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "海鮮河粉",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "越式海鮮酸湯河粉(米粉)",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩牛肉河粉",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩雞肉河粉",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩豬肉河粉",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩牛肉麵包",
+   "price": 130,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩豬肉麵包",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩雞肉麵包",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉炒河粉(麵)",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬肉炒河粉(麵)",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "海鮮炒河粉(麵)",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "涼拌牛肉河粉(米粉)",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "涼拌豬肉河粉(米粉)",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "涼拌豬排河粉(米粉)",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "涼拌炸春捲河粉(米粉)",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬排飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞腿飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩牛肉飯",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩豬肉飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "咖哩雞肉飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "招牌越南手捲",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "越南春捲",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "涼拌木瓜絲",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炒青菜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸雞腿",
+   "price": 80,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸排骨",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

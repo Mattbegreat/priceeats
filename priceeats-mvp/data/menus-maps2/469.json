@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "丸亀製麵 環球南港店 烏龍麵餐廳",
+  "address": "115臺北市南港區新光里忠孝東路七段371號B1",
+  "lat": 25.0528955,
+  "lng": 121.6072597,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%B8%E4%BA%80%E8%A3%BD%E9%BA%B5%20%E7%92%B0%E7%90%83%E5%8D%97%E6%B8%AF%E5%BA%97%20%E7%83%8F%E9%BE%8D%E9%BA%B5%E9%A4%90%E5%BB%B3&query_place_id=ChIJp8oixV2rQjQRTgN9V_J6Py4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "照燒雞肉丼",
+   "price": 139,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素湯烏龍麵套餐（中）",
+   "price": 139,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素湯烏龍麵（單點）",
+   "price": 74,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻油雞白湯烏龍麵",
+   "price": 149,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻油雞白湯烏龍麵（大碗）",
+   "price": 179,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

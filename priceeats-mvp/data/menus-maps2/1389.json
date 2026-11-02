@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "松山割包",
+  "address": "110臺北市信義區永吉里松山路179號",
+  "lat": 25.0459429,
+  "lng": 121.577988,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E5%B1%B1%E5%89%B2%E5%8C%85&query_place_id=ChIJFeA3OZ-rQjQR3f64_qm-NkY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "肥肉割包",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "瘦肉割包",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合割包（半肥半瘦）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合偏瘦割包",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合偏肥割包",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "四神(腸)湯",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "四神豬肚湯",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "四神綜合湯(腸+肚)",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玉米排骨湯",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

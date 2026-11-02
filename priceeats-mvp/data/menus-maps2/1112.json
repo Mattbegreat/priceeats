@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "麵屋一燈 信義統一時代店 B2",
+  "address": "110臺北市信義區興雅里忠孝東路五段8號號 B2",
+  "lat": 25.0404655,
+  "lng": 121.565466,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BA%B5%E5%B1%8B%E4%B8%80%E7%87%88%20%E4%BF%A1%E7%BE%A9%E7%B5%B1%E4%B8%80%E6%99%82%E4%BB%A3%E5%BA%97%20B2&query_place_id=ChIJWTJPaXerQjQRn8BF4-iTRyw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "干貝雞湯拉麵",
+   "price": 268,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚介冠軍沾麵",
+   "price": 298,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒雞豚拉麵",
+   "price": 288,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露榷茸雞白湯拉麵",
+   "price": 328,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒牛肝菌雞豚飯",
+   "price": 79,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "東京雞白湯泡飯",
+   "price": 89,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥雞叉燒（三片）",
+   "price": 59,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥豬叉燒（三片）",
+   "price": 59,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

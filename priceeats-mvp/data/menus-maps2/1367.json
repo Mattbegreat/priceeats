@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "劉家宴",
+  "address": "110414臺北市信義區安康里松仁路101號2樓",
+  "lat": 25.0362324,
+  "lng": 121.5691896,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8A%89%E5%AE%B6%E5%AE%B4&query_place_id=ChIJ1ROQSwCrQjQRfsCBZVJ_rNs"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "膠東白菜燒根島蝦",
+   "price": 980,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金蒜奶油根島蝦",
+   "price": 1080,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海膽水餃（六顆）",
+   "price": 380,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

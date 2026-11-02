@@ -1,0 +1,385 @@
+{
+ "restaurant": {
+  "name": "辛隱鍋物",
+  "address": "115臺北市南港區興中路12巷9號1.2 樓",
+  "lat": 25.0551227,
+  "lng": 121.6071065,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%BE%9B%E9%9A%B1%E9%8D%8B%E7%89%A9&query_place_id=ChIJv-25mDirQjQRRgkQjMffEO4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "美國培根五花牛肉（單點）",
+   "price": 249,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美國極上雪花牛肉（單點）",
+   "price": 299,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特選低脂板腱牛肉（單點）",
+   "price": 329,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美國牛肩背(PRIME)（單點）",
+   "price": 349,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "極上霜降牛肉(PRIME)（單點）",
+   "price": 499,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日本A5和牛紐約客（單點）",
+   "price": 899,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特選梅花豬肉（單點）",
+   "price": 229,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣雪花豬肉（單點）",
+   "price": 249,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嚴選松阪豬肉（單點）",
+   "price": 349,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "去骨雞腿肉（單點）",
+   "price": 229,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特選羊肉（單點）",
+   "price": 249,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紐西蘭小羔羊肉（單點）",
+   "price": 329,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嘉義東石鮮蚵",
+   "price": 129,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手作新鮮蝦滑",
+   "price": 129,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嚴選飽滿蛤蜊",
+   "price": 129,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮甜帶殼扇貝",
+   "price": 129,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海釣基隆小卷",
+   "price": 129,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嚴選極甜白蝦",
+   "price": 199,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "新鮮好吃草蝦",
+   "price": 329,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日本肥美牡蠣",
+   "price": 329,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生食級3S干貝",
+   "price": 329,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "頂級天使紅蝦",
+   "price": 429,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "深海珍饌青龍龍蝦",
+   "price": 729,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌麻辣三寶",
+   "price": 79,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "港式牛筋腩煲",
+   "price": 249,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式金錢蝦餅",
+   "price": 249,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青麻藤香雞翅",
+   "price": 249,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸脆皮五花",
+   "price": 249,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特選梅花豬肉鍋",
+   "price": 349,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣雪花豬肉鍋",
+   "price": 379,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嚴選松阪豬肉鍋",
+   "price": 479,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "精選鯛魚鍋",
+   "price": 379,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "東石鮮蚵鍋",
+   "price": 379,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嚴選蛤蜊鍋",
+   "price": 379,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合魚片鍋",
+   "price": 399,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "草蝦蛤蜊鍋",
+   "price": 459,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "草蝦鮮蚵鍋",
+   "price": 459,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豪華十蝦鍋",
+   "price": 499,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豪華海鮮拼盤",
+   "price": 599,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "全明星奢華海鮮",
+   "price": 799,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "深海青龍海鮮船",
+   "price": 1299,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "去骨雞腿蛤蜊鍋",
+   "price": 349,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特選羊肉鍋",
+   "price": 349,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紐西蘭小羔羊鍋",
+   "price": 429,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美國培根五花牛肉鍋",
+   "price": 349,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美國極上雪花牛肉鍋",
+   "price": 379,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特選低脂板腱牛肉鍋",
+   "price": 429,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美國牛肩背(PRIME)鍋",
+   "price": 479,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "極上霜降牛肉(PRIME)鍋",
+   "price": 599,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日本A5和牛紐約客鍋",
+   "price": 999,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嚴選雙人海陸套餐(雙人A)",
+   "price": 1199,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奢華雙人海陸套餐(雙人B)",
+   "price": 1499,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "頂級青龍海陸饗宴(雙人C)",
+   "price": 2499,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

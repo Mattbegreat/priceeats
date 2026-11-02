@@ -1,0 +1,119 @@
+{
+ "restaurant": {
+  "name": "OmO Cafe 歐莫–早午餐｜咖啡｜甜點",
+  "address": "110臺北市信義區西村里光復南路453-3號",
+  "lat": 25.0346612,
+  "lng": 121.5577166,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=OmO%20Cafe%20%E6%AD%90%E8%8E%AB%E2%80%93%E6%97%A9%E5%8D%88%E9%A4%90%EF%BD%9C%E5%92%96%E5%95%A1%EF%BD%9C%E7%94%9C%E9%BB%9E&query_place_id=ChIJA9BUWpGrQjQRjPx80QVM310"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "OmO Breakfast Platter",
+   "price": 480,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "OmO Beef Croissant Sandwich",
+   "price": 420,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "OmO Sous Vide Chicken Croissant Sandwich",
+   "price": 380,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Smoked Salmon Avocado Open Sandwich",
+   "price": 380,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Margherita Pizza",
+   "price": 320,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Smoked Salmon with Yogurt Salad",
+   "price": 360,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Sous Vide Chicken with Yogurt Salad",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Sous Vide beef with Yogurt Salad",
+   "price": 380,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Colorful Fruit Yogurt Bowl",
+   "price": 320,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "OmO Roast Half Chicken",
+   "price": 350,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "OmO Handmade Lasagna",
+   "price": 250,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Truffle Mushroom Spaghetti",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Pepper Chicken Spaghetti",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Mexican-style Chicken Spaghetti",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Mama's Braised Beef Ribs with Sourdough",
+   "price": 380,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

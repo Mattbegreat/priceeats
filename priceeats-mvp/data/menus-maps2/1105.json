@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "晚上見麵🍜",
+  "address": "110臺北市信義區廣居里松山路470號",
+  "lat": 25.040201,
+  "lng": 121.577671,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%99%9A%E4%B8%8A%E8%A6%8B%E9%BA%B5%F0%9F%8D%9C&query_place_id=ChIJ-TwZBcqrQjQRltq6bEG3llE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "濃厚旨味・雞白湯拉麵",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "極致辛味・濃厚雞白湯",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "博多職人・豚骨白湯",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "細緻辛味・博多豚骨",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "個人化・濃厚雞白湯",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "個人化・辛味雞白湯",
+   "price": 210,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "個人化・豚骨白湯",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "個人化・辛味博多豚骨",
+   "price": 210,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "胡麻時蔬・涼拌菠菜",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秘製日式・唐揚炸雞",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清湯極鮮餛飩（一皿）",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

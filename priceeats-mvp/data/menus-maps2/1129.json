@@ -1,0 +1,217 @@
+{
+ "restaurant": {
+  "name": "開丼 燒肉vs丼飯 台北101店",
+  "address": "B1樓, No. 45號市府路西村里信義區臺北市110",
+  "lat": 25.0338492,
+  "lng": 121.5643085,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%96%8B%E4%B8%BC%20%E7%87%92%E8%82%89vs%E4%B8%BC%E9%A3%AF%20%E5%8F%B0%E5%8C%97101%E5%BA%97&query_place_id=ChIJ2xs9KI2rQjQRcXbyWRJovZ0"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "日出燒肉丼（豚）",
+   "price": 260,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日出燒肉丼（牛）",
+   "price": 280,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塩蔥燒肉丼（豚）",
+   "price": 260,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塩蔥燒肉丼（牛）",
+   "price": 280,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塩蔥雞腿丼",
+   "price": 290,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚切照燒豬五花丼",
+   "price": 280,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日出蔥饌燒肉丼（豚）",
+   "price": 310,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日出蔥饌燒肉丼（牛）",
+   "price": 330,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "骰子菲力丼",
+   "price": 370,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "霜降牛排重",
+   "price": 299,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚玉子燒鰻丼",
+   "price": 360,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙烤豬排鐵板×日出燒肉丼（豚）",
+   "price": 299,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炙烤豬排鐵板×日出燒肉丼（牛）",
+   "price": 319,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "醬燒雞腿鐵板×日出燒肉丼（豚）",
+   "price": 329,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "醬燒雞腿鐵板×日出燒肉丼（牛）",
+   "price": 349,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "塩蔥牛舌片鐵板×日出燒肉丼（豚）",
+   "price": 329,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "塩蔥牛舌片鐵板×日出燒肉丼（牛）",
+   "price": 349,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "醬燒鯖魚鐵板×日出燒肉丼（豚）",
+   "price": 339,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "醬燒鯖魚鐵板×日出燒肉丼（牛）",
+   "price": 359,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "羽下牛排鐵板×日出燒肉丼（豚）",
+   "price": 359,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "羽下牛排鐵板×日出燒肉丼（牛）",
+   "price": 379,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "油封香蒜牛小排×日出燒肉丼（豚）",
+   "price": 429,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "油封香蒜牛小排×日出燒肉丼（牛）",
+   "price": 449,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "生雞蛋/珍鮮白飯",
+   "price": 20,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "溫泉蛋/溏心蛋",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "黑胡椒毛豆",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "韓式手工泡菜",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炙烤櫛瓜串",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "明太子薯餅",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

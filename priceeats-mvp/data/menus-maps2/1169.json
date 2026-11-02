@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "紫木槿韓餐酒館(遠東Garden City 大巨蛋店)",
+  "address": "110臺北市信義區新仁里忠孝東路四段515號",
+  "lat": 25.0416275,
+  "lng": 121.5595298,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%B4%AB%E6%9C%A8%E6%A7%BF%E9%9F%93%E9%A4%90%E9%85%92%E9%A4%A8%28%E9%81%A0%E6%9D%B1Garden%20City%20%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%BA%97%29&query_place_id=ChIJJxMwSwCrQjQRts3F17UUMgg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "經典雙饗（2人）",
+   "price": 880,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌饗宴（2人）",
+   "price": 1380,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓風饗宴（4人）",
+   "price": 2380,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

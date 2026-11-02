@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "人从众厚切牛排(台北永春店)",
+  "address": "110臺北市信義區忠孝東路五段396號",
+  "lat": 25.0407412,
+  "lng": 121.5746302,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%BA%E4%BB%8E%E4%BC%97%E5%8E%9A%E5%88%87%E7%89%9B%E6%8E%92%28%E5%8F%B0%E5%8C%97%E6%B0%B8%E6%98%A5%E5%BA%97%29&query_place_id=ChIJ2wu4YpCrQjQRSL0V6MomlBI"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-11-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "雙人套餐1（789元套餐）",
+   "price": 789,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙人套餐2（889元套餐）",
+   "price": 889,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露安格斯（10oz）",
+   "price": 470,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露雞腿排",
+   "price": 360,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司厚切豬排",
+   "price": 360,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙烤豬肉飯",
+   "price": 250,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙烤牛肉飯",
+   "price": 270,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙烤豬排飯",
+   "price": 270,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙烤雞腿飯",
+   "price": 270,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙烤牛排飯",
+   "price": 290,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "安格斯骰子牛飯",
+   "price": 300,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

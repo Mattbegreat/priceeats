@@ -1,0 +1,217 @@
+{
+ "restaurant": {
+  "name": "大方雞腿王",
+  "address": "115臺北市南港區南港里南港路一段191號",
+  "lat": 25.0551241,
+  "lng": 121.6119454,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%96%B9%E9%9B%9E%E8%85%BF%E7%8E%8B&query_place_id=ChIJC4QwG6GrQjQRQQgIwXLn0bM"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "照燒大雞腿飯",
+   "price": 105,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "脆皮大雞腿飯",
+   "price": 105,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蜜汁大雞腿飯",
+   "price": 105,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清蒸大雞腿飯",
+   "price": 105,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚切排骨飯",
+   "price": 105,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香滷大雞腿飯",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鯖魚排飯",
+   "price": 95,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥豬柳飯",
+   "price": 95,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥爆牛肉飯",
+   "price": 95,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "宮保雞丁飯",
+   "price": 88,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "糖醋雞丁飯",
+   "price": 88,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "水晶魚排飯",
+   "price": 88,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司豬排飯",
+   "price": 88,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷肉四菜飯",
+   "price": 80,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香酥雞排飯",
+   "price": 80,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷棒棒腿飯",
+   "price": 80,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "澎湃六菜飯",
+   "price": 80,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白菜飯",
+   "price": 15,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷蛋",
+   "price": 15,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷肉飯",
+   "price": 20,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "棒棒腿（單點）",
+   "price": 30,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香雞排（單點）",
+   "price": 45,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "水晶魚排（單點）",
+   "price": 45,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "糖醋雞丁（單點）",
+   "price": 55,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "青椒牛肉（單點）",
+   "price": 55,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "洋蔥豬柳（單點）",
+   "price": 65,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "紅燒吳郭魚（單點）",
+   "price": 65,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "厚切排骨（單點）",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "大雞腿（單點）",
+   "price": 75,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "restaurant": {
+  "name": "心家純淨蔬食｜vegan |素食｜restaurants｜民生社區素食｜全素餐廳｜素食便當｜素水餃｜素肉圓｜素食年菜｜素食蘿蔔糕｜全素甜點",
+  "address": "105臺北市松山區富錦里富錦街508號",
+  "lat": 25.060845,
+  "lng": 121.56445,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BF%83%E5%AE%B6%E7%B4%94%E6%B7%A8%E8%94%AC%E9%A3%9F%EF%BD%9Cvegan%20%7C%E7%B4%A0%E9%A3%9F%EF%BD%9Crestaurants%EF%BD%9C%E6%B0%91%E7%94%9F%E7%A4%BE%E5%8D%80%E7%B4%A0%E9%A3%9F%EF%BD%9C%E5%85%A8%E7%B4%A0%E9%A4%90%E5%BB%B3%EF%BD%9C%E7%B4%A0%E9%A3%9F%E4%BE%BF%E7%95%B6%EF%BD%9C%E7%B4%A0%E6%B0%B4%E9%A4%83%EF%BD%9C%E7%B4%A0%E8%82%89%E5%9C%93%EF%BD%9C%E7%B4%A0%E9%A3%9F%E5%B9%B4%E8%8F%9C%EF%BD%9C%E7%B4%A0%E9%A3%9F%E8%98%BF%E8%94%94%E7%B3%95%EF%BD%9C%E5%85%A8%E7%B4%A0%E7%94%9C%E9%BB%9E&query_place_id=ChIJdTYxXHCpQjQRR6n6mDkCofM"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "椒麻猴頭菇串燒（單點）",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椒麻猴頭菇串燒（3串）",
+   "price": 220,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三杯猴頭菇串燒（單點）",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三杯猴頭菇串燒（3串）",
+   "price": 220,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒猴頭菇串燒（單點）",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒猴頭菇串燒（3串）",
+   "price": 220,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "叻沙豆腐煲",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌豆腐煲",
+   "price": 350,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉骨茶豆腐煲",
+   "price": 360,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "藥膳豆腐煲",
+   "price": 360,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒番茄豆腐煲",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "古早味酸菜猴頭菇潛艇堡",
+   "price": 300,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "野莓蔬食植物排潛艇堡",
+   "price": 350,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒蔬食猴頭菇潛艇堡",
+   "price": 300,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油醋蔬食植物排潛艇堡",
+   "price": 350,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒杏鮑菇低GI餐",
+   "price": 290,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三杯猴頭菇低GI餐",
+   "price": 290,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椒麻猴頭菇低GI餐",
+   "price": 290,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "未來肉植物肉排低GI餐",
+   "price": 330,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑胡椒猴頭菇排低GI餐",
+   "price": 330,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "原塊猴頭菇排低GI餐",
+   "price": 450,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燉牛若飯",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "叻沙拉麵（單點）",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "叻沙拉麵（含醬燒猴頭菇串燒）",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌拉麵（單點）",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌拉麵（含醬燒猴頭菇串燒）",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "藥膳拉麵（單點）",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "藥膳拉麵（含醬燒猴頭菇串燒）",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉骨茶拉麵（單點）",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉骨茶拉麵（含醬燒猴頭菇串燒）",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒蕃茄牛若麵（單點）",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒蕃茄牛若麵（含醬燒猴頭菇串燒）",
+   "price": 370,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "四川麻辣豆花",
+   "price": 90,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式涼拌G絲",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法式芥籽蘢鬚菜",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤薯條",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤墨西哥猴頭菇",
+   "price": 250,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒猴頭菇PIZZA",
+   "price": 300,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑松露蕈菇PIZZA",
+   "price": 380,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

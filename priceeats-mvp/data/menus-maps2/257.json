@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "兩四韓館 24 Korean Cuisine",
+  "address": "115臺北市南港區三重里南港路一段136巷6弄1-1號",
+  "lat": 25.0559097,
+  "lng": 121.6131036,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%A9%E5%9B%9B%E9%9F%93%E9%A4%A8%2024%20Korean%20Cuisine&query_place_id=ChIJXZLE7FirQjQRZBxGq6uV48w"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "鍋巴飯",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "拌飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "韓式炸雞飯",
+   "price": 125,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "部隊鍋附王子麵",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "酸泡菜鍋附白飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "泡菜馬鈴薯麵",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "泡菜馬鈴薯冬粉",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "麻辣辛拉麵",
+   "price": 125,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "王子麵",
+   "price": 10,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "冬粉",
+   "price": 10,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "白飯",
+   "price": 10,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "韓國拉麵",
+   "price": 30,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

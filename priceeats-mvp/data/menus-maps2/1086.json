@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "菜鳥書蒔101店",
+  "address": "110臺北市信義區西村里信義路五段7號35樓",
+  "lat": 25.0335435,
+  "lng": 121.5647644,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%8F%9C%E9%B3%A5%E6%9B%B8%E8%92%94101%E5%BA%97&query_place_id=ChIJbXA7MVirQjQR4eIND-IFuog"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "腰瘦健美餐",
+   "price": 200,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

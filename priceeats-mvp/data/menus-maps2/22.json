@@ -1,0 +1,112 @@
+{
+ "restaurant": {
+  "name": "弁當工場 松山總店",
+  "address": "115臺北市南港區中南里中南街62號",
+  "lat": 25.0536428,
+  "lng": 121.615129,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BC%81%E7%95%B6%E5%B7%A5%E5%A0%B4%20%E6%9D%BE%E5%B1%B1%E7%B8%BD%E5%BA%97&query_place_id=ChIJ09Jxbd6rQjQRr_aFeLAemvk"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "商務餐",
+   "price": 150,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "貴賓餐",
+   "price": 200,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式迷迭香草腿排",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式鯖魚一夜干",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式照燒豬排",
+   "price": 105,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "懷舊鐵路排骨",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式廣島燒雞排",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式檸檬羅勒豬",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式燒烤豬肉",
+   "price": 115,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻婆豆腐燴豬排",
+   "price": 115,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式壽喜燒豬",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "私房酥炸雞腿",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式椒麻雞腿",
+   "price": 135,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓風辣味吮指雞",
+   "price": 135,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

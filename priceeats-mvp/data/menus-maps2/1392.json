@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "玖龍冰室香港茶餐廳",
+  "address": "110臺北市信義區新仁里忠孝東路四段553巷52弄5號1樓",
+  "lat": 25.04469,
+  "lng": 121.56284,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%8E%96%E9%BE%8D%E5%86%B0%E5%AE%A4%E9%A6%99%E6%B8%AF%E8%8C%B6%E9%A4%90%E5%BB%B3&query_place_id=ChIJo3ClvoarQjQR3W13Dy-xMh8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "菠蘿油",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油豬仔包（沒肉）",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬扒",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞扒",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "午餐肉（2入）",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "冰火菠蘿油",
+   "price": 59,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬扒包（有肉）",
+   "price": 88,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

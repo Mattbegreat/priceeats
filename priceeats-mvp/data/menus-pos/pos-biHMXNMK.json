@@ -1,0 +1,265 @@
+{
+ "restaurant": {
+  "name": "唐潮雞排(南港分舵)",
+  "address": "臺北市南港區研究院路二段33號",
+  "lat": 25.0462077,
+  "lng": 121.6153499,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%94%90%E6%BD%AE%E9%9B%9E%E6%8E%92%28%E5%8D%97%E6%B8%AF%E5%88%86%E8%88%B5%29&query_place_id=ChIJT9jGIdarQjQR2lNxXO8p3sY"
+ },
+ "source_date": "2026-10-30",
+ "source_image": "https://shop.ichefpos.com/store/biHMXNMK/ordering",
+ "source": "pos_online",
+ "items": [
+  {
+   "name": "雞皮",
+   "price": 65,
+   "category": "小吃",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞尾串(8顆)",
+   "price": 65,
+   "category": "小吃",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞心串(8顆)",
+   "price": 60,
+   "category": "小吃",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞蛋豆腐",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "杏鮑菇",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "地瓜條",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆皮",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "銀絲卷(2顆)(含花生粉附煉乳)",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "甜不辣",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "米血糕",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金針菇",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "百頁豆腐",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "五香豆干",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞腳踝",
+   "price": 35,
+   "category": "小吃",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "親子雞腿肉丼飯",
+   "price": 135,
+   "category": "飯類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "親子雞腿肉丼飯(肉多)",
+   "price": 175,
+   "category": "飯類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸雞腿塊丼飯",
+   "price": 140,
+   "category": "飯類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸雞腿塊丼飯(肉多)",
+   "price": 180,
+   "category": "飯類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸雞翅丼飯",
+   "price": 155,
+   "category": "飯類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸雞胸塊丼飯",
+   "price": 165,
+   "category": "飯類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "秘製豬肉丼飯",
+   "price": 165,
+   "category": "飯類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "秘製雙倍豬肉丼飯",
+   "price": 245,
+   "category": "飯類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "秘製牛肉丼飯",
+   "price": 165,
+   "category": "飯類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "秘製雙倍牛肉丼飯",
+   "price": 245,
+   "category": "飯類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸豬排丼飯(附醬)",
+   "price": 180,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "孜然雞排丼飯(不切)",
+   "price": 180,
+   "category": "飯類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香雞排丼飯(不切)",
+   "price": 180,
+   "category": "飯類",
+   "tags": [
+    "肉類"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸魷魚丼飯(整尾不切)",
+   "price": 230,
+   "category": "飯類",
+   "tags": [
+    "海鮮"
+   ],
+   "confidence": 0.95
+  },
+  {
+   "name": "輕食丼飯",
+   "price": 85,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "霸王全雞(單點)(不切)(附醬,椒鹽包,辣包)",
+   "price": 550,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "霸王半雞(單點)(不切)(附醬,椒鹽包,辣包))",
+   "price": 285,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

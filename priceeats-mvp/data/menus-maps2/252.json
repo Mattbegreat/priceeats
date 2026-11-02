@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "咕咕咕嚕 日式昆布火鍋 | 韓式銅盤烤肉 - 南港店",
+  "address": "115臺北市南港區新富里研究院路一段117號",
+  "lat": 25.0515,
+  "lng": 121.616116,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%92%95%E5%92%95%E5%92%95%E5%9A%95%20%E6%97%A5%E5%BC%8F%E6%98%86%E5%B8%83%E7%81%AB%E9%8D%8B%20%7C%20%E9%9F%93%E5%BC%8F%E9%8A%85%E7%9B%A4%E7%83%A4%E8%82%89%20-%20%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJATps91mrQjQRv2QQ2iLQiyk"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "銅盤火鍋（平日中午）",
+   "price": 349,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "銅盤火鍋（平日晚上）",
+   "price": 399,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "銅盤火鍋（假日全天）",
+   "price": 399,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "精選升級",
+   "price": 780,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

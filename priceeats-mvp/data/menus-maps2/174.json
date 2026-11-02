@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "POPO CURRY 南港LaLaport",
+  "address": "115臺北市南港區環河里經貿二路131號5 樓",
+  "lat": 25.0593449,
+  "lng": 121.6175825,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=POPO%20CURRY%20%E5%8D%97%E6%B8%AFLaLaport&query_place_id=ChIJKaVJaQCtQjQRq9tcUfJ6i6w"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "北海道可樂餅咖哩飯",
+   "price": 230,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸牡蠣咖哩飯",
+   "price": 320,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋風紅酒牛咖哩飯",
+   "price": 320,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸蝦咖哩飯",
+   "price": 360,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸雞咖哩飯",
+   "price": 270,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸豬排咖哩飯",
+   "price": 270,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙片炸豬排咖哩飯",
+   "price": 350,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "職人三味咖哩飯",
+   "price": 420,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

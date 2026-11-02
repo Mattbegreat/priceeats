@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "饗食天堂 台北信義店",
+  "address": "110臺北市信義區西村里松壽路12號ATT 4 FUN百貨6樓",
+  "lat": 25.03531,
+  "lng": 121.5660665,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%A5%97%E9%A3%9F%E5%A4%A9%E5%A0%82%20%E5%8F%B0%E5%8C%97%E4%BF%A1%E7%BE%A9%E5%BA%97&query_place_id=ChIJjfzEsLCrQjQRVcQNcIk94A8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "午餐（平日週一至五）",
+   "price": 928,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "下午餐（平日週一至五）",
+   "price": 758,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "晚餐（平日週一至五）",
+   "price": 1028,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "午餐（週六至日、例假日）",
+   "price": 1028,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "下午餐（週六至日、例假日）",
+   "price": 928,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "晚餐（週六至日、例假日）",
+   "price": 1128,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

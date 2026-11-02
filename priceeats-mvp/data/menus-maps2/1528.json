@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "Salad Den",
+  "address": "105臺北市松山區復勢里南京東路四段168號1F",
+  "lat": 25.0513629,
+  "lng": 121.5567864,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Salad%20Den&query_place_id=ChIJw1tWDcKrQjQRnEyEKW3eLdU"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "薯餅",
+   "price": 138,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露薯條",
+   "price": 168,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起士條",
+   "price": 188,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱壓鮮奶吐司-附抹醬（2片）",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太陽蛋（2顆）",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炒蛋（2顆）",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "高能量酪梨",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "藜麥鷹嘴豆泥能量杯",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "DEN特製湯品",
+   "price": 90,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

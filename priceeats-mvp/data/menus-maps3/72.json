@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "佳元蔥油餅舖-南港創始總店",
+  "address": "115臺北市南港區南港里興華路111號",
+  "lat": 25.0565787,
+  "lng": 121.6058596,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BD%B3%E5%85%83%E8%94%A5%E6%B2%B9%E9%A4%85%E8%88%96-%E5%8D%97%E6%B8%AF%E5%89%B5%E5%A7%8B%E7%B8%BD%E5%BA%97&query_place_id=ChIJR7aer0GrQjQRfUIaRtdrdcE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "蔥油餅（小份）",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥油餅（大份）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥仔餅（小份）",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥仔餅（大份）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥仔條（小份）",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥仔條（大份）",
+   "price": 75,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑松露蔥油餅",
+   "price": 105,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

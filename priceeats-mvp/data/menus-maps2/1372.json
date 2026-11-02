@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "板前中山｜台北信義",
+  "address": "110臺北市信義區興雅里松仁路28號B2",
+  "lat": 25.0396219,
+  "lng": 121.567641,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E5%89%8D%E4%B8%AD%E5%B1%B1%EF%BD%9C%E5%8F%B0%E5%8C%97%E4%BF%A1%E7%BE%A9&query_place_id=ChIJo9PSwl6rQjQR96GX4fYJgdI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "赤身肉",
+   "price": 160,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "霜降肉",
+   "price": 180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "極上霜降肉",
+   "price": 220,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "夢幻部位",
+   "price": 280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚切和牛舌",
+   "price": 250,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "夢幻和牛舌芯",
+   "price": 780,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "伊比利豬肋芯",
+   "price": 280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "伊比利豬肩肉",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "伊比利豬松阪",
+   "price": 380,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "本地產鉛筆肉",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "本地產豬松阪",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "本地產土雞松阪",
+   "price": 260,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

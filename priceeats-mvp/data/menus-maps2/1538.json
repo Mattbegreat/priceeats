@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "NAGOYA 道地日式蛋包飯（開放電話及私訊訂位）",
+  "address": "105臺北市松山區東光里南京東路五段23巷6弄8號",
+  "lat": 25.0520561,
+  "lng": 121.5583302,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=NAGOYA%20%E9%81%93%E5%9C%B0%E6%97%A5%E5%BC%8F%E8%9B%8B%E5%8C%85%E9%A3%AF%EF%BC%88%E9%96%8B%E6%94%BE%E9%9B%BB%E8%A9%B1%E5%8F%8A%E7%A7%81%E8%A8%8A%E8%A8%82%E4%BD%8D%EF%BC%89&query_place_id=ChIJccGhXRqrQjQRlsWMQ6UCGXo"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "豪華雙人套餐",
+   "price": 999,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

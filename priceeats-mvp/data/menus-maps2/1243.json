@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "船鼎海鮮創作料理",
+  "address": "110臺北市信義區三張里莊敬路413號",
+  "lat": 25.027405,
+  "lng": 121.566307,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%88%B9%E9%BC%8E%E6%B5%B7%E9%AE%AE%E5%89%B5%E4%BD%9C%E6%96%99%E7%90%86&query_place_id=ChIJ68mpabOrQjQR9yHUJLnGRUM"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "茄子魚香煲",
+   "price": 295,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "宮保臭豆腐",
+   "price": 235,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥爆豬肝",
+   "price": 215,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "飛麻臭豆腐",
+   "price": 265,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵板無骨牛排",
+   "price": 495,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

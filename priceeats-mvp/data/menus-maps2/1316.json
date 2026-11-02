@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "象山日光珈琲 Sunshine Cafe",
+  "address": "110臺北市信義區三犁里信義路五段150巷22弄55號",
+  "lat": 25.0273234,
+  "lng": 121.5703862,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B1%A1%E5%B1%B1%E6%97%A5%E5%85%89%E7%8F%88%E7%90%B2%20Sunshine%20Cafe&query_place_id=ChIJtSXHJ4OrQjQR5j2AYLItRkU"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "法式手工菠菜千層麵",
+   "price": 250,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法式手工格林鹹派",
+   "price": 190,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法式手工青醬菇菇鹹派",
+   "price": 200,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特製南洋咖哩",
+   "price": 270,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式紫蘇梅燒飯糰（1顆）",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式紫蘇梅燒飯糰（2顆）",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式醬油燒飯糰（1顆）",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式醬油燒飯糰（2顆）",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特調起司薯條",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蜂蜜芥末薯條",
+   "price": 190,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

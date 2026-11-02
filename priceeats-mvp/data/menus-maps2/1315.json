@@ -1,0 +1,105 @@
+{
+ "restaurant": {
+  "name": "初泰Pikul｜信義象山門市",
+  "address": "110臺北市信義區信義路五段122號",
+  "lat": 25.0320778,
+  "lng": 121.5688471,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%88%9D%E6%B3%B0Pikul%EF%BD%9C%E4%BF%A1%E7%BE%A9%E8%B1%A1%E5%B1%B1%E9%96%80%E5%B8%82&query_place_id=ChIJ1eXQShWrQjQR-9Ev_CR9KkI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "市場豬肉串（5串）",
+   "price": 270,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金磚豆腐",
+   "price": 270,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "拉差達沙嗲雞",
+   "price": 280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑金蝦餅（6入）",
+   "price": 320,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸麵包蝦",
+   "price": 320,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洽圖洽炸雞翅",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "月亮蝦餅（6入）",
+   "price": 370,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松瓦炸小卷",
+   "price": 398,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青木瓜拌沙拉",
+   "price": 280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "北拌豬五花",
+   "price": 328,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣海鮮粉絲拌沙拉",
+   "price": 368,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青木瓜海鮮拌沙拉",
+   "price": 368,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "柚子蝦拌沙拉",
+   "price": 368,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

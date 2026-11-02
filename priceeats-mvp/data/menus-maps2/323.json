@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "PappaRich金爸爸-南港中信店",
+  "address": "115臺北市南港區三重里經貿二路166號中國信託金融園區1樓",
+  "lat": 25.058488,
+  "lng": 121.6162853,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=PappaRich%E9%87%91%E7%88%B8%E7%88%B8-%E5%8D%97%E6%B8%AF%E4%B8%AD%E4%BF%A1%E5%BA%97&query_place_id=ChIJWUhu1qesQjQRuDKEkbrAZ1g"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-12-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "爸爸拋餅+仁當排骨",
+   "price": 340,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爸爸拋餅+咖哩雞",
+   "price": 340,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爸爸拋餅",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

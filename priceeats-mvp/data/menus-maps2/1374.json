@@ -1,0 +1,658 @@
+{
+ "restaurant": {
+  "name": "激安の食事酒場（市府二號店）",
+  "address": "110臺北市信義區興雅里基隆路一段147巷5弄1號1樓",
+  "lat": 25.0425899,
+  "lng": 121.5659978,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%BF%80%E5%AE%89%E3%81%AE%E9%A3%9F%E4%BA%8B%E9%85%92%E5%A0%B4%EF%BC%88%E5%B8%82%E5%BA%9C%E4%BA%8C%E8%99%9F%E5%BA%97%EF%BC%89&query_place_id=ChIJ4f8bCz6rQjQRi4DaZyZaOmk"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "五香毛毛豆",
+   "price": 68,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "老闆的私房泡菜",
+   "price": 88,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紫蘇番茄",
+   "price": 88,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芥末章魚",
+   "price": 98,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣拌風味螺肉",
+   "price": 98,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "甘露の柳葉魚",
+   "price": 138,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "開胃沙拉",
+   "price": 168,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "橙醋鱈魚肝",
+   "price": 178,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒鮭魚佐玉子豆腐",
+   "price": 188,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚握壽司（3貫）",
+   "price": 198,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒鮭魚握壽司（3貫）",
+   "price": 198,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "比目魚握壽司（3貫）",
+   "price": 198,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "干貝握壽司（3貫）",
+   "price": 198,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒干貝握壽司（3貫）",
+   "price": 198,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚刺身",
+   "price": 328,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油綜合菇",
+   "price": 128,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "老師傅鹽酥臭豆腐",
+   "price": 128,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塔香烘蛋",
+   "price": 128,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "激安小炒",
+   "price": 138,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "沖繩山苦瓜",
+   "price": 158,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松阪豚爆水蓮",
+   "price": 158,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "櫻花蝦高麗菜",
+   "price": 158,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜豚五花",
+   "price": 168,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "絲瓜蛤蠣燒",
+   "price": 168,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "今日滷三小",
+   "price": 178,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酒蒸蛤蜊",
+   "price": 228,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秘製泡菜臭豆腐",
+   "price": 68,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "帶皮玉米筍",
+   "price": 98,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子馬鈴薯",
+   "price": 108,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "現流の秋刀魚",
+   "price": 128,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司焗烤扇貝",
+   "price": 138,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒雞肉丸",
+   "price": 168,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塩烤鯖魚",
+   "price": 178,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "元氣照燒牛組合",
+   "price": 228,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嫩肩菲力牛排",
+   "price": 298,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽烤鮮蝦",
+   "price": 298,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽烤鮭魚頭",
+   "price": 358,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "午仔魚一夜干",
+   "price": 358,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "北海道花魚",
+   "price": 428,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秘製醬烤夢幻手羽先",
+   "price": 188,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "揚出豆腐",
+   "price": 98,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸香絲脆",
+   "price": 158,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "吉煮龍田の雞唐揚",
+   "price": 158,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合雞軟骨唐揚",
+   "price": 158,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛蒡天婦羅",
+   "price": 178,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "名古屋夢幻手羽先（椒鹽小份）",
+   "price": 168,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "名古屋夢幻手羽先（椒鹽巨塔）",
+   "price": 358,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤鮭魚飯糰",
+   "price": 88,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "粉紅烏龍麵",
+   "price": 168,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "火炒豚肉方便麵",
+   "price": 168,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉炒飯",
+   "price": 188,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "櫻花蝦炒飯",
+   "price": 188,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "北海道鮭魚炒飯",
+   "price": 188,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮魚味噌湯",
+   "price": 228,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜年糕豬肉鍋",
+   "price": 298,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "石狩味噌鍋",
+   "price": 398,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "相撲力士鍋",
+   "price": 588,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽烤櫛瓜（1串）",
+   "price": 58,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽烤櫛瓜（3串）",
+   "price": 138,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塩烤雞軟骨（1串）",
+   "price": 58,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塩烤雞軟骨（3串）",
+   "price": 138,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塩烤杏包菇（1串）",
+   "price": 58,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塩烤杏包菇（3串）",
+   "price": 138,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塩烤雞腿肉（1串）",
+   "price": 68,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塩烤雞腿肉（3串）",
+   "price": 188,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒雞軟骨（1串）",
+   "price": 68,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒雞軟骨（3串）",
+   "price": 188,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒雞の心（1串）",
+   "price": 68,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒雞の心（3串）",
+   "price": 188,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒中菇串（1串）",
+   "price": 68,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒中菇串（3串）",
+   "price": 188,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒雞尾椎（1串）",
+   "price": 68,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒雞尾椎（3串）",
+   "price": 188,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子雞肉（1串）",
+   "price": 68,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子雞肉（3串）",
+   "price": 198,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒雞腿肉（1串）",
+   "price": 68,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒雞腿肉（3串）",
+   "price": 198,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蜂蜜芥末雞腿肉（1串）",
+   "price": 78,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蜂蜜芥末雞腿肉（3串）",
+   "price": 218,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥塩雞腿肉（1串）",
+   "price": 78,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥塩雞腿肉（3串）",
+   "price": 218,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜松阪豬（1串）",
+   "price": 78,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜松阪豬（3串）",
+   "price": 218,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豚五花大蔥串（1串）",
+   "price": 78,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豚五花大蔥串（3串）",
+   "price": 218,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "剝皮辣椒卷（1串）",
+   "price": 78,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "剝皮辣椒卷（3串）",
+   "price": 218,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根干貝卷（1串）",
+   "price": 88,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根干貝卷（3串）",
+   "price": 238,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塩烤柳葉魚（4P）",
+   "price": 118,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塩烤牛肋條（2串）",
+   "price": 168,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒牛肋條（2串）",
+   "price": 188,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,742 @@
+{
+ "restaurant": {
+  "name": "太陽蕃茄拉麵 南港環球店",
+  "address": "115臺北市南港區中興里忠孝東路七段371號B1",
+  "lat": 25.0528955,
+  "lng": 121.6072597,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%AA%E9%99%BD%E8%95%83%E8%8C%84%E6%8B%89%E9%BA%B5%20%E5%8D%97%E6%B8%AF%E7%92%B0%E7%90%83%E5%BA%97&query_place_id=ChIJz2PZJbCrQjQRA_reJk5u23o"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "太陽起司滑蛋拉麵（單點）",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太陽起司滑蛋拉麵（套餐）",
+   "price": 390,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太陽起司拉麵（單點）",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太陽起司拉麵（套餐）",
+   "price": 360,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太陽起司拉麵雙倍起司（單點）",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太陽起司拉麵雙倍起司（套餐）",
+   "price": 410,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太陽滑蛋拉麵（單點）",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太陽滑蛋拉麵（套餐）",
+   "price": 350,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太陽滑蛋拉麵雙倍滑蛋（單點）",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太陽滑蛋拉麵雙倍滑蛋（套餐）",
+   "price": 390,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉醬起司滑蛋拉麵（單點）",
+   "price": 340,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉醬起司滑蛋拉麵（套餐）",
+   "price": 430,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉醬起司拉麵（單點）",
+   "price": 310,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉醬起司拉麵（套餐）",
+   "price": 400,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉醬滑蛋拉麵（單點）",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉醬滑蛋拉麵（套餐）",
+   "price": 390,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉醬茄子拉麵（單點）",
+   "price": 310,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉醬茄子拉麵（套餐）",
+   "price": 400,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太陽鮮蔬拉麵（單點）",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太陽鮮蔬拉麵（套餐）",
+   "price": 380,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太陽拉麵（單點）",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太陽拉麵（套餐）",
+   "price": 310,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太陽茄子拉麵（單點）",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太陽茄子拉麵（套餐）",
+   "price": 360,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香辣起司拉麵（單點）",
+   "price": 310,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香辣起司拉麵（套餐）",
+   "price": 400,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香辣滑蛋拉麵（單點）",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香辣滑蛋拉麵（套餐）",
+   "price": 390,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太陽起司漢堡排拉麵（單點）",
+   "price": 400,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太陽起司漢堡排拉麵（套餐）",
+   "price": 490,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞骨白湯拉麵（單點）",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞骨白湯拉麵（套餐）",
+   "price": 350,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒雞骨白湯拉麵（單點）",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒雞骨白湯拉麵（套餐）",
+   "price": 420,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞骨白湯鮮蔬拉麵（單點）",
+   "price": 280,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞骨白湯鮮蔬拉麵（套餐）",
+   "price": 370,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蕃茄咖哩拉麵（單點）",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蕃茄咖哩拉麵（套餐）",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蕃茄咖哩滑蛋拉麵（單點）",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蕃茄咖哩滑蛋拉麵（套餐）",
+   "price": 360,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蕃茄咖哩起司拉麵（單點）",
+   "price": 280,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蕃茄咖哩起司拉麵（套餐）",
+   "price": 370,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蕃茄咖哩鮮蔬拉麵（單點）",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蕃茄咖哩鮮蔬拉麵（套餐）",
+   "price": 390,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆漢堡排咖哩飯（單點）",
+   "price": 360,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆漢堡排咖哩飯（套餐）",
+   "price": 450,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆漢堡排咖哩飯歐姆蛋雙倍（單點）",
+   "price": 400,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆漢堡排咖哩飯歐姆蛋雙倍（套餐）",
+   "price": 490,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆招牌咖哩飯（單點）",
+   "price": 310,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆招牌咖哩飯（套餐）",
+   "price": 400,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆招牌咖哩飯歐姆蛋雙倍（單點）",
+   "price": 350,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆招牌咖哩飯歐姆蛋雙倍（套餐）",
+   "price": 440,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆炸豬排咖哩飯（單點）",
+   "price": 280,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆炸豬排咖哩飯（套餐）",
+   "price": 370,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆炸豬排咖哩飯歐姆蛋雙倍（單點）",
+   "price": 320,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆炸豬排咖哩飯歐姆蛋雙倍（套餐）",
+   "price": 410,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆炸雞咖哩飯3塊（單點）",
+   "price": 230,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆炸雞咖哩飯3塊（套餐）",
+   "price": 320,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆炸雞咖哩飯5塊（單點）",
+   "price": 270,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆炸雞咖哩飯5塊（套餐）",
+   "price": 360,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆炸雞咖哩飯歐姆蛋雙倍（單點）",
+   "price": 310,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆炸雞咖哩飯歐姆蛋雙倍（套餐）",
+   "price": 400,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆蔬菜咖哩飯（單點）",
+   "price": 230,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆蔬菜咖哩飯（套餐）",
+   "price": 320,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆蔬菜咖哩飯歐姆蛋雙倍（單點）",
+   "price": 270,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆蔬菜咖哩飯歐姆蛋雙倍（套餐）",
+   "price": 360,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素太陽起司滑蛋拉麵（單點）",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素太陽起司滑蛋拉麵（套餐）",
+   "price": 350,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素太陽滑蛋拉麵（單點）",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素太陽滑蛋拉麵（套餐）",
+   "price": 310,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素太陽鮮蔬拉麵（單點）",
+   "price": 250,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素太陽鮮蔬拉麵（套餐）",
+   "price": 340,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素太陽起司拉麵（單點）",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素太陽起司拉麵（套餐）",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素咖哩起司滑蛋拉麵（單點）",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素咖哩起司滑蛋拉麵（套餐）",
+   "price": 360,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素咖哩滑蛋拉麵（單點）",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素咖哩滑蛋拉麵（套餐）",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素咖哩鮮蔬拉麵（單點）",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素咖哩鮮蔬拉麵（套餐）",
+   "price": 350,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素咖哩起司拉麵（單點）",
+   "price": 240,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素咖哩起司拉麵（套餐）",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素歐姆蔬菜咖哩飯（單點）",
+   "price": 230,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素歐姆蔬菜咖哩飯（套餐）",
+   "price": 320,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素歐姆蔬菜咖哩飯歐姆蛋雙倍（單點）",
+   "price": 270,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素歐姆蔬菜咖哩飯歐姆蛋雙倍（套餐）",
+   "price": 360,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素歐姆杏鮑菇咖哩飯（單點）",
+   "price": 240,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素歐姆杏鮑菇咖哩飯（套餐）",
+   "price": 330,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素歐姆杏鮑菇咖哩飯歐姆蛋雙倍（單點）",
+   "price": 280,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素歐姆杏鮑菇咖哩飯歐姆蛋雙倍（套餐）",
+   "price": 370,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素歐姆植物肉咖哩飯（單點）",
+   "price": 330,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素歐姆植物肉咖哩飯（套餐）",
+   "price": 420,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素歐姆植物肉咖哩飯歐姆蛋雙倍（單點）",
+   "price": 370,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素歐姆植物肉咖哩飯歐姆蛋雙倍（套餐）",
+   "price": 460,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玉米濃湯",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特製炸雞塊",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩可樂餅",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸薯條",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥脆炸豬排",
+   "price": 170,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特製炸雞塊(5塊)",
+   "price": 160,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "漢堡排(牛豬混合)",
+   "price": 240,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸薯條（精選小吃）",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩可樂餅(2塊)",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "植物肉排",
+   "price": 220,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

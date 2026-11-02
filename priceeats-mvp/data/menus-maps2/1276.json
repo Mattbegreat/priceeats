@@ -1,0 +1,133 @@
+{
+ "restaurant": {
+  "name": "友伴TOMO 日式．和洋食",
+  "address": "110臺北市信義區松信路219號1樓",
+  "lat": 25.0414999,
+  "lng": 121.5720719,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%8B%E4%BC%B4TOMO%20%E6%97%A5%E5%BC%8F%EF%BC%8E%E5%92%8C%E6%B4%8B%E9%A3%9F&query_place_id=ChIJ4yIKghmrQjQR2_299SPzBm8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "日式經典豬排定食",
+   "price": 280,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "宮崎風塔塔南蠻雞定食",
+   "price": 280,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "馬告慢燉豚肉角煮定食",
+   "price": 360,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司漢堡排佐多蜜醬定食",
+   "price": 390,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅酒味噌燉牛肉定食",
+   "price": 420,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "比目魚西京燒定食",
+   "price": 460,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽麴熟成松阪豬佐柚香洋蔥醬定食",
+   "price": 460,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式炸豬排（單點）",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "宮崎風塔塔南蠻雞（單點）",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽麴熟成松阪豬佐柚香洋蔥醬（單點）",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "比目魚西京燒（單點）",
+   "price": 350,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "南瓜可樂餅",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酒蒸花蛤味噌湯",
+   "price": 80,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露薯條",
+   "price": 90,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "廣島炸牡蠣二品",
+   "price": 110,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子山藥",
+   "price": 130,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鰻魚玉子燒",
+   "price": 320,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

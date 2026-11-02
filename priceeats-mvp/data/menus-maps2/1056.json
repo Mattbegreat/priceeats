@@ -1,0 +1,133 @@
+{
+ "restaurant": {
+  "name": "269滿巷自助餐",
+  "address": "110臺北市信義區三張里吳興街269巷14號",
+  "lat": 25.0270438,
+  "lng": 121.5645075,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=269%E6%BB%BF%E5%B7%B7%E8%87%AA%E5%8A%A9%E9%A4%90&query_place_id=ChIJGUCJQwCrQjQR9QIkZxw5nCk"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "白斬雞腿",
+   "price": 85,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白斬雞二塊",
+   "price": 50,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "宮保雞丁",
+   "price": 45,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "糖醋雞丁",
+   "price": 45,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芥藍牛肉",
+   "price": 40,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鯊魚",
+   "price": 40,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三杯雞",
+   "price": 40,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥肉片",
+   "price": 35,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "瓜果類",
+   "price": 20,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "菇類",
+   "price": 20,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "葉菜類",
+   "price": 15,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "番茄蛋",
+   "price": 20,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海帶類",
+   "price": 15,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "豆干",
+   "price": 15,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "筍類",
+   "price": 20,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "麻婆豆腐",
+   "price": 15,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香腸",
+   "price": 30,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

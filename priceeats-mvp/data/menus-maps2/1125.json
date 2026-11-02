@@ -1,0 +1,112 @@
+{
+ "restaurant": {
+  "name": "金子半之助 新光A8店",
+  "address": "11073臺北市信義區西村里松高路12號 號B2",
+  "lat": 25.0388167,
+  "lng": 121.5668876,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E5%AD%90%E5%8D%8A%E4%B9%8B%E5%8A%A9%20%E6%96%B0%E5%85%89A8%E5%BA%97&query_place_id=ChIJK8_-R7qrQjQRry-2_gI0xaI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "綜合天婦羅",
+   "price": 199,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鳳尾蝦（2尾）",
+   "price": 99,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "干貝及魷魚海鮮炸",
+   "price": 89,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舞菇天婦羅",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海苔",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蟹肉拌菠菜",
+   "price": 79,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "涼拌洋蔥昆布",
+   "price": 79,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子玉子燒",
+   "price": 79,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式沙拉",
+   "price": 79,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海帶味噌湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙人套餐（江戶前天丼+上天丼）",
+   "price": 1059,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙人套餐（江戶前天丼2碗）",
+   "price": 1099,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金子秘汁香煎嫩牛",
+   "price": 219,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "干貝鮮蝦茶碗蒸",
+   "price": 119,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

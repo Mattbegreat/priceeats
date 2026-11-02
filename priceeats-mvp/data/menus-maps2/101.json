@@ -1,0 +1,434 @@
+{
+ "restaurant": {
+  "name": "Second Floor 貳樓南港車站店",
+  "address": "115臺北市南港區忠孝東路七段359號City LinkB棟 2樓",
+  "lat": 25.0528418,
+  "lng": 121.6061935,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Second%20Floor%20%E8%B2%B3%E6%A8%93%E5%8D%97%E6%B8%AF%E8%BB%8A%E7%AB%99%E5%BA%97&query_place_id=ChIJyWRT3mWrQjQRFOM_DSk68CE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "舊金山蒜香薯條",
+   "price": 230,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燕麥脆脆炸魚薯條",
+   "price": 250,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露薯條",
+   "price": 260,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "普丁肉醬薯條",
+   "price": 270,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金黃流沙薯條",
+   "price": 270,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "莎莎黑咖哩炸雞",
+   "price": 270,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥Local香腸酥餅",
+   "price": 320,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥雞肉酥餅",
+   "price": 320,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸鮮魷佐雞尾酒醬",
+   "price": 320,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "水牛城辣雞翅",
+   "price": 340,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "貳樓金牌鹽水雞沙拉",
+   "price": 370,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焙煎胡麻雞沙拉",
+   "price": 390,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典凱薩沙拉",
+   "price": 340,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典舒肥雞凱薩沙拉",
+   "price": 400,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典燻鮭魚凱薩沙拉",
+   "price": 420,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Sunny舒肥雞橙香法式丹麥",
+   "price": 480,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "水波海鮮洋芋橙香法式丹麥",
+   "price": 480,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥牛排橙香法式丹麥",
+   "price": 600,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蕈菇水波洋芋橙香法式丹麥",
+   "price": 400,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典火腿班尼蛋奶油炒菇",
+   "price": 390,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台胃口水雞班尼蛋奶油炒菇",
+   "price": 400,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典牛肉班尼蛋奶油炒菇",
+   "price": 470,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燻鮭魚班尼蛋奶油炒菇",
+   "price": 480,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "總匯烤起司歐姆蕾",
+   "price": 400,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烏斯特肉醬歐姆蕾",
+   "price": 410,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蕈菇奶油起司歐姆蕾",
+   "price": 380,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酪梨慢煎培根/歐包Open",
+   "price": 340,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "水波燻牛肉/丹麥Open",
+   "price": 350,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酪梨燻鮭魚/歐包Open",
+   "price": 360,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酪梨Local香腸/丹麥Open",
+   "price": 380,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑松露厚切藍帶豬/歐包Open",
+   "price": 380,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綠超人藜麥佛陀碗",
+   "price": 320,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥雞藜麥花椰飯",
+   "price": 400,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生酮總匯海陸拼盤",
+   "price": 580,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱帶水果優格碗",
+   "price": 340,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "巴西莓果優格碗",
+   "price": 360,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣茄汁香煽培根長管麵",
+   "price": 400,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "曙光汁鮮蝦雞肉麵",
+   "price": 430,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香爆椒麻唐揚雞麵",
+   "price": 430,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "家鄉肉醬長管麵佐老媽肉丸",
+   "price": 460,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典青醬鮮蝦麵",
+   "price": 430,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酒香蒜味蛤蜊墨魚麵",
+   "price": 430,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台式熱炒鹹蛋苦瓜麵",
+   "price": 410,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司Local香腸奶白麵",
+   "price": 430,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "貳樓費氏鮮蝦長管麵",
+   "price": 440,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "巴薩米克蕈菇麵",
+   "price": 410,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露蕈菇奶油麵",
+   "price": 430,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "血腥瑪麗辣味飯",
+   "price": 420,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "老闆黑胡椒漢堡排飯",
+   "price": 430,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "西班牙辣炒海陸飯",
+   "price": 440,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焗厚切豬排奶油飯",
+   "price": 460,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "月見苦瓜奶油飯",
+   "price": 420,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚烤奶油 Ham 三明治",
+   "price": 370,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "老墨辣鞭炮漢堡",
+   "price": 400,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "實打實招牌漢堡",
+   "price": 470,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "BBQ溫烤半雞",
+   "price": 760,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "主廚脆皮豬腳",
+   "price": 790,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛蛋小雙堡寶寶餐",
+   "price": 260,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "吃光光起司蛋雞肉飯",
+   "price": 270,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "北鼻奶油雞肉長管麵",
+   "price": 280,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

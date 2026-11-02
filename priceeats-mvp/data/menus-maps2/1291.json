@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "稻舍食館 統一時代店",
+  "address": "110臺北市信義區興雅里忠孝東路五段8號號 B2",
+  "lat": 25.0404655,
+  "lng": 121.565466,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A8%BB%E8%88%8D%E9%A3%9F%E9%A4%A8%20%E7%B5%B1%E4%B8%80%E6%99%82%E4%BB%A3%E5%BA%97&query_place_id=ChIJS6tN5nCrQjQRViIItrTnwug"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "香烤午仔魚（客飯）",
+   "price": 360,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香烤午仔魚（單點）",
+   "price": 260,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "懷舊紅燒肉（客飯）",
+   "price": 420,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "懷舊紅燒肉（單點）",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥嫩豆乳雞（客飯）",
+   "price": 360,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥嫩豆乳雞（單點）",
+   "price": 260,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金沙蝦球（客飯）",
+   "price": 400,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金沙蝦球（單點）",
+   "price": 300,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

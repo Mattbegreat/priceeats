@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "叄石咖啡",
+  "address": "115臺北市南港區南港路二段60巷15號",
+  "lat": 25.054668,
+  "lng": 121.604269,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%84%E7%9F%B3%E5%92%96%E5%95%A1&query_place_id=ChIJHUTpSPyrQjQRmW7FqwLszd4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "熔岩巧克力貝果",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玫瑰鹽奶油貝果",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雜糧檸檬乳酪貝果",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "藍莓乳酪貝果",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "剝皮起司燻雞貝果",
+   "price": 95,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芥末籽起司德式香腸貝果",
+   "price": 95,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

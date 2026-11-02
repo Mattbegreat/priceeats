@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "南港老張燒餅店",
+  "address": "115臺北市南港區中南里忠孝東路七段602號",
+  "lat": 25.0529059,
+  "lng": 121.6155024,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%B8%AF%E8%80%81%E5%BC%B5%E7%87%92%E9%A4%85%E5%BA%97&query_place_id=ChIJ2YOCv1mrQjQRfAe-vgR0q9Q"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "胡椒餅",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小酥餅",
+   "price": 15,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "糖膏酥餅",
+   "price": 25,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芝麻酥餅",
+   "price": 25,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅豆酥餅",
+   "price": 15,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綠豆酥餅",
+   "price": 15,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

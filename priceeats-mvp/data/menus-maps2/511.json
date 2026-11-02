@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "京昌園日式燒肉餐廳 南港店",
+  "address": "115臺北市南港區環河里經貿二路131號6樓",
+  "lat": 25.0592558,
+  "lng": 121.618031,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E6%98%8C%E5%9C%92%E6%97%A5%E5%BC%8F%E7%87%92%E8%82%89%E9%A4%90%E5%BB%B3%20%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJ5emcWgCtQjQRWmTcrAF_IJs"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "日本黑毛和牛定食（R）",
+   "price": 599,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日本黑毛和牛定食（L）",
+   "price": 899,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛豬雙拼定食（R）",
+   "price": 449,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛豬雙拼定食（L）",
+   "price": 649,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛雞豬三拼定食（R）",
+   "price": 449,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛雞豬三拼定食（L）",
+   "price": 649,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬雞海鮮定食（R）",
+   "price": 399,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬雞海鮮定食（L）",
+   "price": 599,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛舌＆橫膈膜定食（R）",
+   "price": 599,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛舌＆橫膈膜定食（L）",
+   "price": 899,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "極上肋眼定食",
+   "price": 999,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "本日精選和牛＆石鍋拌飯定食",
+   "price": 699,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

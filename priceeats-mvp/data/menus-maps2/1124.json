@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "西湖水產",
+  "address": "110臺北市信義區永春里松山路465巷25弄2號",
+  "lat": 25.040041,
+  "lng": 121.579047,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%A5%BF%E6%B9%96%E6%B0%B4%E7%94%A2&query_place_id=ChIJWY05PaGrQjQRYmkQ_kg-lCs"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "極の海鮮丼飯",
+   "price": 500,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豪華海鮮丼飯",
+   "price": 350,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚親子丼",
+   "price": 420,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒海鮮丼",
+   "price": 400,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒鮭魚親子丼",
+   "price": 460,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒星鰻丼",
+   "price": 350,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "握壽司套餐（9貫）",
+   "price": 500,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒握壽司",
+   "price": 300,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

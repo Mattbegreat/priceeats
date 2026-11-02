@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "苒冉小食光",
+  "address": "11579臺北市南港區南港里興中路28巷5號",
+  "lat": 25.0555935,
+  "lng": 121.6070067,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%8B%92%E5%86%89%E5%B0%8F%E9%A3%9F%E5%85%89&query_place_id=ChIJf50NbS6rQjQRA1tq004DNZs"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "檸味薯條（微辣）",
+   "price": 110,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "泰式打拋豬",
+   "price": 230,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塔香雞腿骨肉飯",
+   "price": 250,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "波浪食豬肉",
+   "price": 260,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "四重奏雞肉丸咖哩",
+   "price": 230,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "四重奏雞腿咖哩",
+   "price": 260,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑胡椒牛肉可頌",
+   "price": 255,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "碗公雞腿鮮蔬沙拉",
+   "price": 275,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鄉村雞腿排早食",
+   "price": 285,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

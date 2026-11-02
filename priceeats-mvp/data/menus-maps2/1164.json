@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "Twozzim韓國燉雞-台北信義店",
+  "address": "110臺北市信義區西村里松壽路12號4 樓",
+  "lat": 25.03531,
+  "lng": 121.5660665,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Twozzim%E9%9F%93%E5%9C%8B%E7%87%89%E9%9B%9E-%E5%8F%B0%E5%8C%97%E4%BF%A1%E7%BE%A9%E5%BA%97&query_place_id=ChIJJ4zWvACrQjQRfklXErrIHi0"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "半半套餐（3~4人份）",
+   "price": 1788,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

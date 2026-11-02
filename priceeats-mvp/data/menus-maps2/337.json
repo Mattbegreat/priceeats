@@ -1,0 +1,1407 @@
+{
+ "restaurant": {
+  "name": "海原日式涮涮鍋中研店",
+  "address": "115臺北市南港區中研里研究院路二段70巷9號",
+  "lat": 25.0458165,
+  "lng": 121.6148292,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E5%8E%9F%E6%97%A5%E5%BC%8F%E6%B6%AE%E6%B6%AE%E9%8D%8B%E4%B8%AD%E7%A0%94%E5%BA%97&query_place_id=ChIJ2QveL0WrQjQR61-3RUI0wQg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "特選雞肉鍋（大菜盤+A肉盤130g）",
+   "price": 269,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特選雞肉鍋（大菜盤+B肉盤200g）",
+   "price": 309,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特選雞肉鍋（小菜盤+超大C肉盤300g）",
+   "price": 334,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特選雞肉（單點）",
+   "price": 130,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香香雞柳鍋（大菜盤+A肉盤130g）",
+   "price": 299,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香香雞柳鍋（大菜盤+B肉盤200g）",
+   "price": 364,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香香雞柳（單點）",
+   "price": 130,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花雕雞肉鍋（大菜盤+A肉盤130g）",
+   "price": 329,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花雕雞肉鍋（大菜盤+B肉盤200g）",
+   "price": 439,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花雕雞肉（單點）",
+   "price": 160,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣梅花豬肉鍋（大菜盤+A肉盤130g）",
+   "price": 289,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣梅花豬肉鍋（大菜盤+B肉盤200g）",
+   "price": 329,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣梅花豬肉鍋（小菜盤+超大C肉盤300g）",
+   "price": 364,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣梅花豬肉（單點）",
+   "price": 160,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣豬胛心肉鍋（大菜盤+A肉盤130g）",
+   "price": 269,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣豬胛心肉鍋（大菜盤+B肉盤200g）",
+   "price": 309,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣豬胛心肉鍋（小菜盤+超大C肉盤300g）",
+   "price": 344,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣豬胛心肉（單點）",
+   "price": 160,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣豬里肌鍋（大菜盤+A肉盤130g）",
+   "price": 269,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣豬里肌鍋（大菜盤+B肉盤200g）",
+   "price": 309,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣豬里肌鍋（小菜盤+超大C肉盤300g）",
+   "price": 344,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣豬里肌（單點）",
+   "price": 160,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根牛肉鍋（大菜盤+A肉盤130g）",
+   "price": 289,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根牛肉鍋（大菜盤+B肉盤200g）",
+   "price": 329,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根牛肉鍋（小菜盤+超大C肉盤300g）",
+   "price": 364,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根牛肉（單點）",
+   "price": 160,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣培根豬肉鍋（大菜盤+A肉盤130g）",
+   "price": 289,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣培根豬肉鍋（大菜盤+B肉盤200g）",
+   "price": 329,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣培根豬肉鍋（小菜盤+超大C肉盤300g）",
+   "price": 364,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣培根豬肉（單點）",
+   "price": 160,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪花羊肉鍋（大菜盤+A肉盤130g）",
+   "price": 289,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪花羊肉鍋（大菜盤+B肉盤200g）",
+   "price": 329,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪花羊肉鍋（小菜盤+超大C肉盤300g）",
+   "price": 364,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪花羊肉（單點）",
+   "price": 160,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大眾牛肉鍋(美/澳/巴)（大菜盤+A肉盤130g）",
+   "price": 299,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大眾牛肉鍋(美/澳/巴)（大菜盤+B肉盤200g）",
+   "price": 339,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大眾牛肉鍋(美/澳/巴)（小菜盤+超大C肉盤300g）",
+   "price": 374,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大眾牛肉(美/澳/巴)（單點）",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "頂級羊肩鍋（大菜盤+A肉盤130g）",
+   "price": 339,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "頂級羊肩鍋（大菜盤+B肉盤200g）",
+   "price": 409,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "頂級羊肩鍋（小菜盤+超大C肉盤300g）",
+   "price": 449,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "頂級羊肩（單點）",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪花牛肉鍋(Choice)（大菜盤+A肉盤130g）",
+   "price": 329,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪花牛肉鍋(Choice)（大菜盤+B肉盤200g）",
+   "price": 399,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪花牛肉鍋(Choice)（小菜盤+超大C肉盤300g）",
+   "price": 439,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪花牛肉(Choice)（單點）",
+   "price": 190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣櫻桃鴨肉鍋（大菜盤+A肉盤130g）",
+   "price": 359,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣櫻桃鴨肉鍋（大菜盤+B肉盤200g）",
+   "price": 439,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣櫻桃鴨肉鍋（小菜盤+超大C肉盤300g）",
+   "price": 509,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台灣櫻桃鴨肉（單點）",
+   "price": 240,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙拼肉片鍋(330g)",
+   "price": 399,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙拼肉片(330g)（單點）",
+   "price": 270,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Prime高級沙朗牛肉鍋（大菜盤+A肉盤130g）",
+   "price": 349,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Prime高級沙朗牛肉鍋（大菜盤+B肉盤200g）",
+   "price": 429,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Prime高級沙朗牛肉鍋（小菜盤+超大C肉盤300g）",
+   "price": 499,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Prime高級沙朗牛肉（單點）",
+   "price": 220,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Prime霜降牛肉鍋（大菜盤+A肉盤130g）",
+   "price": 369,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Prime霜降牛肉鍋（大菜盤+B肉盤200g）",
+   "price": 449,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Prime霜降牛肉鍋（小菜盤+超大C肉盤300g）",
+   "price": 529,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Prime霜降牛肉（單點）",
+   "price": 240,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "National CH頂級板腱牛肉鍋（大菜盤+A肉盤130g）",
+   "price": 399,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "National CH頂級板腱牛肉鍋（大菜盤+B肉盤200g）",
+   "price": 489,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "National CH頂級板腱牛肉鍋（小菜盤+超大C肉盤300g）",
+   "price": 589,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "National CH頂級板腱牛肉（單點）",
+   "price": 270,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Prime頂級板腱牛肉鍋（大菜盤+A肉盤130g）",
+   "price": 419,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Prime頂級板腱牛肉鍋（大菜盤+B肉盤200g）",
+   "price": 509,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Prime頂級板腱牛肉鍋（小菜盤+超大C肉盤300g）",
+   "price": 629,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Prime頂級板腱牛肉（單點）",
+   "price": 280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "頂級牛三拼鍋(360g)",
+   "price": 999,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "頂級牛三拼(360g)（單點）",
+   "price": 850,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "PR頂級翼板牛肉鍋（大菜盤+A肉盤130g）",
+   "price": 479,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "PR頂級翼板牛肉鍋（大菜盤+B肉盤200g）",
+   "price": 589,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "PR頂級翼板牛肉鍋（小菜盤+超大C肉盤300g）",
+   "price": 739,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "PR頂級翼板牛肉（單點）",
+   "price": 310,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日本A5和牛鍋（大菜盤+A肉盤130g）",
+   "price": 499,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日本A5和牛鍋（大菜盤+B肉盤200g）",
+   "price": 629,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日本A5和牛鍋（小菜盤+超大C肉盤300g）",
+   "price": 789,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日本A5和牛（單點）",
+   "price": 370,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "伊比利梅花豬肉鍋（大菜盤+A肉盤130g）",
+   "price": 509,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "伊比利梅花豬肉鍋（大菜盤+B肉盤200g）",
+   "price": 639,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "伊比利梅花豬肉鍋（小菜盤+超大C肉盤300g）",
+   "price": 799,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "伊比利梅花豬肉（單點）",
+   "price": 370,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "最高等級Prime牛小排鍋（大菜盤+A肉盤130g）",
+   "price": 549,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "最高等級Prime牛小排鍋（大菜盤+B肉盤200g）",
+   "price": 749,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "最高等級Prime牛小排鍋（小菜盤+超大C肉盤300g）",
+   "price": 949,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "最高等級Prime牛小排（單點）",
+   "price": 450,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛤蜊肉片鍋（大菜盤+A肉盤）",
+   "price": 379,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛤蜊肉片鍋（大菜盤+B肉盤）",
+   "price": 419,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛤蜊肉片鍋（小菜盤+超大C肉盤）",
+   "price": 469,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蚵肉片鍋（大菜盤+A肉盤）",
+   "price": 379,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蚵肉片鍋（大菜盤+B肉盤）",
+   "price": 419,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蚵肉片鍋（小菜盤+超大C肉盤）",
+   "price": 469,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮魚肉片鍋（大菜盤+A肉盤）",
+   "price": 379,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮魚肉片鍋（大菜盤+B肉盤）",
+   "price": 419,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮魚肉片鍋（小菜盤+超大C肉盤）",
+   "price": 469,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蚵肉片鍋（大菜盤+A肉盤）",
+   "price": 379,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蚵肉片鍋（大菜盤+B肉盤）",
+   "price": 419,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蚵肉片鍋（小菜盤+超大C肉盤）",
+   "price": 469,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小卷肉片鍋（大菜盤+A肉盤）",
+   "price": 379,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小卷肉片鍋（大菜盤+B肉盤）",
+   "price": 419,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小卷肉片鍋（小菜盤+超大C肉盤）",
+   "price": 469,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚肉片鍋（大菜盤+A肉盤）",
+   "price": 389,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚肉片鍋（大菜盤+B肉盤）",
+   "price": 429,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚肉片鍋（小菜盤+超大C肉盤）",
+   "price": 479,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "草蝦肉片鍋（大菜盤+A肉盤）",
+   "price": 419,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "草蝦肉片鍋（大菜盤+B肉盤）",
+   "price": 459,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "草蝦肉片鍋（小菜盤+超大C肉盤）",
+   "price": 509,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "透抽肉片鍋（大菜盤+A肉盤）",
+   "price": 419,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "透抽肉片鍋（大菜盤+B肉盤）",
+   "price": 459,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "透抽肉片鍋（小菜盤+超大C肉盤）",
+   "price": 509,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三鮮肉片鍋（大菜盤+A肉盤）",
+   "price": 429,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三鮮肉片鍋（大菜盤+B肉盤）",
+   "price": 469,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三鮮肉片鍋（小菜盤+超大C肉盤）",
+   "price": 519,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "頂級干貝肉片鍋（大菜盤+A肉盤）",
+   "price": 539,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "頂級干貝肉片鍋（大菜盤+B肉盤）",
+   "price": 579,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "頂級干貝肉片鍋（小菜盤+超大C肉盤）",
+   "price": 629,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清香素食鍋",
+   "price": 275,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛤蜊香菇土雞腿鍋",
+   "price": 399,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "剝皮辣椒土雞腿鍋",
+   "price": 399,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "胡椒豚骨雞腿鍋",
+   "price": 409,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蚵鍋",
+   "price": 339,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛤蜊鍋",
+   "price": 339,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小卷鍋",
+   "price": 339,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蝦鍋",
+   "price": 359,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚片鍋",
+   "price": 359,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚鍋",
+   "price": 399,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合魚片鍋",
+   "price": 399,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海原三鮮鍋",
+   "price": 369,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海原雙拼鍋",
+   "price": 399,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海原海鮮鍋",
+   "price": 409,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海原海陸鍋",
+   "price": 469,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海龍王肉片",
+   "price": 709,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "商業午餐（台灣豬/特選雞/培根牛）",
+   "price": 209,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經濟好爽雙拼鍋",
+   "price": 269,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合虎蝦雙人套餐",
+   "price": 749,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海龍王雙人套餐",
+   "price": 839,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海原肉飽飽雙人套餐",
+   "price": 929,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合雙虎蝦雙人套餐",
+   "price": 949,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日本生食級干貝*3",
+   "price": 130,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合餃類拼盤",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆製品拼盤",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手工魚漿",
+   "price": 65,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芝麻麻吉燒*4",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花枝油條(大)*4",
+   "price": 85,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花枝油條(小)*2",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "龍蝦沙拉丸*4",
+   "price": 50,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三記魚餃*5",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣鴨血豆腐",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚包蛋*4",
+   "price": 50,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "老油條90g",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "水晶餃*4",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蟳味棒*4",
+   "price": 45,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "九層花枝*4",
+   "price": 45,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香菇貢丸*4",
+   "price": 45,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鱈魚湯包*4",
+   "price": 45,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓國魚板*6",
+   "price": 50,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓國年糕*5",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生鴨血",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬血糕*6",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "甜不辣*6",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "番茄",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金針菇",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花椰菜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "杏鮑菇",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青江菜/高麗菜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芋頭",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "木耳/蓮藕",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "板豆腐",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚餃/蝦餃/燕餃",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花枝餃/蛋餃",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒟蒻絲*6",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "桂花腸",
+   "price": 40,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "竹輪",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆皮/豆包/凍豆腐",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦球*4/德式香腸*7",
+   "price": 50,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "娃娃菜/玉米筍",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素棒餃*4",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小菜盤",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大菜盤",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛤蜊",
+   "price": 130,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "透抽",
+   "price": 140,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蚵",
+   "price": 130,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小卷",
+   "price": 130,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白蝦小份",
+   "price": 75,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白蝦大份",
+   "price": 135,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚片",
+   "price": 150,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚",
+   "price": 170,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "草蝦",
+   "price": 150,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "虎蝦(1隻)",
+   "price": 200,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "土雞腿(1隻)",
+   "price": 250,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三鮮盤",
+   "price": 260,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮盤",
+   "price": 280,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海龍王",
+   "price": 580,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞蛋",
+   "price": 15,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒸煮麵",
+   "price": 25,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "不倒翁拉麵",
+   "price": 30,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辛拉麵",
+   "price": 45,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "不倒翁起司拉麵",
+   "price": 55,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特濃起司拉麵",
+   "price": 65,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

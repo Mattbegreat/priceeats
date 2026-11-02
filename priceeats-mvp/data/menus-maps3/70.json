@@ -1,0 +1,112 @@
+{
+ "restaurant": {
+  "name": "磚窯古早料理南港創始店",
+  "address": "115臺北市南港區玉成里松河街318號",
+  "lat": 25.052805,
+  "lng": 121.583717,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A3%9A%E7%AA%AF%E5%8F%A4%E6%97%A9%E6%96%99%E7%90%86%E5%8D%97%E6%B8%AF%E5%89%B5%E5%A7%8B%E5%BA%97&query_place_id=ChIJ-WB-7nerQjQRB4yWvA0THi4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "佛跳牆",
+   "price": 1250,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椒鹽千里馬",
+   "price": 880,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "古早味四方肉",
+   "price": 680,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻油松阪肉",
+   "price": 360,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式松阪肉",
+   "price": 295,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆豉松阪肉",
+   "price": 295,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "和風松阪肉",
+   "price": 295,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜松阪肉",
+   "price": 295,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "阿婆煮的菜尾",
+   "price": 280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "古早味滷豬腳",
+   "price": 285,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅麴豬腳",
+   "price": 285,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椒鹽排骨",
+   "price": 230,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芋香排骨",
+   "price": 260,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "糖醋排骨",
+   "price": 230,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

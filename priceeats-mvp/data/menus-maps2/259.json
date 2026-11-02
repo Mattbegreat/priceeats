@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "BELLINI Pasta Pasta 南港潤泰店",
+  "address": "C棟 8樓 忠孝東路七段369號 CityLink南港店, 南港區臺北市11561",
+  "lat": 25.0525582,
+  "lng": 121.604518,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BELLINI%20Pasta%20Pasta%20%E5%8D%97%E6%B8%AF%E6%BD%A4%E6%B3%B0%E5%BA%97&query_place_id=ChIJk7mhJNirQjQRukXA362LDGU"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "風乾火腿主廚總匯比薩",
+   "price": 450,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "BBQ醬雞肉鳳梨起司比薩",
+   "price": 400,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "明太子軟絲鮪魚起司比薩",
+   "price": 400,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "羅勒青醬鮮蝦野菇起司比薩",
+   "price": 420,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "微風南山星空塔4樓 Fundamental",
+  "address": "110臺北市信義區西村里松智路17號4 樓",
+  "lat": 25.0344052,
+  "lng": 121.567424,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BE%AE%E9%A2%A8%E5%8D%97%E5%B1%B1%E6%98%9F%E7%A9%BA%E5%A1%944%E6%A8%93%20Fundamental&query_place_id=ChIJTc5cYe-rQjQRn5WvAvGWsTw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "成人價（平日）",
+   "price": 780,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "學生價（平日）",
+   "price": 600,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "兒童價（平日）",
+   "price": 550,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "成人價（節假日）",
+   "price": 840,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "學生價（節假日）",
+   "price": 660,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "兒童價（節假日）",
+   "price": 610,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

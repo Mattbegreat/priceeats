@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "夏威魚Hawaii Poke Box信義店",
+  "address": "110臺北市信義區敦厚里永吉路30巷119號",
+  "lat": 25.0430409,
+  "lng": 121.5688676,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%8F%E5%A8%81%E9%AD%9AHawaii%20Poke%20Box%E4%BF%A1%E7%BE%A9%E5%BA%97&query_place_id=ChIJrUehuy2rQjQRlZ85907adII"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "經典阿囉哈",
+   "price": 225,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "墨西哥塔可風味",
+   "price": 205,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "西班牙煙燻辣味",
+   "price": 225,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "當魚愛上雞",
+   "price": 205,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "高蛋白胡麻雞肉",
+   "price": 155,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "義大利豪華松露",
+   "price": 270,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "歡樂自由配（雞肉）",
+   "price": 155,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "歡樂自由配（豆腐）",
+   "price": 145,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "歡樂自由配（鮮蝦）",
+   "price": 160,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "歡樂自由配（干貝）",
+   "price": 165,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "歡樂自由配（鮭魚）",
+   "price": 180,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "歡樂自由配（鮪魚）",
+   "price": 160,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

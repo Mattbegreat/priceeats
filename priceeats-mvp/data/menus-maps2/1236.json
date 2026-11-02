@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "食壯哥健康餐盒 STRONGER",
+  "address": "110臺北市信義區國業里松山路540巷16號一樓",
+  "lat": 25.0376209,
+  "lng": 121.5774679,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%A3%9F%E5%A3%AF%E5%93%A5%E5%81%A5%E5%BA%B7%E9%A4%90%E7%9B%92%20STRONGER&query_place_id=ChIJJfvIavyrQjQRJtiHaj7Jw14"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-11-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "原味嫩肩牛排",
+   "price": 190,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑胡椒嫩肩牛排",
+   "price": 190,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司嫩肩牛排",
+   "price": 200,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜辣炒嫩肩牛排",
+   "price": 200,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式醬炒嫩肩牛排",
+   "price": 200,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香滷牛腱",
+   "price": 170,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜蓉豬肉片",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽烤鯖魚",
+   "price": 200,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎舒肥鮭魚",
+   "price": 210,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮菇蔬食",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

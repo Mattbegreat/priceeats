@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "大阪屋章魚燒",
+  "address": "105臺北市松山區慈祐里塔悠路11號",
+  "lat": 25.0503836,
+  "lng": 121.5721008,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B1%8B%E7%AB%A0%E9%AD%9A%E7%87%92&query_place_id=ChIJqwzN75mrQjQRg-gJJYkxA50"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "章魚燒（6顆）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "章魚燒（9顆）",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

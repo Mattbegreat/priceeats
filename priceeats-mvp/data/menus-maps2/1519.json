@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "植日生手作蔬食",
+  "address": "10568臺北市松山區南京東路四段133巷4弄11號",
+  "lat": 25.052146,
+  "lng": 121.5546773,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A4%8D%E6%97%A5%E7%94%9F%E6%89%8B%E4%BD%9C%E8%94%AC%E9%A3%9F&query_place_id=ChIJTQu1bQ2rQjQRmovTctQwtZ4"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "季節時蔬咖哩飯",
+   "price": 180,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "卡茲豆包咖哩飯",
+   "price": 220,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海老炸蝦咖哩飯",
+   "price": 250,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "串燒唐揚猴頭菇咖哩飯",
+   "price": 280,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "多蜜醬野菜豆腐排飯",
+   "price": 280,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秘醬炙烤叉燒飯",
+   "price": 250,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "信州味噌卡茲朱排飯",
+   "price": 280,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日系奶油拌飯",
+   "price": 200,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

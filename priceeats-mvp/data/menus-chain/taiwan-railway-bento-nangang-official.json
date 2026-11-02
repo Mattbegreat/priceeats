@@ -1,0 +1,95 @@
+{
+  "restaurant": {
+    "name": "台鐵便當 南港站（台鐵夢工場）",
+    "address": "台北市南港區南港路一段313號地下2樓",
+    "lat": 25.0528215,
+    "lng": 121.607119,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E9%90%B5%E4%BE%BF%E7%95%B6%20%E5%8D%97%E6%B8%AF%E7%AB%99%EF%BC%88%E5%8F%B0%E9%90%B5%E5%A4%A2%E5%B7%A5%E5%A0%B4%EF%BC%89&query_place_id=ChIJ6Qzc3F2rQjQRlabrITcYEYI"
+  },
+  "source": "brand_official",
+  "source_date": "2026-10-28",
+  "source_image": "https://www.railway.gov.tw/tra-tip-web/tip/tip004/tip421/restCode?RestNo=A110",
+  "items": [
+    {
+      "name": "雞腿便當",
+      "price": 100,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "懷舊排骨菜飯",
+      "price": 100,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "控肉便當",
+      "price": 120,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "排骨經典便當",
+      "price": 100,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "植物肉蔬食便當（蛋素）",
+      "price": 100,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "蔥油鹹水雞便當",
+      "price": 120,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "五行素便當（紫米飯）",
+      "price": 120,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "鮭魚便當",
+      "price": 130,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "name": "醬燒雞丁便當",
+      "price": 120,
+      "category": "便當",
+      "tags": [
+        "便當"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

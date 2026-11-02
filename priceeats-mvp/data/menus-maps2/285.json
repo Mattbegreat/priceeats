@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "義百代餐館南港店",
+  "address": "11577臺北市南港區西新里南港路三段9-2號",
+  "lat": 25.0536928,
+  "lng": 121.5920492,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A9%E7%99%BE%E4%BB%A3%E9%A4%90%E9%A4%A8%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJ0032cACrQjQRSk029YpyUqw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "烤嫩雞沙拉能量碗佐蜂蜜蘋果油醋",
+   "price": 360,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "胡麻板腱牛核桃沙拉能量碗佐胡麻醬",
+   "price": 390,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "栗子地瓜&南瓜芝麻葉紅藜能量碗佐蜂蜜蘋果油醋",
+   "price": 290,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "冷燻鮭魚紅藜沙拉佐油醋&巴薩米克醋",
+   "price": 360,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "費塔起司香料烤雞腿沙拉佐凱薩醬",
+   "price": 360,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金莎香檸鮮蝦小卷義大利麵",
+   "price": 390,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肝菌奶油雞肉義大利麵",
+   "price": 360,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青醬板腱牛排義大利麵",
+   "price": 390,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蝦煙花女義大利麵",
+   "price": 360,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清炒XO蛤蜊義大利麵",
+   "price": 360,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "西班牙燉菜鮮蔬義大利麵",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

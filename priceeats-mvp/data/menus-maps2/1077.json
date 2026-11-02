@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "彌樂事蔬食食堂",
+  "address": "110臺北市信義區六合里松仁路253巷2號",
+  "lat": 25.0254016,
+  "lng": 121.5692642,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BD%8C%E6%A8%82%E4%BA%8B%E8%94%AC%E9%A3%9F%E9%A3%9F%E5%A0%82&query_place_id=ChIJB_tKyLKrQjQRdBUQKW4zjR4"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-06-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "麻辣臭豆腐",
+   "price": 110,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣麵線",
+   "price": 65,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麵線",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "福圓（素肉圓）",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪裡紅蒸餃",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "高麗菜蒸餃",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "芋粿",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椒麻乾麵",
+   "price": 65,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青菜海帶芽湯",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

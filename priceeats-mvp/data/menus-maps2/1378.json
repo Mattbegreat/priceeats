@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "王師父滿月油飯行",
+  "address": "110台北市信義區基隆路一段147巷26號",
+  "lat": 25.042273,
+  "lng": 121.566686,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%8E%8B%E5%B8%AB%E7%88%B6%E6%BB%BF%E6%9C%88%E6%B2%B9%E9%A3%AF%E8%A1%8C&query_place_id=ChIJZT_GDbyrQjQRrs4qibtxtsU"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "魚丸湯",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油飯",
+   "price": 45,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "粄條粿仔湯",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻油雞湯",
+   "price": 125,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燙青菜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻油雞麵線",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬腸冬粉",
+   "price": 75,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬腸湯",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚丸冬粉",
+   "price": 75,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚丸麵線",
+   "price": 75,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

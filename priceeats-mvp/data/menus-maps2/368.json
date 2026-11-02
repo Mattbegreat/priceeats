@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "22:02火鍋南港店",
+  "address": "115臺北市南港區忠孝東路七段369號C棟 10F",
+  "lat": 25.0525101,
+  "lng": 121.6049537,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22%3A02%E7%81%AB%E9%8D%8B%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJFfvq-l2rQjQRok-HelZmxno"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "湯底費用（每人）",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

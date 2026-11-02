@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "非常泰 - 南港中信店",
+  "address": "115臺北市南港區三重里經貿二路186-1號1樓C棟",
+  "lat": 25.0584914,
+  "lng": 121.6144681,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%9E%E5%B8%B8%E6%B3%B0%20-%20%E5%8D%97%E6%B8%AF%E4%B8%AD%E4%BF%A1%E5%BA%97&query_place_id=ChIJI55cuqesQjQR8VGfK9gNLec"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "辣炒豬肉",
+   "price": 350,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "月亮蝦餅",
+   "price": 398,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦醬四季豆",
+   "price": 260,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白飯-泰國茉莉香米",
+   "price": 48,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰北當紅炸子雞",
+   "price": 365,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綠咖哩椰汁雞肉",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "涼拌青木瓜",
+   "price": 290,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰味鳳梨蝦球",
+   "price": 350,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

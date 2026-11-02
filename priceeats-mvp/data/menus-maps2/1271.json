@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "溫暖 Atatakai",
+  "address": "110臺北市信義區五常里松信路85號",
+  "lat": 25.045957,
+  "lng": 121.5722717,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%BA%AB%E6%9A%96%20Atatakai&query_place_id=ChIJXzMwsu6rQjQRhDtSbCcsrOE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "綜合海鮮丼",
+   "price": 280,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚親子丼",
+   "price": 320,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露月見鮪魚丼",
+   "price": 360,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特上海鮮丼",
+   "price": 450,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒鮭魚明太子丼",
+   "price": 380,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒天使紅蝦干貝丼",
+   "price": 480,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海膽鮭魚卵三色丼",
+   "price": 580,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合握壽司定食",
+   "price": 290,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

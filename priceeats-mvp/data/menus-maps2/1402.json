@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "陳董藥燉排骨攤位",
+  "address": "105臺北市松山區慈祐里饒河街160號",
+  "lat": 25.0506263,
+  "lng": 121.5757605,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%99%B3%E8%91%A3%E8%97%A5%E7%87%89%E6%8E%92%E9%AA%A8%E6%94%A4%E4%BD%8D&query_place_id=ChIJAcWEBZyrQjQRP2hkUcjm17U"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-04-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "藥燉排骨（綜）",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "支肋骨",
+   "price": 110,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "藥燉羊肉",
+   "price": 110,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魯肉飯",
+   "price": 30,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大腸包小腸",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蚵仔煎",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦仁煎",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙蛋煎",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合煎",
+   "price": 90,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "臭豆腐",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

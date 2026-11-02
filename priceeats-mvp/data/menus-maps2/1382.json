@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "Le Cinq",
+  "address": "110臺北市信義區雅祥里基隆路一段83巷12號1樓",
+  "lat": 25.0466239,
+  "lng": 121.5689513,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Cinq&query_place_id=ChIJmzJmACarQjQR1wuaUNkoCA4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "南瓜濃湯佐麵包",
+   "price": 190,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司風乾番茄酸種三明治",
+   "price": 270,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露嫩蛋炒菇可頌",
+   "price": 270,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "庫克先生三明治",
+   "price": 280,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "庫克太太三明治",
+   "price": 300,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "土耳其優格水波蛋佐酸種麵包",
+   "price": 310,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

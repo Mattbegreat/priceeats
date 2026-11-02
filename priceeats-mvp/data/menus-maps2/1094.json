@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "銀兔湯咖哩 信義店",
+  "address": "110臺北市信義區新仁里忠孝東路四段553巷10號",
+  "lat": 25.0424923,
+  "lng": 121.5628504,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E5%85%94%E6%B9%AF%E5%92%96%E5%93%A9%20%E4%BF%A1%E7%BE%A9%E5%BA%97&query_place_id=ChIJG-ooMbmrQjQRbdZw85NFmHg"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "帶骨香腸",
+   "price": 180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法國小羊排",
+   "price": 250,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸薯條",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸牡蠣",
+   "price": 200,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司可樂餅",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦枝排",
+   "price": 180,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵板骰子牛排",
+   "price": 280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸雞腿",
+   "price": 200,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "CLOVER BELLAVITA",
+  "address": "110臺北市信義區興雅里松仁路28號4樓",
+  "lat": 25.0396219,
+  "lng": 121.567641,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CLOVER%20BELLAVITA&query_place_id=ChIJk7IivEOrQjQRm2kRNfGASSM"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "島嶼珍味",
+   "price": 3980,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

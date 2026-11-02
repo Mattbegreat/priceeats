@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "金春喜韓廚-誠品松菸店",
+  "address": "110臺北市信義區新仁里菸廠路88號B1樓",
+  "lat": 25.044751,
+  "lng": 121.5609268,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E6%98%A5%E5%96%9C%E9%9F%93%E5%BB%9A-%E8%AA%A0%E5%93%81%E6%9D%BE%E8%8F%B8%E5%BA%97&query_place_id=ChIJa78pYACrQjQRM4-iyCAQLeE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "雙人套餐",
+   "price": 988,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "四人套餐",
+   "price": 1988,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

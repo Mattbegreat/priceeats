@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "丸舢拉麵 市府店",
+  "address": "110臺北市信義區興雅里忠孝東路五段15巷8號",
+  "lat": 25.0415895,
+  "lng": 121.5654095,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%B8%E8%88%A2%E6%8B%89%E9%BA%B5%20%E5%B8%82%E5%BA%9C%E5%BA%97&query_place_id=ChIJwc3pnzSrQjQR9fdmkCVMf7g"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "特製 極濃豚骨拉麵",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "極濃豚骨拉麵",
+   "price": 240,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特製 雞貝鹽拉麵",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞貝鹽拉麵",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豪華特海陸 TKG",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

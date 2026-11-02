@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "点爭鮮 CITYLINK南港店",
+  "address": "115臺北市南港區忠孝東路七段369號A棟1F",
+  "lat": 25.0527977,
+  "lng": 121.607297,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%82%B9%E7%88%AD%E9%AE%AE%20CITYLINK%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJIYso3V2rQjQRvCeo9o4ro0o"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-07-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "苔味炸豆腐",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酪梨咔滋豚",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "甘好三味盛",
+   "price": 90,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "甘好有三鮮",
+   "price": 100,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綠潮鮮呱呱",
+   "price": 60,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦芒脆脆苔",
+   "price": 70,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咕溜濃湯茶碗蒸",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鰻脆好苔味",
+   "price": 80,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

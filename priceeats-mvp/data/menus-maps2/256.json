@@ -1,0 +1,119 @@
+{
+ "restaurant": {
+  "name": "豆腐里",
+  "address": "115臺北市南港區三重里經貿一路137號Lalaport B1美食市集",
+  "lat": 25.059614,
+  "lng": 121.6177127,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B1%86%E8%85%90%E9%87%8C&query_place_id=ChIJXx7TTQCtQjQR-_yNs5B4uqw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "鮮肉豆腐煲",
+   "price": 198,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "泡菜豆腐煲",
+   "price": 198,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "大醬豆腐煲",
+   "price": 198,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "海陸豆腐煲",
+   "price": 228,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "辣魷魚石鍋拌飯",
+   "price": 258,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "起司辣雞石鍋拌飯",
+   "price": 278,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "泡菜烤肉石鍋拌飯",
+   "price": 228,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "五色烤肉石鍋拌飯",
+   "price": 228,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛排石鍋拌飯",
+   "price": 388,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "部隊鍋",
+   "price": 258,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炒碼麵",
+   "price": 228,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬肉湯飯",
+   "price": 298,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛小排雪濃湯",
+   "price": 358,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "小菜單點",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "三合一小菜",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

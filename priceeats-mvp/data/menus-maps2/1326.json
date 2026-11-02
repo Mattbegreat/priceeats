@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "開飯川食堂 微風南山店",
+  "address": "110421臺北市信義區西村里松智路17號微風南山5樓",
+  "lat": 25.0343726,
+  "lng": 121.566371,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%96%8B%E9%A3%AF%E5%B7%9D%E9%A3%9F%E5%A0%82%20%E5%BE%AE%E9%A2%A8%E5%8D%97%E5%B1%B1%E5%BA%97&query_place_id=ChIJ-wKaXQmrQjQRQb8Z4HatwGU"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "秋香蟹搗蛋",
+   "price": 420,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆酥扁鱈",
+   "price": 490,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金沙蝦球",
+   "price": 450,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "乾煸四季豆/素",
+   "price": 290,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白飯/人",
+   "price": 35,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

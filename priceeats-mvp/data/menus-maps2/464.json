@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "YAYOI彌生軒 南港LaLaport店",
+  "address": "115臺北市南港區環河里經貿二路131號5F",
+  "lat": 25.0592558,
+  "lng": 121.618031,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=YAYOI%E5%BD%8C%E7%94%9F%E8%BB%92%20%E5%8D%97%E6%B8%AFLaLaport%E5%BA%97&query_place_id=ChIJGZIplKCtQjQRlsUdzV3hjrg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "厚切叉燒咖哩（定食）",
+   "price": 400,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚切叉燒咖哩（御膳）",
+   "price": 460,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芝麻地瓜可樂餅",
+   "price": 130,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

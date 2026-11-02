@@ -1,0 +1,133 @@
+{
+ "restaurant": {
+  "name": "粵亮廣式料理",
+  "address": "115臺北市南港區中南里忠孝東路七段359號8樓",
+  "lat": 25.0528267,
+  "lng": 121.6059804,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%B2%B5%E4%BA%AE%E5%BB%A3%E5%BC%8F%E6%96%99%E7%90%86&query_place_id=ChIJD0Os712rQjQRoQEIH9Hvm0k"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "羊肚菌琉璃炒玉簪蝦",
+   "price": 780,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "琥珀核果炒鮮帶子",
+   "price": 780,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮蟹黃豆腐煲",
+   "price": 680,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "百合羊肚菌鮮蘆筍",
+   "price": 560,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮑魚燒賣皇（3顆）",
+   "price": 360,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蟹黃鮮蝦腐皮卷（3卷）",
+   "price": 280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "悠游金魚餃（2顆）",
+   "price": 280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "胭脂壽龜餃（2顆）",
+   "price": 260,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蝦叉燒蒸腸粉（3條）",
+   "price": 260,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛤蠣燒賣（3顆）",
+   "price": 260,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "晶瑩鮮蝦餃（3顆）",
+   "price": 260,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌雪山桂花包（3顆）",
+   "price": 240,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "港式叉燒酥（3顆）",
+   "price": 240,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蝦韭菜盒（3顆）",
+   "price": 240,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秘製靚鳳爪",
+   "price": 180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鼓汁蒸排骨",
+   "price": 180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "粵亮手作蘿蔔糕（3片）",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

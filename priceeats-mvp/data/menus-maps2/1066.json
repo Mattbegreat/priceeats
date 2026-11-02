@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "心潮飯店｜台北微風信義店 SINCHAO RICE SHOPPE",
+  "address": "110臺北市信義區興雅里忠孝東路五段68號2樓",
+  "lat": 25.0405014,
+  "lng": 121.5665695,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BF%83%E6%BD%AE%E9%A3%AF%E5%BA%97%EF%BD%9C%E5%8F%B0%E5%8C%97%E5%BE%AE%E9%A2%A8%E4%BF%A1%E7%BE%A9%E5%BA%97%20SINCHAO%20RICE%20SHOPPE&query_place_id=ChIJI-uHec6rQjQRolls8XbSbdY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "スペアリブのフライとキャベツの炒飯 / Taiwanese Deep-Fried Pork Chop with Cabbage Fried Rice",
+   "price": 480,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "にんにく海老チャーハン / Garlic Shrimp Fried Rice",
+   "price": 520,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙るホタテカラスミチャーハン / Mullet Roe Fried Rice with Seared Scallops",
+   "price": 680,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "アメリカ産リブステーキの炒飯 / USDA Prime Ribeye Steak (10oz) Fried Rice",
+   "price": 1550,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "タロ芋と鴨の胸肉入り角煮炒飯 / Braised Pork Fried Rice with Taro and Seared Duck Breast",
+   "price": 520,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "四川風豚バラ炒飯 / Sichuan Flavored Pork Belly Fried Rice",
+   "price": 480,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "赤ウニチャーハン / Sea Urchin and Nostoc Fried Rice",
+   "price": 1380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "ロブスターフェンネルバターチャーハン / Fresh Lobster Butter Fried Rice with Fennel",
+   "price": 2280,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "トリュフときのこの炒飯 / Truffle and Mushroom Fried Rice",
+   "price": 450,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

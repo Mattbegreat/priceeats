@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "鶿克米 TSUKUMI 日本料理 Mitsui Shopping Park LaLaport 南港店",
+  "address": "115臺北市南港區環河里經貿二路131號6樓",
+  "lat": 25.0592558,
+  "lng": 121.618031,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%B6%BF%E5%85%8B%E7%B1%B3%20TSUKUMI%20%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86%20Mitsui%20Shopping%20Park%20LaLaport%20%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJjRHWUgCtQjQRhf0tJYRgagM"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "花魚一夜干（半片）",
+   "price": 200,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海老野菜綜合天婦羅",
+   "price": 250,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "野菜天婦羅",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤鮭魚",
+   "price": 120,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸廣島牡蠣塔塔醬（2貫）",
+   "price": 180,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸豬肉咖哩風味",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青甘刺身 胡麻醬油",
+   "price": 320,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬油漬鮪魚塊",
+   "price": 280,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮪魚青甘刺身二品",
+   "price": 150,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "自家製茶碗蒸",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

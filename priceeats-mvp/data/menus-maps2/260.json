@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "大南港粥殿",
+  "address": "115臺北市南港區南港里興中路74巷4號1樓",
+  "lat": 25.0571699,
+  "lng": 121.6065591,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%8D%97%E6%B8%AF%E7%B2%A5%E6%AE%BF&query_place_id=ChIJR1InUemrQjQRsI1dHx1r1uY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "清蛋粥",
+   "price": 60,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "招牌瘦肉粥",
+   "price": 75,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮮嫩雞腿粥",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "皮蛋瘦肉粥",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "玉米瘦肉粥",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "時令蔬菜粥",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鯛魚瘦肉粥",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.8
+  },
+  {
+   "name": "蛤蜊魚片粥",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "豪華海鮮粥",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "生猛軟絲粥",
+   "price": 200,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

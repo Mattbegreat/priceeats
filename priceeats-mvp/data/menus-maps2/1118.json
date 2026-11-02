@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "日本橋海鮮丼辻半 微風信義店",
+  "address": "4F No, No. 68號忠孝東路五段信義區臺北市110",
+  "lat": 25.0401943,
+  "lng": 121.5670107,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E6%A9%8B%E6%B5%B7%E9%AE%AE%E4%B8%BC%E8%BE%BB%E5%8D%8A%20%E5%BE%AE%E9%A2%A8%E4%BF%A1%E7%BE%A9%E5%BA%97&query_place_id=ChIJVZuw9GqrQjQRu9Kk7aDZWhw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "絢 Aya",
+   "price": 1299,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松 Matsu",
+   "price": 999,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焱 Hono",
+   "price": 999,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "竹 Take",
+   "price": 799,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "梅 Ume",
+   "price": 599,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

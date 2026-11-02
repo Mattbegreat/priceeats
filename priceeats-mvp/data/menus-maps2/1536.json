@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "初咖哩",
+  "address": "105臺北市松山區新聚里八德路四段317號1F",
+  "lat": 25.0492487,
+  "lng": 121.5668863,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%88%9D%E5%92%96%E5%93%A9&query_place_id=ChIJL5fj4j2rQjQRjX9Vkp4C1iI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "炸雞塊咖哩飯",
+   "price": 200,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸豬排咖哩飯",
+   "price": 220,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嫩牛肉塊咖哩飯",
+   "price": 220,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸雞塊（5個）",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸豬排（單點）",
+   "price": 120,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸脆薯",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "南瓜可樂餅（1個）",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "Lógos Coffee",
+  "address": "115臺北市南港區新富里研究院路一段2號1F",
+  "lat": 25.0548179,
+  "lng": 121.616408,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%C3%B3gos%20Coffee&query_place_id=ChIJNQSfA5yrQjQRbuv0OxuxPOQ"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "鹽奶油卷",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "佛卡夏",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起士圓麵包",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

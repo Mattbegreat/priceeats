@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "解解渴有限公司 (愛玉專門店Aiyu shop)",
+  "address": "110臺北市信義區三犁里信義路五段150巷22弄65號",
+  "lat": 25.0272885,
+  "lng": 121.5707102,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%A7%A3%E8%A7%A3%E6%B8%B4%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%20%28%E6%84%9B%E7%8E%89%E5%B0%88%E9%96%80%E5%BA%97Aiyu%20shop%29&query_place_id=ChIJZS40jjGrQjQRmkCbxmT4Yrg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-11-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "台灣奶油餐包",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

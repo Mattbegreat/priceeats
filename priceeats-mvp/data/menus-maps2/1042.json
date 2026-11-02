@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "蒸籠坊",
+  "address": "110臺北市信義區興隆里基隆路一段350之51號",
+  "lat": 25.0369547,
+  "lng": 121.5616543,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%92%B8%E7%B1%A0%E5%9D%8A&query_place_id=ChIJW7DXxberQjQR9Hb0afv0HME"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-12-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "綜合小籠",
+   "price": 110,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "福祿壽蒸餃",
+   "price": 110,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "百花蒸燒賣",
+   "price": 110,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "京都煎鍋貼",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小菜",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

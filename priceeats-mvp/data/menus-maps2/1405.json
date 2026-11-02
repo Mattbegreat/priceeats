@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "韓勾a 바비큐 韓式烤肉便當專賣店",
+  "address": "105臺北市松山區復源里八德路三段106巷21號",
+  "lat": 25.0471495,
+  "lng": 121.5542523,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%9F%93%E5%8B%BEa%20%EB%B0%94%EB%B9%84%ED%81%90%20%E9%9F%93%E5%BC%8F%E7%83%A4%E8%82%89%E4%BE%BF%E7%95%B6%E5%B0%88%E8%B3%A3%E5%BA%97&query_place_id=ChIJ_QhTLOGrQjQRefnEV47mecs"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-07-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "韓式醬烤雞腿肉便當",
+   "price": 259,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式涼拌季節時蔬",
+   "price": 65,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "全世界唯二的蒸蛋湯",
+   "price": 72,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

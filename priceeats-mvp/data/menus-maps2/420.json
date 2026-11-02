@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "靜岡勝政日式豬排 南港環球店",
+  "address": "115臺北市南港區新光里忠孝東路七段371號B1",
+  "lat": 25.0524888,
+  "lng": 121.6066357,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%9C%E5%B2%A1%E5%8B%9D%E6%94%BF%E6%97%A5%E5%BC%8F%E8%B1%AC%E6%8E%92%20%E5%8D%97%E6%B8%AF%E7%92%B0%E7%90%83%E5%BA%97&query_place_id=ChIJVTpeu6esQjQRdwu8kGu314s"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "泡菜豬肉鍋",
+   "price": 150,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "明太子玉子燒",
+   "price": 170,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "酥炸薯瓣",
+   "price": 90,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "酥炸花枝腳",
+   "price": 150,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "和風雞塊",
+   "price": 170,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬排三明治",
+   "price": 200,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "商業午餐",
+   "price": 250,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸雞兒童餐",
+   "price": 220,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "海陸兒童餐",
+   "price": 220,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

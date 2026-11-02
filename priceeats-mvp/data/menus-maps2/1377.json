@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "哈哈羅55泰式船麵(信義店)",
+  "address": "110臺北市信義區興雅里基隆路一段149號1F後門1F",
+  "lat": 25.0424871,
+  "lng": 121.565722,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%93%88%E5%93%88%E7%BE%8555%E6%B3%B0%E5%BC%8F%E8%88%B9%E9%BA%B5%28%E4%BF%A1%E7%BE%A9%E5%BA%97%29&query_place_id=ChIJTzQ4wiOrQjQRsIHutj4ZB-4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "瀑布粿條",
+   "price": 55,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣粿條",
+   "price": 55,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清湯粿條",
+   "price": 55,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉瀑布粿條",
+   "price": 65,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣豬肉粿條",
+   "price": 65,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清湯豬肉粿條",
+   "price": 65,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸雞翅",
+   "price": 65,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸春捲",
+   "price": 65,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式香香豬",
+   "price": 65,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

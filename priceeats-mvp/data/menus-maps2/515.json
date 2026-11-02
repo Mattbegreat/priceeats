@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "勝博殿 南港中信店",
+  "address": "115臺北市南港區三重里經貿二路166號2樓",
+  "lat": 25.058488,
+  "lng": 121.6162853,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8B%9D%E5%8D%9A%E6%AE%BF%20%E5%8D%97%E6%B8%AF%E4%B8%AD%E4%BF%A1%E5%BA%97&query_place_id=ChIJB0TR2KesQjQRFpVVv1gAsLk"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "咖哩雞排便當",
+   "price": 180,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩里脊便當",
+   "price": 230,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香潤里脊便當",
+   "price": 240,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "里脊豬排丼飯",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "脆嫩雞排丼飯",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "勝博殿便當",
+   "price": 250,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豪華海鮮便當",
+   "price": 340,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "腰內便當",
+   "price": 240,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞排便當",
+   "price": 190,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "YAYOI彌生軒 南港車站店",
+  "address": "115臺北市南港區新光里忠孝東路七段371號B1樓",
+  "lat": 25.052651,
+  "lng": 121.606686,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=YAYOI%E5%BD%8C%E7%94%9F%E8%BB%92%20%E5%8D%97%E6%B8%AF%E8%BB%8A%E7%AB%99%E5%BA%97&query_place_id=ChIJ3XQ7cGerQjQRB4pdu6GN6eU"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "玉子燒",
+   "price": 190,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "吻仔魚玉子燒",
+   "price": 200,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司玉子燒",
+   "price": 210,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香炒肉片蔬菜",
+   "price": 310,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香炒肉片雙倍蔬菜",
+   "price": 400,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香炒纖蔬",
+   "price": 300,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

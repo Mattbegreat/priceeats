@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "TUMAZ 黑熊咖啡『瑰夏專賣店』",
+  "address": "561號, No. 561重陽路三重里南港區臺北市115",
+  "lat": 25.0632184,
+  "lng": 121.6144178,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TUMAZ%20%E9%BB%91%E7%86%8A%E5%92%96%E5%95%A1%E3%80%8E%E7%91%B0%E5%A4%8F%E5%B0%88%E8%B3%A3%E5%BA%97%E3%80%8F&query_place_id=ChIJn9NXj66tQjQRlkXWUCY-vXg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "黑熊特製咖哩飯",
+   "price": 270,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美國牛肉咖哩飯",
+   "price": 290,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "川香麻婆豆腐",
+   "price": 270,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅酒燉牛肉",
+   "price": 300,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "平日限定套餐",
+   "price": 460,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熊熊小早餐",
+   "price": 300,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "貝果優格早餐",
+   "price": 270,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蘋果奶油火腿烤可頌",
+   "price": 280,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉起司烤可頌",
+   "price": 280,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "毛小孩雞肉特餐",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

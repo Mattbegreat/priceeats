@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "南港炒牛肉店",
+  "address": "115臺北市南港區三重里興東街7-1號",
+  "lat": 25.0556835,
+  "lng": 121.6127891,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%B8%AF%E7%82%92%E7%89%9B%E8%82%89%E5%BA%97&query_place_id=ChIJkZXc61irQjQRATH9_SJ4hkA"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "生炒牛肉",
+   "price": 110,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生炒羊肉",
+   "price": 110,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生炒螺肉",
+   "price": 110,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白飯",
+   "price": 10,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮魚味噌湯",
+   "price": 50,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

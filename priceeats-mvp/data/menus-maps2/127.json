@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "島語 台北漢來店",
+  "address": "115臺北市南港區三重里經貿一路168號2樓",
+  "lat": 25.0580491,
+  "lng": 121.6193417,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B3%B6%E8%AA%9E%20%E5%8F%B0%E5%8C%97%E6%BC%A2%E4%BE%86%E5%BA%97&query_place_id=ChIJNc0LPgutQjQRrSvB7evg2BE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "平日早餐",
+   "price": 890,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "假日早餐",
+   "price": 890,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "平日午餐",
+   "price": 1490,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "假日午餐",
+   "price": 1790,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "假日下午餐",
+   "price": 1490,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "平日晚餐",
+   "price": 1790,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "假日晚餐",
+   "price": 2090,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

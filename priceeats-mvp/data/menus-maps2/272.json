@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "一生玄麵 - 鍋燒麵、炒泡麵專賣｜南港",
+  "address": "115臺北市南港區西新里成功路一段18號",
+  "lat": 25.0550461,
+  "lng": 121.5928663,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E7%94%9F%E7%8E%84%E9%BA%B5%20-%20%E9%8D%8B%E7%87%92%E9%BA%B5%E3%80%81%E7%82%92%E6%B3%A1%E9%BA%B5%E5%B0%88%E8%B3%A3%EF%BD%9C%E5%8D%97%E6%B8%AF&query_place_id=ChIJB2PsoOOrQjQR8U-txphOypI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "古早味肉燥麵",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.8
+  },
+  {
+   "name": "秘製麵",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.7
+  },
+  {
+   "name": "玉米濃湯辛拉麵（湯）",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "特色料理-豬肉",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.75
+  },
+  {
+   "name": "特色料理-牛肉",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.75
+  },
+  {
+   "name": "特色料理-海鮮",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.75
+  },
+  {
+   "name": "特色料理-蔬菜蛋",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.75
+  },
+  {
+   "name": "貢丸湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "魚丸湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "花枝丸湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "綜合丸湯",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.85
+  }
+ ]
+}

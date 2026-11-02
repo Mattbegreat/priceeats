@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "梅門食踐堂",
+  "address": "110臺北市信義區興雅里松仁路28號B2樓",
+  "lat": 25.0396219,
+  "lng": 121.567641,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A2%85%E9%96%80%E9%A3%9F%E8%B8%90%E5%A0%82&query_place_id=ChIJMX_7qLurQjQRYZAwgcHoOH8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "上品全套",
+   "price": 980,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "內用.圓滿功德餐",
+   "price": 200,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "外帶.勁便當",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

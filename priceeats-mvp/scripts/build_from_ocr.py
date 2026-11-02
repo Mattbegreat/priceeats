@@ -9,9 +9,14 @@ CATS = {"便當", "飯類", "麵食", "肉類", "海鮮", "早餐", "小吃", "�
 
 def main():
     names = {r["id"]: r["name"] for r in csv.DictReader(open("data/shops.csv", encoding="utf-8-sig"))}
+    reject = set()
+    if os.path.exists("data/ocr-reject.txt"):
+        reject = {l.strip() for l in open("data/ocr-reject.txt", encoding="utf-8") if l.strip() and not l.startswith("#")}
     os.makedirs("data/menus-maps2", exist_ok=True)
     for raw in sorted(glob.glob("data/ocr-raw/*.json")):
         sid = os.path.basename(raw)[:-5]
+        if sid in reject:
+            continue
         d = glob.glob(f"menu_dataset/{sid}_*")
         if not d:
             print(f"{sid}：找不到 menu_dataset，略過"); continue

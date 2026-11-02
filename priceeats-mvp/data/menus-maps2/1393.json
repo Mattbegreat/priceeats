@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "巧之味手工水餃 永吉店",
+  "address": "110臺北市信義區敦厚里松隆路42號",
+  "lat": 25.0437494,
+  "lng": 121.5680211,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B7%A7%E4%B9%8B%E5%91%B3%E6%89%8B%E5%B7%A5%E6%B0%B4%E9%A4%83%20%E6%B0%B8%E5%90%89%E5%BA%97&query_place_id=ChIJT4DNUryrQjQRGPMRKcKmM70"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "招牌水餃（10顆，每顆8元）",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韭菜水餃（10顆，每顆8元）",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合丸子湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "各式小菜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "Herbivore 信義店",
+  "address": "110臺北市信義區興雅里松高路19號2樓",
+  "lat": 25.0396424,
+  "lng": 121.5666917,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Herbivore%20%E4%BF%A1%E7%BE%A9%E5%BA%97&query_place_id=ChIJfWgSz7urQjQRYAMY3X9FpWQ"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "脆皮波特菇塔塔堡",
+   "price": 525,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "檸檬美乃滋櫛瓜肉排漢堡",
+   "price": 525,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "終極墨西哥捲",
+   "price": 495,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥辣椒醬脆皮包",
+   "price": 465,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爐烤高麗菜搭味噌南瓜泥",
+   "price": 385,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式紅醬香料燉飯球",
+   "price": 425,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤豆腐沙爹（3入）",
+   "price": 375,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "板煎美國蘆筍、日本山藥搭檸檬蛋黃醬",
+   "price": 395,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露黃金脆薯",
+   "price": 365,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃金脆薯",
+   "price": 280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

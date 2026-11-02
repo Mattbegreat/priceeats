@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "餓補煎酥包",
+  "address": "110臺北市信義區新仁里忠孝東路四段559巷14號",
+  "lat": 25.0422359,
+  "lng": 121.5636919,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%A4%93%E8%A3%9C%E7%85%8E%E9%85%A5%E5%8C%85&query_place_id=ChIJ9fQkzL6rQjQRcKsaL6ej3As"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-12-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "煎酥包（10顆，每顆25元）",
+   "price": 250,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

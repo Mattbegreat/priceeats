@@ -19,6 +19,8 @@
 - 菜單照片：`scripts/download_menus.py --cdp`（連已登入 Google 的 Chrome）→ 辨識成 `data/menus/*.json`
 - 正式模式（Supabase 啟用）：`SupabaseRepository.load` 只載入 `is_test_data=false`；正式資料不顯示評分，詳情頁改「在 Google Maps 看評價」連結（`src/lib/geo/maps-url.ts`）
 
+- 收集流程（Mac）：`scripts/collect.sh --query-file data/queries/roundN.txt`（找店＋下載菜單照＋待辦）→ `scripts/run_ocr.sh`（本機 agy 逐家 OCR，規則 `docs/agy-ocr-rules.md`，輸出 `data/ocr-raw`）→ `scripts/build_from_ocr.py`（→ `data/menus-maps2`）→ `scripts/qa_check.py` → import；`data/ocr-skip.txt` 不排 OCR、`data/ocr-reject.txt` 不收；進度 `scripts/coverage.py`；舊照 `scripts/refresh_stale.py`；發布 `scripts/publish.sh`；路線圖 `docs/roadmap.md`
+
 ## 指令
 - `npm run dev`／`npm run build`／`npm run build:demo`（靜態匯出到 out/，資產相對路徑）
 - 驗收順序：`npm run typecheck && npm run lint && npm test && npm run test:e2e`

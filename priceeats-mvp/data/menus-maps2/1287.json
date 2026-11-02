@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "CURISTA COFFEE奎士咖啡 市府旗艦店",
+  "address": "110臺北市信義區新仁里忠孝東路四段563號1樓",
+  "lat": 25.0415889,
+  "lng": 121.56405,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CURISTA%20COFFEE%E5%A5%8E%E5%A3%AB%E5%92%96%E5%95%A1%20%E5%B8%82%E5%BA%9C%E6%97%97%E8%89%A6%E5%BA%97&query_place_id=ChIJ1UgRne-rQjQRfmPwOdhPK0Q"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "原味可頌",
+   "price": 80,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "巧克力丹麥",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "濃厚明太子麵包",
+   "price": 95,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芋泥麻糬可頌圈",
+   "price": 105,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉可頌",
+   "price": 110,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司培根可頌圈",
+   "price": 120,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法式野菇菠菜鹹派",
+   "price": 170,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典拿坡里披薩",
+   "price": 175,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三起司無花果披薩",
+   "price": 175,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露燉雞肉燉飯",
+   "price": 220,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "卡邦尼煙燻培根螺旋麵",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "匈牙利紅酒牛肉燉飯",
+   "price": 240,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

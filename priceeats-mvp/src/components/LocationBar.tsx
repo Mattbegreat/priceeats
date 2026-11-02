@@ -1,7 +1,7 @@
 'use client';
 
 import { Crosshair, MapPin } from 'lucide-react';
-import { CENTER_PRESETS, DEFAULT_CENTER, centerLabel } from '@/data/centers';
+import { VISIBLE_PRESETS, DEFAULT_CENTER, centerLabel } from '@/data/centers';
 
 export type LocSource = 'default' | 'gps' | 'preset' | 'map';
 
@@ -61,7 +61,7 @@ export function LocationBar({
         >
           {source === 'gps' && <option value="__gps">目前位置</option>}
           {source !== 'gps' && label === '自訂位置' && <option value="__custom">自訂位置</option>}
-          {CENTER_PRESETS.map((c) => (
+          {VISIBLE_PRESETS.map((c) => (
             <option key={c.name} value={c.name}>
               切換中心：{c.name}
             </option>

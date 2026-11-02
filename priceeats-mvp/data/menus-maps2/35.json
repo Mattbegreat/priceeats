@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "總裁牛肉麵-南港CITYLINK門市",
+  "address": "115臺北市南港區新光里忠孝東路七段369號C棟7樓",
+  "lat": 25.0523549,
+  "lng": 121.6036246,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%B8%BD%E8%A3%81%E7%89%9B%E8%82%89%E9%BA%B5-%E5%8D%97%E6%B8%AFCITYLINK%E9%96%80%E5%B8%82&query_place_id=ChIJTxQ1kVyrQjQRofPsLn7WVN0"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "五寶牛肉麵",
+   "price": 415,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典牛滷拌麵",
+   "price": 235,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "經典牛滷拌飯",
+   "price": 235,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

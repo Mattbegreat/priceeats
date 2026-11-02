@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "千農廚房南港軟體店",
+  "address": "115臺北市南港區三重里三重路19-4號",
+  "lat": 25.0567423,
+  "lng": 121.6134606,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%BE%B2%E5%BB%9A%E6%88%BF%E5%8D%97%E6%B8%AF%E8%BB%9F%E9%AB%94%E5%BA%97&query_place_id=ChIJK2fBKQCrQjQRyyx4bK3OUZk"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "奈良漬醬蒸煮腰內豬",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椒鹽烤雞腿排",
+   "price": 150,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香清蒸雞腿排",
+   "price": 150,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒸烤挪威鯖魚",
+   "price": 160,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "西班牙風味烤沙巴魚",
+   "price": 160,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香烤智利鮭魚",
+   "price": 200,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "五香燉牛腱",
+   "price": 160,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式香草烤雞胸",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "營養鮮蔬餐盒",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽烤雪花豬",
+   "price": 160,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

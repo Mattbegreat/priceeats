@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "gonnaEAT 南港店 | 地中海概念 | 原型食物 | 健康餐廳",
+  "address": "115臺北市南港區三重里經貿二路186-1號1F中信金融園區C棟",
+  "lat": 25.0583857,
+  "lng": 121.615272,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=gonnaEAT%20%E5%8D%97%E6%B8%AF%E5%BA%97%20%7C%20%E5%9C%B0%E4%B8%AD%E6%B5%B7%E6%A6%82%E5%BF%B5%20%7C%20%E5%8E%9F%E5%9E%8B%E9%A3%9F%E7%89%A9%20%7C%20%E5%81%A5%E5%BA%B7%E9%A4%90%E5%BB%B3&query_place_id=ChIJgbDnHYytQjQRXFUA67jfRe8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "四人快樂餐",
+   "price": 2650,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛排蛋早餐",
+   "price": 500,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "西班牙市場早餐",
+   "price": 400,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "GONNA招牌早餐",
+   "price": 400,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燻鮭炒蛋與烤馬鈴薯",
+   "price": 390,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "超多酪梨的酸麵包與炒蛋",
+   "price": 390,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "董事長火腿雙蛋三明治",
+   "price": 370,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "巴斯克風味燉蛋與酸種麵包",
+   "price": 360,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "野菇炒蛋酸麵包與小馬鈴薯",
+   "price": 330,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "輕量級營養燕麥優格與炒蛋",
+   "price": 295,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

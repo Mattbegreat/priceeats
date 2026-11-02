@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "塔吉摩洛哥料理",
+  "address": "106臺北市大安區臨江里基隆路二段144巷3號",
+  "lat": 25.028254,
+  "lng": 121.5562494,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A1%94%E5%90%89%E6%91%A9%E6%B4%9B%E5%93%A5%E6%96%99%E7%90%86&query_place_id=ChIJOQxXLcurQjQRdA2IH0xpZ60"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "燉番茄",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鷹嘴豆泥",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑橄欖醬",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "撒路克",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合開胃菜",
+   "price": 320,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "摩洛哥沙拉",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "谷司谷司沙拉",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海利拉蔬菜湯",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

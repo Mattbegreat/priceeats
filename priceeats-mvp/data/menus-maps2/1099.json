@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "佐藤咖哩 和平總店",
+  "address": "106臺北市大安區黎孝里和平東路三段228巷9號",
+  "lat": 25.0219762,
+  "lng": 121.5543695,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%97%A4%E5%92%96%E5%93%A9%20%E5%92%8C%E5%B9%B3%E7%B8%BD%E5%BA%97&query_place_id=ChIJec_KyzaqQjQR1Nfja5rK97w"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "肉醬起司咖哩",
+   "price": 210,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉醬雞肉咖哩",
+   "price": 250,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉咖哩",
+   "price": 270,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉咖哩",
+   "price": 310,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛雞綜合咖哩",
+   "price": 330,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玉里香米飯",
+   "price": 30,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌湯",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "德式香腸",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醃製泡菜",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

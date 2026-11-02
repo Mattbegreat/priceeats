@@ -1,0 +1,133 @@
+{
+ "restaurant": {
+  "name": "日森軒 和洋料理",
+  "address": "115臺北市南港區環河里經貿二路131號6F",
+  "lat": 25.0593449,
+  "lng": 121.6175825,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%A3%AE%E8%BB%92%20%E5%92%8C%E6%B4%8B%E6%96%99%E7%90%86&query_place_id=ChIJuTb8XQCtQjQRVwH92PTeyKU"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-12-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "鰻魚飯&北海道風炸雞定食",
+   "price": 560,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "散壽司&北海道風炸雞定食",
+   "price": 420,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "天婦羅&綜合生魚片定食",
+   "price": 550,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "北海道風海陸三味定食",
+   "price": 380,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根茄子辣味義大利麵套餐",
+   "price": 370,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生火腿鮮蔬披薩套餐",
+   "price": 380,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐式豬肉咖哩飯套餐",
+   "price": 350,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸鮮鮭佐秋製塔塔醬套餐",
+   "price": 450,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "和風薑燒豬五花",
+   "price": 250,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "北海道風味炸雞",
+   "price": 280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大阪大拉章魚燒",
+   "price": 220,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "名古屋大炸豬排300g",
+   "price": 580,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日本A5和牛壽喜燒鍋",
+   "price": 680,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青甘生魚片 5片",
+   "price": 260,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "旗魚生魚片 5片",
+   "price": 220,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合生魚片(大)",
+   "price": 780,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合生魚片(中)",
+   "price": 420,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

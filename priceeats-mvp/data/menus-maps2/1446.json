@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "放山雞專賣店",
+  "address": "105臺北市松山區介壽里民生東路五段34-1號1 樓",
+  "lat": 25.0582341,
+  "lng": 121.5568649,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%94%BE%E5%B1%B1%E9%9B%9E%E5%B0%88%E8%B3%A3%E5%BA%97&query_place_id=ChIJxdG6oO2rQjQRMgdDcMqZA4k"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-12-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "鮑魚佛跳牆",
+   "price": 1380,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烏參煨花膠",
+   "price": 880,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒲燒鰻油飯",
+   "price": 880,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "筍絲燴蹄膀",
+   "price": 780,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "糖醋大黃魚",
+   "price": 780,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

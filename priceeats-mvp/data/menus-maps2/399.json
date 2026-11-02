@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "MAGIC廚房",
+  "address": "115臺北市南港區三重里三重路19-4號",
+  "lat": 25.0569223,
+  "lng": 121.6133767,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MAGIC%E5%BB%9A%E6%88%BF&query_place_id=ChIJ-6JQg1irQjQR6Q7f8xqMTzQ"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "牛肉飯（附湯）",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "控肉飯（附湯）",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "無骨雞排飯（附湯）",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鯖魚飯（附湯）",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞腿飯（附湯）",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞絲飯（附湯）",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬排飯（附湯）",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香腸飯（附湯）",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

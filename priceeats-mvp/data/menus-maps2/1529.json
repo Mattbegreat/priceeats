@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "嶼人咖啡-台北美食-餐廳-下午茶-cafe-coffee",
+  "address": "105臺北市松山區新聚里南京東路五段250巷2弄39號1樓右側",
+  "lat": 25.0507937,
+  "lng": 121.5682162,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B6%BC%E4%BA%BA%E5%92%96%E5%95%A1-%E5%8F%B0%E5%8C%97%E7%BE%8E%E9%A3%9F-%E9%A4%90%E5%BB%B3-%E4%B8%8B%E5%8D%88%E8%8C%B6-cafe-coffee&query_place_id=ChIJ0-yDRxerQjQROYsBnimTPQM"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "嶼人貓飯搭配烤蔬菜",
+   "price": 200,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白醬時蔬燉飯",
+   "price": 190,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "植物奶拉麵",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "無麩拉麵",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

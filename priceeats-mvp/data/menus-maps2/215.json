@@ -1,0 +1,112 @@
+{
+ "restaurant": {
+  "name": "大江戶町 鰻屋-LaLaport南港店",
+  "address": "115臺北市南港區環河里經貿二路131號6樓",
+  "lat": 25.0592558,
+  "lng": 121.618031,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%B1%9F%E6%88%B6%E7%94%BA%20%E9%B0%BB%E5%B1%8B-LaLaport%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJVd0MSQCtQjQRV5g7MSonfVA"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "五花豚肉串（2串）",
+   "price": 148,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽烤地雞蔥串（2串）",
+   "price": 158,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松阪豚肉串（2串）",
+   "price": 158,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "安格斯牛肉串（2串）",
+   "price": 168,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鰻肝串燒（2串）",
+   "price": 158,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "碳烤櫛瓜",
+   "price": 98,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽烤特大鯖魚",
+   "price": 268,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子雞翅",
+   "price": 188,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大海老天婦羅",
+   "price": 298,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "揚出豆腐",
+   "price": 118,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鰻骨仙貝",
+   "price": 108,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸雞軟骨",
+   "price": 158,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "和風雞肉唐揚",
+   "price": 168,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式廣島牡蠣",
+   "price": 168,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

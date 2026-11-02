@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "実正拉麵",
+  "address": "110臺北市信義區信義路五段150巷14弄2-2號",
+  "lat": 25.0284253,
+  "lng": 121.5691259,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%9F%E6%AD%A3%E6%8B%89%E9%BA%B5&query_place_id=ChIJ98cOCUKrQjQRBb_2yk6dpgo"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-11-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "雞豚味噌 基本款",
+   "price": 310,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞豚味噌 大豐收",
+   "price": 350,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞豚白湯 基本款",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞豚白湯 大豐收",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

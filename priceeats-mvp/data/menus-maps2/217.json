@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "越太太 - 阿水越南料理餐廳",
+  "address": "115臺北市南港區中南里忠孝東路七段596巷4號",
+  "lat": 25.0526314,
+  "lng": 121.6148707,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B6%8A%E5%A4%AA%E5%A4%AA%20-%20%E9%98%BF%E6%B0%B4%E8%B6%8A%E5%8D%97%E6%96%99%E7%90%86%E9%A4%90%E5%BB%B3&query_place_id=ChIJAaw-l1mrQjQR7AdQyMQCPRE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "酋長麵包",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "123豬肉麵包",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太陽蛋麵包",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "馬告香腸（一支）",
+   "price": 50,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "山豬肉（小份）",
+   "price": 150,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "山豬肉（大份）",
+   "price": 200,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "山豬肉香腸拼盤",
+   "price": 250,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

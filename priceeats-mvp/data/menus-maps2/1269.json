@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "鶿克米 TSUKUMI｜微風信義 日本料理 套餐",
+  "address": "110臺北市信義區興雅里忠孝東路五段68號4樓",
+  "lat": 25.0405667,
+  "lng": 121.5669347,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%B6%BF%E5%85%8B%E7%B1%B3%20TSUKUMI%EF%BD%9C%E5%BE%AE%E9%A2%A8%E4%BF%A1%E7%BE%A9%20%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86%20%E5%A5%97%E9%A4%90&query_place_id=ChIJHWcNwrurQjQRVIkqcdA-fsI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "花魚一夜干（半片）",
+   "price": 200,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海老野菜綜合天婦羅",
+   "price": 250,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "野菜天婦羅",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤鮭魚",
+   "price": 120,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸廣島牡蠣塔塔醬（2貫）",
+   "price": 180,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸豬肉咖哩風味",
+   "price": 90,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青甘刺身 胡麻醬油",
+   "price": 320,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬油漬鮪魚塊",
+   "price": 280,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮪魚青甘刺身二品",
+   "price": 150,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "自家製茶碗蒸",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

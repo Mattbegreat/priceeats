@@ -1,0 +1,119 @@
+{
+ "restaurant": {
+  "name": "SALT&STONE LaLaport 南港餐廳",
+  "address": "11568臺北市南港區三重里經貿二路131號1樓",
+  "lat": 25.0592619,
+  "lng": 121.6175436,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SALT%26STONE%20LaLaport%20%E5%8D%97%E6%B8%AF%E9%A4%90%E5%BB%B3&query_place_id=ChIJO1lQbwCtQjQRHSxoPz3smt0"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "煙燻牛小排",
+   "price": 1200,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香料烤半雞",
+   "price": 830,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "S&S牛排漢堡",
+   "price": 530,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "寬帶麵",
+   "price": 420,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麵疙瘩",
+   "price": 420,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨魚吉他麵",
+   "price": 420,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式細麵",
+   "price": 400,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛤蜊麵",
+   "price": 420,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "彎管通心粉",
+   "price": 420,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "農夫派",
+   "price": 500,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美式臘腸",
+   "price": 460,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司圓五曲",
+   "price": 460,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "瑪格麗特",
+   "price": 400,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香菇派",
+   "price": 530,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式香腸",
+   "price": 460,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

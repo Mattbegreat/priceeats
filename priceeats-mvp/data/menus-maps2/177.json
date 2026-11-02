@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "日頭咖哩",
+  "address": "115臺北市南港區西新里成功路一段5號",
+  "lat": 25.0547279,
+  "lng": 121.5933495,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E9%A0%AD%E5%92%96%E5%93%A9&query_place_id=ChIJZ4tR0NirQjQR79MXswZWxuw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "燉雞湯",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "柚香蘿蔔",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式泡菜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "冰心玉子燒",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

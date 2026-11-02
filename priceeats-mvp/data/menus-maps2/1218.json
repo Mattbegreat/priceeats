@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "waku waku burger",
+  "address": "110臺北市信義區景新里吳興街117號",
+  "lat": 25.0299571,
+  "lng": 121.5613837,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=waku%20waku%20burger&query_place_id=ChIJA4PqIrmrQjQROEMEoaw1kNw"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-05-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "朝日玉子牛肉堡",
+   "price": 250,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花生醬培根牛肉堡",
+   "price": 270,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芝士洋芋泥牛肉堡",
+   "price": 250,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸洋蔥富士山牛肉堡",
+   "price": 290,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "糖漬蕃茄辣牛堡",
+   "price": 280,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "沖繩風味酪梨牛肉堡",
+   "price": 290,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "橫濱咖哩蘋果雞肉堡",
+   "price": 250,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煎雞肉香橙野莓堡",
+   "price": 260,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青醬核果雞肉堡",
+   "price": 270,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塔塔醬唐揚雞腿堡",
+   "price": 260,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子玉子炸雞堡",
+   "price": 280,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式青檸炸雞堡",
+   "price": 250,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

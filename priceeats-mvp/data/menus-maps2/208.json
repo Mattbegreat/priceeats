@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "金子半之助- LaLaport 南港店",
+  "address": "115臺北市南港區環河里經貿二路131號5 樓",
+  "lat": 25.0593449,
+  "lng": 121.6175825,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E5%AD%90%E5%8D%8A%E4%B9%8B%E5%8A%A9-%20LaLaport%20%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJS4ah-ACtQjQR9Y_w5C9jUWM"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "鰻舞雙饗丼（單點）",
+   "price": 319,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙鮭魚雙饗丼（單點）",
+   "price": 419,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金牛五花雙饗丼（單點）",
+   "price": 389,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蕎麥冷麵雙饗丼（單點）",
+   "price": 389,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉蕎麥熱麵天婦羅（單點）",
+   "price": 339,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

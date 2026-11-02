@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "瑞哥雞肉飯昆陽店",
+  "address": "115臺北市南港區昆陽街1號",
+  "lat": 25.0538649,
+  "lng": 121.5925063,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%91%9E%E5%93%A5%E9%9B%9E%E8%82%89%E9%A3%AF%E6%98%86%E9%99%BD%E5%BA%97&query_place_id=ChIJP60VpS6rQjQR8SZeF_w0GbY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "蜂蜜麻麻嫩雞飯",
+   "price": 145,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

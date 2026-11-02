@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "輪輪1976 和食茶酒駅",
+  "address": "110405臺北市信義區西村里松壽路11號3樓",
+  "lat": 25.0360891,
+  "lng": 121.5674227,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%BC%AA%E8%BC%AA1976%20%E5%92%8C%E9%A3%9F%E8%8C%B6%E9%85%92%E9%A7%85&query_place_id=ChIJ_Y4vZzKrQjQRcqCqvdGszQQ"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "辣味活龍蝦番茄義大利麵",
+   "price": 1680,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌奶油雞肉義大利麵",
+   "price": 360,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚柚香茄汁蝦湯燉飯",
+   "price": 480,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "昭和牛肉漢堡排 松露野菇燉飯",
+   "price": 420,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

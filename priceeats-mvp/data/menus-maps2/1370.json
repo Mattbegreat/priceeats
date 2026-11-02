@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "Fika Fika Cafe A13",
+  "address": "110臺北市信義區西村里松仁路58號 號B3",
+  "lat": 25.0368519,
+  "lng": 121.5677823,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fika%20Fika%20Cafe%20A13&query_place_id=ChIJCdBOMP6rQjQRPExzFfbBQ9k"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "原味貝果佐cream cheese & 果醬",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "檸檬乳酪貝果",
+   "price": 150,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "橄欖油雙份起司帕尼尼",
+   "price": 180,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義大利菇菇雞肉鹹派",
+   "price": 199,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "普羅旺斯鮪魚鹹派",
+   "price": 160,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "帕瑪森起司酪梨燻雞沙拉佐油醋醬",
+   "price": 250,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

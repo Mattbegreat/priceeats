@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "京板元氣咖哩",
+  "address": "115臺北市南港區西新里南港路三段16巷1弄1號",
+  "lat": 25.054701,
+  "lng": 121.5924281,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E6%9D%BF%E5%85%83%E6%B0%A3%E5%92%96%E5%93%A9&query_place_id=ChIJtQfUGHurQjQRXtCjZ8yLsRc"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "招牌元氣咖哩飯（豬排+三鮮）",
+   "price": 125,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞排咖哩飯",
+   "price": 125,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬排咖哩飯",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三鮮咖哩飯",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦仁咖哩飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花枝咖哩飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚排咖哩飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌元氣蓋飯（豬排+三鮮）",
+   "price": 125,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞排蓋飯",
+   "price": 125,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬排蓋飯",
+   "price": 110,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

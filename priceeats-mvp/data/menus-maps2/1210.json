@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "11日和 │ パスタ",
+  "address": "110臺北市信義區新仁里忠孝東路四段553巷12號1樓之一",
+  "lat": 25.0425357,
+  "lng": 121.5628921,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=11%E6%97%A5%E5%92%8C%20%E2%94%82%20%E3%83%91%E3%82%B9%E3%82%BF&query_place_id=ChIJ0TUhK7mrQjQRU5RfFe76JMg"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "青陽辣椒大蒜細扁麵",
+   "price": 280,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清炒鹽麴櫛瓜細扁麵",
+   "price": 280,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜味剝皮辣椒細扁麵",
+   "price": 280,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜味燻鴨胸肉菠菜細扁麵",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典白酒蛤蜊細扁麵",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

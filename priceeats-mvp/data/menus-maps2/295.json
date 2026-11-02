@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "阿來甜不辣",
+  "address": "115臺北市南港區萬福里同德路45號",
+  "lat": 25.0455556,
+  "lng": 121.5844444,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E4%BE%86%E7%94%9C%E4%B8%8D%E8%BE%A3&query_place_id=ChIJozRFp3WrQjQRWfZubEBPpPY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "甜不辣（小）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "甜不辣（大）",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "甜不辣+冬粉",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "貢丸湯",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "冬粉湯",
+   "price": 35,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

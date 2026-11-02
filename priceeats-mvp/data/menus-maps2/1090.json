@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "新高軒信義店(A11-B2)",
+  "address": "110臺北市信義區西村里松壽路11號號地下二樓",
+  "lat": 25.0367098,
+  "lng": 121.567279,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E9%AB%98%E8%BB%92%E4%BF%A1%E7%BE%A9%E5%BA%97%28A11-B2%29&query_place_id=ChIJCTtPAMqrQjQRWDyMo6EeGyU"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "唐揚雞咖哩飯（超值套餐）",
+   "price": 320,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸豬排咖哩飯（超值套餐）",
+   "price": 330,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "頂級牛肋條",
+   "price": 150,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "壽喜燒牛肉",
+   "price": 140,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚炸雞",
+   "price": 130,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "北海道可樂餅",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "季節時蔬",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嚴選白米飯",
+   "price": 30,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

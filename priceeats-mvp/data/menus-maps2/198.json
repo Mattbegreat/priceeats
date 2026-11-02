@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "麵屋昕家",
+  "address": "114臺北市內湖區明湖里康寧路三段189巷11弄12號1樓",
+  "lat": 25.0706382,
+  "lng": 121.6124219,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BA%B5%E5%B1%8B%E6%98%95%E5%AE%B6&query_place_id=ChIJFzDZj4itQjQRC4flm67AGqY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "雞白湯拉麵",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞白湯玉子拉麵",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽味雞湯拉麵",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽味雞湯玉子拉麵",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬油雞湯拉麵",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬油雞湯玉子拉麵",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "樸實無華的水雞x鴨醬油",
+   "price": 350,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

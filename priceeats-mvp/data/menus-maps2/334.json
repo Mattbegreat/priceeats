@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "樂樂小廚",
+  "address": "115015臺北市南港區中研里研究院路二段70巷12號",
+  "lat": 25.0455327,
+  "lng": 121.614583,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%82%E6%A8%82%E5%B0%8F%E5%BB%9A&query_place_id=ChIJd8_woImrQjQRoRAjVZCLsyo"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "特製香煎雞柳飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式打拋豬肉飯",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "家常紅燒腿庫飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金沙南瓜飯",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "營養均衡菜飯",
+   "price": 70,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

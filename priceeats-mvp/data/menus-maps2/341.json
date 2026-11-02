@@ -1,0 +1,427 @@
+{
+ "restaurant": {
+  "name": "美利香港茶餐廳",
+  "address": "115臺北市南港區忠孝東路七段369號C棟 9 樓",
+  "lat": 25.0525811,
+  "lng": 121.6044641,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E5%88%A9%E9%A6%99%E6%B8%AF%E8%8C%B6%E9%A4%90%E5%BB%B3&query_place_id=ChIJ3ZEbcPCrQjQR_LZptYPbV-E"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "大佬豬扒出前一丁",
+   "price": 238,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩王車仔麵",
+   "price": 258,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "餐肉香腸出前一丁",
+   "price": 208,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "澳門豬扒炒出前一丁",
+   "price": 248,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩魚蛋撈丁",
+   "price": 198,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明爐蜜汁叉燒撈丁",
+   "price": 238,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "港式牛腩滑蛋帽蓋飯",
+   "price": 258,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明爐蜜汁叉燒滑蛋飯",
+   "price": 248,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩牛腩滑蛋帽蓋飯",
+   "price": 268,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "邪惡雙眼豬扒飯",
+   "price": 248,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典滑蛋蝦仁飯",
+   "price": 258,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩豬扒滑蛋帽蓋飯",
+   "price": 258,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "旺角豬肉香菜皮蛋鍋",
+   "price": 308,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "沙嗲豬肉咖哩鍋",
+   "price": 308,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香江豬肉麻辣鍋",
+   "price": 308,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "旺角牛肉香菜皮蛋鍋",
+   "price": 328,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "沙嗲牛肉咖哩鍋",
+   "price": 328,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香江牛肉麻辣鍋",
+   "price": 328,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "街頭魚蛋魚板湯",
+   "price": 158,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金牌牛乳湯",
+   "price": 158,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "港式鮮蝦雲吞湯",
+   "price": 178,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "上上籤咖哩魚蛋",
+   "price": 148,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩四寶",
+   "price": 188,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蠔油廣東芥蘭花",
+   "price": 188,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "避風塘炸雞翼",
+   "price": 198,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "港式鮮蝦雲吞（河粉）",
+   "price": 228,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "港式鮮蝦雲吞（生麵）",
+   "price": 228,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "街頭魚蛋魚板湯（河粉）",
+   "price": 198,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "街頭魚蛋魚板湯（生麵）",
+   "price": 198,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金牌牛乳湯（河粉）",
+   "price": 208,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金牌牛乳湯（生麵）",
+   "price": 208,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蠔油鮮蝦雲吞撈麵",
+   "price": 228,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "排檔叉燒蔥油撈麵",
+   "price": 238,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "柱侯牛腩撈麵",
+   "price": 248,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蠔油燴鳳爪",
+   "price": 128,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "港味蘿蔔糕（三片）",
+   "price": 128,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "抹茶紅豆包（三個）",
+   "price": 128,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "乒乓芝麻球（三顆）",
+   "price": 128,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豉汁蒸排骨",
+   "price": 138,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "皇頂珍珠丸（三個）",
+   "price": 138,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金牌蒸翅餃（三件）",
+   "price": 138,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蜜汁叉燒酥（兩件）",
+   "price": 138,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蠔皇叉燒包（兩個）",
+   "price": 138,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手打牛肉丸（三個）",
+   "price": 148,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "盆栽芝麻菇菇包（二件）",
+   "price": 148,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "萌豬流沙包（二件）",
+   "price": 148,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爵士奶黃包（三個）",
+   "price": 148,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "荷葉糯米雞（兩件）",
+   "price": 158,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蝦腐皮捲（三條）",
+   "price": 158,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典蝦餃皇（三件）",
+   "price": 158,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚子蝦燒賣（四個）",
+   "price": 158,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "脆脆豬仔包",
+   "price": 78,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶醬豬仔包",
+   "price": 88,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美利流沙西多士",
+   "price": 128,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典西多士",
+   "price": 98,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "冰火菠蘿油",
+   "price": 98,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "叉燒菠蘿油",
+   "price": 138,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油多士",
+   "price": 78,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶醬多士",
+   "price": 88,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

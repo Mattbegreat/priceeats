@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "阿美好吃放山雞肉便當",
+  "address": "105臺北市松山區安平里南京東路五段291巷37號",
+  "lat": 25.0531528,
+  "lng": 121.5663182,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E7%BE%8E%E5%A5%BD%E5%90%83%E6%94%BE%E5%B1%B1%E9%9B%9E%E8%82%89%E4%BE%BF%E7%95%B6&query_place_id=ChIJJ6kqWjqrQjQR5dzV5lj5wV8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "煙燻甘蔗雞全雞",
+   "price": 620,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹹水雞全雞",
+   "price": 620,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻雞半隻",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹹水雞半隻",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大雞腿",
+   "price": 240,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉便當",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉後半段",
+   "price": 270,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉盤",
+   "price": 110,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞胸肉盤",
+   "price": 130,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞油飯（小）",
+   "price": 25,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞油飯（大）",
+   "price": 40,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小菜",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

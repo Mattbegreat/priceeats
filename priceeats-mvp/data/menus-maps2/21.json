@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "台鐵便當-南港車站",
+  "address": "115臺北市南港區中南里南港路一段313號115台北市南港區南港路一段313號地下2樓南2出口 處 地下2樓南",
+  "lat": 25.0528215,
+  "lng": 121.607119,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E9%90%B5%E4%BE%BF%E7%95%B6-%E5%8D%97%E6%B8%AF%E8%BB%8A%E7%AB%99&query_place_id=ChIJ6Qzc3F2rQjQRlabrITcYEYI"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "梅鰻素宴",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

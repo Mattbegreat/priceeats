@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "PhoEver 越苑2.0 極粉麵專賣店",
+  "address": "106臺北市大安區光武里敦化南路一段160巷42號",
+  "lat": 25.0435125,
+  "lng": 121.5470698,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=PhoEver%20%E8%B6%8A%E8%8B%912.0%20%E6%A5%B5%E7%B2%89%E9%BA%B5%E5%B0%88%E8%B3%A3%E5%BA%97&query_place_id=ChIJ7c4Jur6rQjQRqv8wngkUWhQ"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "火車頭特別河粉",
+   "price": 350,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉三重奏",
+   "price": 350,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉河粉（小）",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉河粉（大）",
+   "price": 350,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛丸粉",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手切霜降牛小排粉",
+   "price": 480,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "半生熟霜降/肋排粉",
+   "price": 480,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙肋排粉",
+   "price": 520,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "去皮牛尾粉/半生熟霜降",
+   "price": 350,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "潮州什錦",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

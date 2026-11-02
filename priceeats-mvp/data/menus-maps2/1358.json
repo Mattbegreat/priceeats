@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "Café Kitsuné BELLAVITA",
+  "address": "110臺北市信義區興雅里松仁路28號2 樓",
+  "lat": 25.0397979,
+  "lng": 121.5674743,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Kitsun%C3%A9%20BELLAVITA&query_place_id=ChIJYX-jZtOrQjQRRvmf0BsWCdM"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "酪梨酸種麵包",
+   "price": 300,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式乳酪開心果酸種麵包",
+   "price": 300,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法式火腿起司三明治",
+   "price": 280,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典法式鹹派",
+   "price": 320,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

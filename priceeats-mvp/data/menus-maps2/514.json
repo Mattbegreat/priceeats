@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "羽村日本料理",
+  "address": "115臺北市南港區三重里經貿二路66之3號",
+  "lat": 25.0574967,
+  "lng": 121.6158873,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%BE%BD%E6%9D%91%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86&query_place_id=ChIJq7oB4aesQjQRrRReNkh3GPk"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "綜合生魚片",
+   "price": 680,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌握壽司6貫",
+   "price": 680,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "野菜沙拉",
+   "price": 220,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清炒時蔬",
+   "price": 220,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "野菜天婦羅",
+   "price": 220,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式雞肉唐揚",
+   "price": 250,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "草蝦天婦羅",
+   "price": 660,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日本米茄田樂燒",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "午魚一夜干",
+   "price": 380,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "銀鱈西京燒",
+   "price": 780,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "彩套餐",
+   "price": 2880,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

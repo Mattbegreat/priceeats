@@ -1,0 +1,1155 @@
+{
+ "restaurant": {
+  "name": "すき家信義安和",
+  "address": "106臺北市大安區敦煌里信義路四段235號",
+  "lat": 25.0333707,
+  "lng": 121.5532528,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%8D%E5%AE%B6%E4%BF%A1%E7%BE%A9%E5%AE%89%E5%92%8C&query_place_id=ChIJ_3WWEcyrQjQR-tvya11aBt8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "牛丼（迷你碗）",
+   "price": 69,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛丼（中碗）",
+   "price": 89,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛丼（肉大碗）",
+   "price": 119,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛丼（大碗）",
+   "price": 129,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛丼（超大碗）",
+   "price": 159,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛丼（MEGA）",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜牛丼（迷你碗）",
+   "price": 99,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜牛丼（中碗）",
+   "price": 119,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜牛丼（肉大碗）",
+   "price": 149,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜牛丼（大碗）",
+   "price": 159,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜牛丼（超大碗）",
+   "price": 189,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜牛丼（MEGA）",
+   "price": 229,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司牛丼（迷你碗）",
+   "price": 119,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司牛丼（中碗）",
+   "price": 139,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司牛丼（肉大碗）",
+   "price": 169,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司牛丼（大碗）",
+   "price": 179,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司牛丼（超大碗）",
+   "price": 209,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司牛丼（MEGA）",
+   "price": 249,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥溫玉牛丼（迷你碗）",
+   "price": 119,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥溫玉牛丼（中碗）",
+   "price": 139,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥溫玉牛丼（肉大碗）",
+   "price": 169,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥溫玉牛丼（大碗）",
+   "price": 179,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥溫玉牛丼（超大碗）",
+   "price": 209,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥溫玉牛丼（MEGA）",
+   "price": 249,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秋葵牛丼（迷你碗）",
+   "price": 99,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秋葵牛丼（中碗）",
+   "price": 119,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秋葵牛丼（肉大碗）",
+   "price": 149,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秋葵牛丼（大碗）",
+   "price": 159,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秋葵牛丼（超大碗）",
+   "price": 189,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秋葵牛丼（MEGA）",
+   "price": 229,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司牛丼（迷你碗）",
+   "price": 99,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司牛丼（中碗）",
+   "price": 119,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司牛丼（肉大碗）",
+   "price": 149,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司牛丼（大碗）",
+   "price": 159,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司牛丼（超大碗）",
+   "price": 189,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司牛丼（MEGA）",
+   "price": 229,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥溫玉牛丼（迷你碗）",
+   "price": 119,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥溫玉牛丼（中碗）",
+   "price": 139,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥溫玉牛丼（肉大碗）",
+   "price": 169,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥溫玉牛丼（大碗）",
+   "price": 179,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥溫玉牛丼（超大碗）",
+   "price": 209,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥溫玉牛丼（MEGA）",
+   "price": 249,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛燒肉丼（中碗）",
+   "price": 139,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛燒肉丼（大碗）",
+   "price": 149,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛燒肉丼（超大碗）",
+   "price": 259,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜牛燒肉丼（中碗）",
+   "price": 169,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜牛燒肉丼（大碗）",
+   "price": 179,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜牛燒肉丼（超大碗）",
+   "price": 289,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司牛燒肉丼（中碗）",
+   "price": 189,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司牛燒肉丼（放大碗）",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司牛燒肉丼（超大碗）",
+   "price": 309,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥溫玉牛燒肉丼（中碗）",
+   "price": 189,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥溫玉牛燒肉丼（放大碗）",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥溫玉牛燒肉丼（超大碗）",
+   "price": 309,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秋葵牛燒肉丼（中碗）",
+   "price": 169,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秋葵牛燒肉丼（放大碗）",
+   "price": 179,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秋葵牛燒肉丼（超大碗）",
+   "price": 289,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司牛燒肉丼（中碗）",
+   "price": 169,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司牛燒肉丼（放大碗）",
+   "price": 179,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司牛燒肉丼（超大碗）",
+   "price": 289,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥溫玉牛燒肉丼（中碗）",
+   "price": 189,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥溫玉牛燒肉丼（放大碗）",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥溫玉牛燒肉丼（超大碗）",
+   "price": 309,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉咖哩（迷你碗）",
+   "price": 133,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉咖哩（中碗）",
+   "price": 153,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉咖哩（大碗）",
+   "price": 183,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉咖哩（MEGA）",
+   "price": 263,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚雞咖哩（迷你碗）",
+   "price": 139,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚雞咖哩（中碗）",
+   "price": 159,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚雞咖哩（大碗）",
+   "price": 189,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚雞咖哩（MEGA）",
+   "price": 269,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "溫玉牛肉咖哩（迷你碗）",
+   "price": 158,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "溫玉牛肉咖哩（中碗）",
+   "price": 178,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "溫玉牛肉咖哩（大碗）",
+   "price": 208,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "溫玉牛肉咖哩（MEGA）",
+   "price": 288,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司咖哩（迷你碗）",
+   "price": 129,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司咖哩（中碗）",
+   "price": 149,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司咖哩（大碗）",
+   "price": 179,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司咖哩（MEGA）",
+   "price": 259,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司牛肉咖哩（迷你碗）",
+   "price": 183,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司牛肉咖哩（中碗）",
+   "price": 203,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司牛肉咖哩（大碗）",
+   "price": 233,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司牛肉咖哩（MEGA）",
+   "price": 313,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特製咖哩（迷你碗）",
+   "price": 79,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特製咖哩（中碗）",
+   "price": 99,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特製咖哩（大碗）",
+   "price": 129,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特製咖哩（MEGA）",
+   "price": 209,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻婆豆腐牛丼（迷你碗）",
+   "price": 119,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻婆豆腐牛丼（中碗）",
+   "price": 139,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻婆豆腐牛丼（肉大碗）",
+   "price": 169,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻婆豆腐牛丼（大碗）",
+   "price": 179,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻婆豆腐牛丼（超大碗）",
+   "price": 209,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻婆豆腐牛丼（MEGA）",
+   "price": 249,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "溫玉麻婆豆腐牛丼（迷你碗）",
+   "price": 144,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "溫玉麻婆豆腐牛丼（中碗）",
+   "price": 164,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "溫玉麻婆豆腐牛丼（肉大碗）",
+   "price": 194,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "溫玉麻婆豆腐牛丼（大碗）",
+   "price": 204,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "溫玉麻婆豆腐牛丼（超大碗）",
+   "price": 234,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "溫玉麻婆豆腐牛丼（MEGA）",
+   "price": 274,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香炸蒜仁麻婆豆腐牛丼（迷你碗）",
+   "price": 139,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香炸蒜仁麻婆豆腐牛丼（中碗）",
+   "price": 159,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香炸蒜仁麻婆豆腐牛丼（肉大碗）",
+   "price": 189,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香炸蒜仁麻婆豆腐牛丼（大碗）",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香炸蒜仁麻婆豆腐牛丼（超大碗）",
+   "price": 229,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香炸蒜仁麻婆豆腐牛丼（MEGA）",
+   "price": 269,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻婆豆腐牛燒肉丼（中碗）",
+   "price": 189,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻婆豆腐牛燒肉丼（放大碗）",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻婆豆腐牛燒肉丼（超大碗）",
+   "price": 309,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香炸蒜仁麻婆豆腐牛燒肉丼（中碗）",
+   "price": 209,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香炸蒜仁麻婆豆腐牛燒肉丼（放大碗）",
+   "price": 219,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香炸蒜仁麻婆豆腐牛燒肉丼（超大碗）",
+   "price": 329,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒雞肉丼（中碗）",
+   "price": 139,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒雞肉丼（飯大碗）",
+   "price": 149,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒雞肉丼（超大碗）",
+   "price": 259,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥溫玉炙燒雞肉丼（中碗）",
+   "price": 189,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥溫玉炙燒雞肉丼（飯大碗）",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥溫玉炙燒雞肉丼（超大碗）",
+   "price": 309,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "溫玉炙燒雞肉丼（中碗）",
+   "price": 164,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "溫玉炙燒雞肉丼（飯大碗）",
+   "price": 174,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "溫玉炙燒雞肉丼（超大碗）",
+   "price": 284,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司炙燒雞肉丼（中碗）",
+   "price": 169,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司炙燒雞肉丼（飯大碗）",
+   "price": 179,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司炙燒雞肉丼（超大碗）",
+   "price": 289,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美乃溫玉炙燒雞肉丼（中碗）",
+   "price": 174,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美乃溫玉炙燒雞肉丼（飯大碗）",
+   "price": 184,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美乃溫玉炙燒雞肉丼（超大碗）",
+   "price": 294,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥溫玉炙燒雞肉丼（中碗）",
+   "price": 189,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥溫玉炙燒雞肉丼（飯大碗）",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥溫玉炙燒雞肉丼（超大碗）",
+   "price": 309,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鰻牛丼（中碗）",
+   "price": 263,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鰻牛丼（飯大碗）",
+   "price": 273,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鰻牛丼（超大碗）",
+   "price": 453,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "溫玉鰻魚丼（中碗）",
+   "price": 234,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "溫玉鰻魚丼（飯大碗）",
+   "price": 244,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "溫玉鰻魚丼（超大碗）",
+   "price": 424,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鰻魚丼（中碗）",
+   "price": 209,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鰻魚丼（飯大碗）",
+   "price": 219,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "超大鰻魚丼",
+   "price": 399,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉牛燒肉雙拼丼（中碗）",
+   "price": 193,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉牛燒肉雙拼丼（飯大碗）",
+   "price": 203,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉烤雞雙拼丼（中碗）",
+   "price": 193,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉烤雞雙拼丼（飯大碗）",
+   "price": 203,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小朋友牛丼",
+   "price": 89,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小朋友咖哩",
+   "price": 89,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉（單點）",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燒烤雞肉（單點）",
+   "price": 120,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛燒肉（單點）",
+   "price": 110,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤鯖魚（單點）",
+   "price": 65,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤鮭魚（單點）",
+   "price": 65,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鰻魚（1隻）",
+   "price": 195,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚雞（2塊）",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚雞（5塊）",
+   "price": 90,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚雞（10塊）",
+   "price": 170,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "可樂餅（1塊）",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "可樂餅（2塊）",
+   "price": 65,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌湯",
+   "price": 25,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海瓜子味噌湯",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "柚香蘿蔔",
+   "price": 25,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秋葵",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青菜",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香炸蒜仁",
+   "price": 20,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白飯",
+   "price": 30,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

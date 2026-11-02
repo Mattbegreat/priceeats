@@ -21,7 +21,15 @@ export const CENTER_PRESETS: CenterPreset[] = [
   { name: '公館', lat: 25.0148, lng: 121.5342 },
   { name: '桃園車站', lat: 24.9894, lng: 121.3138 },
   NANGANG_STATION,
+  { name: '內湖科技園區', lat: 25.0797, lng: 121.5747 },
+  { name: '市政府站', lat: 25.0411, lng: 121.5652 },
+  { name: '松山車站', lat: 25.0493, lng: 121.5779 },
 ];
+
+/** 地點選單顯示的中心：正式模式只列有真實資料的區域；測試資料維持全部。 */
+export const VISIBLE_PRESETS: CenterPreset[] = IS_REAL_DATA
+  ? CENTER_PRESETS.filter((c) => ['南港車站', '內湖科技園區', '市政府站', '松山車站'].includes(c.name))
+  : CENTER_PRESETS;
 
 export function centerLabel(p: LatLng): string {
   const hit = CENTER_PRESETS.find((c) => Math.abs(c.lat - p.lat) < 1e-4 && Math.abs(c.lng - p.lng) < 1e-4);

@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "Hërs biströ她/的餐酒",
+  "address": "110臺北市信義區新仁里忠孝東路四段553巷22弄4號",
+  "lat": 25.0431572,
+  "lng": 121.5631149,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=H%C3%ABrs%20bistr%C3%B6%E5%A5%B9/%E7%9A%84%E9%A4%90%E9%85%92&query_place_id=ChIJ-xu50L6rQjQR-80MoLznv44"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "白醬煙燻培根義大利麵",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "粉紅醬香草雞丁義大利麵",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅醬香料肉丸義大利麵",
+   "price": 145,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青醬香草雞丁義大利麵",
+   "price": 165,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "南瓜季節時蔬義大利麵",
+   "price": 165,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "南洋叻沙海鮮義大利麵",
+   "price": 165,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩厚切炸豬排蛋包飯",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白醬炸雞柳蛋包飯",
+   "price": 155,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菠菜起司醬雞丁蛋包飯",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣奶油泡菜雞丁蛋包飯",
+   "price": 165,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}
