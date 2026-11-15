@@ -1,3 +1,4 @@
+import { IS_REAL_DATA } from '@/data/centers';
 import type { Freshness } from '@/types';
 
 const DAY = 86_400_000;
@@ -9,15 +10,24 @@ export function daysBetween(verifiedAt: string | Date, today: Date): number {
   return diff < 0 ? 0 : diff;
 }
 
-/** 0–30 天＝近期資料；31–90 天＝可能需要確認；>90 天＝舊資料 */
-export function freshnessFromDays(days: number): Freshness {
-  if (days <= 30) return 'recent';
-  if (days <= 90) return 'maybe';
+/** 測試資料：0–30 天＝近期；31–90 天＝可能需要確認；>90 天＝舊資料 */
+export const TEST_RECENT_DAYS = 30;
+export const TEST_MAYBE_DAYS = 90;
+/** 正式資料（菜單照片辨識，更新頻率低）：6 個月內＝近期；6–12 個月＝可能需要確認；>12 個月＝舊資料 */
+export const REAL_RECENT_DAYS = 183;
+export const REAL_MAYBE_DAYS = 365;
+
+/** real 預設依建置模式 (IS_REAL_DATA)；測試可明確傳入 */
+export function freshnessFromDays(days: number, real: boolean = IS_REAL_DATA): Freshness {
+  const recent = real ? REAL_RECENT_DAYS : TEST_RECENT_DAYS;
+  const maybe = real ? REAL_MAYBE_DAYS : TEST_MAYBE_DAYS;
+  if (days <= recent) return 'recent';
+  if (days <= maybe) return 'maybe';
   return 'old';
 }
 
-export function freshnessOf(verifiedAt: string | Date, today: Date): Freshness {
-  return freshnessFromDays(daysBetween(verifiedAt, today));
+export function freshnessOf(verifiedAt: string | Date, today: Date, real: boolean = IS_REAL_DATA): Freshness {
+  return freshnessFromDays(daysBetween(verifiedAt, today), real);
 }
 
 export const FRESHNESS_LABEL: Record<Freshness, string> = {

@@ -81,7 +81,7 @@ export interface Dataset {
   menuImages: MenuImage[];
 }
 
-export type SortKey = 'price' | 'distance' | 'rating';
+export type SortKey = 'budget' | 'price' | 'distance' | 'rating';
 export type ViewKey = 'home' | 'results' | 'map' | 'upload' | 'favorites';
 export type Freshness = 'recent' | 'maybe' | 'old';
 
@@ -112,6 +112,8 @@ export interface SearchParams {
   minRating: number;
   /** 是否顯示單點小菜、湯品、配菜 (false=只看主餐類) */
   sides: boolean;
+  /** 是否顯示多人份 (false=排除) */
+  multi: boolean;
   lat: number;
   lng: number;
 }

@@ -1,6 +1,7 @@
 'use client';
 
-import { DIST_OPTIONS, RATING_OPTIONS, SORTS, SORT_LABEL, distLabel } from '@/lib/search/params';
+import { IS_REAL_DATA } from '@/data/centers';
+import { DIST_OPTIONS, RATING_OPTIONS, SORT_LABEL, availableSorts, distLabel } from '@/lib/search/params';
 import type { SearchParams, SortKey } from '@/types';
 import { BudgetControl } from './BudgetControl';
 import { CategoryChips } from './Chips';
@@ -8,12 +9,21 @@ import { CategoryChips } from './Chips';
 const sel = 'tap w-full rounded-lg border border-line bg-white px-2 text-sm font-medium';
 
 /** 結果頁與地圖頁共用的篩選列；變動即時更新，不需再按搜尋 */
-export function FilterBar({ params, onParams }: { params: SearchParams; onParams: (p: Partial<SearchParams>) => void }) {
+export function FilterBar({
+  params,
+  onParams,
+  real = IS_REAL_DATA,
+}: {
+  params: SearchParams;
+  onParams: (p: Partial<SearchParams>) => void;
+  /** 正式資料沒有評分，隱藏「最低評分」與「評價最高」 */
+  real?: boolean;
+}) {
   return (
     <section aria-label="篩選條件" className="space-y-3 rounded-card border border-line bg-white p-3">
       <BudgetControl compact value={params.budget} onChange={(budget) => onParams({ budget })} />
       <CategoryChips scroll value={params.cat} onChange={(cat) => onParams({ cat })} />
-      <div className="grid grid-cols-3 gap-2">
+      <div className={`grid gap-2 ${real ? 'grid-cols-2' : 'grid-cols-3'}`}>
         <label className="text-xs text-mute">
           距離
           <select
@@ -29,6 +39,7 @@ export function FilterBar({ params, onParams }: { params: SearchParams; onParams
             ))}
           </select>
         </label>
+        {!real && (
         <label className="text-xs text-mute">
           最低評分
           <select
@@ -44,6 +55,7 @@ export function FilterBar({ params, onParams }: { params: SearchParams; onParams
             ))}
           </select>
         </label>
+        )}
         <label className="text-xs text-mute">
           排序
           <select
@@ -52,7 +64,7 @@ export function FilterBar({ params, onParams }: { params: SearchParams; onParams
             value={params.sort}
             onChange={(e) => onParams({ sort: e.target.value as SortKey })}
           >
-            {SORTS.map((s) => (
+            {availableSorts(real).map((s) => (
               <option key={s} value={s}>
                 {SORT_LABEL[s]}
               </option>
@@ -69,6 +81,16 @@ export function FilterBar({ params, onParams }: { params: SearchParams; onParams
           onChange={(e) => onParams({ sides: e.target.checked })}
         />
         含單點小菜、湯品
+      </label>
+      <label className="flex items-center gap-2 text-sm text-ink">
+        <input
+          type="checkbox"
+          aria-label="含多人份"
+          className="h-4 w-4"
+          checked={params.multi}
+          onChange={(e) => onParams({ multi: e.target.checked })}
+        />
+        含多人份
       </label>
     </section>
   );

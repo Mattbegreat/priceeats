@@ -10,17 +10,28 @@ export const SLIDER_MIN = 30;
 export const SLIDER_MAX = 500;
 export const SLIDER_STEP = 10;
 export const VIEWS: ViewKey[] = ['home', 'results', 'map', 'upload', 'favorites'];
-export const SORTS: SortKey[] = ['price', 'distance', 'rating'];
-export const SORT_LABEL: Record<SortKey, string> = { price: '價格最低', distance: '距離最近', rating: '評價最高' };
+export const SORTS: SortKey[] = ['budget', 'price', 'distance', 'rating'];
+export const SORT_LABEL: Record<SortKey, string> = {
+  budget: '最貼近預算',
+  price: '價格最低',
+  distance: '距離最近',
+  rating: '評價最高',
+};
+
+/** 正式資料沒有評分：不提供「評價最高」排序與「最低評分」篩選 */
+export function availableSorts(real: boolean = IS_REAL_DATA): SortKey[] {
+  return real ? SORTS.filter((s) => s !== 'rating') : SORTS;
+}
 
 export const DEFAULT_PARAMS: SearchParams = {
   budget: 100,
   cat: '不限',
   dist: 1000,
-  sort: 'price',
+  sort: 'budget',
   minRating: 0,
   // 正式資料預設只看主餐；Mock 測試資料維持全部顯示
   sides: !IS_REAL_DATA,
+  multi: false,
   lat: DEFAULT_CENTER.lat,
   lng: DEFAULT_CENTER.lng,
 };
@@ -56,9 +67,10 @@ const querySchema = z.object({
     .refine((s): s is CategoryFilter => (CATEGORY_FILTERS as string[]).includes(s))
     .catch('不限'),
   dist: numStr(100, 50000).catch(DEFAULT_PARAMS.dist),
-  sort: z.enum(['price', 'distance', 'rating']).catch('price'),
+  sort: z.enum(['budget', 'price', 'distance', 'rating']).catch(DEFAULT_PARAMS.sort),
   minRating: numStr(0, 5).catch(0),
   sides: z.enum(['0', '1']).transform((v) => v === '1').catch(DEFAULT_PARAMS.sides),
+  multi: z.enum(['0', '1']).transform((v) => v === '1').catch(DEFAULT_PARAMS.multi),
   lat: numStr(-90, 90).catch(DEFAULT_PARAMS.lat),
   lng: numStr(-180, 180).catch(DEFAULT_PARAMS.lng),
   food: z.string().max(64).optional().catch(undefined),
@@ -70,11 +82,11 @@ export interface UrlState {
   food: string | null;
 }
 
-/** 從 URL query 還原狀態；任何非法值都退回預設 */
-export function parseQuery(search: string): UrlState {
+/** 從 URL query 還原狀態；任何非法值都退回預設。正式模式忽略 minRating 與 sort=rating。 */
+export function parseQuery(search: string, real: boolean = IS_REAL_DATA): UrlState {
   const sp = new URLSearchParams(search);
   const raw: Record<string, string | undefined> = {};
-  for (const k of ['view', 'budget', 'cat', 'dist', 'sort', 'minRating', 'sides', 'lat', 'lng', 'food']) {
+  for (const k of ['view', 'budget', 'cat', 'dist', 'sort', 'minRating', 'sides', 'multi', 'lat', 'lng', 'food']) {
     const v = sp.get(k);
     if (v !== null) raw[k] = v;
   }
@@ -85,9 +97,10 @@ export function parseQuery(search: string): UrlState {
       budget: q.budget,
       cat: q.cat as CategoryFilter,
       dist: q.dist,
-      sort: q.sort,
-      minRating: q.minRating,
+      sort: real && q.sort === 'rating' ? DEFAULT_PARAMS.sort : q.sort,
+      minRating: real ? 0 : q.minRating,
       sides: q.sides,
+      multi: q.multi,
       lat: q.lat,
       lng: q.lng,
     },
@@ -107,6 +120,7 @@ export function buildQuery(state: UrlState): string {
   if (p.sort !== d.sort) sp.set('sort', p.sort);
   if (p.minRating !== d.minRating) sp.set('minRating', String(p.minRating));
   if (p.sides !== d.sides) sp.set('sides', p.sides ? '1' : '0');
+  if (p.multi !== d.multi) sp.set('multi', p.multi ? '1' : '0');
   if (Math.abs(p.lat - d.lat) > 1e-6 || Math.abs(p.lng - d.lng) > 1e-6) {
     sp.set('lat', p.lat.toFixed(5));
     sp.set('lng', p.lng.toFixed(5));

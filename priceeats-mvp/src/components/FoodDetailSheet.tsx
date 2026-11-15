@@ -8,9 +8,14 @@ import { FRESHNESS_LABEL, formatUpdated } from '@/lib/pricing/freshness';
 import { REPORT_LABEL, REPORT_TYPES, validateReport } from '@/lib/pricing/report';
 import { STATUS_LABEL } from '@/lib/pricing/verification';
 import type { Repository } from '@/repositories/types';
-import type { Dataset, FoodView, ReportType } from '@/types';
+import type { Dataset, FoodView, PriceVerification, ReportType } from '@/types';
 import { MapsReviewLink, RatingText, TestDataTag, VerificationBadge } from './Badges';
 import { FoodImage } from './FoodImage';
+
+/** 價格來自菜單照片辨識但沒有可顯示的照片：照片未公開；其餘才是尚無照片 */
+export function noPhotoText(v: PriceVerification | null): string {
+  return v && (v.source_type === 'menu_photo' || v.verification_status === 'menu_photo') ? '菜單照片未公開' : '尚無菜單照片';
+}
 
 export function FoodDetailSheet({
   view,
@@ -176,7 +181,7 @@ export function FoodDetailSheet({
             <h3 className="font-semibold">菜單照片</h3>
             {menuImages.length === 0 ? (
               <div className="mt-2 flex items-center justify-between gap-2">
-                <p className="text-mute">尚無菜單照片</p>
+                <p className="text-mute">{noPhotoText(verification)}</p>
                 <button
                   type="button"
                   aria-label="上傳菜單照片"

@@ -1,9 +1,11 @@
 import type { Metadata, Viewport } from 'next';
+import { IS_REAL_DATA } from '@/data/centers';
+import { siteDescription } from '@/lib/site';
 import './globals.css';
 
 export const metadata: Metadata = {
   title: 'PriceEats 以預算找餐點',
-  description: '你的預算，決定今天吃什麼。以餐點店內價格為核心的在地美食搜尋 (測試資料示範版)。',
+  description: siteDescription(IS_REAL_DATA),
 };
 
 export const viewport: Viewport = {

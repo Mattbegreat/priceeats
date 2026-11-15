@@ -56,7 +56,7 @@ describe('E2E (build:demo 的 out/，chromium 390x844)', () => {
     assert.match(await page.getByTestId('mock-banner').innerText(), /測試資料/);
     await page.getByTestId('search-button').click();
     await cards(page).first().waitFor();
-    const first = await cards(page).first().innerText();
+    const first = await page.getByTestId('store-card').first().innerText();
     assert.match(first, /測試資料/);
     assert.match(first, /評分 \d\.\d（測試資料）/);
     assert.ok(!requests.some((u) => /supabase/i.test(u)), '不應有 Supabase 請求');
@@ -97,7 +97,7 @@ describe('E2E (build:demo 的 out/，chromium 390x844)', () => {
     assert.ok(n > 0, `預算 +50 放寬後應有結果，實際文字：${text}`);
     await relax.click();
     await cards(page).first().waitFor();
-    assert.equal(await cards(page).count(), n, '放寬後筆數應與提示相符');
+    assert.equal(Number(await page.getByTestId('result-count').locator('span').innerText()), n, '放寬後筆數應與提示相符');
     assert.equal(await page.getByTestId('budget-value').innerText(), '$80');
     await context.close();
   });
@@ -194,7 +194,7 @@ describe('E2E (build:demo 的 out/，chromium 390x844)', () => {
     const dialog = page.getByRole('dialog');
     const href = await dialog.getByRole('link', { name: '用 Google 地圖導航' }).getAttribute('href');
     assert.match(href, /^https:\/\/www\.google\.com\/maps\/search\/\?api=1&query=\d+\.\d+,\d+\.\d+$/);
-    assert.match(await dialog.innerText(), /尚無菜單照片/);
+    assert.match(await dialog.innerText(), /尚無菜單照片|菜單照片未公開/);
     assert.match(await dialog.innerText(), /價格歷史/);
     await context.close();
   });
@@ -307,5 +307,40 @@ describe('E2E (build:demo 的 out/，chromium 390x844)', () => {
       assert.ok(over <= 0, `${width}px 寬出現橫向捲動 ${over}px`);
       await context.close();
     }
+  });
+  it('26. 結果以店分組：每店一張卡、最多 3 道、可展開；預設排序為最貼近預算', async () => {
+    const { context, page } = await open('?view=results&budget=300&dist=5000');
+    await page.getByTestId('store-card').first().waitFor();
+    assert.equal(await page.getByLabel('排序').inputValue(), 'budget');
+    const stores = page.getByTestId('store-card');
+    const n = await stores.count();
+    for (let i = 0; i < n; i++) {
+      assert.ok((await stores.nth(i).getByTestId('food-card').count()) <= 3, '預設每店最多顯示 3 道');
+    }
+    // 店內依價格高到低
+    const prices = (await stores.first().getByTestId('card-price').allInnerTexts()).map((t) => Number(t.replace('$', '')));
+    assert.deepEqual(prices, [...prices].sort((a, b) => b - a));
+    // 找一家有「展開」的店
+    const expand = page.getByTestId('store-expand').first();
+    await expand.waitFor();
+    const card = page.getByTestId('store-card').filter({ has: expand }).first();
+    const before = await card.getByTestId('food-card').count();
+    await expand.click();
+    assert.ok((await card.getByTestId('food-card').count()) > before, '展開後應顯示更多道');
+    assert.equal(await card.getByTestId('store-expand').getAttribute('aria-expanded'), 'true');
+    await context.close();
+  });
+
+  it('27. 含多人份勾選：預設不勾，勾選後筆數不減少', async () => {
+    const { context, page } = await open('?view=results&budget=2000&dist=5000');
+    await page.getByTestId('store-card').first().waitFor();
+    const box = page.getByLabel('含多人份');
+    assert.equal(await box.isChecked(), false);
+    const before = Number(await page.getByTestId('result-count').locator('span').innerText());
+    await box.check();
+    const after = Number(await page.getByTestId('result-count').locator('span').innerText());
+    assert.ok(after >= before, `勾選多人份後筆數不應減少 (${before} -> ${after})`);
+    assert.match(page.url(), /multi=1/);
+    await context.close();
   });
 });

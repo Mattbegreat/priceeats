@@ -18,7 +18,7 @@ describe('10. 新鮮度分級邊界', () => {
   });
   it('天數計算與純數字分級', () => {
     expect(daysBetween(ago(45), TODAY)).toBe(45);
-    expect([30, 31, 90, 91].map(freshnessFromDays)).toEqual(['recent', 'maybe', 'maybe', 'old']);
+    expect([30, 31, 90, 91].map((d) => freshnessFromDays(d, false))).toEqual(['recent', 'maybe', 'maybe', 'old']);
   });
   it('未來日期視為 0 天', () => {
     expect(daysBetween(new Date(TODAY.getTime() + 5 * 86_400_000), TODAY)).toBe(0);

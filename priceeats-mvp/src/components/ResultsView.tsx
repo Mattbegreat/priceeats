@@ -1,11 +1,13 @@
 'use client';
 
+import { useMemo } from 'react';
 import type { FoodBase } from '@/lib/search/filter';
+import { groupByStore } from '@/lib/search/group';
 import { centerLabel } from '@/data/centers';
 import type { FoodView, SearchParams } from '@/types';
 import { EmptyState } from './EmptyState';
 import { FilterBar } from './FilterBar';
-import { FoodCard } from './FoodCard';
+import { StoreCard } from './StoreCard';
 import type { LocProps } from './HomeView';
 
 export function ResultsView({
@@ -25,6 +27,7 @@ export function ResultsView({
   onOpen: (id: string) => void;
   loc: LocProps;
 }) {
+  const groups = useMemo(() => groupByStore(results), [results]);
   return (
     <div className="space-y-4">
       <div className="flex items-end justify-between gap-2">
@@ -35,6 +38,7 @@ export function ResultsView({
       </div>
       <p className="text-sm text-mute">
         搜尋中心：{loc.source === 'gps' ? '目前位置' : centerLabel(params)}
+        {results.length > 0 && <span data-testid="store-count">{` · ${groups.length} 家店`}</span>}
       </p>
       {loc.note && (
         <p className="rounded-lg bg-amber-50 px-3 py-2 text-sm text-amber-900" role="status" data-testid="location-note">
@@ -46,9 +50,9 @@ export function ResultsView({
         <EmptyState index={index} params={params} onParams={onParams} />
       ) : (
         <ul className="grid gap-3 md:grid-cols-2 lg:grid-cols-3" data-testid="result-list">
-          {results.map((v) => (
-            <li key={v.food.id}>
-              <FoodCard view={v} today={today} onOpen={onOpen} />
+          {groups.map((g) => (
+            <li key={g.restaurantId}>
+              <StoreCard group={g} today={today} onOpen={onOpen} />
             </li>
           ))}
         </ul>
