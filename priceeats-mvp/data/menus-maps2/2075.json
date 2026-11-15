@@ -1,0 +1,238 @@
+{
+ "restaurant": {
+  "name": "火鍋很忙 汐止大同店",
+  "address": "221新北市汐止區信望里大同路二段563號",
+  "lat": 25.0698796,
+  "lng": 121.6626435,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%81%AB%E9%8D%8B%E5%BE%88%E5%BF%99%20%E6%B1%90%E6%AD%A2%E5%A4%A7%E5%90%8C%E5%BA%97&query_place_id=ChIJ50XLWGJTXTQRVOAYBfeYZHQ"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "水嫩紐約客牛肉鍋送水嫩牛",
+   "price": 650,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "2人全蝦海陸總匯",
+   "price": 1490,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "2人長長久久 龍蝦海陸鍋",
+   "price": 1599,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根牛肉鍋",
+   "price": 390,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "板腱低脂牛肉鍋",
+   "price": 410,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美國PR安格斯嫩肩牛肉鍋",
+   "price": 590,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美國頂級PR沙朗牛肉鍋",
+   "price": 790,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美國頂級PR牛小排鍋",
+   "price": 790,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特選羊肉鍋",
+   "price": 390,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紐西蘭羊肉鍋",
+   "price": 450,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嫩肩小羊肉鍋",
+   "price": 550,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻油全酒松阪豬鍋",
+   "price": 650,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "梅花豬肉鍋",
+   "price": 390,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑豬肉鍋",
+   "price": 450,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松阪豬肉鍋",
+   "price": 550,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "去骨雞腿鍋(頂級仿土雞)",
+   "price": 450,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "帶骨雞肉鍋(頂級仿土雞)",
+   "price": 490,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鯛魚鍋",
+   "price": 450,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鱸魚鍋",
+   "price": 490,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白蝦鍋",
+   "price": 500,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合魚片鍋",
+   "price": 550,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小卷鍋",
+   "price": 550,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚鍋",
+   "price": 590,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大草蝦鍋",
+   "price": 690,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "九孔鮑鍋",
+   "price": 690,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "夏日超值海陸獨享餐(每日限量)",
+   "price": 690,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌超忙海陸總匯",
+   "price": 790,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻油雞(雞肉)鍋",
+   "price": 550,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻油雞(雞腿)鍋",
+   "price": 650,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燒酒(雞肉鍋)(附中藥材)",
+   "price": 650,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燒酒(雞腿)鍋(附中藥材)",
+   "price": 690,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蔬素食鍋",
+   "price": 320,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

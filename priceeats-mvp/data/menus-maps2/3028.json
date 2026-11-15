@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "CAFE!N 硬咖啡 三民門市",
+  "address": "10571臺北市松山區吉祥里南京東路五段178號1樓",
+  "lat": 25.0512,
+  "lng": 121.5634,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CAFE%21N%20%E7%A1%AC%E5%92%96%E5%95%A1%20%E4%B8%89%E6%B0%91%E9%96%80%E5%B8%82&query_place_id=ChIJ5b4SWpSrQjQRov21-ijVsHc"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "牛肉可頌堡",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "古巴三明治",
+   "price": 100,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉三明治",
+   "price": 110,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑旋風蜜地瓜",
+   "price": 65,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽之花奶油麵包卷",
+   "price": 65,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔓越莓奶油麵包卷",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "巴薩米克炒菇拌菠菜鹹派",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牧羊人派",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青醬海味米比薩",
+   "price": 110,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "匈牙利臘腸米比薩",
+   "price": 110,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "帰香",
+  "address": "106臺北市大安區光武里復興南路一段107巷5弄12號",
+  "lat": 25.0442208,
+  "lng": 121.544882,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B8%B0%E9%A6%99&query_place_id=ChIJ8VYQVwCrQjQRpulfsxHt3OU"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "120小時熟成咖哩（牛肉）",
+   "price": 260,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "瑪莎曼咖哩（雞肉）",
+   "price": 260,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

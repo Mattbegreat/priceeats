@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "純發魯肉飯 東湖店",
+  "address": "114臺北市內湖區安湖里東湖路33巷3號",
+  "lat": 25.0690581,
+  "lng": 121.6134734,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%B4%94%E7%99%BC%E9%AD%AF%E8%82%89%E9%A3%AF%20%E6%9D%B1%E6%B9%96%E5%BA%97&query_place_id=ChIJRb_dmpqtQjQRGANhbtRBqQ8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "剝皮辣椒燉雞湯",
+   "price": 90,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮味蛤蜊燉雞湯",
+   "price": 90,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根筍味燉排骨湯",
+   "price": 90,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "純發魯肉飯",
+   "price": 35,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞汁拌飯",
+   "price": 25,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷大腸頭",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燙青菜",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式泡菜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油豆腐",
+   "price": 20,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷蛋",
+   "price": 20,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

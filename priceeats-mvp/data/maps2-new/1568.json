@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "小新 和食",
+  "address": "10573臺北市松山區新中街4巷No. 1號",
+  "lat": 25.0577603,
+  "lng": 121.5607286,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E6%96%B0%20%E5%92%8C%E9%A3%9F&query_place_id=ChIJxXX-hDCrQjQRE9_b286Jl9A"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "午餐定食",
+   "price": 500,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬漬鮪魚海膽丼",
+   "price": 680,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒鮭魚親子丼",
+   "price": 420,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "旬鮮特級海鮮丼",
+   "price": 680,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒鰻魚散壽司",
+   "price": 680,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒鰭邊肉穴子丼",
+   "price": 420,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合握壽司（6貫）",
+   "price": 360,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合握壽司（9貫）",
+   "price": 540,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒鮭魚（6貫）",
+   "price": 360,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

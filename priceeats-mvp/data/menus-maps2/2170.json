@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "福勝亭 汐止店",
+  "address": "221新北市汐止區文化里新台五路一段95號B1",
+  "lat": 25.0621198,
+  "lng": 121.6493221,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%8B%9D%E4%BA%AD%20%E6%B1%90%E6%AD%A2%E5%BA%97&query_place_id=ChIJS7G5RkNTXTQRn7HHtkU6qdw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "厚切活力豬排定食",
+   "price": 290,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大阪燒豬排定食",
+   "price": 270,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "卡滋豬排丼定食",
+   "price": 270,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃金起司豬排捲定食",
+   "price": 280,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司豬排丼定食",
+   "price": 280,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香酥炸腰內肉定食",
+   "price": 230,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃金魚排定食",
+   "price": 230,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "和風咖哩豬排定食",
+   "price": 250,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "開運豬排定食",
+   "price": 230,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "和風醬烤雞腿定食",
+   "price": 230,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽烤鯖魚定食",
+   "price": 270,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式味噌烏龍麵定食",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

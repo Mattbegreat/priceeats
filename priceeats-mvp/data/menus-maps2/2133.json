@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "左可碳烤三明治",
+  "address": "221新北市汐止區秀豐市場130攤號",
+  "lat": 25.0661731,
+  "lng": 121.65844,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B7%A6%E5%8F%AF%E7%A2%B3%E7%83%A4%E4%B8%89%E6%98%8E%E6%B2%BB&query_place_id=ChIJz0IOfABTXTQRH039Ih0Zq3I"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "香煎雞腿",
+   "price": 150,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚切豬排",
+   "price": 120,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手炒肉鬆",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典火腿",
+   "price": 80,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉蛋吐司",
+   "price": 80,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔬果厚蛋",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青醬雞肉",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司玉米",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "照燒杏鮑菇",
+   "price": 50,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

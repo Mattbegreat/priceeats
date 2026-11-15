@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "雞吉君拉麵 內湖環山店",
+  "address": "114臺北市內湖區西湖里環山路一段33號",
+  "lat": 25.0862284,
+  "lng": 121.5670347,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%9B%9E%E5%90%89%E5%90%9B%E6%8B%89%E9%BA%B5%20%E5%85%A7%E6%B9%96%E7%92%B0%E5%B1%B1%E5%BA%97&query_place_id=ChIJtdqxDGmsQjQRG94Ux-CxhyI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "濃厚雞吉君",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽味雞白湯",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣雞白",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "淡麗雞吉君",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽味雞清湯",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "叉燒飯",
+   "price": 60,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白飯",
+   "price": 20,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豚軟骨角煮",
+   "price": 80,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉叉燒",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉叉燒",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬里肌叉燒",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

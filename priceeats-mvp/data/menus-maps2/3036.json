@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "夏綠沁",
+  "address": "105臺北市松山區民有里敦化北路244巷37號",
+  "lat": 25.0610134,
+  "lng": 121.5476114,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%8F%E7%B6%A0%E6%B2%81&query_place_id=ChIJ85whEZurQjQR5oeX9Aq3e2Q"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-01-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "剝皮椒香海鮮圓直麵",
+   "price": 349,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "藿香松露溫泉蛋圓直麵",
+   "price": 329,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "桂花香豆乳雞胸圓直麵",
+   "price": 319,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "剝皮椒香海鮮佐清蔬熱沙拉",
+   "price": 359,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蟲草香鱸魚佐野菇清蔬熱沙拉",
+   "price": 349,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "番茄香紅酒牛肉清蔬熱沙拉",
+   "price": 359,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻椒香紅酒牛肉佐清蔬熱沙拉",
+   "price": 359,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "藿香松露溫泉蛋清蔬熱沙拉",
+   "price": 339,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

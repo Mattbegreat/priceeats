@@ -1,0 +1,105 @@
+{
+ "restaurant": {
+  "name": "樂米餐盒_民生店",
+  "address": "105011臺北市松山區精忠里民生東路四段81號",
+  "lat": 25.058079,
+  "lng": 121.5515732,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%82%E7%B1%B3%E9%A4%90%E7%9B%92_%E6%B0%91%E7%94%9F%E5%BA%97&query_place_id=ChIJGRxiYJKrQjQRvlFRwc7vBuY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "泰式打拋豬",
+   "price": 125,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式打拋豬（單點）",
+   "price": 65,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "水煮嫩雞胸",
+   "price": 125,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "水煮嫩雞胸（單點）",
+   "price": 65,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "孜然燒烤豬",
+   "price": 135,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "孜然燒烤豬（單點）",
+   "price": 75,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式烤時蔬",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式烤時蔬（單點）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式鹽麴雞腿排",
+   "price": 150,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式鹽麴雞腿排（單點）",
+   "price": 90,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式壽喜牛",
+   "price": 155,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式壽喜牛（單點）",
+   "price": 95,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "只想吃菜飯",
+   "price": 75,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "ピーター商店/らぁ麺Pete/拉麵彼得",
+  "address": "106臺北市大安區光武里大安路一段52巷22號",
+  "lat": 25.0429768,
+  "lng": 121.5451855,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%94%E3%83%BC%E3%82%BF%E3%83%BC%E5%95%86%E5%BA%97/%E3%82%89%E3%81%81%E9%BA%BAPete/%E6%8B%89%E9%BA%B5%E5%BD%BC%E5%BE%97&query_place_id=ChIJC80A4HqrQjQRtd3O1BQDARU"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "煮干x地雞鹽味拉麵",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煮干x地雞醬油拉麵",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特製鹽味拉麵",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特製醬油拉麵",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "貢布胡椒中華蕎麥",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "狗一下居食酒堂-忠孝店",
+  "address": "106臺北市大安區光武里敦化南路一段190巷18號",
+  "lat": 25.0425389,
+  "lng": 121.5476083,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%8B%97%E4%B8%80%E4%B8%8B%E5%B1%85%E9%A3%9F%E9%85%92%E5%A0%82-%E5%BF%A0%E5%AD%9D%E5%BA%97&query_place_id=ChIJHeAKxtqrQjQRv_go5ofvTJ8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "日本料理食べ放題（成人）",
+   "price": 988,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日本料理食べ放題（兒童 121-140公分）",
+   "price": 494,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "日本料理食べ放題（幼童 101-120公分）",
+   "price": 300,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海陸極品食べ放題",
+   "price": 1388,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "夢幻逸品食べ放題",
+   "price": 1688,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

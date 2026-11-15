@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "Sophie Kitchen 幸福窯烤",
+  "address": "105臺北市松山區富錦里富錦街492號1樓",
+  "lat": 25.060857,
+  "lng": 121.563799,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sophie%20Kitchen%20%E5%B9%B8%E7%A6%8F%E7%AA%AF%E7%83%A4&query_place_id=ChIJ8z_haZmsQjQRKtLWjqavTa4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "元氣早餐",
+   "price": 190,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "活力早餐",
+   "price": 230,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "幸福雙拼",
+   "price": 260,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "幸福歐姆蛋",
+   "price": 280,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

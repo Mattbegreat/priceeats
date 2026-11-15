@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "姚先生小餐館",
+  "address": "221新北市汐止區建成里建成路142巷19弄5號",
+  "lat": 25.0738242,
+  "lng": 121.6620538,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A7%9A%E5%85%88%E7%94%9F%E5%B0%8F%E9%A4%90%E9%A4%A8&query_place_id=ChIJl5W_FxNTXTQRb_w1sKaLPXY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "韓風奶油辣炒雞",
+   "price": 260,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式風味甜醬油（牛）",
+   "price": 280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式風味甜醬油（雞）",
+   "price": 250,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香料蕃茄辣咖哩（牛）",
+   "price": 300,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香料蕃茄辣咖哩（雞）",
+   "price": 270,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蕈菇土佐煮",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "梅香蜜蕃茄",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白花洋芋燒（辛香美乃滋）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "昆布漬翠瓜（白蘇子油）",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

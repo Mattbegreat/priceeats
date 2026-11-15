@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "暮午食間 MU TIME",
+  "address": "114臺北市內湖區金湖里成功路五段462號3樓",
+  "lat": 25.0733914,
+  "lng": 121.6064016,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9A%AE%E5%8D%88%E9%A3%9F%E9%96%93%20MU%20TIME&query_place_id=ChIJ--MWv0GtQjQRyoI54_BoueY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "MEAL FOR 4 四人套餐",
+   "price": 2680,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "暮午經典早午餐盤",
+   "price": 450,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎北歐鮭魚",
+   "price": 520,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "6oz紐約客牛排",
+   "price": 580,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典美式歐姆蛋",
+   "price": 450,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露起司歐姆蛋",
+   "price": 480,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酪梨鮮蝦班尼迪克蛋",
+   "price": 450,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燻鮭班尼迪克蛋",
+   "price": 480,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

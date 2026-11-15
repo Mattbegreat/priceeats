@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "東湖鮮爸王手作水餃",
+  "address": "114臺北市內湖區安湖里東湖路58巷1號",
+  "lat": 25.0687335,
+  "lng": 121.6140426,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%B9%96%E9%AE%AE%E7%88%B8%E7%8E%8B%E6%89%8B%E4%BD%9C%E6%B0%B4%E9%A4%83&query_place_id=ChIJecEjpkutQjQRmcmpBa47aRU"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "高山高麗菜水餃（10顆，每顆9元）",
+   "price": 90,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "上等韭菜水餃（10顆，每顆9元）",
+   "price": 90,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玉米水餃（10顆，每顆9元）",
+   "price": 90,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "宜蘭三星蔥水餃（10顆，每顆10元）",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣湯",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紫菜貢丸湯",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紫菜貢丸湯麵",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣湯麵",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣湯餃",
+   "price": 110,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小菜",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

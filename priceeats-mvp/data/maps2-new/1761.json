@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "大頭豬腸冬粉",
+  "address": "105臺北市松山區新東里塔悠路122號",
+  "lat": 25.0553775,
+  "lng": 121.5694861,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%A0%AD%E8%B1%AC%E8%85%B8%E5%86%AC%E7%B2%89&query_place_id=ChIJFWwDYZCrQjQRxsa_vaV5-9c"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "綜合湯",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合冬粉",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "貢丸湯",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬腸湯",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉粽",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "冬粉湯",
+   "price": 35,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "貢丸冬粉",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬腸冬粉",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "東大關咖哩丼飯食堂 三總成功店",
+  "address": "114臺北市內湖區湖興里成功路二段426巷15號",
+  "lat": 25.071102,
+  "lng": 121.5890544,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E5%A4%A7%E9%97%9C%E5%92%96%E5%93%A9%E4%B8%BC%E9%A3%AF%E9%A3%9F%E5%A0%82%20%E4%B8%89%E7%B8%BD%E6%88%90%E5%8A%9F%E5%BA%97&query_place_id=ChIJz8CxLAKtQjQReyNHTwukHjc"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "醬燉嫩豚丼飯",
+   "price": 119,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚切牛胸丼飯",
+   "price": 119,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙拼嫩豚炸雞丼飯",
+   "price": 179,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙拼厚牛炸雞丼飯",
+   "price": 179,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

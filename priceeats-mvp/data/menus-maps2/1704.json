@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "Whatever GG 脆皮蛋餅（饒河夜市）",
+  "address": "105臺北市松山區慈祐里饒河街108號號門口",
+  "lat": 25.0502042,
+  "lng": 121.5747692,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Whatever%20GG%20%E8%84%86%E7%9A%AE%E8%9B%8B%E9%A4%85%EF%BC%88%E9%A5%92%E6%B2%B3%E5%A4%9C%E5%B8%82%EF%BC%89&query_place_id=ChIJ13n-kDqrQjQR8GKx9vVKHpk"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "三星蔥蛋餅",
+   "price": 100,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "高麗菜蛋餅",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "杏鮑菇蛋餅",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薯餅起司歐姆蛋餅",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥菜菇蛋餅",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菜菇蛋餅",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥菇蛋餅",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥菜蛋餅",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

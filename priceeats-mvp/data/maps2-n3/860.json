@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "文德炸雞",
+  "address": "114臺北市內湖區港富里文德路47-2號",
+  "lat": 25.0785755,
+  "lng": 121.5812245,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%87%E5%BE%B7%E7%82%B8%E9%9B%9E&query_place_id=ChIJ_____2KsQjQRdm62jDvetMg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "雞翅（1隻）",
+   "price": 20,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞排（1片）",
+   "price": 75,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞腿（1隻）",
+   "price": 50,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "地瓜（一份）",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薯條（一份）",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花枝丸（1串）",
+   "price": 25,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞軟骨（1份）",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "現炸銀絲捲（1份）",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

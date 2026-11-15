@@ -1,0 +1,112 @@
+{
+ "restaurant": {
+  "name": "J&R義法",
+  "address": "106臺北市大安區忠孝東路三段251巷13弄2號1樓",
+  "lat": 25.0438243,
+  "lng": 121.541724,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=J%26R%E7%BE%A9%E6%B3%95&query_place_id=ChIJk8-Zk9mrQjQRBEnxj2z9AG0"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "漁夫干貝海鮮燉飯(奶油或青醬)選一",
+   "price": 430,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子炸牡蠣燉飯",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨魚炸蝦球燉飯",
+   "price": 370,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松阪豬松露野菇燉飯",
+   "price": 360,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻鮭魚奶油燉飯",
+   "price": 340,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋芋雞肉燉飯(奶油或青醬)",
+   "price": 340,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露野菇燉飯",
+   "price": 300,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "干貝海陸(La Marin)",
+   "price": 450,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美式牛肉(La Americaine)",
+   "price": 360,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻鮭魚(La Ar'Men)",
+   "price": 320,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油芥末籽雞肉(La Paimpont)",
+   "price": 280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻鴨胸(La Gabier)",
+   "price": 280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法式經典(La Complete)",
+   "price": 270,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法式經典四選一(La Bigoudene)",
+   "price": 300,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

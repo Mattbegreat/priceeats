@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "凱薩西餐牛排",
+  "address": "2樓, No. 220號長安東路二段朱崙里中山區臺北市104",
+  "lat": 25.0481369,
+  "lng": 121.5425367,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%87%B1%E8%96%A9%E8%A5%BF%E9%A4%90%E7%89%9B%E6%8E%92&query_place_id=ChIJ46q3p96rQjQRCWTlIzOGc7s"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "魚子巴沙佐芥香海膽醬（平日午餐）",
+   "price": 609,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚子巴沙佐芥香海膽醬（平日晚餐/假日全天）",
+   "price": 639,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "單點自助式沙拉吧（午餐140公分以上）",
+   "price": 579,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "單點自助式沙拉吧（午餐120公分以上）",
+   "price": 339,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "單點自助式沙拉吧（午餐90公分以上）",
+   "price": 209,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "單點自助式沙拉吧（晚餐/假日全天140公分以上）",
+   "price": 609,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "單點自助式沙拉吧（晚餐/假日全天120公分以上）",
+   "price": 339,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "單點自助式沙拉吧（晚餐/假日全天90公分以上）",
+   "price": 209,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

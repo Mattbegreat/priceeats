@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "TG Bistro天亦閣 義大利麵·燉飯",
+  "address": "114臺北市內湖區紫陽里文德路210巷30弄37號",
+  "lat": 25.0770264,
+  "lng": 121.5850847,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TG%20Bistro%E5%A4%A9%E4%BA%A6%E9%96%A3%20%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5%C2%B7%E7%87%89%E9%A3%AF&query_place_id=ChIJA0jJYwCtQjQR80dXw81H7O4"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "奶油鱸魚蛤蜊燉飯",
+   "price": 350,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子蝦仁起司燉飯",
+   "price": 330,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露奶油時蔬干貝燉飯",
+   "price": 300,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露牛肝菌菇燉飯",
+   "price": 300,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "番茄海鮮燉飯",
+   "price": 330,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒牛肉番茄燉飯",
+   "price": 330,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青醬野菇鮮蝦燉飯",
+   "price": 320,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油蛤蜊鮮蝦海鮮燉飯",
+   "price": 320,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露奶油白醬牛排燉飯",
+   "price": 350,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚炸雞青醬野菇燉飯",
+   "price": 300,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

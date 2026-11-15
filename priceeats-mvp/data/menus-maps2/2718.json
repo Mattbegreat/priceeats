@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "大戶屋大安店",
+  "address": "106臺北市大安區仁慈里復興南路一段323號B1",
+  "lat": 25.0337137,
+  "lng": 121.5437484,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%88%B6%E5%B1%8B%E5%A4%A7%E5%AE%89%E5%BA%97&query_place_id=ChIJV8swk9urQjQRR9TFTpYv_ss"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "炭烤鹽麴松阪豬定食",
+   "price": 420,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炭烤鹽麴松阪豬（單點）",
+   "price": 350,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸腰內肉定食",
+   "price": 350,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸腰內肉（單點）",
+   "price": 290,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滑蛋豬排鍋定食",
+   "price": 350,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滑蛋豬排鍋（單點）",
+   "price": 280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

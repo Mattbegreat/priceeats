@@ -1,0 +1,525 @@
+{
+ "restaurant": {
+  "name": "匠燒食堂",
+  "address": "221新北市汐止區厚德里樟樹二路247號",
+  "lat": 25.0680977,
+  "lng": 121.6407057,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%A0%E7%87%92%E9%A3%9F%E5%A0%82&query_place_id=ChIJs0_YPmtTXTQRF67M-SuIcuk"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "奶油白醬田園蔬菜義麵",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油白醬田園蔬菜燉飯",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油白醬香草嫩雞義麵",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油白醬香草嫩雞燉飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油白醬德式香腸義麵",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油白醬德式香腸燉飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油白醬香煎培根義麵",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油白醬香煎培根燉飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油白醬鮮味魷魚義麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油白醬鮮味魷魚燉飯",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油白醬活力海鮮義麵",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油白醬活力海鮮燉飯",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "羅勒青醬田園蔬菜義麵",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "羅勒青醬田園蔬菜燉飯",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "羅勒青醬香草嫩雞義麵",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "羅勒青醬香草嫩雞燉飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "羅勒青醬德式香腸義麵",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "羅勒青醬德式香腸燉飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "羅勒青醬香煎培根義麵",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "羅勒青醬香煎培根燉飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "羅勒青醬鮮味魷魚義麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "羅勒青醬鮮味魷魚燉飯",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "羅勒青醬活力海鮮義麵",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "羅勒青醬活力海鮮燉飯",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油明太子田園蔬菜義麵",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油明太子田園蔬菜燉飯",
+   "price": 200,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油明太子香草嫩雞義麵",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油明太子香草嫩雞燉飯",
+   "price": 220,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油明太子德式香腸義麵",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油明太子德式香腸燉飯",
+   "price": 220,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油明太子香煎培根義麵",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油明太子香煎培根燉飯",
+   "price": 220,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油明太子活力海鮮義麵",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油明太子活力海鮮燉飯",
+   "price": 230,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油明太子鮮甜干貝義麵",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油明太子鮮甜干貝燉飯",
+   "price": 300,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "番茄紅醬田園蔬菜義麵",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "番茄紅醬田園蔬菜燉飯",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "番茄紅醬香草嫩雞義麵",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "番茄紅醬香草嫩雞燉飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "番茄紅醬德式香腸義麵",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "番茄紅醬德式香腸燉飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "番茄紅醬香煎培根義麵",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "番茄紅醬香煎培根燉飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "番茄紅醬鮮味魷魚義麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "番茄紅醬鮮味魷魚燉飯",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "番茄紅醬活力海鮮義麵",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "番茄紅醬活力海鮮燉飯",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "黃金南瓜田園蔬菜義麵",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "黃金南瓜田園蔬菜燉飯",
+   "price": 90,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "黃金南瓜香草嫩雞義麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "黃金南瓜香草嫩雞燉飯",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "黃金南瓜鮮味魷魚義麵",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "黃金南瓜鮮味魷魚燉飯",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "黃金南瓜活力海鮮義麵",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "黃金南瓜活力海鮮燉飯",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "清炒蒜辣香蒜辣椒義麵",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "清炒蒜辣香蒜辣椒燉飯",
+   "price": 70,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "清炒蒜辣田園蔬菜義麵",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "清炒蒜辣田園蔬菜燉飯",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "清炒蒜辣香草嫩雞義麵",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "清炒蒜辣香草嫩雞燉飯",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "清炒蒜辣鮮味魷魚義麵",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "清炒蒜辣鮮味魷魚燉飯",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "清炒蒜辣活力海鮮義麵",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "清炒蒜辣活力海鮮燉飯",
+   "price": 140,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "白酒蛤蜊義大利麵",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油起司蛤蜊義麵",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油起司蛤蜊燉飯",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油鮮蝦義麵",
+   "price": 160,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油鮮蝦燉飯",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "墨魚黑麵義麵",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "墨魚黑麵燉飯",
+   "price": 220,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

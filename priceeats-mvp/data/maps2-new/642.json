@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "深海綠洲咖啡",
+  "address": "114臺北市內湖區金瑞里金龍路187號",
+  "lat": 25.087075,
+  "lng": 121.5883097,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B7%B1%E6%B5%B7%E7%B6%A0%E6%B4%B2%E5%92%96%E5%95%A1&query_place_id=ChIJa9fkijitQjQRFv7PFI1TaEM"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "經典早晚餐盤-煙燻培根",
+   "price": 260,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典早晚餐盤-德式香腸",
+   "price": 280,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典早晚餐盤-手作馬告香腸",
+   "price": 330,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典早晚餐盤-舒肥雞肉",
+   "price": 340,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典早晚餐盤-煙燻鮭魚",
+   "price": 350,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典早晚餐盤-迷迭香雞腿",
+   "price": 360,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "部落風味套餐-馬告鹹香豬肉",
+   "price": 600,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "部落風味套餐-奶香醬燒雞腿",
+   "price": 550,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "部落風味套餐-手作馬告香腸",
+   "price": 500,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

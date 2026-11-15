@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "林居sushi日本料理",
+  "address": "106臺北市大安區住安里復興南路二段11號",
+  "lat": 25.0326533,
+  "lng": 121.5437987,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9E%97%E5%B1%85sushi%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86&query_place_id=ChIJITsMLsOrQjQR9L9Dpgc05yY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "精選刺身三種",
+   "price": 159,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特上刺身五種",
+   "price": 260,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "極品刺身八種",
+   "price": 420,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "旗魚刺身",
+   "price": 89,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮪魚刺身",
+   "price": 109,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚刺身",
+   "price": 109,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

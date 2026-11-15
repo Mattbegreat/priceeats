@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "The Antipodean (富錦店)",
+  "address": "105臺北市松山區東榮里民生東路五段27巷10號",
+  "lat": 25.0589418,
+  "lng": 121.556694,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Antipodean%20%28%E5%AF%8C%E9%8C%A6%E5%BA%97%29&query_place_id=ChIJs3sNJLKrQjQRDUEcLymNsx8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "皇后大早餐",
+   "price": 990,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "T.A 大早餐",
+   "price": 430,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "澳式酪梨早餐盤",
+   "price": 460,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典澳式香煎玉米餅",
+   "price": 420,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手撕燉豬肉漢堡",
+   "price": 360,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燻鮭魚酪梨開放三明治",
+   "price": 460,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油封蕃茄酪梨吐司",
+   "price": 380,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酪梨哈里薩酸麵包",
+   "price": 340,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

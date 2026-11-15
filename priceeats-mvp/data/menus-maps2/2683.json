@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "CRO#FEE 咖啡井 - 復興店",
+  "address": "106臺北市大安區義村里忠孝東路三段248巷11-1號1樓",
+  "lat": 25.0407453,
+  "lng": 121.5414294,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CRO%23FEE%20%E5%92%96%E5%95%A1%E4%BA%95%20-%20%E5%BE%A9%E8%88%88%E5%BA%97&query_place_id=ChIJrcCQIiyrQjQRBCWQPmcJVqc"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "特製早餐盤",
+   "price": 250,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豪華早餐盤",
+   "price": 330,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生火腿芝麻葉可頌鬆餅",
+   "price": 170,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "煙燻鮭魚可頌鬆餅",
+   "price": 170,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "原味可頌",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酪梨太陽蛋可頌",
+   "price": 130,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露嫩蛋可頌",
+   "price": 160,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酪梨太陽蛋貝果",
+   "price": 130,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻鮭魚乳酪貝果",
+   "price": 160,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "九元鐵板燒",
+  "address": "114臺北市內湖區民權東路六段473號一樓",
+  "lat": 25.0726746,
+  "lng": 121.6046738,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B9%9D%E5%85%83%E9%90%B5%E6%9D%BF%E7%87%92&query_place_id=ChIJIVhMIpasQjQRU4eirrYht7E"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "野生明蝦（90g*2尾/單點）",
+   "price": 880,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玫瑰龍蝦（半尾/單點）",
+   "price": 880,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "南非鮑魚（120g*一顆/單點）",
+   "price": 680,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "深海鱈魚（一份/單點）",
+   "price": 460,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "北海道生食干貝（一顆/單點）",
+   "price": 380,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日本牡蠣（二顆/單點）",
+   "price": 580,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "新鮮軟絲（二片/單點）",
+   "price": 580,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "龍蝦鮑魚餐 去骨雞腿排（240g）",
+   "price": 2280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "龍蝦鮑魚餐 伊比利松阪豬（100g）",
+   "price": 2280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "龍蝦鮑魚餐 小羔羊肋排（二支）",
+   "price": 2380,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "龍蝦鮑魚餐 沙朗牛肉卷（二卷）",
+   "price": 2380,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "龍蝦鮑魚餐 沙朗牛排（100g）",
+   "price": 2480,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

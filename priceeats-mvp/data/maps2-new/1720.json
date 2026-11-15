@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "一千零一夜廚房",
+  "address": "105臺北市松山區慈祐里八德路四段618號2F",
+  "lat": 25.049785,
+  "lng": 121.573708,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C%E5%BB%9A%E6%88%BF&query_place_id=ChIJ5UwwjECrQjQRza2DVNbw-i4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "串烤羊+牛絞肉",
+   "price": 190,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "串烤羊+牛絞肉（肉double）",
+   "price": 270,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "優格雞肉",
+   "price": 180,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "優格雞肉（肉double）",
+   "price": 260,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "番紅花雞肉",
+   "price": 180,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "番紅花雞肉（肉double）",
+   "price": 260,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燉小羊膝",
+   "price": 190,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "伊式香燉雞腿",
+   "price": 190,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鷹嘴豆泥",
+   "price": 170,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鷹嘴豆餅",
+   "price": 170,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

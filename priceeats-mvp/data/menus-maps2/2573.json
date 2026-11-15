@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "咖哩日和 CURRY BIYORI和牛咖哩飯專賣店",
+  "address": "106臺北市大安區義村里忠孝東路三段216巷4弄23號1樓",
+  "lat": 25.0412891,
+  "lng": 121.5391788,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%92%96%E5%93%A9%E6%97%A5%E5%92%8C%20CURRY%20BIYORI%E5%92%8C%E7%89%9B%E5%92%96%E5%93%A9%E9%A3%AF%E5%B0%88%E8%B3%A3%E5%BA%97&query_place_id=ChIJx8OmxICrQjQRbyQrLzrR698"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "和牛漢堡排咖哩飯",
+   "price": 340,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛舌咖哩飯",
+   "price": 340,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "和牛咖哩飯",
+   "price": 310,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥雞胸咖哩飯",
+   "price": 300,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豚肉蔬菜乾咖哩",
+   "price": 270,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "和牛漢堡排（單點）",
+   "price": 210,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥雞胸肉（單點）",
+   "price": 170,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

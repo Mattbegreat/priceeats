@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "Placeee 場所",
+  "address": "106臺北市大安區車層里延吉街160巷3號",
+  "lat": 25.0393073,
+  "lng": 121.5546726,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Placeee%20%E5%A0%B4%E6%89%80&query_place_id=ChIJxcrmDVSrQjQRuREs1tHCvN4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "炸物拼盤",
+   "price": 500,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸雞佐香料塔塔醬",
+   "price": 250,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸水餃佐香料塔塔醬",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸魚塊",
+   "price": 200,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露薯條",
+   "price": 200,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薯條",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥圈",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爆漿起士波波球",
+   "price": 160,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

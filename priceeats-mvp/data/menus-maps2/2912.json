@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "玖柒番 職人手作熟成香料日式咖喱 民生店",
+  "address": "105臺北市松山區精忠里民生東路四段97巷1弄25號",
+  "lat": 25.0582892,
+  "lng": 121.5513678,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%8E%96%E6%9F%92%E7%95%AA%20%E8%81%B7%E4%BA%BA%E6%89%8B%E4%BD%9C%E7%86%9F%E6%88%90%E9%A6%99%E6%96%99%E6%97%A5%E5%BC%8F%E5%92%96%E5%96%B1%20%E6%B0%91%E7%94%9F%E5%BA%97&query_place_id=ChIJR9wsaAGrQjQR7TXUK8tuMic"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "職人手打·多汁牛肉排咖哩",
+   "price": 200,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "匠心慢燉·熟成牛腱咖哩",
+   "price": 275,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃金酥炸·白身魚咖哩(巴沙魚)",
+   "price": 200,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手作夾心·起司豬排咖哩",
+   "price": 250,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "低溫舒肥·健康雞胸咖哩",
+   "price": 210,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "田園·清炒鮮菇咖哩(五辛素)",
+   "price": 180,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "純享·熟成咖哩飯(無肉)",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "博多明太子·黃金脆薯",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "暖心·日式味噌湯",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "朝炭",
+  "address": "105臺北市松山區三民里富錦街448號1樓",
+  "lat": 25.0607322,
+  "lng": 121.5618258,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9C%9D%E7%82%AD&query_place_id=ChIJifolT0-rQjQRmpi3EiTYjlA"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "北海道喜知次",
+   "price": 1450,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "富士鮭靜岡幽庵燒",
+   "price": 780,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "銀鱈北海道西京燒",
+   "price": 880,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "昆布山椒煮",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "北寄貝海苔燒",
+   "price": 360,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "南蠻炸魚",
+   "price": 250,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "貓飯",
+   "price": 50,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "和牛餃子（3個）",
+   "price": 99,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

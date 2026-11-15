@@ -1,0 +1,224 @@
+{
+ "restaurant": {
+  "name": "東洋 排骨・滷肉飯",
+  "address": "106臺北市大安區忠孝東路四段45號B1",
+  "lat": 25.0419929,
+  "lng": 121.544967,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%B4%8B%20%E6%8E%92%E9%AA%A8%E3%83%BB%E6%BB%B7%E8%82%89%E9%A3%AF&query_place_id=ChIJmbhEetqrQjQRnk5A1hkvuyY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "招牌排骨肉羹湯套餐",
+   "price": 228,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻油里肌炒米粉套餐",
+   "price": 185,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌排骨鱸魚湯套餐",
+   "price": 295,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌排骨+肉羹麵+青菜",
+   "price": 210,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌排骨滷肉飯套餐",
+   "price": 195,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻油里肌湯+手工麵線+青菜",
+   "price": 185,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉羹湯+炒米粉+脆皮豆腐",
+   "price": 185,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌排骨+青菜+炒米粉+豬血湯",
+   "price": 195,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "砂鍋菜排骨套餐",
+   "price": 228,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "無刺鱸魚燉湯滷肉飯套餐",
+   "price": 210,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌滷肉飯+滷蛋",
+   "price": 75,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒米粉",
+   "price": 75,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒麵",
+   "price": 75,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒冬粉",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒雙拼",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻油麵線",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "乾拌麵",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌排骨（單點）",
+   "price": 110,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉燥湯麵+滷蛋",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉羹麵",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.8
+  },
+  {
+   "name": "炸蝦捲",
+   "price": 75,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.7
+  },
+  {
+   "name": "梅花豬粉絲砂鍋",
+   "price": 238,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬血湯",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚丸湯",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燙青菜",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "高麗菜",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "脆皮豆腐",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉羹湯",
+   "price": 75,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻油里肌湯",
+   "price": 130,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "無刺鱸魚燉湯",
+   "price": 155,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

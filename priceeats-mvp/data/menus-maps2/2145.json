@@ -1,0 +1,105 @@
+{
+ "restaurant": {
+  "name": "未來號2030 Craftbeer Bistro",
+  "address": "221新北市汐止區文化里新台五路一段140號",
+  "lat": 25.0617549,
+  "lng": 121.653153,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AA%E4%BE%86%E8%99%9F2030%20Craftbeer%20Bistro&query_place_id=ChIJQ0qkGVtTXTQR-gPua9PbcLw"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-05-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "當日刺身（小）",
+   "price": 290,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "當日刺身（大）",
+   "price": 550,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "高粱香腸 2pcs",
+   "price": 170,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "和對面互尬的煙燻滷肉飯尬溫泉蛋",
+   "price": 95,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "喝太少不能點炒飯",
+   "price": 250,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "漢堡（手撕豬）",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "漢堡（煙燻牛）",
+   "price": 230,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "煙燻雞腿",
+   "price": 250,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "煙燻牛",
+   "price": 380,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "手撕豬",
+   "price": 300,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "聖路易豬肋排",
+   "price": 2000,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "油封鴨腿",
+   "price": 350,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "煙燻羊膝",
+   "price": 880,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

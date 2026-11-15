@@ -1,0 +1,105 @@
+{
+ "restaurant": {
+  "name": "晴空巷珈琲",
+  "address": "105臺北市松山區東榮里民生東路五段137巷11號",
+  "lat": 25.059666,
+  "lng": 121.561368,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%99%B4%E7%A9%BA%E5%B7%B7%E7%8F%88%E7%90%B2&query_place_id=ChIJhZRGaI2rQjQRZvpe4QeIxq8"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "法式炒蛋",
+   "price": 75,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "當日現烤麵包（附奶油）",
+   "price": 100,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "單人小份沙拉",
+   "price": 75,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "今日濃湯（附麵包）",
+   "price": 160,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舊金山蒜香薯條",
+   "price": 130,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秘製手羽先",
+   "price": 180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "傑克丹尼爾甜酒醬炸雞柳",
+   "price": 150,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸杏鮑菇",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "健康蔬食早午餐",
+   "price": 290,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美式早午餐",
+   "price": 310,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "費城牛肉起司三明治",
+   "price": 295,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香料雞肉起司蛋三明治",
+   "price": 275,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菇醬起司三明治",
+   "price": 260,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

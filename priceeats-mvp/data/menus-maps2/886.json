@@ -1,0 +1,196 @@
+{
+ "restaurant": {
+  "name": "驢子餐廳 L'IDIOT GRILL&PASTA 春大直店",
+  "address": "104臺北市中山區金泰里樂群三路303號3樓",
+  "lat": 25.0827622,
+  "lng": 121.5603354,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%A9%A2%E5%AD%90%E9%A4%90%E5%BB%B3%20L%27IDIOT%20GRILL%26PASTA%20%E6%98%A5%E5%A4%A7%E7%9B%B4%E5%BA%97&query_place_id=ChIJP0riSl2pQjQRE2yfU1bcuPY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "炭烤麵包與布拉塔起司、糖漬培根、自製番茄果醬",
+   "price": 300,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "現流蛤蜊與西班牙臘腸",
+   "price": 460,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎鮮蝦佐蝦醬、檸檬香料油",
+   "price": 420,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爐烤青魽魚下巴、橙香紅蔥酒醋汁",
+   "price": 350,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爐烤小卷、西班牙甜椒堅果醬",
+   "price": 280,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "布拉塔起司與彩色番茄",
+   "price": 380,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露醬脆薯條",
+   "price": 280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Mimosa 爐烤蔬菜沙拉佐羅勒香草醬",
+   "price": 360,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "季節水果芝麻葉沙拉與 Ricotta 起司",
+   "price": 420,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "凱薩沙拉",
+   "price": 360,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "今日例湯",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爐烤波士頓龍蝦燉飯（半隻）",
+   "price": 1080,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肝蕈與鮮菇燉飯",
+   "price": 460,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣味番茄海鮮特內特麵",
+   "price": 460,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "自製義式培根奶油寬帶麵與溫泉蛋",
+   "price": 450,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "羅勒鮮菇貓耳朵麵",
+   "price": 380,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手工肉醬大水管麵",
+   "price": 380,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烏魚子檸香特內特麵",
+   "price": 420,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露楓糖豬排",
+   "price": 680,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "托斯卡尼式烤半雞",
+   "price": 780,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "瘋狂之水燉煮海鮮與海虎蝦",
+   "price": 980,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爐烤F1日本和牛紐約客牛排（6 oz）",
+   "price": 1780,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爐烤美國特選沙朗牛排（8 oz）",
+   "price": 880,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爐烤美國特選沙朗牛排（16 oz）",
+   "price": 1760,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煎烤戰斧豬排26盎司佐香料綠奶油風味",
+   "price": 1880,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "四人分享餐",
+   "price": 2980,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

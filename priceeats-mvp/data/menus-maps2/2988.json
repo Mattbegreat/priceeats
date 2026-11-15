@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "高玉日本料理民生店",
+  "address": "10491臺北市中山區朱馥里民生東路三段8號B1樓",
+  "lat": 25.0576198,
+  "lng": 121.5385875,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E7%8E%89%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86%E6%B0%91%E7%94%9F%E5%BA%97&query_place_id=ChIJn07Wv-GrQjQRVAuUeOYIswg"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "午間壽司定食 松",
+   "price": 1200,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "午間壽司定食 特選",
+   "price": 1800,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "午間散壽司定食",
+   "price": 650,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "午間散壽司定食 上",
+   "price": 1000,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "中午套餐",
+   "price": 1680,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

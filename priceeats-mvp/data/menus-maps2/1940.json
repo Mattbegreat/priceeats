@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "健康素食麵疙瘩",
+  "address": "221新北市汐止區義民里光明街23號",
+  "lat": 25.068464,
+  "lng": 121.660397,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%81%A5%E5%BA%B7%E7%B4%A0%E9%A3%9F%E9%BA%B5%E7%96%99%E7%98%A9&query_place_id=ChIJTwE9NzNTXTQR7wPWp2mi4v0"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "紅燒麵疙瘩",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒蕃茄麵",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "什錦蔬菜麵疙瘩",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "什錦蔬菜拉麵",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔬菜湯",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芥茉小黃瓜",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

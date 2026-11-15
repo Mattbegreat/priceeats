@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "千層吧",
+  "address": "105臺北市松山區三民里民生東路五段138巷17號",
+  "lat": 25.0569869,
+  "lng": 121.5618014,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E5%B1%A4%E5%90%A7&query_place_id=ChIJqxr9UO6rQjQRw9xnehrCHvg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "新鮮現開法國生蠔（2pcs）",
+   "price": 420,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "新鮮現開法國生蠔（6pcs）",
+   "price": 1260,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "拿坡里蒜香辣味清炒新鮮法國淡菜與巧巴達麵包",
+   "price": 680,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "澳洲Kiewa Valley山谷小羔羊羊排/開心果脆殼",
+   "price": 1680,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香烤時令鮮魚佐阿根廷青醬,檸香時令沙拉-日本鹿兒島真赤鯛",
+   "price": 1780,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香烤時令鮮魚佐阿根廷青醬,檸香時令沙拉-新鮮大隻午仔魚",
+   "price": 1520,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "慢烤南義海港時令鮮魚/爐封海味-礁岩紅鯛",
+   "price": 1650,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

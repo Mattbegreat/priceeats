@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "瀧厚炙燒熟成牛排 台北民生店",
+  "address": "105臺北市松山區東榮里民生東路五段99號1樓",
+  "lat": 25.0588438,
+  "lng": 121.5598674,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%80%A7%E5%8E%9A%E7%82%99%E7%87%92%E7%86%9F%E6%88%90%E7%89%9B%E6%8E%92%20%E5%8F%B0%E5%8C%97%E6%B0%91%E7%94%9F%E5%BA%97&query_place_id=ChIJb61nBQmrQjQRSzjQlYaN8_Y"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "精選牛豬套餐",
+   "price": 1299,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "尊享牛鴨套餐",
+   "price": 1399,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "極緻雙人套餐",
+   "price": 1499,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

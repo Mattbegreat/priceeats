@@ -1,0 +1,294 @@
+{
+ "restaurant": {
+  "name": "すき家 SUKIYA 忠孝復興店",
+  "address": "106臺北市大安區誠安里復興南路一段78號",
+  "lat": 25.0438133,
+  "lng": 121.54359,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%8D%E5%AE%B6%20SUKIYA%20%E5%BF%A0%E5%AD%9D%E5%BE%A9%E8%88%88%E5%BA%97&query_place_id=ChIJeSyGOtqrQjQR7sQWZL6Nea0"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "牛丼（迷你碗）",
+   "price": 69,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛丼（中碗）",
+   "price": 89,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛丼（超大碗）",
+   "price": 159,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛丼（MEGA）",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秋葵牛丼（迷你碗）",
+   "price": 99,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秋葵牛丼（中碗）",
+   "price": 119,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秋葵牛丼（超大碗）",
+   "price": 189,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秋葵牛丼（MEGA）",
+   "price": 229,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜牛丼（迷你碗）",
+   "price": 99,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜牛丼（中碗）",
+   "price": 119,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜牛丼（超大碗）",
+   "price": 189,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜牛丼（MEGA）",
+   "price": 229,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司牛丼（迷你碗）",
+   "price": 119,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司牛丼（中碗）",
+   "price": 139,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司牛丼（超大碗）",
+   "price": 209,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱熔起司牛丼（MEGA）",
+   "price": 249,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司牛丼（迷你碗）",
+   "price": 99,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司牛丼（中碗）",
+   "price": 119,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司牛丼（超大碗）",
+   "price": 189,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司牛丼（MEGA）",
+   "price": 229,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥溫玉牛丼（迷你碗）",
+   "price": 119,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥溫玉牛丼（中碗）",
+   "price": 139,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥溫玉牛丼（超大碗）",
+   "price": 209,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥溫玉牛丼（MEGA）",
+   "price": 249,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛丼柚香蘿蔔套餐（迷你碗）",
+   "price": 98,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛丼柚香蘿蔔套餐（中碗）",
+   "price": 118,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛丼柚香蘿蔔套餐（超大碗）",
+   "price": 188,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛丼柚香蘿蔔套餐（MEGA）",
+   "price": 228,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秋葵牛丼水果套餐（迷你碗）",
+   "price": 138,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秋葵牛丼水果套餐（中碗）",
+   "price": 158,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秋葵牛丼水果套餐（超大碗）",
+   "price": 228,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秋葵牛丼水果套餐（MEGA）",
+   "price": 268,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜牛丼海瓜子味噌湯水果套餐（迷你碗）",
+   "price": 178,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜牛丼海瓜子味噌湯水果套餐（中碗）",
+   "price": 198,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜牛丼海瓜子味噌湯水果套餐（超大碗）",
+   "price": 268,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜牛丼海瓜子味噌湯水果套餐（MEGA）",
+   "price": 308,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "可樂餅（1個）",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "可樂餅（2個）",
+   "price": 65,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚雞（2塊）",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚雞（5塊）",
+   "price": 90,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

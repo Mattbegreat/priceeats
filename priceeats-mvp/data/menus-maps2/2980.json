@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "Pasta à Pepe 佩佩奶奶大份量義大利麵 民生敦化店",
+  "address": "105臺北市松山區精忠里民生東路四段61號",
+  "lat": 25.0580137,
+  "lng": 121.5507862,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pasta%20%C3%A0%20Pepe%20%E4%BD%A9%E4%BD%A9%E5%A5%B6%E5%A5%B6%E5%A4%A7%E4%BB%BD%E9%87%8F%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5%20%E6%B0%91%E7%94%9F%E6%95%A6%E5%8C%96%E5%BA%97&query_place_id=ChIJwwu-NQCrQjQRLUx08vHy8ZE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "奶奶法式淡菜薯條",
+   "price": 299,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "野香青醬義大利麵",
+   "price": 159,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手炒秘醬義大利麵",
+   "price": 189,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海味明太子義大利麵",
+   "price": 199,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "乾炒香蒜辣椒義大利麵",
+   "price": 159,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式重奶油義大利麵",
+   "price": 159,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮燉番茄義大利麵",
+   "price": 159,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌松露義大利麵",
+   "price": 199,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "檸香鮭魚奶油義大利麵",
+   "price": 219,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

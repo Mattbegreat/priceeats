@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "肉老大頂級肉品涮涮鍋 台北大安火鍋店| 敦南",
+  "address": "106臺北市大安區虎嘯里敦化南路二段331巷16號",
+  "lat": 25.0226641,
+  "lng": 121.5498691,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%82%89%E8%80%81%E5%A4%A7%E9%A0%82%E7%B4%9A%E8%82%89%E5%93%81%E6%B6%AE%E6%B6%AE%E9%8D%8B%20%E5%8F%B0%E5%8C%97%E5%A4%A7%E5%AE%89%E7%81%AB%E9%8D%8B%E5%BA%97%7C%20%E6%95%A6%E5%8D%97&query_place_id=ChIJx6doxjGqQjQRQh4hqk1pHvo"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "西蘭花佐牛小排",
+   "price": 1190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "落櫻繽紛稻飄香",
+   "price": 450,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "迎春四喜大拼盤",
+   "price": 1290,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金玉滿堂佛跳牆",
+   "price": 1390,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金湯蔘棗烏骨雞",
+   "price": 990,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "龍騰虎躍石斑魚",
+   "price": 1290,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "六至八人團圓餐",
+   "price": 6199,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙人肉塔（牛肉）",
+   "price": 1549,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙人肉塔（牛、豬）",
+   "price": 1419,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

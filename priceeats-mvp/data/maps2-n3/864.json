@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "米粒",
+  "address": "114臺北市內湖區湖濱里內湖路二段103巷48-4號",
+  "lat": 25.0822177,
+  "lng": 121.5810124,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%B1%B3%E7%B2%92&query_place_id=ChIJr8hPvmGsQjQR2ALhJcCGXMs"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "酥炸旗魚條",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸中卷",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "乳酪條",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞塊",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薯條",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "今日例湯",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

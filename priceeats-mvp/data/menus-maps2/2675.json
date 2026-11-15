@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "The Tavernist",
+  "address": "106臺北市大安區仁愛里仁愛路四段27巷25號12F",
+  "lat": 25.0404117,
+  "lng": 121.5454838,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Tavernist&query_place_id=ChIJxcYXoSWrQjQRk0UEolx-iGM"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "父親節限定套餐",
+   "price": 3980,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

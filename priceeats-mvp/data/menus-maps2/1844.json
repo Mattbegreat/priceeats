@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "甲等烤雞",
+  "address": "221新北市汐止區禮門里秀峰路4號",
+  "lat": 25.0668844,
+  "lng": 121.6591328,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%94%B2%E7%AD%89%E7%83%A4%E9%9B%9E&query_place_id=ChIJVVVVVUxTXTQRhRRvSZmZXKc"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "桂丁土雞",
+   "price": 599,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

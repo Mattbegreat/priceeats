@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "沐對 MoonDay 義式小廚房",
+  "address": "114臺北市內湖區葫洲里民權東路六段296巷36號",
+  "lat": 25.0717553,
+  "lng": 121.6070726,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%90%E5%B0%8D%20MoonDay%20%E7%BE%A9%E5%BC%8F%E5%B0%8F%E5%BB%9A%E6%88%BF&query_place_id=ChIJkaCpC72sQjQRZWZG53Rs2Og"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "主廚例湯",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "洋蔥圈",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "單純的脆薯",
+   "price": 85,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃金薯格格",
+   "price": 105,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特調芝士薯薯",
+   "price": 125,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蜂蜜芥末薯薯",
+   "price": 125,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "珍珠炸雞球",
+   "price": 85,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司可樂餅",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "檸檬香雞翅（4pis）",
+   "price": 79,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "檸檬香雞翅（7pis）",
+   "price": 129,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小拼盤（雞球+薯條+洋蔥圈）",
+   "price": 234,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大拼盤（雞球+薯格+洋蔥圈+雞翅+可樂餅）",
+   "price": 398,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

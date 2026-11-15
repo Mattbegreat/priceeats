@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "一午1食",
+  "address": "221新北市汐止區文化里新台五路一段112號1樓",
+  "lat": 25.060756,
+  "lng": 121.6490235,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E5%8D%881%E9%A3%9F&query_place_id=ChIJD1yEDsBTXTQRt44tHLryND8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "卡滋豬排飯便當",
+   "price": 125,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香味蝦捲飯便當",
+   "price": 125,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "台式鹹酥雞便當",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥爽雞排飯便當",
+   "price": 125,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手撕雞胸肉便當",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清蒸(滷香)雞腿飯便當",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嫩煎松阪豬便當",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒豬五花便當",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

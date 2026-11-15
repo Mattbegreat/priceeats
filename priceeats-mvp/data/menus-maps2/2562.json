@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "撒福豆無麩質蔬食餐廳-忠孝店",
+  "address": "106059臺北市大安區建倫里忠孝東路四段216巷16號2樓之3",
+  "lat": 25.0405776,
+  "lng": 121.552825,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%92%92%E7%A6%8F%E8%B1%86%E7%84%A1%E9%BA%A9%E8%B3%AA%E8%94%AC%E9%A3%9F%E9%A4%90%E5%BB%B3-%E5%BF%A0%E5%AD%9D%E5%BA%97&query_place_id=ChIJC30YowurQjQRQuPUdBuKazY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "清邁打拋飯",
+   "price": 270,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "有機豆腐沙拉",
+   "price": 160,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

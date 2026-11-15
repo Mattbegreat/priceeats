@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "水手9號",
+  "address": "10583臺北市松山區東榮里富錦街389號1樓",
+  "lat": 25.0608082,
+  "lng": 121.5594366,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B0%B4%E6%89%8B9%E8%99%9F&query_place_id=ChIJ6UOhWBqrQjQRQqcIfv1K1NE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "SET A",
+   "price": 1180,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "SET B",
+   "price": 1380,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "SET C",
+   "price": 1680,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

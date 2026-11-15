@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "Omnivore",
+  "address": "No. 57號, 金湖路內湖區臺北市114",
+  "lat": 25.0819984,
+  "lng": 121.5968505,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Omnivore&query_place_id=ChIJA3Tar4StQjQRADi3HQvT3ZM"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "哈里薩起司牛肉堡",
+   "price": 375,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芝加哥大熊牛肉三明治",
+   "price": 410,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅酒覆盆莓果醬鹿肉三明治",
+   "price": 465,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "自家煙燻牛肉三明治",
+   "price": 460,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "早晚餐自由配組合",
+   "price": 375,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

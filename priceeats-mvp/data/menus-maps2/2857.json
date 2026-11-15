@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "中崙甜不辣（民生店）",
+  "address": "105臺北市松山區精忠里民生東路四段64號ㄧ樓",
+  "lat": 25.057816,
+  "lng": 121.552022,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%B4%99%E7%94%9C%E4%B8%8D%E8%BE%A3%EF%BC%88%E6%B0%91%E7%94%9F%E5%BA%97%EF%BC%89&query_place_id=ChIJ125wK3OrQjQROzQ3KsKW4Zg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "招牌甜不辣（大）",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌甜不辣（小）",
+   "price": 65,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大腸麵線（大）",
+   "price": 75,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大腸麵線（小）",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清蒸肉圓",
+   "price": 65,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "北部肉粽",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "傳統刈包",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "貢丸湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚丸湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蘿蔔湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

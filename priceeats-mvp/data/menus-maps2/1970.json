@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "功夫大帝麵食館",
+  "address": "221新北市汐止區禮門里觀光夜市42號",
+  "lat": 25.0657043,
+  "lng": 121.657298,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8A%9F%E5%A4%AB%E5%A4%A7%E5%B8%9D%E9%BA%B5%E9%A3%9F%E9%A4%A8&query_place_id=ChIJN-XShmxTXTQR1CYvNQ-4xks"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "秘製黃瓜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "功夫獨門泡菜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "檸醬魚膠",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

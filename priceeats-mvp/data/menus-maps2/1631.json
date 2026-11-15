@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "早午餐俱樂部BBC",
+  "address": "105臺北市松山區南京東路五段250巷9號",
+  "lat": 25.049798,
+  "lng": 121.5660264,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%97%A9%E5%8D%88%E9%A4%90%E4%BF%B1%E6%A8%82%E9%83%A8BBC&query_place_id=ChIJkalAOHmrQjQRRriBF4B2rMs"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "德式經典起司厚蛋",
+   "price": 160,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海陸鮮蝦排",
+   "price": 160,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香酥雞塊（6塊）",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

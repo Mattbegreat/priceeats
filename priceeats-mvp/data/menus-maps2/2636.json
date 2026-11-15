@@ -1,0 +1,105 @@
+{
+ "restaurant": {
+  "name": "이집_這家韓式烤肉 2號店_忠孝店",
+  "address": "106臺北市大安區建安里敦化南路一段161巷27號",
+  "lat": 25.0436129,
+  "lng": 121.5504245,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%EC%9D%B4%EC%A7%91_%E9%80%99%E5%AE%B6%E9%9F%93%E5%BC%8F%E7%83%A4%E8%82%89%202%E8%99%9F%E5%BA%97_%E5%BF%A0%E5%AD%9D%E5%BA%97&query_place_id=ChIJaQ3xBa6rQjQR7kOOKPgYU-U"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "石鍋拌飯（豬）",
+   "price": 300,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "石鍋拌飯（牛）",
+   "price": 300,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣炒魷魚石鍋拌飯",
+   "price": 350,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣炒雞石鍋拌飯",
+   "price": 350,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雜菜",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "水冷麵",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "拌冷麵",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮煎餅",
+   "price": 290,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式蒸蛋",
+   "price": 190,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司韓式蒸蛋",
+   "price": 210,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣炒年糕",
+   "price": 210,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅白醬年糕",
+   "price": 230,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白飯",
+   "price": 30,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "La Piola Cucina Italiana",
+  "address": "106臺北市大安區正聲里光復南路308巷45號",
+  "lat": 25.0388386,
+  "lng": 121.5557729,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Piola%20Cucina%20Italiana&query_place_id=ChIJW2hXnsirQjQReAynJ_RDVsY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "經典香蒜辣椒義大利麵",
+   "price": 680,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "手工寬麵佐豬肉, 牛肉醬, 奶油和香草",
+   "price": 880,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "培根蛋黃麵、手工義大利麵佐蛋黃、豬頰肉、羊乳酪和胡椒粉",
+   "price": 980,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "清炒蛤蜊義大利麵",
+   "price": 980,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "手工麵疙瘩佐牛肝菌、煙燻普羅沃拉乳酪、焗烤",
+   "price": 980,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "龍蝦燉飯",
+   "price": 1580,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香辣慢烤春雞",
+   "price": 1280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "台灣香烤巧克力豬排佐 BBQ 醬",
+   "price": 1680,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "紐西蘭羊排佐蘋果薄荷醬",
+   "price": 1880,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "澳洲和牛肋眼牛排搭配芝麻葉沙拉及烤馬鈴薯",
+   "price": 3580,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "美國 U.S. Prime 丁骨牛排（800g）",
+   "price": 4680,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "美國 U.S. Prime 丁骨牛排（1500g）",
+   "price": 7880,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

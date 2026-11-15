@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "有時候紅豆餅",
+  "address": "105臺北市松山區介壽里延壽街399號1樓",
+  "lat": 25.0564947,
+  "lng": 121.5573569,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E6%99%82%E5%80%99%E7%B4%85%E8%B1%86%E9%A4%85&query_place_id=ChIJfyCiD-2rQjQRyw2x7x2FJXo"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "起司馬鈴薯餅",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

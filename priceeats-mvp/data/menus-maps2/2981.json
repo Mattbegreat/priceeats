@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "Snail 蝸牛義大利餐廳 民生店",
+  "address": "105臺北市松山區精忠里民生東路四段56巷3弄10號",
+  "lat": 25.0570927,
+  "lng": 121.552205,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snail%20%E8%9D%B8%E7%89%9B%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%A4%90%E5%BB%B3%20%E6%B0%91%E7%94%9F%E5%BA%97&query_place_id=ChIJ37mFwu6rQjQRMDAw9IxDH44"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "四人分享餐",
+   "price": 3580,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

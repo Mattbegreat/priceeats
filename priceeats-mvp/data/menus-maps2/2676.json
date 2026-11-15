@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "寓曰 Cafe’ Bar Restaurant",
+  "address": "106臺北市大安區光武里市民大道四段34號",
+  "lat": 25.0448262,
+  "lng": 121.5453201,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AF%93%E6%9B%B0%20Cafe%E2%80%99%20Bar%20Restaurant&query_place_id=ChIJ3dzOKb-rQjQR67kBqHTSWjg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "反轉三色蛋",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蠔油牛肉靼噠",
+   "price": 180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎雞肝.馬告.辣味馬林糖",
+   "price": 200,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "碳烤時蔬.火龍果松子醬.紅蘿蔔",
+   "price": 340,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "寓日薯條",
+   "price": 260,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "寓日炸雞",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手撕豬肉球",
+   "price": 400,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "澄清雞湯",
+   "price": 250,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "地瓜濃湯",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

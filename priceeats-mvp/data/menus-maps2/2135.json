@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "Redbuff Express",
+  "address": "221新北市汐止區文化里新台五路一段96號東方科學園區2樓",
+  "lat": 25.060472,
+  "lng": 121.6483301,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Redbuff%20Express&query_place_id=ChIJ19LmVQ1TXTQRf3OL-t8oHRQ"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "肉鬆起司磚壓吐司（花生）",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉鬆起司磚壓吐司（芋泥）",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉鬆起司磚壓吐司（草莓）",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典起司磚壓吐司",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "瑪格麗特磚壓吐司",
+   "price": 80,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青醬雞肉磚壓吐司",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "費城牛肉磚壓吐司",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "Gato Luna Cafe’ Bar -茶酒｜特色酒吧｜ Live表演｜平價｜咖哩｜聚餐推薦dcard｜台北東區｜忠孝復興站｜市民大道",
+  "address": "105臺北市松山區中崙里復興南路一段47巷7號",
+  "lat": 25.0454407,
+  "lng": 121.5444767,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gato%20Luna%20Cafe%E2%80%99%20Bar%20-%E8%8C%B6%E9%85%92%EF%BD%9C%E7%89%B9%E8%89%B2%E9%85%92%E5%90%A7%EF%BD%9C%20Live%E8%A1%A8%E6%BC%94%EF%BD%9C%E5%B9%B3%E5%83%B9%EF%BD%9C%E5%92%96%E5%93%A9%EF%BD%9C%E8%81%9A%E9%A4%90%E6%8E%A8%E8%96%A6dcard%EF%BD%9C%E5%8F%B0%E5%8C%97%E6%9D%B1%E5%8D%80%EF%BD%9C%E5%BF%A0%E5%AD%9D%E5%BE%A9%E8%88%88%E7%AB%99%EF%BD%9C%E5%B8%82%E6%B0%91%E5%A4%A7%E9%81%93&query_place_id=ChIJFX8httGrQjQR3M1OCj_2jNU"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "夏威夷披薩（8吋）",
+   "price": 330,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油白醬雞肉披薩（8吋）",
+   "price": 350,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥辣味雞肉披薩（8吋）",
+   "price": 360,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

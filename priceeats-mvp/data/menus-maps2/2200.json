@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "大雅哄炸雞_汐止秀豐市場104攤",
+  "address": "221新北市汐止區秀豐市場104攤",
+  "lat": 25.0665854,
+  "lng": 121.6590329,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%9B%85%E5%93%84%E7%82%B8%E9%9B%9E_%E6%B1%90%E6%AD%A2%E7%A7%80%E8%B1%90%E5%B8%82%E5%A0%B4104%E6%94%A4&query_place_id=ChIJ-6rOwmxTXTQRq5F-8JMolqg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "雞排（片）",
+   "price": 75,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞翅（支）",
+   "price": 25,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞腿（支）",
+   "price": 55,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞塊（半斤）",
+   "price": 100,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "脖子（支）",
+   "price": 15,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "脖子（4支）",
+   "price": 50,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "腿排（個）",
+   "price": 45,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "大腿（支）",
+   "price": 85,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

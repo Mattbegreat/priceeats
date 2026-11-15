@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "全國健康素食 大安忠孝店",
+  "address": "106臺北市大安區光武里復興南路一段107巷21號",
+  "lat": 25.0437071,
+  "lng": 121.5453461,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%A8%E5%9C%8B%E5%81%A5%E5%BA%B7%E7%B4%A0%E9%A3%9F%20%E5%A4%A7%E5%AE%89%E5%BF%A0%E5%AD%9D%E5%BA%97&query_place_id=ChIJK_rvVtqrQjQRmOAlmT6G01E"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "外帶白飯（小碗）",
+   "price": 10,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "外帶白飯（大碗）",
+   "price": 20,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "外帶什穀飯（小碗）",
+   "price": 10,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "外帶什穀飯（大碗）",
+   "price": 20,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "外帶粥品（一碗）",
+   "price": 20,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

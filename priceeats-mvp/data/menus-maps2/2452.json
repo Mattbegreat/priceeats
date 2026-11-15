@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "炭丼鋪 忠孝店",
+  "address": "106臺北市大安區光武里復興南路一段135巷1號",
+  "lat": 25.0427049,
+  "lng": 121.5443273,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%82%AD%E4%B8%BC%E9%8B%AA%20%E5%BF%A0%E5%AD%9D%E5%BA%97&query_place_id=ChIJXROmpsOtQjQR8IQWoUEB4-c"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "吃肉的蔥丼（牛）",
+   "price": 188,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "吃肉的蔥丼（豬）",
+   "price": 188,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式泡菜",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛蒡絲",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海帶芽",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "飯",
+   "price": 15,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紫菜豆腐味噌湯",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

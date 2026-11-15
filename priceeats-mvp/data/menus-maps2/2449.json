@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "伊勢路勝勢日式豬排 遠東SOGO台北復興店",
+  "address": "106臺北市大安區義村里忠孝東路三段300號10樓",
+  "lat": 25.0408932,
+  "lng": 121.5432417,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8A%E5%8B%A2%E8%B7%AF%E5%8B%9D%E5%8B%A2%E6%97%A5%E5%BC%8F%E8%B1%AC%E6%8E%92%20%E9%81%A0%E6%9D%B1SOGO%E5%8F%B0%E5%8C%97%E5%BE%A9%E8%88%88%E5%BA%97&query_place_id=ChIJ9S5Ft9CrQjQRw96a3sf_32g"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "腰內豬排茶泡飯 套餐",
+   "price": 410,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "濃厚咖哩里肌豬排 套餐",
+   "price": 420,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "里肌豬排鍋膳 套餐",
+   "price": 410,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙色起士里肌豬排 套餐",
+   "price": 380,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸雞腿排 套餐",
+   "price": 370,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸鮭魚排 套餐",
+   "price": 410,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "茶碗蒸",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "腰內豬排（40g）",
+   "price": 70,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "草蝦",
+   "price": 100,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "黃金蝦排",
+   "price": 100,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "里肌豬排（60g）",
+   "price": 100,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

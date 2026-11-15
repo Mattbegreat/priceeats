@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "早點初發 內湖總店",
+  "address": "11474臺北市內湖區港華里環山路二段46號",
+  "lat": 25.0855952,
+  "lng": 121.5734507,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%97%A9%E9%BB%9E%E5%88%9D%E7%99%BC%20%E5%85%A7%E6%B9%96%E7%B8%BD%E5%BA%97&query_place_id=ChIJEUbm02qtQjQRXTBUmIz_a54"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "里脊豬排蛋吐司",
+   "price": 80,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嫩煎雞排蛋吐司",
+   "price": 85,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "里脊豬排菠蘿",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嫩煎雞排總匯",
+   "price": 105,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司辣肉蛋吐司",
+   "price": 80,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤肉蛋吐司",
+   "price": 80,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

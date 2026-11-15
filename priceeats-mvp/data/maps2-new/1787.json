@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "好時光披薩(豐仁商行)",
+  "address": "105臺北市松山區東榮里新中街35-1號",
+  "lat": 25.0598135,
+  "lng": 121.5603313,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A5%BD%E6%99%82%E5%85%89%E6%8A%AB%E8%96%A9%28%E8%B1%90%E4%BB%81%E5%95%86%E8%A1%8C%29&query_place_id=ChIJZ2jGUY2rQjQRYsKWDi4QbD8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "南瓜古崗左拉披薩（8吋）",
+   "price": 290,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "南瓜古崗左拉披薩（10吋）",
+   "price": 340,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "堅果四起司披薩（8吋）",
+   "price": 280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "堅果四起司披薩（10吋）",
+   "price": 330,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露野菇披薩（8吋）",
+   "price": 330,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露野菇披薩（10吋）",
+   "price": 380,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蘑菇綠橄欖披薩（8吋）",
+   "price": 230,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蘑菇綠橄欖披薩（10吋）",
+   "price": 280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

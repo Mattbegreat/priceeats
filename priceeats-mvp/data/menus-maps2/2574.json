@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "泰迪農園咖哩 復興店",
+  "address": "106臺北市大安區義村里忠孝東路三段300號7樓",
+  "lat": 25.0411149,
+  "lng": 121.543058,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B3%B0%E8%BF%AA%E8%BE%B2%E5%9C%92%E5%92%96%E5%93%A9%20%E5%BE%A9%E8%88%88%E5%BA%97&query_place_id=ChIJsQ90xYWrQjQRJJDWGPfOH6U"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "蒜香小豆苗",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩烤蝦",
+   "price": 200,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸雞腿肉塊4塊",
+   "price": 150,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香究好豬腰內肉",
+   "price": 180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸究好豬腰內豬排2塊",
+   "price": 120,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸究好豬里肌豬排",
+   "price": 150,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

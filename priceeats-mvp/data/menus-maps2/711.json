@@ -1,0 +1,126 @@
+{
+ "restaurant": {
+  "name": "水剌韓式料理 內湖瑞光店",
+  "address": "114臺北市內湖區西湖里瑞光路478巷18弄30號",
+  "lat": 25.0786679,
+  "lng": 121.5678149,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B0%B4%E5%89%8C%E9%9F%93%E5%BC%8F%E6%96%99%E7%90%86%20%E5%85%A7%E6%B9%96%E7%91%9E%E5%85%89%E5%BA%97&query_place_id=ChIJp8JDrIOtQjQRly8ulWGg4ds"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "雙人烤肉套餐（2人）",
+   "price": 1680,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "四人烤肉套餐（4人）",
+   "price": 2680,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "馬鈴薯排骨湯套餐",
+   "price": 1880,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鰻魚套餐",
+   "price": 1880,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "馬鈴薯排骨湯",
+   "price": 1180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "部隊鍋",
+   "price": 580,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮菇豆腐鍋",
+   "price": 580,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮豆腐火鍋",
+   "price": 580,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮大醬火鍋",
+   "price": 580,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉泡菜火鍋",
+   "price": 580,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典排骨湯",
+   "price": 380,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "血腸湯",
+   "price": 420,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪濃湯 牛肉",
+   "price": 480,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮑魚蔘雞湯",
+   "price": 590,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛尾巴湯",
+   "price": 590,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉湯飯",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

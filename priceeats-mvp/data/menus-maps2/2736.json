@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "solo pasta",
+  "address": "106臺北市大安區建倫里安和路一段29-1號",
+  "lat": 25.0391961,
+  "lng": 121.5506541,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=solo%20pasta&query_place_id=ChIJwQPcmc-rQjQRtXDQA__PPwg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "白松露奶油燉蛋",
+   "price": 260,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "愛蜜麗雅焗牛肚",
+   "price": 280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑松露馬鈴薯起司煎餅",
+   "price": 390,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "拿坡里燉章魚",
+   "price": 330,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "威尼斯墨魚細麵",
+   "price": 340,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "自製香腸肉末炒普利亞貓耳朵麵",
+   "price": 340,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "巴薩醋燻鴨胸奶油義大利麵",
+   "price": 340,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "羅馬起司培根義大利麵",
+   "price": 340,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

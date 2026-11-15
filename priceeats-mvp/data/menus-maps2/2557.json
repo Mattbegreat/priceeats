@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "VEGANAMORE蔬慕 復興店",
+  "address": "106臺北市大安區復興南路一段206號2樓",
+  "lat": 25.0395126,
+  "lng": 121.5435003,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=VEGANAMORE%E8%94%AC%E6%85%95%20%E5%BE%A9%E8%88%88%E5%BA%97&query_place_id=ChIJHYIwvbyrQjQR5SNefF3Patc"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "芝麻葉蘑菇沙拉",
+   "price": 400,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "羽衣甘藍南瓜沙拉佐百香油醋",
+   "price": 400,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "無花果蜜蘋優格水果沙拉",
+   "price": 430,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "主廚濃湯",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "佛卡夏",
+   "price": 88,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸種麵包",
+   "price": 100,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "主廚麵包",
+   "price": 100,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合麵包",
+   "price": 188,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "乾煎蘆筍孢子甘藍",
+   "price": 320,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式炒時蔬佐巴薩米克醋",
+   "price": 300,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式泡菜炸G",
+   "price": 350,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "和風炸菇佐圭魚卵",
+   "price": 350,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "青山製麵所",
+  "address": "221新北市汐止區新台五路一段150號",
+  "lat": 25.0618966,
+  "lng": 121.6535598,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E5%B1%B1%E8%A3%BD%E9%BA%B5%E6%89%80&query_place_id=ChIJFzhJKRBTXTQRkvs7XH-zwPk"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "鹽味拉麵",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬油拉麵",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "柚子鹽拉麵",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚雞",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "叉燒飯",
+   "price": 70,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "胡麻高麗菜",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

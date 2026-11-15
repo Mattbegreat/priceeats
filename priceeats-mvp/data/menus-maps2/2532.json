@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "茹曦酒店 SUNNY BUFFET 自助餐廳",
+  "address": "105臺北市松山區中正里敦化北路100號1樓",
+  "lat": 25.0524299,
+  "lng": 121.5484122,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B9%E6%9B%A6%E9%85%92%E5%BA%97%20SUNNY%20BUFFET%20%E8%87%AA%E5%8A%A9%E9%A4%90%E5%BB%B3&query_place_id=ChIJyxTf4eerQjQRg_4MeUDa-3Q"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "早餐（平日）",
+   "price": 880,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "早餐（週末與國定假日）",
+   "price": 880,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "午餐（平日）",
+   "price": 1180,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "午餐（週末與國定假日）",
+   "price": 1380,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "晚餐（平日）",
+   "price": 1180,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "晚餐（週末與國定假日）",
+   "price": 1380,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "下午茶（週末與國定假日）",
+   "price": 1080,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

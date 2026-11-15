@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "頂尖排骨",
+  "address": "114臺北市內湖區東湖里康樂街72巷8弄1號",
+  "lat": 25.0694559,
+  "lng": 121.6178882,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%A0%82%E5%B0%96%E6%8E%92%E9%AA%A8&query_place_id=ChIJx8jGibCsQjQR6c65bG6q3FI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "雞腿飯",
+   "price": 135,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "排骨飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焢肉飯",
+   "price": 135,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式豬排飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚排飯",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "蝦仁捲飯",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菜飯便當",
+   "price": 85,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞腿（單點）",
+   "price": 80,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "排骨（單點）",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

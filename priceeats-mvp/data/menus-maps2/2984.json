@@ -1,0 +1,126 @@
+{
+ "restaurant": {
+  "name": "RORA. Bistro",
+  "address": "105臺北市松山區介壽里民生東路五段16號",
+  "lat": 25.0581815,
+  "lng": 121.5561768,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=RORA.%20Bistro&query_place_id=ChIJtcaiPACrQjQRFDxMuv-yadI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "佛卡夏 橄欖油",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "佛卡夏 雞肝抹醬",
+   "price": 220,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "普切塔 烏魚子",
+   "price": 380,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "布拉塔起司 季節水果",
+   "price": 560,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "烤蔬菜 黑蒜綠醬",
+   "price": 380,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "季節生魚 烤鳳梨醬",
+   "price": 480,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "馬鈴薯千層 牛肉醬",
+   "price": 420,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炭烤透抽 阿根廷青醬",
+   "price": 480,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炭烤章魚 紅椒堅果醬",
+   "price": 580,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肚 焦化洋蔥",
+   "price": 480,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛舌 焦化味噌",
+   "price": 620,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蕃茄手工麵 絲綢乳酪",
+   "price": 420,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "義大利餃",
+   "price": 480,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "慢燉牛頰肉",
+   "price": 980,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鴨胸 炭烤蔬菜",
+   "price": 1280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "羊排 波特紅酒醬",
+   "price": 1580,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

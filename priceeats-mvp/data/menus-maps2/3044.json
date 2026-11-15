@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "白暮蛋餅先生-敦北總店",
+  "address": "105臺北市松山區民有里敦化北路244巷39號",
+  "lat": 25.061014,
+  "lng": 121.5475527,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%99%BD%E6%9A%AE%E8%9B%8B%E9%A4%85%E5%85%88%E7%94%9F-%E6%95%A6%E5%8C%97%E7%B8%BD%E5%BA%97&query_place_id=ChIJuTmsQ-WrQjQRZSh8UnleXuU"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "原味脆皮蛋餅",
+   "price": 45,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉鬆脆皮蛋餅",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玉米脆皮蛋餅",
+   "price": 55,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "火腿脆皮蛋餅",
+   "price": 60,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根脆皮蛋餅",
+   "price": 65,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花枝排三明治(蛋)",
+   "price": 80,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芋泥肉鬆三明治",
+   "price": 80,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "卡拉三明治(蛋)",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式炸豬排三明治(蛋)",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鱈魚排三明治(蛋)",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

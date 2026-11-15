@@ -1,0 +1,266 @@
+{
+ "restaurant": {
+  "name": "樟樹楊家麻辣臭豆腐 (stinky tofu)",
+  "address": "221新北市汐止區忠孝里樟樹一路134號號",
+  "lat": 25.0647946,
+  "lng": 121.6421873,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%9F%E6%A8%B9%E6%A5%8A%E5%AE%B6%E9%BA%BB%E8%BE%A3%E8%87%AD%E8%B1%86%E8%85%90%20%28stinky%20tofu%29&query_place_id=ChIJvdK0tkVTXTQRQZrTVgv-jg0"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "麻辣臭豆腐鴨血",
+   "price": 90,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣臭豆腐（四塊）",
+   "price": 90,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣鴨血",
+   "price": 90,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣培根牛肉鍋",
+   "price": 100,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣梅花豬肉鍋",
+   "price": 100,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣貢丸蛋花湯",
+   "price": 55,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "越式牛肉冬粉",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "越式牛肉河粉",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "越式豬肉冬粉",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "越式豬肉河粉",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "龍蝦沙拉",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鱈魚湯包(肉)",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "黃金魚丸",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "豬血糕",
+   "price": 20,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鑫鑫腸",
+   "price": 20,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "綜合拼盤",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "臭豆腐（一塊）",
+   "price": 15,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鴨血（單點）",
+   "price": 25,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蝦捲飯",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞腿飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "越式牛肉炒飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "越式豬肉炒飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "越式牛肉炒麵",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "越式豬肉炒麵",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "肉絲炒麵",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "肉絲炒飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "沙茶牛肉炒麵",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "沙茶牛肉炒飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "沙茶豬肉炒麵",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "沙茶豬肉炒飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "海鮮炒米粉",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "海鮮炒麵",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "海鮮炒飯",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "海鮮烏龍麵",
+   "price": 100,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "海鮮粥",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "豬肝粥",
+   "price": 100,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.85
+  }
+ ]
+}

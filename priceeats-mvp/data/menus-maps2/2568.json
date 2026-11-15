@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "蔬納米",
+  "address": "106臺北市大安區光武里市民大道四段10號",
+  "lat": 25.044659,
+  "lng": 121.5443999,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%94%AC%E7%B4%8D%E7%B1%B3&query_place_id=ChIJrZhu47yrQjQRSKUOqckKn5o"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "人蔘百菇湯品（適合分享）",
+   "price": 390,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "人蔘百菇湯品（適合一人）",
+   "price": 160,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "一夜干煙燻風味沙拉",
+   "price": 345,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "萊姆牛肉當季水果白菜沙拉",
+   "price": 345,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

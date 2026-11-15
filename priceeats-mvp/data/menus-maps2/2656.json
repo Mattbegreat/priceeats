@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "Lady nara 曼谷新泰式料理 台北忠孝SOGO店",
+  "address": "106臺北市大安區光武里忠孝東路四段45號12樓",
+  "lat": 25.041913,
+  "lng": 121.5449599,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lady%20nara%20%E6%9B%BC%E8%B0%B7%E6%96%B0%E6%B3%B0%E5%BC%8F%E6%96%99%E7%90%86%20%E5%8F%B0%E5%8C%97%E5%BF%A0%E5%AD%9DSOGO%E5%BA%97&query_place_id=ChIJZ_EmLxarQjQRq5gpTN5tA4w"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "雙人套餐",
+   "price": 1160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式檸檬魚飯",
+   "price": 360,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綠咖哩牛肉飯",
+   "price": 420,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式帕拿雞歐姆蛋飯",
+   "price": 360,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "打拋豬歐姆蛋飯",
+   "price": 360,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式松阪豬炒飯",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰南豬肉沙嗲飯",
+   "price": 460,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃咖哩軟殼蟹飯",
+   "price": 480,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香酥炸海鮮飯",
+   "price": 460,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椰香大麥飯佐炙烤鮭魚",
+   "price": 560,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

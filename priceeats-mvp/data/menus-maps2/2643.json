@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "豚花韓式料理市民店",
+  "address": "105臺北市松山區敦化里市民大道四段149號",
+  "lat": 25.044868,
+  "lng": 121.5508895,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B1%9A%E8%8A%B1%E9%9F%93%E5%BC%8F%E6%96%99%E7%90%86%E5%B8%82%E6%B0%91%E5%BA%97&query_place_id=ChIJEVvnhcSrQjQRbUD10cEvQlw"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "炸年糕（六個）",
+   "price": 69,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式辣炒年糕",
+   "price": 249,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式玫瑰辣醬年糕",
+   "price": 289,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司韓式辣炒年糕",
+   "price": 289,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式辣炒年糕麵",
+   "price": 299,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司韓式辣炒年糕麵",
+   "price": 319,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式原味炸雞（無骨）",
+   "price": 299,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式甜辣醬炸雞（無骨）",
+   "price": 339,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "柚子洋蔥醬炸雞（無骨）",
+   "price": 339,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式醬油炸雞（無骨）",
+   "price": 339,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "半半炸雞（任選兩種口味）",
+   "price": 559,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "Pokeworks 夏威夷拌飯",
+  "address": "106臺北市大安區光武里復興南路一段107巷45號",
+  "lat": 25.0436341,
+  "lng": 121.5459636,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pokeworks%20%E5%A4%8F%E5%A8%81%E5%A4%B7%E6%8B%8C%E9%A3%AF&query_place_id=ChIJvYjk8HOrQjQRcq3DkHaoe9k"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "味噌湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "夏威夷午餐肉壽司",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蟳味棒沙拉",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣味毛豆",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "客製夏威夷生拌飯（軟嫩雞胸/鮮蝦/豆腐）",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "客製夏威夷生拌飯（鮪魚/鮭魚/鬼頭刀/干貝）",
+   "price": 249,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "橙香芝麻嫩雞",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣味鮪魚",
+   "price": 249,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "夏威夷鮪魚",
+   "price": 249,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "柚香黑醋鮭魚",
+   "price": 300,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮味鬼頭刀",
+   "price": 249,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "甜味醬油豆腐",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

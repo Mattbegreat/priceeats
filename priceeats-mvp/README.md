@@ -114,6 +114,8 @@ npm run dev            # http://localhost:3000，沒有任何環境變數就是�
    NEXT_PUBLIC_SUPABASE_ANON_KEY=<anon public key>
    ```
    兩個都填才會切換到 SupabaseRepository。anon key 本來就是公開用的，權限由 RLS 控制；**service_role key 絕對不要放進前端或 `NEXT_PUBLIC_` 變數**。
+
+   **只載入附近資料**：正式模式只下載「搜尋中心 ± 距離篩選」範圍內的店（經緯度方框查詢後以 haversine 精確過濾）及這些店的餐點、標籤、價格紀錄、菜單圖（`in.(…)` 分批，每批 ≤ 100 個 id）。中心移動到已載入範圍外或距離放大時才會再載入；縮小距離、改預算／分類／排序不重新下載。同範圍於記憶體快取，送出價格回報後快取清空。
 4. RLS 重點：anon 可讀 restaurants／categories／foods／food_tags 與 `verification_status <> 'pending'` 的 price_verifications；只能新增 `pending` 的回報與 `pending` 的 menu_images；不能 UPDATE／DELETE。
 
 > SupabaseRepository 與匯入工具只用假的 fetch 測過請求格式，SQL 用 PGlite 驗證；尚未對真實 Supabase 專案實測（第一次匯入請先用單一店家檔試跑，再到網站確認）。

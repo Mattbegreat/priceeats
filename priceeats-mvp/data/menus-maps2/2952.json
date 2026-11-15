@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "沐睦咖啡 Mumu coffee",
+  "address": "105臺北市松山區富錦里富錦街504號",
+  "lat": 25.0609134,
+  "lng": 121.5642725,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%90%E7%9D%A6%E5%92%96%E5%95%A1%20Mumu%20coffee&query_place_id=ChIJcaboPCSrQjQRdxprNU3AcwY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "朝午食光套餐（馬鈴薯燉肉）",
+   "price": 250,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "朝午食光套餐（照燒鮭魚烤飯糰）",
+   "price": 250,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "朝午食光套餐（鮭魚茶泡飯）",
+   "price": 250,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秘製迷迭香雞腿早餐盤",
+   "price": 390,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "沐光蔬食早餐盤",
+   "price": 350,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "季節水果燕麥優格碗",
+   "price": 250,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香奶油蝦蝦溫沙拉",
+   "price": 280,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

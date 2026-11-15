@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "The Shed",
+  "address": "106臺北市大安區虎嘯里敦化南路二段172巷32號",
+  "lat": 25.0240334,
+  "lng": 121.5469154,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Shed&query_place_id=ChIJd-rVai6qQjQRU9auVjeHJk0"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "油封蒜香麵包",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

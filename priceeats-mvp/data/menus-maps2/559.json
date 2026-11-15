@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "元榆牧場",
+  "address": "114臺北市內湖區麗山里內湖路一段613號",
+  "lat": 25.0807457,
+  "lng": 121.5739375,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%83%E6%A6%86%E7%89%A7%E5%A0%B4%EF%BD%9C%E5%85%A7%E6%B9%96%E6%B8%AF%E5%A2%98%E5%BA%97&query_place_id=ChIJi53z8x-tQjQRWCX24UycbP8"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-03-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "現切甘蔗/鹽水雞 特大全雞不切（1800g以上）",
+   "price": 949,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "現切甘蔗/鹽水雞 特大半雞切塊（850g）",
+   "price": 499,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "現切甘蔗/鹽水雞 半雞切塊（700g）",
+   "price": 449,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "現切甘蔗/鹽水雞 全腿切塊（250~300g）",
+   "price": 327,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "現切甘蔗/鹽水雞 三節雞翅（支）",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "Turtle House 小屋 • 龜 ｜咖啡店",
+  "address": "221新北市汐止區智慧里大同路二段273號一樓之二",
+  "lat": 25.067276,
+  "lng": 121.653191,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Turtle%20House%20%E5%B0%8F%E5%B1%8B%20%E2%80%A2%20%E9%BE%9C%20%EF%BD%9C%E5%92%96%E5%95%A1%E5%BA%97&query_place_id=ChIJKSLQnttTXTQR_U3RVpSrYVs"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-04-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "愛死你咖哩飯套餐",
+   "price": 210,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "一堆蔥拉拉麵套餐（讚岐烏龍麵）",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣爆咱風味麵套餐（讚岐烏龍麵）",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

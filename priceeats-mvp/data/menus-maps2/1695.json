@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "咖啡屋 珈琲や 台北松山工房",
+  "address": "105臺北市松山區慈祐里八德路四段758號",
+  "lat": 25.049981,
+  "lng": 121.5788369,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%92%96%E5%95%A1%E5%B1%8B%20%E7%8F%88%E7%90%B2%E3%82%84%20%E5%8F%B0%E5%8C%97%E6%9D%BE%E5%B1%B1%E5%B7%A5%E6%88%BF&query_place_id=ChIJgzu_3EqrQjQRygLRQcZKTts"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-11-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "蛋沙拉三明治",
+   "price": 130,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松山三明治",
+   "price": 140,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松山火腿起司三明治",
+   "price": 150,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根起司熱壓",
+   "price": 130,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩起司熱壓",
+   "price": 130,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "沖繩塔可起司熱壓",
+   "price": 130,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜起司熱壓",
+   "price": 130,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

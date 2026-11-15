@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "文德鍋貼",
+  "address": "114臺北市內湖區瑞陽里文德路22巷44弄1號",
+  "lat": 25.0768871,
+  "lng": 121.5801468,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%87%E5%BE%B7%E9%8D%8B%E8%B2%BC&query_place_id=ChIJy1NA2GKsQjQRkN-CkK6bfec"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "鍋貼（10顆，每顆8元）",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "水餃（高麗菜）（10顆，每顆8元）",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "水餃（韭菜）（10顆，每顆8元）",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣湯餃",
+   "price": 105,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸辣湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "魚丸湯",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

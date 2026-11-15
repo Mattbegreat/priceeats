@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "TRASTEVERE",
+  "address": "106臺北市大安區光武里復興南路一段107巷7號1樓",
+  "lat": 25.0436636,
+  "lng": 121.54462,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TRASTEVERE&query_place_id=ChIJ90ln_c-rQjQRp2jywC1baXs"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "Pranzo TRASTEVERE 午餐套餐 A (麵包/前菜/義大利麵或披薩/甜點/餐後飲品)",
+   "price": 590,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Pranzo TRASTEVERE 午餐套餐 B (麵包/前菜/主菜/甜點/餐後飲品)",
+   "price": 890,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Pranzo TRASTEVERE 午餐套餐 C (麵包/前菜/義大利麵或披薩/主菜/甜點/餐後飲品)",
+   "price": 1090,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日本產螢烏賊與春蔬菜起司燉飯",
+   "price": 640,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義大利絲綢起司搭當季水果\"枇杷\"",
+   "price": 420,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

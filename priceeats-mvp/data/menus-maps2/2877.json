@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "洛毅牛肉麵館",
+  "address": "105臺北市松山區民有里敦化北路222巷16-1號",
+  "lat": 25.059194,
+  "lng": 121.548069,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B4%9B%E6%AF%85%E7%89%9B%E8%82%89%E9%BA%B5%E9%A4%A8&query_place_id=ChIJ1YzqYwCrQjQRkEb3y_zj7YE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "厚燒精燉牛肉麵",
+   "price": 240,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秘制香辣牛肉麵",
+   "price": 250,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "祖傳香滷豬蹄花",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

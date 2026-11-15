@@ -1,0 +1,105 @@
+{
+ "restaurant": {
+  "name": "三木日式料理",
+  "address": "114臺北市內湖區金湖里金湖路334號",
+  "lat": 25.0737116,
+  "lng": 121.6032172,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E6%9C%A8%E6%97%A5%E5%BC%8F%E6%96%99%E7%90%86&query_place_id=ChIJqQoaRJasQjQRmhO_R9S14fs"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "無菜單料理（限午餐）",
+   "price": 580,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "無菜單料理（1000元）",
+   "price": 1000,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "無菜單料理（1500元）",
+   "price": 1500,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "無菜單料理（2000元）",
+   "price": 2000,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "無菜單料理（2500元）",
+   "price": 2500,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "無菜單料理（3000元）",
+   "price": 3000,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生魚片定食",
+   "price": 380,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "握壽司定食",
+   "price": 380,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "透抽烤明太子定食",
+   "price": 430,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒲燒鰻魚定食（小份）",
+   "price": 420,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽烤桂丁雞定食",
+   "price": 430,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛排定食",
+   "price": 580,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松阪豬定食",
+   "price": 580,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

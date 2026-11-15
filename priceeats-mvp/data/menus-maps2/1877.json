@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "七堵OK麵線(汐止店）",
+  "address": "221新北市汐止區新昌里忠孝東路325號",
+  "lat": 25.0695261,
+  "lng": 121.6648576,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%83%E5%A0%B5OK%E9%BA%B5%E7%B7%9A%28%E6%B1%90%E6%AD%A2%E5%BA%97%EF%BC%89&query_place_id=ChIJV-Qhrg1TXTQRt-3jI61OpYc"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-01-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "大腸肉羹麵線（小）",
+   "price": 65,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大腸肉羹麵線（大）",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清麵線（小）",
+   "price": 40,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清麵線（大）",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "新東街阿娥蔥油餅",
+  "address": "105臺北市松山區富泰里新東街11巷2號",
+  "lat": 25.0581394,
+  "lng": 121.5658497,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%9D%B1%E8%A1%97%E9%98%BF%E5%A8%A5%E8%94%A5%E6%B2%B9%E9%A4%85&query_place_id=ChIJr9BFJxeoQjQRa_WYcBZ0Ihs"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "蔥油餅",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豆沙餅",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蘿蔔餅",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韭菜盒",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥肉餅",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

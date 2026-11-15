@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "李氏咖啡",
+  "address": "106臺北市大安區忠孝東路四段205巷29弄7號",
+  "lat": 25.0431971,
+  "lng": 121.5523614,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%8E%E6%B0%8F%E5%92%96%E5%95%A1&query_place_id=ChIJXS_yRcSrQjQR_GMKPRJ_Hnk"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-11-04",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "凱薩沙拉",
+   "price": 200,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸薯條",
+   "price": 140,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸莫札瑞拉起司條",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸鱈魚條",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "水牛城辣雞翅",
+   "price": 240,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥起司肉醬脆餅",
+   "price": 270,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根火腿蛋奶麵",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油青醬鮭魚麵",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜辣鮮蝦臘腸麵",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白酒蛤蠣野菇麵",
+   "price": 350,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

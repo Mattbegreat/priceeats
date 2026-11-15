@@ -1,0 +1,140 @@
+{
+ "restaurant": {
+  "name": "小小麥 汐止iFG遠雄",
+  "address": "221新北市汐止區文化里新台五路一段99號",
+  "lat": 25.0621773,
+  "lng": 121.6490496,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E5%B0%8F%E9%BA%A5%20%E6%B1%90%E6%AD%A2iFG%E9%81%A0%E9%9B%84&query_place_id=ChIJowbUTABTXTQRher1k7VgZiE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-11-04",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "明太子鮮貝烏龍拌麵套餐",
+   "price": 249,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "激辣！擔擔烏龍麵+炸燒肉套餐",
+   "price": 289,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻奶明太子鮮貝烏龍拌麵套餐",
+   "price": 269,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚咖哩烏龍湯麵+黃金豬排套餐",
+   "price": 289,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚咖哩烏龍湯麵+蔬菜天婦羅套餐",
+   "price": 269,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚咖哩烏龍湯麵+海老炸蝦套餐",
+   "price": 289,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃金豬排+湯烏龍麵套餐",
+   "price": 269,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海老炸蝦+湯烏龍麵套餐",
+   "price": 269,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚咖哩+黃金豬排飯套餐",
+   "price": 269,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚咖哩+炸蝦飯套餐",
+   "price": 269,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玉子唐揚雞飯套餐",
+   "price": 289,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻婆豆腐飯套餐",
+   "price": 249,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玉子豬排飯套餐",
+   "price": 289,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔬菜天婦羅",
+   "price": 119,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "胡麻菠菜",
+   "price": 69,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌唐揚雞",
+   "price": 159,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃金豬排",
+   "price": 169,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海老炸蝦",
+   "price": 169,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

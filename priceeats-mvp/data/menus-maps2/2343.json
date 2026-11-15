@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "Ryan's都會潛艇堡",
+  "address": "114臺北市內湖區金湖里金湖路392號",
+  "lat": 25.0736326,
+  "lng": 121.6051193,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ryan%27s%E9%83%BD%E6%9C%83%E6%BD%9B%E8%89%87%E5%A0%A1&query_place_id=ChIJ4Z-IIZasQjQR8rS_xzwZN9g"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "經典早餐",
+   "price": 280,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法式早餐",
+   "price": 240,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "田園農村",
+   "price": 280,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉墨西哥餡餅",
+   "price": 280,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

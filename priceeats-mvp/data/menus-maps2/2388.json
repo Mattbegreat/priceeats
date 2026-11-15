@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "夏姿林餐酒館",
+  "address": "114臺北市內湖區康寧里康寧路三段75巷272號",
+  "lat": 25.074648,
+  "lng": 121.614932,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%8F%E5%A7%BF%E6%9E%97%E9%A4%90%E9%85%92%E9%A4%A8&query_place_id=ChIJYXH2urmsQjQR2oNQx748lKE"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "豬豬肉醬沙拉涼拌義大利麵",
+   "price": 160,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻雞胸沙拉涼拌義大利麵",
+   "price": 160,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "德國香腸沙拉涼拌義大利麵",
+   "price": 160,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞胸凱薩沙拉涼拌義大利麵",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻鮭魚沙拉涼拌義大利麵",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "鍋貼專賣店",
+  "address": "106臺北市大安區通安里通化街24巷20號",
+  "lat": 25.0317637,
+  "lng": 121.5537247,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%8D%8B%E8%B2%BC%E5%B0%88%E8%B3%A3%E5%BA%97&query_place_id=ChIJs9E8fMyrQjQRBfjmw-3pHR4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "鍋貼（10顆，每顆7元）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

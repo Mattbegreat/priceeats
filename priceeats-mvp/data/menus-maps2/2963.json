@@ -1,0 +1,105 @@
+{
+ "restaurant": {
+  "name": "CAFÉ PADRINO教父咖啡",
+  "address": "105016臺北市松山區光復北路175號1F",
+  "lat": 25.0578372,
+  "lng": 121.5555023,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CAF%C3%89%20PADRINO%E6%95%99%E7%88%B6%E5%92%96%E5%95%A1&query_place_id=ChIJs3-UuY-rQjQRp8aPL06uJnM"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-01-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "墨西哥牛肉烤餅",
+   "price": 350,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "醬烤雞肉烤餅",
+   "price": 350,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮮蝦烤餅",
+   "price": 360,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "墨西哥牛肉玉米餅",
+   "price": 380,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "辣牛肉玉米餅",
+   "price": 370,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮮蝦玉米餅",
+   "price": 390,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "辣牛肉捲餅",
+   "price": 350,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "墨西哥牛肉捲餅",
+   "price": 370,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "醬烤雞肉捲",
+   "price": 350,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "洽米克辣牛肉捲",
+   "price": 400,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "洽米克雞肉捲",
+   "price": 380,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "拿坡里雞肉帕尼尼",
+   "price": 360,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "波隆那牛肉帕尼尼",
+   "price": 370,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

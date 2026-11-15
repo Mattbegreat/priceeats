@@ -1,0 +1,133 @@
+{
+ "restaurant": {
+  "name": "來發牛排",
+  "address": "No, No. 130樟樹二路忠孝里汐止區新北市221",
+  "lat": 25.0654753,
+  "lng": 121.6400786,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BE%86%E7%99%BC%E7%89%9B%E6%8E%92&query_place_id=ChIJ1_KnjEVTXTQRWbnGH-Raesc"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "重量級牛排（24盎司）",
+   "price": 480,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "沙朗牛排拼豬排",
+   "price": 340,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "沙朗牛排拼雞排",
+   "price": 340,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "沙朗牛排拼鯛魚排",
+   "price": 340,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "花枝排拼羊排",
+   "price": 350,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "花枝排拼鱈魚排",
+   "price": 350,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "菲力牛（8盎司）",
+   "price": 290,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "背肩牛（16盎司）",
+   "price": 360,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "重量豬（20盎司）",
+   "price": 350,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "重量牛（24盎司）",
+   "price": 480,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "無骨牛小排",
+   "price": 450,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美國帶骨牛小排（二片）",
+   "price": 290,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美國肋眼牛排",
+   "price": 430,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雪花牛排",
+   "price": 340,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菲力牛排",
+   "price": 290,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美國上肩牛排（40盎司）",
+   "price": 740,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花枝排",
+   "price": 190,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

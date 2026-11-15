@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "oncepoon",
+  "address": "106臺北市大安區復興南路一段279巷28號",
+  "lat": 25.0355027,
+  "lng": 121.5450064,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=oncepoon&query_place_id=ChIJP7PBQoarQjQR4RG_E162bhE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "番茄胡椒優格雞肉咖哩",
+   "price": 350,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "馬告白酒燉肉醬咖哩",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椰奶南瓜燉蔬菜咖哩",
+   "price": 350,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "瑪莎拉鹽漬烤豬肉",
+   "price": 330,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "西班牙橄欖油蒜煎蝦",
+   "price": 290,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "帕瑪森義式白酒燉牛肚",
+   "price": 390,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油封瑪莎拉雞肝（冷）",
+   "price": 200,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麵包盤",
+   "price": 90,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肝菌法式雞肉抹醬",
+   "price": 240,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "出汁浸煮紫蘇番茄（冷）",
+   "price": 160,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤荳蔻香菇裏肉丸",
+   "price": 280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "原燒 日式燒肉 沙拉烤物放題 汐止遠雄店",
+  "address": "22175新北市汐止區樟樹里新台五路一段99號2F",
+  "lat": 25.0622525,
+  "lng": 121.6498425,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8E%9F%E7%87%92%20%E6%97%A5%E5%BC%8F%E7%87%92%E8%82%89%20%E6%B2%99%E6%8B%89%E7%83%A4%E7%89%A9%E6%94%BE%E9%A1%8C%20%E6%B1%90%E6%AD%A2%E9%81%A0%E9%9B%84%E5%BA%97&query_place_id=ChIJP86NeChTXTQRItSAaWTSkro"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "煙燻安格斯牛排（雙人）",
+   "price": 2098,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻安格斯牛排（三人餐專屬）",
+   "price": 3098,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嚴選鴨豚雙拼（雙人）",
+   "price": 1548,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嚴選鴨豚雙拼（三人餐專屬）",
+   "price": 2248,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

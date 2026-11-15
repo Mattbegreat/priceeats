@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "YAYOI彌生軒 汐止遠雄店",
+  "address": "221038新北市汐止區新台五路一段95號B1",
+  "lat": 25.0619466,
+  "lng": 121.6478364,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=YAYOI%E5%BD%8C%E7%94%9F%E8%BB%92%20%E6%B1%90%E6%AD%A2%E9%81%A0%E9%9B%84%E5%BA%97&query_place_id=ChIJmworw0NTXTQRKBPcWiA0Fqw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "壽喜燒定食",
+   "price": 470,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹽烤花魚定食",
+   "price": 460,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "名古屋特選鰻櫃定食（鰻魚三吃）",
+   "price": 460,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "南蠻炸雞定食",
+   "price": 350,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮鮭玉子雜炊和壽喜豆腐牛定食",
+   "price": 450,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌炸豬排煮定食",
+   "price": 380,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙蝦味噌炸豬排煮定食",
+   "price": 460,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

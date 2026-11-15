@@ -1,0 +1,119 @@
+{
+ "restaurant": {
+  "name": "賈福廚房（寵物友善）",
+  "address": "106臺北市大安區龍陣里復興南路二段148巷27號",
+  "lat": 25.0283674,
+  "lng": 121.5419192,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B3%88%E7%A6%8F%E5%BB%9A%E6%88%BF%EF%BC%88%E5%AF%B5%E7%89%A9%E5%8F%8B%E5%96%84%EF%BC%89&query_place_id=ChIJyZKvmiuqQjQR2RPTk1xQsLA"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "凱薩沙拉",
+   "price": 240,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鱈魚肝沙拉",
+   "price": 280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸帶皮薯瓣",
+   "price": 140,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤手風琴香料馬鈴薯",
+   "price": 140,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸鱈魚條",
+   "price": 150,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥香烤腿翅",
+   "price": 160,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸美式雞柳條",
+   "price": 160,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香烤牛肉丸佐酸黃瓜優格",
+   "price": 180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "拉絲茄汁肉醬大貝殼麵",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蝦泰式冬陰功義大利麵",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清蒸鱸魚酒香魚湯義大利麵",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "野菇爐烤雞腿排奶油義大利麵",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "野菇爐烤雞腿排麻油燉飯",
+   "price": 300,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香蒜骰子牛肉青醬燉飯",
+   "price": 300,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合海鮮墨魚汁燉飯",
+   "price": 300,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

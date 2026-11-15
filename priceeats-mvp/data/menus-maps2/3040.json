@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "小食泰",
+  "address": "105臺北市松山區民有里敦化北路238巷27號",
+  "lat": 25.0607469,
+  "lng": 121.5482342,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E9%A3%9F%E6%B3%B0&query_place_id=ChIJRxBHXuWrQjQRmBPHL8V7lVA"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "紅燒朱漆咖哩豆腐皇家餐盤",
+   "price": 290,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素炒鮮菇豆腐皇家餐盤",
+   "price": 290,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爆炒雙椒豬五花皇家餐盤",
+   "price": 310,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵板朱漆咖哩豆腐（單點）",
+   "price": 310,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "素炒鮮菇豆腐（單點）",
+   "price": 310,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爆炒雙椒豬五花（單點）",
+   "price": 330,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,217 @@
+{
+ "restaurant": {
+  "name": "富錦樹鐵球食堂",
+  "address": "105臺北市松山區三民里富錦街482號",
+  "lat": 25.060752,
+  "lng": 121.5629858,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E9%8C%A6%E6%A8%B9%E9%90%B5%E7%90%83%E9%A3%9F%E5%A0%82&query_place_id=ChIJ2xavwn-rQjQRou6KM1ASeWg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "Oeuf Mayo",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚卵開放三明治",
+   "price": 380,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "法國拜雍生火腿",
+   "price": 420,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞肝慕斯佐香橙百香果醬",
+   "price": 360,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鴨與開心果肉派",
+   "price": 480,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "和牛塔塔カリカリ",
+   "price": 880,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "季節水果布拉塔起司",
+   "price": 520,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "北海道水章魚 Carpaccio",
+   "price": 750,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炭烤小卷溫莎拉",
+   "price": 380,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炭烤馬告溫體牛心",
+   "price": 620,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸香料薯條",
+   "price": 200,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "坦都里炸雞翅",
+   "price": 390,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法式松露炒蛋",
+   "price": 390,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炭烤櫛瓜·煙花女醬",
+   "price": 480,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炭烤綠蘆筍·杏仁甜椒",
+   "price": 480,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炭烤筊白筍·鯷魚薩拉米",
+   "price": 480,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "馬鈴薯金磚與蝦兵蟹醬",
+   "price": 580,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "西班牙蒜香油泡蝦",
+   "price": 620,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "軟絲天麩羅·自製塔塔醬",
+   "price": 560,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酒蒸蛤蜊水管麵",
+   "price": 400,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤現流真鯛魚頭·XO醬",
+   "price": 560,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "自製XO醬蛋黃麵",
+   "price": 750,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅酒燉牛莎朗義麵",
+   "price": 880,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油封鴨腿起司燉飯",
+   "price": 880,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炭烤葛瑪蘭戰斧豬·馬沙曼咖哩",
+   "price": 1550,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炭烤法式羊排·藍莓芥末籽",
+   "price": 1780,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炭烤鐵球紐約克牛排",
+   "price": 2000,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熟成胭脂鴨胸·巴塔克紅酒醬",
+   "price": 2200,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "現流真鯛魚菲力·味噌蕃紅花",
+   "price": 920,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "小杜麵館 Chapman's Noodles",
+  "address": "106臺北市大安區光武里復興南路一段107巷5弄15號",
+  "lat": 25.0443407,
+  "lng": 121.5448316,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E6%9D%9C%E9%BA%B5%E9%A4%A8%20Chapman%27s%20Noodles&query_place_id=ChIJD4PoXACrQjQR87yfLevloss"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "脆皮炸咖喱牛腩（套餐）",
+   "price": 520,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "杜公柱侯牛腩（套餐）",
+   "price": 520,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "油爆南乳豬手（套餐）",
+   "price": 500,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "沖浪韭黃鮮蝦（套餐）",
+   "price": 430,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "街頭煎釀三寶",
+   "price": 130,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "脆炸鮮蝦雲吞",
+   "price": 130,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "情比金堅土匪雞翼",
+   "price": 130,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "香辣咖喱魷魚",
+   "price": 130,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

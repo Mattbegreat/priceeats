@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "Q Burger 松山民生店(直營)",
+  "address": "105臺北市松山區精忠里民生東路四段103號",
+  "lat": 25.0582061,
+  "lng": 121.5524769,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Q%20Burger%20%E6%9D%BE%E5%B1%B1%E6%B0%91%E7%94%9F%E5%BA%97%28%E7%9B%B4%E7%87%9F%29&query_place_id=ChIJOcpmy1CrQjQRaXE3LRFRgDI"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "招牌炒泡麵套餐",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椒麻炒泡麵套餐",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蘑菇鐵板麵套餐",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑胡椒鐵板麵套餐",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "麗宴自助餐",
+  "address": "106臺北市大安區民輝里新生南路一段1號2樓",
+  "lat": 25.044019,
+  "lng": 121.533227,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BA%97%E5%AE%B4%E8%87%AA%E5%8A%A9%E9%A4%90&query_place_id=ChIJlyRPE4OpQjQRYvRXsD4-Q28"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "白飯（半碗）",
+   "price": 5,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白飯（一碗）",
+   "price": 10,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "十穀飯（半碗）",
+   "price": 10,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "十穀飯（一碗）",
+   "price": 15,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

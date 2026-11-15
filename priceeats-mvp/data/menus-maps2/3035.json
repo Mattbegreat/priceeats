@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "hómee KITCHEN 好饗廚房-松山機場",
+  "address": "105臺北市松山區精忠里敦化北路340-9號",
+  "lat": 25.064421,
+  "lng": 121.5519991,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=h%C3%B3mee%20KITCHEN%20%E5%A5%BD%E9%A5%97%E5%BB%9A%E6%88%BF-%E6%9D%BE%E5%B1%B1%E6%A9%9F%E5%A0%B4&query_place_id=ChIJuZ0_ZfGrQjQRhmg3KNDg0V8"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-03-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "冠軍清燉牛肉麵套餐",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "臻選林東芳紅燒牛肉麵套餐",
+   "price": 360,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "剝皮椒香烏龍雞湯麵套餐",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "客家梅干扣肉飯套餐",
+   "price": 260,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "茄汁燉牛肉飯套餐",
+   "price": 260,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爆炒三杯雞飯套餐",
+   "price": 240,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式綠咖哩佐小丸子",
+   "price": 320,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式打拋香米飯",
+   "price": 280,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,238 @@
+{
+ "restaurant": {
+  "name": "日光寒舍洋食館",
+  "address": "106臺北市大安區建倫里忠孝東路四段146巷3號",
+  "lat": 25.0409829,
+  "lng": 121.5497631,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E5%85%89%E5%AF%92%E8%88%8D%E6%B4%8B%E9%A3%9F%E9%A4%A8&query_place_id=ChIJWV9HXcWrQjQRewHace8e7Yk"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-02-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "美國Prime肋眼牛排（10盎司）商業午餐",
+   "price": 1680,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美國Prime肋眼牛排（10盎司）（單點）",
+   "price": 1580,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙烤美國特選帶骨紐約客牛排佐松露鹽（15盎司）商業午餐",
+   "price": 980,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙烤美國特選帶骨紐約客牛排佐松露鹽（15盎司）（單點）",
+   "price": 880,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "碳烤菲力牛排（8盎司）商業午餐",
+   "price": 880,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "碳烤菲力牛排（8盎司）（單點）",
+   "price": 780,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙烤澳洲嫩肩牛排佐松露鹽（8盎司）商業午餐",
+   "price": 780,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙烤澳洲嫩肩牛排佐松露鹽（8盎司）（單點）",
+   "price": 680,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎台灣戰斧豬排佐法式芥末籽醬商業午餐",
+   "price": 880,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎台灣戰斧豬排佐法式芥末籽醬（單點）",
+   "price": 780,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "德國酸菜鳳梨豬腳佐蜂蜜芥末醬商業午餐",
+   "price": 780,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "德國酸菜鳳梨豬腳佐蜂蜜芥末醬（單點）",
+   "price": 680,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露鮭魚佐檸檬酸奶醬商業午餐",
+   "price": 650,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露鮭魚佐檸檬酸奶醬（單點）",
+   "price": 550,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜味鯷魚奶油焗大蝦＆檸檬雞腿排商業午餐",
+   "price": 760,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜味鯷魚奶油焗大蝦＆檸檬雞腿排（單點）",
+   "price": 660,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "羅勒青醬鱸魚＆檸檬雞腿排商業午餐",
+   "price": 680,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "羅勒青醬鱸魚＆檸檬雞腿排（單點）",
+   "price": 580,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煎烤鮭魚野菇青醬細扁麵商業午餐",
+   "price": 560,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煎烤鮭魚野菇青醬細扁麵（單點）",
+   "price": 460,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "碳烤小卷墨魚義大利麵商業午餐",
+   "price": 500,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "碳烤小卷墨魚義大利麵（單點）",
+   "price": 400,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "西西里海鮮細扁麵（紅醬）商業午餐",
+   "price": 500,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "西西里海鮮細扁麵（紅醬）（單點）",
+   "price": 400,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "西西里海鮮細扁麵（青醬）商業午餐",
+   "price": 500,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "西西里海鮮細扁麵（青醬）（單點）",
+   "price": 400,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露野菇細扁麵佐溫泉蛋（奶油）商業午餐",
+   "price": 480,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露野菇細扁麵佐溫泉蛋（奶油）（單點）",
+   "price": 380,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露野菇細扁麵佐溫泉蛋（清炒）商業午餐",
+   "price": 480,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露野菇細扁麵佐溫泉蛋（清炒）（單點）",
+   "price": 380,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典白酒蛤蜊細扁麵商業午餐",
+   "price": 480,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典白酒蛤蜊細扁麵（單點）",
+   "price": 380,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

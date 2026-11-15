@@ -1,0 +1,252 @@
+{
+ "restaurant": {
+  "name": "喊燒鐵板燒 汐止遠雄店",
+  "address": "221新北市汐止區文化里新台五路一段97號",
+  "lat": 25.0622604,
+  "lng": 121.6475346,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%96%8A%E7%87%92%E9%90%B5%E6%9D%BF%E7%87%92%20%E6%B1%90%E6%AD%A2%E9%81%A0%E9%9B%84%E5%BA%97&query_place_id=ChIJH8X6qyZTXTQRk2IDAAiwFQE"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-11-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "鮮甜巴沙魚套餐",
+   "price": 218,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮甜巴沙魚（單點）",
+   "price": 188,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "薄鹽鯖魚套餐",
+   "price": 248,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薄鹽鯖魚（單點）",
+   "price": 218,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "滑蛋鮮蚵套餐",
+   "price": 258,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滑蛋鮮蚵（單點）",
+   "price": 228,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "嫩煎大比目魚套餐",
+   "price": 308,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嫩煎大比目魚（單點）",
+   "price": 278,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香煎鱸魚排套餐",
+   "price": 318,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎鱸魚排（單點）",
+   "price": 288,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮮蝦全餐（8隻）套餐",
+   "price": 428,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蝦全餐（8隻）（單點）",
+   "price": 398,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "澎派海鮮大匯鮮味套餐",
+   "price": 478,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "澎派海鮮大匯（單點）",
+   "price": 448,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "去骨雞腿排人氣套餐",
+   "price": 308,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "去骨雞腿排（單點）",
+   "price": 278,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "菲力牛排人氣套餐",
+   "price": 418,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菲力牛排（單點）",
+   "price": 388,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香蒜炒牛肉套餐",
+   "price": 218,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香蒜炒牛肉（單點）",
+   "price": 188,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香蒜炒牛肉（肉增量套餐）",
+   "price": 258,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香蒜炒牛肉（肉增量單點）",
+   "price": 228,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香蒜炒羊肉套餐",
+   "price": 218,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香蒜炒羊肉（單點）",
+   "price": 188,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香蒜炒羊肉（肉增量套餐）",
+   "price": 258,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香蒜炒羊肉（肉增量單點）",
+   "price": 228,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香蒜炒豬肉套餐",
+   "price": 218,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香蒜炒豬肉（單點）",
+   "price": 188,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香蒜炒豬肉（肉增量套餐）",
+   "price": 258,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香蒜炒豬肉（肉增量單點）",
+   "price": 228,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香煎松阪豬套餐",
+   "price": 418,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎松阪豬（單點）",
+   "price": 388,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "板腱牛排套餐",
+   "price": 318,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "板腱牛排（單點）",
+   "price": 288,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

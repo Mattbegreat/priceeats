@@ -1,0 +1,273 @@
+{
+ "restaurant": {
+  "name": "日吉壽司店",
+  "address": "114臺北市內湖區港墘路155巷3號1樓",
+  "lat": 25.0768864,
+  "lng": 121.5757745,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E5%90%89%E5%A3%BD%E5%8F%B8%E5%BA%97&query_place_id=ChIJLfgpQCqtQjQR4fIg1ExMlEU"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "日本秋刀魚（半）",
+   "price": 250,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "日本秋刀魚（全）",
+   "price": 480,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "日本甜蝦",
+   "price": 150,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "紅喉魚（貫）",
+   "price": 180,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鰤肚",
+   "price": 120,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "紅甘肚",
+   "price": 120,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "紅甘背",
+   "price": 120,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "厚岸生蠔",
+   "price": 240,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "赤身",
+   "price": 140,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "黑鮪肚",
+   "price": 250,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "尖梭",
+   "price": 100,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "真鯛",
+   "price": 120,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "明太子透抽",
+   "price": 200,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "日本海膽",
+   "price": 250,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "超值握壽司（6貫）",
+   "price": 360,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "超值握壽司（8貫）",
+   "price": 580,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "超值握壽司（12貫）",
+   "price": 1000,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "小吉丼",
+   "price": 390,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "大吉丼",
+   "price": 490,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "超吉丼",
+   "price": 890,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炙燒丼",
+   "price": 420,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮑魚天婦羅",
+   "price": 420,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "車蝦天婦羅",
+   "price": 420,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "地雞唐揚",
+   "price": 280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸竹筴魚",
+   "price": 300,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸透抽",
+   "price": 300,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "酒蒸蛤蜊",
+   "price": 250,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蛤蜊湯",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "烤紅喉魚",
+   "price": 1250,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "烤透抽",
+   "price": 420,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "烤紅甘下巴",
+   "price": 500,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "烤鮭下巴",
+   "price": 600,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "烤鯛下巴",
+   "price": 430,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸竹莢定食",
+   "price": 400,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸蝦烏龍麵",
+   "price": 420,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "烤魚定食（大）",
+   "price": 480,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "烤魚定食（小）",
+   "price": 380,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.85
+  }
+ ]
+}

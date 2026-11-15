@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "豆子水咖啡 Specialty Coffee",
+  "address": "114臺北市內湖區康寧里康寧路三段75巷50號",
+  "lat": 25.0741548,
+  "lng": 121.6093561,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B1%86%E5%AD%90%E6%B0%B4%E5%92%96%E5%95%A1%20Specialty%20Coffee&query_place_id=ChIJNTjqnb6sQjQR0UaTFjgHN5k"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-07-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "野菇蔬食熱壓吐司",
+   "price": 100,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司歐姆蛋熱壓吐司",
+   "price": 100,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

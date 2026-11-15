@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "他。植物咖啡 He Coffee.",
+  "address": "105臺北市松山區吉祥里八德路四段245巷52弄29號1樓",
+  "lat": 25.0503971,
+  "lng": 121.5627908,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BB%96%E3%80%82%E6%A4%8D%E7%89%A9%E5%92%96%E5%95%A1%20He%20Coffee.&query_place_id=ChIJE1clDY6rQjQR_X-uDUZ7DSA"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "雞腿排三明治",
+   "price": 190,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛腱三明治",
+   "price": 190,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒菇三明治",
+   "price": 170,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燻鮭魚蛋沙拉三明治",
+   "price": 190,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐包＆芋泥",
+   "price": 160,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "歐包＆奶油",
+   "price": 110,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蘑菇鹹派",
+   "price": 160,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "南瓜培根鹹派",
+   "price": 160,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "北非蛋（附歐包 or 飯）",
+   "price": 170,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

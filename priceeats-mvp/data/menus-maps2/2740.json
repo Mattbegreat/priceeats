@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "COCA泰式海鮮火鍋",
+  "address": "106臺北市大安區建倫里忠孝東路四段216巷8弄2號1樓",
+  "lat": 25.0407259,
+  "lng": 121.552645,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=COCA%E6%B3%B0%E5%BC%8F%E6%B5%B7%E9%AE%AE%E7%81%AB%E9%8D%8B&query_place_id=ChIJ3ewGUi-rQjQRlrBGjtcCnC8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "雙人・泰奢美饌",
+   "price": 2680,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

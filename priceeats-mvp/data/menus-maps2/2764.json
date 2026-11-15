@@ -1,0 +1,112 @@
+{
+ "restaurant": {
+  "name": "1+1鍋物—忠孝店",
+  "address": "106臺北市大安區建倫里忠孝東路四段216巷32弄1號1樓",
+  "lat": 25.0399644,
+  "lng": 121.5527894,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1%2B1%E9%8D%8B%E7%89%A9%E2%80%94%E5%BF%A0%E5%AD%9D%E5%BA%97&query_place_id=ChIJVx650BKrQjQRc5yqJp8xicE"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "超值1+1雙主餐鍋物",
+   "price": 328,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "經典1+1雙主餐鍋物",
+   "price": 398,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "L1級天使紅蝦(2隻)",
+   "price": 88,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "北海道生食級干貝(2個)",
+   "price": 88,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "天使紅蝦(1隻)+生食干貝(1個)",
+   "price": 88,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "麻辣滷豆腐(4個)",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "麻辣滷鴨血(3個)",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "麻辣滷雙拼(2豆腐+2鴨血)",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "經典台式泡菜(80g)",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "招牌魯肉飯",
+   "price": 25,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "刀削波浪麵",
+   "price": 12,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "王子麵",
+   "price": 12,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "冬粉",
+   "price": 12,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "白飯",
+   "price": 12,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

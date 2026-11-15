@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "MJ Kitchen (台北國泰萬怡Courtyard by Marriott Taipei Downtown)",
+  "address": "10480臺北市中山區朱馥里民生東路三段6號1樓",
+  "lat": 25.0573478,
+  "lng": 121.5374192,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MJ%20Kitchen%20%28%E5%8F%B0%E5%8C%97%E5%9C%8B%E6%B3%B0%E8%90%AC%E6%80%A1Courtyard%20by%20Marriott%20Taipei%20Downtown%29&query_place_id=ChIJl5SdRYyrQjQR6IIz-1jISZo"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "假日自助下午茶單人券",
+   "price": 850,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "平日自助午餐單人券",
+   "price": 999,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

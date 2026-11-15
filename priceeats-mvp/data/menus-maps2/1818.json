@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "東鐵池上飯包",
+  "address": "221新北市汐止區秀峰里新台五路二段54號",
+  "lat": 25.0654211,
+  "lng": 121.6613982,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E9%90%B5%E6%B1%A0%E4%B8%8A%E9%A3%AF%E5%8C%85&query_place_id=ChIJnQc3bG1TXTQRS1KDy61SjR4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "招牌飯",
+   "price": 95,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "排骨飯",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "焢肉飯",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香腸飯",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "双拼飯",
+   "price": 115,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鹹酥肉飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "滷雞腿飯",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸雞腿飯",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

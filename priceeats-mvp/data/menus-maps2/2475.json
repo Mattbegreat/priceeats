@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "慶城海南雞飯",
+  "address": "105臺北市松山區中正里慶城街16巷8號",
+  "lat": 25.0529129,
+  "lng": 121.545538,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%85%B6%E5%9F%8E%E6%B5%B7%E5%8D%97%E9%9B%9E%E9%A3%AF&query_place_id=ChIJobbAd-erQjQRTyr_YtJbjOc"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "1號餐(無菜)",
+   "price": 120,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "2號餐(有菜)",
+   "price": 160,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菜肉（單點）",
+   "price": 125,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞腿半支（單點）",
+   "price": 85,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞腿1支（單點）",
+   "price": 170,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "飯1碗",
+   "price": 35,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

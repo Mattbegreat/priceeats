@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "大戶屋 忠孝復興店",
+  "address": "106臺北市大安區仁愛里忠孝東路四段52號2樓",
+  "lat": 25.0414146,
+  "lng": 121.5450238,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%88%B6%E5%B1%8B%20%E5%BF%A0%E5%AD%9D%E5%BE%A9%E8%88%88%E5%BA%97&query_place_id=ChIJ2fU_gtCrQjQROOgHeO7Ogts"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "炭烤牛排定食",
+   "price": 510,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炭烤牛排（單點）",
+   "price": 440,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炭烤牛肉與醬油麴雞雙拼定食",
+   "price": 470,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炭烤牛肉與醬油麴雞雙拼（單點）",
+   "price": 400,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞排醬蓋飯+烏龍湯麵",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞排醬蓋飯+木盒烏龍麵",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烏龍湯麵",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "木盒烏龍麵",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蕎麥湯麵",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "木盒蕎麥麵",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

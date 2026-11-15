@@ -39,6 +39,8 @@ export function App() {
   const [uploadTarget, setUploadTarget] = useState<string | null>(null);
   const cur = useRef<UrlState>({ view: 'home', params: DEFAULT_PARAMS, food: null });
   const openedByPush = useRef(false);
+  const loadSeq = useRef(0);
+  const [refreshing, setRefreshing] = useState(false);
 
   /** 更新狀態並同步到網址 (push 會多一筆歷史、replace 不會) */
   const commit = useCallback((next: Partial<UrlState>, mode: 'push' | 'replace' = 'replace') => {
@@ -58,12 +60,16 @@ export function App() {
 
   /** keepOld：重新載入時保留舊資料 (例如送出回報後更新價格歷史，不要讓詳情面板消失) */
   const fetchData = useCallback((keepOld = false) => {
+    const { lat, lng, dist } = cur.current.params;
+    const seq = ++loadSeq.current;
     setLoadError(null);
     if (!keepOld) setData(null);
+    setRefreshing(true);
     repo
-      .load(new Date())
-      .then(setData)
-      .catch((e: unknown) => setLoadError(e instanceof Error ? e.message : '資料載入失敗'));
+      .load(new Date(), { center: { lat, lng }, radiusM: dist })
+      .then((d) => seq === loadSeq.current && setData(d))
+      .catch((e: unknown) => seq === loadSeq.current && setLoadError(e instanceof Error ? e.message : '資料載入失敗'))
+      .finally(() => seq === loadSeq.current && setRefreshing(false));
   }, [repo]);
 
   useEffect(() => {
@@ -74,7 +80,6 @@ export function App() {
     setFoodId(s.food);
     setFavs(readJson<string[]>(KEYS.favorites, []));
     setReady(true);
-    fetchData();
     const onPop = () => {
       const p = parseQuery(window.location.search);
       cur.current = p;
@@ -84,7 +89,14 @@ export function App() {
     };
     window.addEventListener('popstate', onPop);
     return () => window.removeEventListener('popstate', onPop);
-  }, [fetchData]);
+  }, []);
+
+  /** 搜尋中心或距離改變時載入對應範圍：Mock 一次載完不重載；Supabase 由 repo 快取判斷是否真的要下載 (縮小距離不會) */
+  useEffect(() => {
+    if (!ready) return;
+    if (repo.kind === 'mock' && loadSeq.current > 0) return;
+    fetchData(true);
+  }, [ready, repo, params.lat, params.lng, params.dist, fetchData]);
 
   const index = useMemo(() => (data ? buildIndex(data, today) : null), [data, today]);
   const results = useMemo(() => (index ? search(index, params) : []), [index, params]);
@@ -210,6 +222,11 @@ export function App() {
           <span className="text-xs text-lime">你的預算，決定今天吃什麼</span>
         </div>
       </header>
+      {refreshing && data && !loadError && (
+        <div role="status" className="bg-lime/30 px-4 py-1 text-center text-xs text-forest">
+          更新附近餐點中…
+        </div>
+      )}
       <main className="mx-auto w-full max-w-5xl px-4 py-4">{body}</main>
       {detail && (
         <FoodDetailSheet

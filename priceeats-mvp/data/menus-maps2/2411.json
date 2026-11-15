@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "巷子內水餃",
+  "address": "114臺北市內湖區樂康里康樂街136巷15弄26號",
+  "lat": 25.0724348,
+  "lng": 121.6183979,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B7%B7%E5%AD%90%E5%85%A7%E6%B0%B4%E9%A4%83&query_place_id=ChIJgR-wFaGtQjQRfmbzZa6g15Y"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-12-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "水餃（10顆，每顆7元）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青菜蛋花湯",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "貢丸湯",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "貢丸湯加蛋",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "藥燉排骨",
+   "price": 100,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

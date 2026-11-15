@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "關東本家",
+  "address": "105臺北市松山區吉祥路41號",
+  "lat": 25.0500195,
+  "lng": 121.5626459,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%97%9C%E6%9D%B1%E6%9C%AC%E5%AE%B6&query_place_id=ChIJYRoU1marQjQROmsP8urhm8Y"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "個人A套餐",
+   "price": 130,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "個人B套餐",
+   "price": 190,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "個人C套餐",
+   "price": 200,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙人套餐",
+   "price": 520,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

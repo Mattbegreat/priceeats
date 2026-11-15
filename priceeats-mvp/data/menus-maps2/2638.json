@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "本家韓式燒肉 敦南店",
+  "address": "106臺北市大安區建安里市民大道四段102號",
+  "lat": 25.044463,
+  "lng": 121.5499789,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AC%E5%AE%B6%E9%9F%93%E5%BC%8F%E7%87%92%E8%82%89%20%E6%95%A6%E5%8D%97%E5%BA%97&query_place_id=ChIJaTF2eQerQjQRI260nTdySlg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "特級牛小排",
+   "price": 860,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秘醬特級牛小排",
+   "price": 860,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "原味牛肋排",
+   "price": 860,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秘醬牛肋排",
+   "price": 860,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

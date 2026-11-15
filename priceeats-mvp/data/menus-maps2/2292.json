@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "瑪尼食堂 小籠湯包/冰沙",
+  "address": "114臺北市內湖區東湖里康樂街52號",
+  "lat": 25.069087,
+  "lng": 121.6183995,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%91%AA%E5%B0%BC%E9%A3%9F%E5%A0%82%20%E5%B0%8F%E7%B1%A0%E6%B9%AF%E5%8C%85/%E5%86%B0%E6%B2%99&query_place_id=ChIJm2_2YeWtQjQRF0SjY86hK-Y"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "翠玉白菜湯包（一份8顆）",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露椎茸湯包",
+   "price": 85,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爆汁牛肉湯包",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅麴蕈菇湯包",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香濃麻辣湯包",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "包心白菜湯包",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "絲瓜美人湯包",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩黃金湯包",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韭菜香濃湯包",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "原味雞汁湯包",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

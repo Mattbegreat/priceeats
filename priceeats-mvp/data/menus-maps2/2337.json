@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "Atlas Brunch & Pasta 亞斯義大利麵",
+  "address": "114臺北市內湖區葫洲里民權東路六段296巷56號",
+  "lat": 25.0708248,
+  "lng": 121.6081639,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Atlas%20Brunch%20%26%20Pasta%20%E4%BA%9E%E6%96%AF%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5&query_place_id=ChIJ39G4keGtQjQRd5mdfKmFUlA"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "鱸魚排菌菇醬燉飯",
+   "price": 358,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紐西蘭小牛背松露燉飯",
+   "price": 368,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "漢堡排番茄醬義大利麵",
+   "price": 278,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "櫻桃鴨胸配牛肝奶油麵",
+   "price": 358,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "米蘭番茄燉小羊膝燉飯",
+   "price": 358,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "茄子雞肉番茄尖管麵",
+   "price": 258,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "骰子牛溏心蛋燉飯",
+   "price": 358,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "羊肉藍乳酪手工寬麵",
+   "price": 298,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油封雞腿松露燉飯",
+   "price": 358,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法式油封鴨腿番茄奶油寬麵",
+   "price": 368,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香鮮蝦天使麵",
+   "price": 288,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚配白蘑菇松露天使麵",
+   "price": 338,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

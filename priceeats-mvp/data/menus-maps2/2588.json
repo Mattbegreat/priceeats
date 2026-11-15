@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "凪Nagi 忠孝店",
+  "address": "106臺北市大安區光武里大安路一段75巷5號",
+  "lat": 25.0422962,
+  "lng": 121.5465892,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%87%AANagi%20%E5%BF%A0%E5%AD%9D%E5%BA%97&query_place_id=ChIJ6Rj6k9qrQjQRuMXAQEuUYjg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "豚王",
+   "price": 250,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "赤王",
+   "price": 275,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑王",
+   "price": 275,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "翠王",
+   "price": 275,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

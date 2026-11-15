@@ -1,0 +1,105 @@
+{
+ "restaurant": {
+  "name": "Moon Baking studio 松山店",
+  "address": "105臺北市松山區民有里復興北路313巷47號",
+  "lat": 25.0590469,
+  "lng": 121.5471484,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moon%20Baking%20studio%20%E6%9D%BE%E5%B1%B1%E5%BA%97&query_place_id=ChIJk26mBvipQjQRJa9nZYSYXvo"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "酥炸櫛瓜條",
+   "price": 250,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "松露薯條",
+   "price": 250,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "煙燻烤玉米",
+   "price": 250,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "月亮調色盤",
+   "price": 380,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "油封鴨腿",
+   "price": 480,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "番茄辣醬烤小卷",
+   "price": 340,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "英式炸牛排",
+   "price": 480,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "鮮蝦炒菇",
+   "price": 330,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "紅酒燉牛肉",
+   "price": 380,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "松露石斑魚燉飯",
+   "price": 550,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "紅醬水波蛋燉飯",
+   "price": 430,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "法式鮮蝦義大利麵",
+   "price": 380,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "松子青醬義大利麵",
+   "price": 360,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

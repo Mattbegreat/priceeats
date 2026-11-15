@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "大戶屋東湖店",
+  "address": "114臺北市內湖區明湖里康寧路三段187號2樓",
+  "lat": 25.0699304,
+  "lng": 121.6119371,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%88%B6%E5%B1%8B%E6%9D%B1%E6%B9%96%E5%BA%97&query_place_id=ChIJia7qaLusQjQRKvLJZQ-O7g4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "炭烤花魚定食",
+   "price": 430,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炭烤花魚（單點）",
+   "price": 360,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炭烤黃金鯧定食",
+   "price": 410,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炭烤黃金鯧（單點）",
+   "price": 350,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炭烤鯖魚定食",
+   "price": 330,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炭烤鯖魚（單點）",
+   "price": 270,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉壽喜燒定食",
+   "price": 430,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉壽喜燒（單點）",
+   "price": 360,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

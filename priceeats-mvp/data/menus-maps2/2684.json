@@ -1,0 +1,112 @@
+{
+ "restaurant": {
+  "name": "BRUN不然-安和店",
+  "address": "106臺北市大安區建倫里安和路一段7號",
+  "lat": 25.039759,
+  "lng": 121.549743,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BRUN%E4%B8%8D%E7%84%B6-%E5%AE%89%E5%92%8C%E5%BA%97&query_place_id=ChIJF0vFuO2rQjQRWB6d1NTlV_k"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-11-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "Scrambled Eggs (Classic)",
+   "price": 395,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Omelette (Ham, Mushroom)",
+   "price": 385,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Omelette (Crab, Cheese)",
+   "price": 400,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Cheese Bolognese Casserole",
+   "price": 380,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Yogurt Bowl",
+   "price": 280,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Tomato Pork Stew with Beer",
+   "price": 390,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Shrimp & Vegetable Stew",
+   "price": 435,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Fettuccine Bolognese",
+   "price": 380,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Paccheri Carbonara",
+   "price": 380,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Spaghetti with Shrimp & Asparagus",
+   "price": 460,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Spaghetti with Salmon & Cream Sauce",
+   "price": 435,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Seasonal Green Salad with Shrimp & Avocado",
+   "price": 450,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Daily Soup",
+   "price": 160,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "French Fries & Truffle Sour Cream",
+   "price": 250,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

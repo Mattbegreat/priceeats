@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "美式餐酒館 ABV Bar & Kitchen 台北敦化店",
+  "address": "10688臺北市大安區仁愛里敦化南路一段236巷16號",
+  "lat": 25.0404048,
+  "lng": 121.5476881,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E5%BC%8F%E9%A4%90%E9%85%92%E9%A4%A8%20ABV%20Bar%20%26%20Kitchen%20%E5%8F%B0%E5%8C%97%E6%95%A6%E5%8C%96%E5%BA%97&query_place_id=ChIJhdSMjJerQjQROHORrIvofsA"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "蘋果煙燻鮭魚佐蒔蘿優格沙拉",
+   "price": 360,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典美式蟹肉餅",
+   "price": 280,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "巧達海鮮麵包盅",
+   "price": 380,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肋眼牛排佐櫻桃醬",
+   "price": 960,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "淬義義大利餐廳",
+  "address": "114臺北市內湖區瑞光路258巷37號",
+  "lat": 25.0750122,
+  "lng": 121.5749882,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B7%AC%E7%BE%A9%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%A4%90%E5%BB%B3&query_place_id=ChIJzRDbD3usQjQRMehq-gyr_Ew"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "A套餐（四人份）",
+   "price": 2700,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "B套餐（四人份）",
+   "price": 2200,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "C套餐（四人份）",
+   "price": 2050,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

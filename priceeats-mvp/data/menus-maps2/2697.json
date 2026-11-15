@@ -1,0 +1,133 @@
+{
+ "restaurant": {
+  "name": "巨飽盆健康餐盒",
+  "address": "105臺北市松山區精忠里民生東路四段57號",
+  "lat": 25.0580466,
+  "lng": 121.5505708,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B7%A8%E9%A3%BD%E7%9B%86%E5%81%A5%E5%BA%B7%E9%A4%90%E7%9B%92&query_place_id=ChIJpyRANwCrQjQRCUOuaPvU4T4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "日式胡麻牛（單點）",
+   "price": 80,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式胡麻牛（餐盒）",
+   "price": 139,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香板腱牛排（單點）",
+   "price": 99,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香板腱牛排（餐盒）",
+   "price": 199,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜蓉豬（單點）",
+   "price": 60,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜蓉豬（餐盒）",
+   "price": 105,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式胡麻豬（單點）",
+   "price": 70,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式胡麻豬（餐盒）",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "泰式打拋豬（餐盒）",
+   "price": 125,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式巴沙魚（單點）",
+   "price": 59,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式巴沙魚（餐盒）",
+   "price": 119,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "新鮮蔬食菜飯（餐盒）",
+   "price": 89,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香鯛魚片（單點）",
+   "price": 80,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香鯛魚片（餐盒）",
+   "price": 129,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛雞雙重奏（餐盒）",
+   "price": 199,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬雞雙重奏（餐盒）",
+   "price": 190,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.6
+  },
+  {
+   "name": "黑米飯",
+   "price": 20,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

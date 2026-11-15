@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "PALAISYI/早餐推薦/附近早餐/下午茶/美食/甜點/早午餐",
+  "address": "106臺北市大安區昌隆里安東街40巷45號",
+  "lat": 25.0441872,
+  "lng": 121.5406115,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=PALAISYI/%E6%97%A9%E9%A4%90%E6%8E%A8%E8%96%A6/%E9%99%84%E8%BF%91%E6%97%A9%E9%A4%90/%E4%B8%8B%E5%8D%88%E8%8C%B6/%E7%BE%8E%E9%A3%9F/%E7%94%9C%E9%BB%9E/%E6%97%A9%E5%8D%88%E9%A4%90&query_place_id=ChIJBb82pzyrQjQR8hHq2LSQtZA"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "小園丁鹹派",
+   "price": 120,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "兒童餐",
+   "price": 250,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

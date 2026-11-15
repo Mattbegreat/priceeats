@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "韓點糖 釜山糖餅專賣/restaurants/takeout/甜點/小吃/附近美食/吃的",
+  "address": "106臺北市大安區車層里延吉街70巷2弄2號",
+  "lat": 25.0426182,
+  "lng": 121.5539205,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%9F%93%E9%BB%9E%E7%B3%96%20%E9%87%9C%E5%B1%B1%E7%B3%96%E9%A4%85%E5%B0%88%E8%B3%A3/restaurants/takeout/%E7%94%9C%E9%BB%9E/%E5%B0%8F%E5%90%83/%E9%99%84%E8%BF%91%E7%BE%8E%E9%A3%9F/%E5%90%83%E7%9A%84&query_place_id=ChIJZxbfEgyrQjQRmNd_Xy2DqWw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "辣炒年糕（小）",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣炒年糕（大）",
+   "price": 140,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓國辣炒年糕麵（小）",
+   "price": 110,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓國辣炒年糕麵（大）",
+   "price": 135,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "德式香腸糖餅",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "火雞辣香腸糖餅",
+   "price": 85,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

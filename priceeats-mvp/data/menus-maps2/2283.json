@@ -1,0 +1,126 @@
+{
+ "restaurant": {
+  "name": "微想咖哩東湖店",
+  "address": "114臺北市內湖區安湖里康寧路三段189巷12弄17號",
+  "lat": 25.0699862,
+  "lng": 121.6130863,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BE%AE%E6%83%B3%E5%92%96%E5%93%A9%E6%9D%B1%E6%B9%96%E5%BA%97&query_place_id=ChIJ-UdBDrusQjQRWrynXmnu1t0"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-08-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "炭烤牛排咖哩便當",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "可樂餅咖哩便當",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚豚咖哩便當",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香酥雞腿咖哩便當",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚雞塊咖哩便當",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鬼魚咖哩便當",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典燒肉丼便當",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炭烤雪花牛排（單點）",
+   "price": 175,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸壽司豬排（單點）",
+   "price": 155,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸厚切豬排（單點）",
+   "price": 155,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸起司豬排（單點）",
+   "price": 145,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸去骨雞腿（單點）",
+   "price": 145,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式炸雞（單點）",
+   "price": 145,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "天婦羅炸蝦（3尾）（單點）",
+   "price": 145,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸可樂餅（單點）",
+   "price": 135,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸菲力豬排（單點）",
+   "price": 125,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

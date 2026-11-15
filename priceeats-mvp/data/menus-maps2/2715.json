@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "建一食堂",
+  "address": "10491臺北市中山區埤頭里八德路二段300巷10號",
+  "lat": 25.046664,
+  "lng": 121.5422576,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BB%BA%E4%B8%80%E9%A3%9F%E5%A0%82&query_place_id=ChIJScIk8x-rQjQRwJH1YNLB2DA"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "無菜單料理套餐（1380）",
+   "price": 1380,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "無菜單料理套餐（1880）",
+   "price": 1880,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "無菜單料理套餐（2480）",
+   "price": 2480,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

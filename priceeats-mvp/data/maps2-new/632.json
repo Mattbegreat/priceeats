@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "蔡老師蔬食便當內湖店",
+  "address": "11447臺北市內湖區港墘路37巷8號",
+  "lat": 25.0820402,
+  "lng": 121.5787471,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%94%A1%E8%80%81%E5%B8%AB%E8%94%AC%E9%A3%9F%E4%BE%BF%E7%95%B6%E5%85%A7%E6%B9%96%E5%BA%97%EF%BD%9C%E7%B4%A0%E9%A3%9F%E4%BE%BF%E7%95%B6%EF%BD%9C%E6%9C%83%E8%AD%B0%E4%BE%BF%E7%95%B6%EF%BD%9C%E4%BE%BF%E7%95%B6%E5%A4%96%E9%80%81&query_place_id=ChIJc6H_XnStQjQR6G1MjCaRe6w"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "小而美",
+   "price": 80,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "風味餐（純主食）",
+   "price": 80,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "每日特餐",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "風味便當",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "會議便當",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "風味會議便當",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "照燒杏鮑菇蓋飯",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻茶鵝便當",
+   "price": 150,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "精緻商務餐盒",
+   "price": 150,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "九宮格便當",
+   "price": 200,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

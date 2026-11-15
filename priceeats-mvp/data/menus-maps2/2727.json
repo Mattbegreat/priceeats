@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "petit doux 微兜 PD SOGO 忠孝店",
+  "address": "106臺北市大安區忠孝東路四段45號11樓遠東SOGO百貨忠孝館11F",
+  "lat": 25.0421272,
+  "lng": 121.5449393,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=petit%20doux%20%E5%BE%AE%E5%85%9C%20PD%20SOGO%20%E5%BF%A0%E5%AD%9D%E5%BA%97&query_place_id=ChIJ8S5JfRarQjQRaozhjBf86Ps"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "獨享套餐",
+   "price": 799,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "均衡ABC全能量沙拉",
+   "price": 450,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻鴨胸柑橘沙拉",
+   "price": 450,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蕈菇溫沙拉",
+   "price": 320,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "南瓜濃湯",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "全蔬果番茄濃湯",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

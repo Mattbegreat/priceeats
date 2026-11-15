@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "芮秋 Rachel",
+  "address": "105臺北市松山區東榮里富錦街405號",
+  "lat": 25.060839,
+  "lng": 121.56016,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%8A%AE%E7%A7%8B%20Rachel&query_place_id=ChIJ7ytgUlGrQjQR5RlBEOBffdw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "鐵鍋裡的寶貝鬆餅（自製香料醃漬生鮭魚）",
+   "price": 430,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵鍋裡的寶貝鬆餅（自製鹽漬豬腹肉）",
+   "price": 450,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵鍋裡的寶貝鬆餅（香蕉榛果巧克力醬）",
+   "price": 390,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "培根三起司壓煎酸種麵包",
+   "price": 370,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "沙拉蛋布里歐吐司",
+   "price": 390,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "番茄水波蛋布里歐吐司",
+   "price": 340,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酪梨吐司（小番茄）",
+   "price": 340,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酪梨吐司（紅椒香腸丁）",
+   "price": 360,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芮秋經典早餐盤",
+   "price": 480,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酪梨早餐盤",
+   "price": 500,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

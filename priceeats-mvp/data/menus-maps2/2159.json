@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "神來一爐燒肉汐止店",
+  "address": "221新北市汐止區仁德里大同路二段579號No",
+  "lat": 25.0702666,
+  "lng": 121.6633812,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E4%BE%86%E4%B8%80%E7%88%90%E7%87%92%E8%82%89%E6%B1%90%E6%AD%A2%E5%BA%97&query_place_id=ChIJrWNcIwBTXTQRrTfeeIZCEaU"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-08-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "神來一爐吃到飽（每人）",
+   "price": 745,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

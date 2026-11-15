@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "鯛魚燒工房 台灣民生店",
+  "address": "105臺北市松山區東榮里富錦街348號",
+  "lat": 25.0604091,
+  "lng": 121.5576593,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%AF%9B%E9%AD%9A%E7%87%92%E5%B7%A5%E6%88%BF%20%E5%8F%B0%E7%81%A3%E6%B0%91%E7%94%9F%E5%BA%97&query_place_id=ChIJ8Usw71SrQjQRUDQtMrgrR6k"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "紅豆鯛魚燒",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "紅豆乳酪鯛魚燒",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油鯛魚燒",
+   "price": 65,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "抹茶鯛魚燒",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "黑糖地瓜鯛魚燒",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蘋果肉桂鯛魚燒",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "客家菜脯鯛魚燒",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

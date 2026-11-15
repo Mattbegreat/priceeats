@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "GumGum Not Only Beer & Wings 雞翅啤酒吧-內科店",
+  "address": "11492臺北市內湖區基湖路3巷68號",
+  "lat": 25.0806163,
+  "lng": 121.5668549,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=GumGum%20Not%20Only%20Beer%20%26%20Wings%20%E9%9B%9E%E7%BF%85%E5%95%A4%E9%85%92%E5%90%A7-%E5%85%A7%E7%A7%91%E5%BA%97&query_place_id=ChIJ_arISaqtQjQR_wwFFgzwBZ0"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "番茄牛肉蔬菜湯",
+   "price": 240,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "刺蔥大蛤清湯",
+   "price": 210,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "特選有機糀鹽麴帶骨豬排（10 oz）",
+   "price": 940,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "嫩煎蒜香日本和牛白酒時蔬（150 g）",
+   "price": 1050,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "嫩煎日本和牛沙朗檸香柚子醬（150 g）",
+   "price": 1180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

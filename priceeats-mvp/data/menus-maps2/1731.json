@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "老燒肉台北八德店",
+  "address": "105臺北市松山區吉祥里八德路四段143號",
+  "lat": 25.048775,
+  "lng": 121.5622593,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%80%81%E7%87%92%E8%82%89%E5%8F%B0%E5%8C%97%E5%85%AB%E5%BE%B7%E5%BA%97&query_place_id=ChIJEXSsZZ2rQjQRxiKR_Mnx1ko"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "899燒肉百匯吃到飽",
+   "price": 899,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

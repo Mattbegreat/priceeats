@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "侏儸紀醬汁魷魚、啤酒螺專賣店",
+  "address": "105臺北市松山區慈祐里饒河街153號",
+  "lat": 25.0505556,
+  "lng": 121.575,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BE%8F%E5%84%B8%E7%B4%80%E9%86%AC%E6%B1%81%E9%AD%B7%E9%AD%9A%E3%80%81%E5%95%A4%E9%85%92%E8%9E%BA%E5%B0%88%E8%B3%A3%E5%BA%97&query_place_id=ChIJKYUB2ZurQjQRis3MYRuTCgw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "醬汁魷魚",
+   "price": 160,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬汁啤酒螺",
+   "price": 160,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬汁魷魚頭",
+   "price": 150,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

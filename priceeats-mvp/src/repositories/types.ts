@@ -1,5 +1,5 @@
 import { z } from 'zod';
-import { CATEGORY_NAMES, type Dataset, type PriceVerification } from '@/types';
+import { CATEGORY_NAMES, type Dataset, type LatLng, type PriceVerification } from '@/types';
 import type { ReportInput } from '@/lib/pricing/report';
 
 export const menuItemSchema = z.object({
@@ -25,10 +25,16 @@ export interface StoredMenuSubmission extends MenuSubmissionInput {
   created_at: string;
 }
 
+/** 載入範圍：搜尋中心與半徑 (公尺)。Mock 模式忽略 */
+export interface LoadArea {
+  center: LatLng;
+  radiusM: number;
+}
+
 export interface Repository {
   readonly kind: 'mock' | 'supabase';
-  /** today 注入：模擬資料的更新日期以此為基準 */
-  load(today: Date): Promise<Dataset>;
+  /** today 注入：模擬資料的更新日期以此為基準；area 給定時 Supabase 只載入該範圍附近的店與其餐點 */
+  load(today: Date, area?: LoadArea): Promise<Dataset>;
   /** 寫入一筆 status=pending 的 verification，不改 foods.price */
   submitReport(input: ReportInput, today: Date): Promise<PriceVerification>;
   /** 菜單上傳：一律 pending，人工確認前不成為正式價格 */

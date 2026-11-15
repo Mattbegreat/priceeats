@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "八方雲集-汐止東方店",
+  "address": "22102新北市汐止區新台五路一段96號",
+  "lat": 25.060391,
+  "lng": 121.6483554,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%96%B9%E9%9B%B2%E9%9B%86-%E6%B1%90%E6%AD%A2%E6%9D%B1%E6%96%B9%E5%BA%97&query_place_id=ChIJAYExMlRTXTQRHWCv6zmGFcM"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "1號餐（10顆鍋貼/水餃+湯品/燙青菜）",
+   "price": 105,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "2號餐（15顆鍋貼/水餃+湯品/燙青菜）",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "3號餐（10顆鍋貼/水餃+飲品）",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "4號餐（15顆鍋貼/水餃+飲品）",
+   "price": 125,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "5號餐（10顆鮮蝦水餃+湯品/燙青菜）",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "6號餐（10顆鮮蝦水餃+飲品）",
+   "price": 125,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "7號餐（古早味乾麵+古早味排骨）",
+   "price": 113,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "8號餐（麻醬/招牌乾麵+湯品/燙青菜）",
+   "price": 90,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "9號餐（紹辣乾麵+湯品/燙青菜）",
+   "price": 95,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "10號餐（酸辣湯麵+5顆招牌鍋貼/燙青菜）",
+   "price": 105,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "11號餐（菜肉餛飩麵+5顆鍋貼/燙青菜）",
+   "price": 115,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "12號餐（紅燒/清燉牛肉麵）",
+   "price": 168,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

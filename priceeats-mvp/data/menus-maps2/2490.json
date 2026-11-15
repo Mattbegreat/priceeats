@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "王記牛肉麵大王",
+  "address": "106臺北市大安區誠安里安東街56號",
+  "lat": 25.0422222,
+  "lng": 121.5427778,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%8E%8B%E8%A8%98%E7%89%9B%E8%82%89%E9%BA%B5%E5%A4%A7%E7%8E%8B&query_place_id=ChIJs03MAdqrQjQRvzYR7UT99h4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "紅燒牛筋麵",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒半筋半肉麵",
+   "price": 230,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒牛肉麵",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清燉牛肉麵",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "粉蒸肥腸",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "粉蒸排骨",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

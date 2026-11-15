@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "阿根脆皮臭豆腐",
+  "address": "105臺北市松山區慈祐里饒河街夜市",
+  "lat": 25.050188,
+  "lng": 121.5727587,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E6%A0%B9%E8%84%86%E7%9A%AE%E8%87%AD%E8%B1%86%E8%85%90&query_place_id=ChIJgfY-CRKrQjQR5HR4_DqYcVQ"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "脆皮臭豆腐（小份）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "脆皮臭豆腐（大份）",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

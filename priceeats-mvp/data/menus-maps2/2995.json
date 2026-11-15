@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "富錦樹台菜香檳 敦北店",
+  "address": "10548臺北市松山區精忠里敦化北路199巷17號1樓",
+  "lat": 25.0565316,
+  "lng": 121.5527738,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E9%8C%A6%E6%A8%B9%E5%8F%B0%E8%8F%9C%E9%A6%99%E6%AA%B3%20%E6%95%A6%E5%8C%97%E5%BA%97&query_place_id=ChIJnaPPuO6rQjQRNZlSdw5Irik"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "寶島米粉（L）",
+   "price": 680,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "寶島米粉（S）",
+   "price": 580,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "樹子水蓮",
+   "price": 620,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "老皮嫩肉",
+   "price": 580,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松花蒼蠅頭（L）",
+   "price": 720,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松花蒼蠅頭（S）",
+   "price": 620,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油條蒜蓉鮮蚵（L）",
+   "price": 980,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油條蒜蓉鮮蚵（S）",
+   "price": 720,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特調白斬雞",
+   "price": 680,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蜜棗煨肉",
+   "price": 1080,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "北海道干貝竹笙雞湯",
+   "price": 2880,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

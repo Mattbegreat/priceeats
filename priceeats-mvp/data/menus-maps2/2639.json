@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "料韓男｜韓國熟成烤五花肉 品牌概念店",
+  "address": "106臺北市大安區仁愛路四段345巷4弄4號",
+  "lat": 25.0388577,
+  "lng": 121.5538572,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%99%E9%9F%93%E7%94%B7%EF%BD%9C%E9%9F%93%E5%9C%8B%E7%86%9F%E6%88%90%E7%83%A4%E4%BA%94%E8%8A%B1%E8%82%89%20%E5%93%81%E7%89%8C%E6%A6%82%E5%BF%B5%E5%BA%97&query_place_id=ChIJ64w3goyrQjQR8wHL9ywsyR0"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "今天只想吃豬肉！（2人專用）",
+   "price": 1150,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "今天只想吃豬肉！（3人專用）",
+   "price": 1490,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉牛肉都秋哇！（2人專用）",
+   "price": 1150,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉牛肉都秋哇！（3人專用）",
+   "price": 1710,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

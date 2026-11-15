@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "Skylark洋食‧芳鄰 東湖康寧店",
+  "address": "11486臺北市內湖區南湖里康寧路三段72號2樓",
+  "lat": 25.069912,
+  "lng": 121.611461,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Skylark%E6%B4%8B%E9%A3%9F%E2%80%A7%E8%8A%B3%E9%84%B0%20%E6%9D%B1%E6%B9%96%E5%BA%B7%E5%AF%A7%E5%BA%97&query_place_id=ChIJcYjwxIarQjQRz8uTFtR5JGg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "美國醬海鮮焗飯",
+   "price": 380,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜味白醬焗烤起士雞肉飯",
+   "price": 250,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典海鮮咖哩炒飯",
+   "price": 360,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薑汁燒國產香草豬&裙襬蛋包飯",
+   "price": 300,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露風味核桃鮮蔬野菇燉飯",
+   "price": 220,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

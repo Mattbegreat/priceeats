@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "8292烤肉",
+  "address": "106臺北市大安區車層里忠孝東路四段223巷36號",
+  "lat": 25.0431364,
+  "lng": 121.5531374,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=8292%E7%83%A4%E8%82%89&query_place_id=ChIJi4HNO8SrQjQRuH9zOCnBekU"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "豬腳套餐",
+   "price": 1300,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬腳（單點）",
+   "price": 550,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣炒豬腳",
+   "price": 600,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

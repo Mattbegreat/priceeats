@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "巷仔內烏骨雞海鮮攤",
+  "address": "221新北市汐止區仁德里和平街11號",
+  "lat": 25.0706009,
+  "lng": 121.6631279,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B7%B7%E4%BB%94%E5%85%A7%E7%83%8F%E9%AA%A8%E9%9B%9E%E6%B5%B7%E9%AE%AE%E6%94%A4&query_place_id=ChIJ0wo6jQ1TXTQR00AYXwtaBEE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "切仔乾麵",
+   "price": 40,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "切仔湯麵",
+   "price": 40,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "下水湯",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "冬菜鴨肉湯",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芋頭排骨湯",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

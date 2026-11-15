@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "燒酒烤烤豬",
+  "address": "106臺北市大安區光武里大安路一段51巷22號",
+  "lat": 25.0430331,
+  "lng": 121.5469997,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%87%92%E9%85%92%E7%83%A4%E7%83%A4%E8%B1%AC&query_place_id=ChIJ4XYXOG-rQjQRu8BA0V6_b1U"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "海鮮豆腐鍋",
+   "price": 320,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大醬豬肉鍋",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜豬肉鍋",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸雞年糕飯",
+   "price": 320,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式烤肉飯",
+   "price": 320,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式豬肉湯飯",
+   "price": 350,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式辣牛肉湯",
+   "price": 370,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式炸醬麵",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

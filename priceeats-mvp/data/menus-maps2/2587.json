@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "鳥人拉麵-台灣總店TOTTO Ramen",
+  "address": "106臺北市大安區光武里復興南路一段107巷5弄9號",
+  "lat": 25.0442602,
+  "lng": 121.5443423,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E4%BA%BA%E6%8B%89%E9%BA%B5-%E5%8F%B0%E7%81%A3%E7%B8%BD%E5%BA%97TOTTO%20Ramen&query_place_id=ChIJew-jS9qrQjQRGCWoUp5px4I"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "731白湯拉麵",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鳥人白湯拉麵(雞/豚)",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "激辛鳥人白湯拉麵(雞/豚)",
+   "price": 240,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鳥人辛白湯拉麵(雞/豚)",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蝦味拉麵",
+   "price": 240,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鳥人厚切叉燒拉麵(雞/豚)",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

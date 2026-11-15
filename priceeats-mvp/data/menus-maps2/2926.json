@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "島津和牛咖哩",
+  "address": "105臺北市松山區精忠里民生東路四段97巷1弄2號",
+  "lat": 25.0585116,
+  "lng": 121.5519139,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B3%B6%E6%B4%A5%E5%92%8C%E7%89%9B%E5%92%96%E5%93%A9&query_place_id=ChIJE0ZElHKrQjQRBpUlKvkhrKE"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-01-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "香煎薯餅",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "西式帶骨香腸",
+   "price": 80,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥香草雞胸",
+   "price": 80,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸唐揚雞",
+   "price": 150,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式炸豬排",
+   "price": 150,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸日式牡蠣（3顆）",
+   "price": 220,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸日式炸蝦（2隻）",
+   "price": 180,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子玉子燒",
+   "price": 160,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

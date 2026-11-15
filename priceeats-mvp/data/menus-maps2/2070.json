@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "ONO POKE 夏威夷沙拉飯 汐止忠孝店",
+  "address": "221新北市汐止區新昌里忠孝東路239號",
+  "lat": 25.0673971,
+  "lng": 121.6627476,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ONO%20POKE%20%E5%A4%8F%E5%A8%81%E5%A4%B7%E6%B2%99%E6%8B%89%E9%A3%AF%20%E6%B1%90%E6%AD%A2%E5%BF%A0%E5%AD%9D%E5%BA%97&query_place_id=ChIJE3p68V9TXTQR2Cir5zdvxOs"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "自由配（豆腐）",
+   "price": 125,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "自由配（雞肉）",
+   "price": 145,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "自由配（鮪魚）",
+   "price": 155,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "自由配（蝦仁）",
+   "price": 155,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "自由配（干貝）",
+   "price": 155,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "自由配（花枝）",
+   "price": 155,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "自由配（鮭魚）",
+   "price": 175,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

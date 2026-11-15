@@ -1,0 +1,126 @@
+{
+ "restaurant": {
+  "name": "維康輕食吧",
+  "address": "105臺北市松山區龍田里健康路131號",
+  "lat": 25.0543355,
+  "lng": 121.5575888,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%B6%AD%E5%BA%B7%E8%BC%95%E9%A3%9F%E5%90%A7&query_place_id=ChIJOVwSEACrQjQR-0Rxx3sZbTY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-11-04",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "厚片吐司（花生）",
+   "price": 25,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚片吐司（奶酥）",
+   "price": 25,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚片吐司（草莓）",
+   "price": 25,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "厚片吐司（巧克力）",
+   "price": 25,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薄片吐司（鮪魚）",
+   "price": 30,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薄片吐司（肉鬆）",
+   "price": 30,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "6吋總匯披薩",
+   "price": 65,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "米漢堡（培根牛）",
+   "price": 65,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "米漢堡（薑燒豬）",
+   "price": 65,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "米漢堡（咖哩雞）",
+   "price": 65,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "米漢堡（蒲燒鯛）",
+   "price": 65,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "米漢堡（五穀青蔬素干貝）",
+   "price": 65,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻油雞肉飯",
+   "price": 85,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三珍杏包菇飯",
+   "price": 85,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青醬野菇培根義大利麵",
+   "price": 85,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹹粥",
+   "price": 35,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

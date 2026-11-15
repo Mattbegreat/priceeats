@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "よる-Yoru by Dennis Wang",
+  "address": "10491臺北市中山區埤頭里八德路二段332巷16號",
+  "lat": 25.046652,
+  "lng": 121.543252,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%88%E3%82%8B-Yoru%20by%20Dennis%20Wang&query_place_id=ChIJWSrdbHOrQjQRUBnsOzPfyE8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "黑巧克力牛肉咖哩烏龍麵定食",
+   "price": 390,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑巧克力牛肉咖哩飯定食",
+   "price": 370,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式牛肉叉燒拉麵定食(牛肋條)",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸豬排定食",
+   "price": 480,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸豬排拉麵定食",
+   "price": 480,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸豬排（單點）",
+   "price": 350,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秘醬豚肉(炸)（單點）",
+   "price": 350,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "秘制黑羽唐揚雞（單點）",
+   "price": 290,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

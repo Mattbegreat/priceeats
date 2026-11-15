@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "Snail 蝸牛義大利餐廳 敦南店",
+  "address": "106臺北市大安區義安里敦化南路二段81巷49號",
+  "lat": 25.030032,
+  "lng": 121.5506455,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snail%20%E8%9D%B8%E7%89%9B%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%A4%90%E5%BB%B3%20%E6%95%A6%E5%8D%97%E5%BA%97&query_place_id=ChIJweovLs2rQjQRxNJvMGxKxMI"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "雙人商業午餐",
+   "price": 1380,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙人套餐",
+   "price": 1680,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

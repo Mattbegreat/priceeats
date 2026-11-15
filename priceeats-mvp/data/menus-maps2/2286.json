@@ -1,0 +1,371 @@
+{
+ "restaurant": {
+  "name": "軟蛋醬 蛋包飯專門製作所 台北東湖店",
+  "address": "114臺北市內湖區東湖里東湖路119巷46號",
+  "lat": 25.0696106,
+  "lng": 121.6170724,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%BB%9F%E8%9B%8B%E9%86%AC%20%E8%9B%8B%E5%8C%85%E9%A3%AF%E5%B0%88%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80%20%E5%8F%B0%E5%8C%97%E6%9D%B1%E6%B9%96%E5%BA%97&query_place_id=ChIJn0VYdQCtQjQRaEqlROxYROE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "日式黑咖哩蛋包飯（雞胸）",
+   "price": 149,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式黑咖哩蛋包飯（豬肉）",
+   "price": 169,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式黑咖哩蛋包飯（牛肉）",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式綠咖哩蛋包飯（雞胸）",
+   "price": 149,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式綠咖哩蛋包飯（豬肉）",
+   "price": 169,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式綠咖哩蛋包飯（牛肉）",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "新加坡叻沙蛋包飯（雞胸）",
+   "price": 149,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "新加坡叻沙蛋包飯（豬肉）",
+   "price": 169,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "新加坡叻沙蛋包飯（牛肉）",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "南洋椰汁咖哩蛋包飯（雞胸）",
+   "price": 149,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "南洋椰汁咖哩蛋包飯（豬肉）",
+   "price": 169,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "南洋椰汁咖哩蛋包飯（牛肉）",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑松露白醬蛋包飯（雞胸）",
+   "price": 149,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑松露白醬蛋包飯（豬肉）",
+   "price": 169,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑松露白醬蛋包飯（牛肉）",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式茄汁肉醬蛋包飯（雞胸）",
+   "price": 149,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式茄汁肉醬蛋包飯（豬肉）",
+   "price": 169,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式茄汁肉醬蛋包飯（牛肉）",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "川味紅油麻婆蛋包飯（雞胸）",
+   "price": 149,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "川味紅油麻婆蛋包飯（豬肉）",
+   "price": 169,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "川味紅油麻婆蛋包飯（牛肉）",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥辣肉醬蛋包飯（雞胸）",
+   "price": 149,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥辣肉醬蛋包飯（豬肉）",
+   "price": 169,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥辣肉醬蛋包飯（牛肉）",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "方便素蛋包飯",
+   "price": 139,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薄鹽舒肥雞胸（150g）",
+   "price": 79,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薄鹽舒肥雞胸（200g）",
+   "price": 99,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香蔥舒肥雞胸（150g）",
+   "price": 85,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香蔥舒肥雞胸（200g）",
+   "price": 105,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海南舒肥雞胸（150g）",
+   "price": 85,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海南舒肥雞胸（200g）",
+   "price": 105,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜蓉舒肥雞胸（150g）",
+   "price": 85,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜蓉舒肥雞胸（200g）",
+   "price": 105,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "口水雞舒肥雞胸（150g）",
+   "price": 85,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "口水雞舒肥雞胸（200g）",
+   "price": 105,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "胡麻花椰菜",
+   "price": 49,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式蔬菜湯",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法式洋蔥湯",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌蛋包湯",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香菇雞腿湯",
+   "price": 89,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香菇雞腿湯烏龍麵",
+   "price": 115,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "剝皮辣椒雞腿湯",
+   "price": 89,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "剝皮辣椒雞腿湯烏龍麵",
+   "price": 115,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "干貝雞腿湯",
+   "price": 99,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "干貝雞腿湯烏龍麵",
+   "price": 125,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "茶樹菇雞腿湯",
+   "price": 99,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "茶樹菇雞腿湯烏龍麵",
+   "price": 125,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "巴西蘑菇猴頭菇湯",
+   "price": 99,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "巴西蘑菇猴頭菇湯烏龍麵",
+   "price": 125,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "剝皮辣椒猴頭菇湯",
+   "price": 99,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "剝皮辣椒猴頭菇湯烏龍麵",
+   "price": 125,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

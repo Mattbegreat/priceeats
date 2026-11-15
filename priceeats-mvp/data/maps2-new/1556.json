@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "無双豚骨拉麵光復店",
+  "address": "105臺北市松山區吉祥里光復北路11巷97號1樓",
+  "lat": 25.0505031,
+  "lng": 121.5623527,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%84%A1%E5%8F%8C%E8%B1%9A%E9%AA%A8%E6%8B%89%E9%BA%B5%E5%85%89%E5%BE%A9%E5%BA%97&query_place_id=ChIJVahHYACrQjQROp217YabVcw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "旨辛味噌",
+   "price": 165,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "濃厚豚骨",
+   "price": 155,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "濃厚海老湯",
+   "price": 165,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

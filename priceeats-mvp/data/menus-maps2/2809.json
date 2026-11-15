@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "好日子韓酒館 Halu Korean Bistro",
+  "address": "106057臺北市大安區建倫里敦化南路一段233巷59號一樓",
+  "lat": 25.040506,
+  "lng": 121.5523003,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A5%BD%E6%97%A5%E5%AD%90%E9%9F%93%E9%85%92%E9%A4%A8%20Halu%20Korean%20Bistro&query_place_id=ChIJdWaiSY2rQjQROVF81SuIQ50"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "首爾小酒館雙人套餐",
+   "price": 1280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵盤烤五花肉泡菜（單點）",
+   "price": 450,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑松露牛肉炸醬麵（單點）",
+   "price": 380,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "首爾小食便當（單點）",
+   "price": 350,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬蟹（一隻蟹，海苔飯）（單點）",
+   "price": 300,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

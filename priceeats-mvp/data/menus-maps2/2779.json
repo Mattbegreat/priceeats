@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "Takeout Burger&Cafe 延吉店",
+  "address": "106臺北市大安區車層里延吉街160巷5之3號",
+  "lat": 25.039309,
+  "lng": 121.554432,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Takeout%20Burger%26Cafe%20%E5%BB%B6%E5%90%89%E5%BA%97&query_place_id=ChIJe-xManurQjQR86B2AsLZUD8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "鮭魚油醋沙拉",
+   "price": 320,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "凱薩雞肉沙拉",
+   "price": 290,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "胡麻野菇沙拉",
+   "price": 290,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "堅果優格鮮蝦沙拉",
+   "price": 320,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

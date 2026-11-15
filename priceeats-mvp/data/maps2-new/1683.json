@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "ZERO Café",
+  "address": "105臺北市松山區東光里南京東路五段23巷6弄29號",
+  "lat": 25.052176,
+  "lng": 121.559058,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ZERO%20Caf%C3%A9&query_place_id=ChIJx9iwOuurQjQRdcwkbrZvqXY"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "嫩煎舒肥雞胸肉",
+   "price": 320,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒙特婁大蒜脆皮雞腿排",
+   "price": 350,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "澳洲純牛肉漢堡排",
+   "price": 340,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手工雞胸肉丸",
+   "price": 320,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "匈牙利煎鯛魚和蝦",
+   "price": 350,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔥鹽燒烤松阪豬",
+   "price": 350,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "朝日炸雞咖喱飯",
+   "price": 250,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式豬排咖喱飯",
+   "price": 260,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司牛肉漢堡排咖喱飯",
+   "price": 260,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "農家蔬菜咖喱飯",
+   "price": 240,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

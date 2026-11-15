@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "松屋食堂",
+  "address": "221新北市汐止區城中里建成路59巷57號",
+  "lat": 25.0723274,
+  "lng": 121.6610474,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E5%B1%8B%E9%A3%9F%E5%A0%82&query_place_id=ChIJ1XmDIBJTXTQRkBITGksgAfA"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "醬燒魚頭定食",
+   "price": 220,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤午腿定食",
+   "price": 219,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "明太子雞翅定食",
+   "price": 230,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤紅甘定食",
+   "price": 279,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青雞魚定食",
+   "price": 380,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "軟殼蟹壽司",
+   "price": 230,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焦糖鮭魚（二貫）",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮沙拉捲",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

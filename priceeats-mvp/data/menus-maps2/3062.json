@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "Leisure Cafe",
+  "address": "105臺北市松山區中華里敦化北路145巷44號",
+  "lat": 25.0538049,
+  "lng": 121.55267,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Leisure%20Cafe&query_place_id=ChIJ4aw6bemrQjQRRiUUYLpmuC4"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-11-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "法式鄉村雞肉鹹派",
+   "price": 190,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "普羅旺斯蔬菜鹹派",
+   "price": 190,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燻鮭魚優格沙拉",
+   "price": 230,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蘋果蛋沙拉歐式麵包盤",
+   "price": 210,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

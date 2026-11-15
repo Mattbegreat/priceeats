@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "圓味堂(低GI水煮餐盒）",
+  "address": "221081新北市汐止區康福里福德一路103號號 1 樓",
+  "lat": 25.0682129,
+  "lng": 121.6380206,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%9C%93%E5%91%B3%E5%A0%82%28%E4%BD%8EGI%E6%B0%B4%E7%85%AE%E9%A4%90%E7%9B%92%EF%BC%89&query_place_id=ChIJdV9GB8lTXTQRZcs01WbQx8A"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "圓味嫩雞胸",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海南雞",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "圓味蔬食",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泡菜梅花豬",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司嫩雞胸",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "高蛋白雞力餐",
+   "price": 180,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塔香水煮蝦",
+   "price": 155,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香蒜椒鹽巴沙魚",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒檸檬鮭魚",
+   "price": 155,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒檸檬椒鹽魚",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香蒜椒鹽牛五花",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海陸餐",
+   "price": 210,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

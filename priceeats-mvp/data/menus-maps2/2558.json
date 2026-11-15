@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "上善豆家 復興店",
+  "address": "106臺北市大安區復興南路一段107巷16號",
+  "lat": 25.0434816,
+  "lng": 121.545194,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%8A%E5%96%84%E8%B1%86%E5%AE%B6%20%E5%BE%A9%E8%88%88%E5%BA%97&query_place_id=ChIJEc6UUNqrQjQRhtZ1ntdZdFg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "二人套餐",
+   "price": 1588,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "四人套餐",
+   "price": 2888,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "倉盈頭",
+   "price": 340,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "俞香茄子",
+   "price": 320,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛋酥滷白菜",
+   "price": 380,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "塔香鐵板豆腐",
+   "price": 330,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "三杯猴菇智慧糕",
+   "price": 380,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬燒乾鍋G",
+   "price": 350,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

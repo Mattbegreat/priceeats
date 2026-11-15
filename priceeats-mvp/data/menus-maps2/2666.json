@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "ivette Da An",
+  "address": "106臺北市大安區仁愛里敦化南路一段270巷21號",
+  "lat": 25.0391096,
+  "lng": 121.5469544,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ivette%20Da%20An&query_place_id=ChIJBZALI_irQjQRxCx2wn6okX0"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "酸麵包佐奶油及手作果醬",
+   "price": 180,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "可頌佐奶油及手作果醬",
+   "price": 220,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酪梨開放式三明治",
+   "price": 340,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮪魚起司熱壓三明治",
+   "price": 390,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式泡菜酪梨熱壓三明治",
+   "price": 390,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "桂花酒釀蜂蜜優格穀麥水果碗",
+   "price": 390,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "全植綠色蔬菜佛陀碗",
+   "price": 440,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露蜂蜜酪奶炸雞佐炸薯條及酸奶醬",
+   "price": 490,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "無花果季節沙拉",
+   "price": 490,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "兒童早餐盤",
+   "price": 390,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

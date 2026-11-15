@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "Miacucina 復興店",
+  "address": "106臺北市大安區光武里復興南路一段107巷11號",
+  "lat": 25.0436666,
+  "lng": 121.5448098,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Miacucina%20%E5%BE%A9%E8%88%88%E5%BA%97&query_place_id=ChIJ0YnMT9qrQjQRkB7Le9GP8rU"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "松露蒜油野菇麵",
+   "price": 495,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "太陽蛋烤甜椒蒜油麵",
+   "price": 495,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "布拉塔奶酪羅勒青醬麵",
+   "price": 560,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑松露奶油蘑菇麵",
+   "price": 495,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "布拉塔奶酪與檸檬蒜香奶油麵",
+   "price": 520,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "Mia 最愛的草莓胡桃沙拉",
+   "price": 485,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "扁豆與鷹嘴豆烤花椰菜沙拉",
+   "price": 475,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤蔬菜野菇沙拉",
+   "price": 475,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "農夫素培根沙拉",
+   "price": 485,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻素鮭魚酪梨凱撒沙拉",
+   "price": 495,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

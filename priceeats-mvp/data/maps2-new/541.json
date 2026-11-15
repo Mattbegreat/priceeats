@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "大佳牛雜湯",
+  "address": "114臺北市內湖區紫星里康寧路一段108號",
+  "lat": 25.0795654,
+  "lng": 121.5932361,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E4%BD%B3%E7%89%9B%E9%9B%9C%E6%B9%AF&query_place_id=ChIJiUiGkY2sQjQR4Ju99FE_lmI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "牛肉麵",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛雜麵",
+   "price": 170,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉湯",
+   "price": 140,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛雜湯",
+   "price": 140,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛腩飯",
+   "price": 170,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉湯麵",
+   "price": 80,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "乾麵",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

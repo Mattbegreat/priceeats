@@ -1,0 +1,161 @@
+{
+ "restaurant": {
+  "name": "好米亞",
+  "address": "106臺北市大安區仁愛里敦化南路一段270巷6號",
+  "lat": 25.038892,
+  "lng": 121.547985,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A5%BD%E7%B1%B3%E4%BA%9E&query_place_id=ChIJly19jbyrQjQRBN17akR0XKo"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "經典瑤柱火腿雞湯",
+   "price": 1880,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蓮香豬肚雞湯",
+   "price": 2280,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "靈菇百味雞湯",
+   "price": 2580,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "竹韻筍笙雞湯",
+   "price": 2580,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "御品鮮鮑雞湯",
+   "price": 2680,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "時令蔬菜",
+   "price": 199,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "翠竹嫩筍",
+   "price": 349,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "當日鮮菇",
+   "price": 199,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "竹笙",
+   "price": 399,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蓮子豬肚",
+   "price": 399,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "腐竹豆皮",
+   "price": 199,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮蝦餛飩（6顆）",
+   "price": 199,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生食花枝片",
+   "price": 199,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "新鮮蛤蜊",
+   "price": 199,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "中華鮑魚（顆）（10顆，每顆169元）",
+   "price": 1690,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "中華鮑魚（3顆）",
+   "price": 469,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大白蝦（3隻）",
+   "price": 299,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "龍虎石斑魚片",
+   "price": 369,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "濃郁原湯（1公升）",
+   "price": 369,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "活凍本島明蝦（隻）（10顆，每顆369元）",
+   "price": 3690,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "活凍俄羅斯帝王蟹腳（單隻腳）（10顆，每顆899元）",
+   "price": 8990,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "自煮生活永續飲食概念店",
+  "address": "110臺北市信義區松山路11號蔦屋書店內號 3F",
+  "lat": 25.0492016,
+  "lng": 121.5783212,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%87%AA%E7%85%AE%E7%94%9F%E6%B4%BB%E6%B0%B8%E7%BA%8C%E9%A3%B2%E9%A3%9F%E6%A6%82%E5%BF%B5%E5%BA%97&query_place_id=ChIJ92CD_8WrQjQRE2ZEg13ASUw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "風味麵包盤",
+   "price": 220,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒舒肥嫩雞胸",
+   "price": 180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "低溫慢烤熱帶果香手撕豬",
+   "price": 180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

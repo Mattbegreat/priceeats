@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "河南鍋貼店",
+  "address": "221新北市汐止區秀山里仁愛路16號",
+  "lat": 25.0631247,
+  "lng": 121.6596176,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%B3%E5%8D%97%E9%8D%8B%E8%B2%BC%E5%BA%97&query_place_id=ChIJ8TRQM2xTXTQRZ5tX81X5vQQ"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-11-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "鍋貼（10顆，每顆7元）",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "水餃（10顆，每顆7元）",
+   "price": 70,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "酸辣湯",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "玉米濃湯",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "大戶屋 松山車站店",
+  "address": "110臺北市信義區永吉里松山路11號",
+  "lat": 25.0492281,
+  "lng": 121.5786136,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%88%B6%E5%B1%8B%20%E6%9D%BE%E5%B1%B1%E8%BB%8A%E7%AB%99%E5%BA%97&query_place_id=ChIJS2oVop6rQjQRF7WCG3-Tzwk"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-11-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "炭烤牛排定食",
+   "price": 490,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炭烤牛排（單點）",
+   "price": 420,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

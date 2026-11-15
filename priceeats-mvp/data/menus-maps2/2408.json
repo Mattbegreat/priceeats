@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "天文嘉義雞肉飯",
+  "address": "114臺北市內湖區東湖里康樂街72巷17弄52號",
+  "lat": 25.07023,
+  "lng": 121.616872,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E6%96%87%E5%98%89%E7%BE%A9%E9%9B%9E%E8%82%89%E9%A3%AF&query_place_id=ChIJ3RRzeLqsQjQRL0ZlYflqbgQ"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-02-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "油淋雞腿飯",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞腿飯（炸/滷）",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "魚排飯",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "排骨飯",
+   "price": 115,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蒜泥白肉飯",
+   "price": 115,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "焢肉飯",
+   "price": 115,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "糖醋雞丁飯",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "京醬肉絲飯",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞肉絲飯",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "無骨雞排飯",
+   "price": 100,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蔬菜飯",
+   "price": 80,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

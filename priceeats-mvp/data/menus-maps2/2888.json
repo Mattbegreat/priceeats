@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "阿萬師麵線",
+  "address": "105台灣松山區富錦里富錦街514號",
+  "lat": 25.0608845,
+  "lng": 121.5646973,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E8%90%AC%E5%B8%AB%E9%BA%B5%E7%B7%9A&query_place_id=ChIJGxv_MoyrQjQRNF__m9xPM5I"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "大腸麵線（大）",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大腸麵線（小）",
+   "price": 40,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "羊肉麵線（大）",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "羊肉麵線（小）",
+   "price": 40,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "包子",
+   "price": 25,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "饅頭",
+   "price": 15,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

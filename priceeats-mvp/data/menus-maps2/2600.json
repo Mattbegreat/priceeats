@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "知初拉麵 Root ramen(Vegan)(last order 14:00/19:30)",
+  "address": "106臺北市大安區建倫里忠孝東路四段216巷32弄3號1樓",
+  "lat": 25.0399681,
+  "lng": 121.5526508,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%9F%A5%E5%88%9D%E6%8B%89%E9%BA%B5%20Root%20ramen%28Vegan%29%28last%20order%2014%3A00/19%3A30%29&query_place_id=ChIJZY5AHACrQjQRmiIheMbgmQk"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-11-04",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "鮮蔬白濃湯拉麵",
+   "price": 280,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蕃茄豆乳拉麵",
+   "price": 280,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "柚香剝皮辣椒拉麵",
+   "price": 265,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "南洋椰香拉麵",
+   "price": 265,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "赤白味噌豆乳拉麵",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬油燒拉麵",
+   "price": 250,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "杏鮑菇毛豆球",
+   "price": 95,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式佃煮蘿蔔",
+   "price": 85,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "梅漬蕃茄涼拌嫩豆腐",
+   "price": 85,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩可樂餅（10顆，每顆65元）",
+   "price": 650,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "慢燉蘑菇搭檸香美乃滋",
+   "price": 75,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

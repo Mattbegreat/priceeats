@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "歐姆蛋俱樂部Omuriceclub",
+  "address": "114臺北市內湖區麗山里內湖路一段437巷4弄3號",
+  "lat": 25.081941,
+  "lng": 121.572003,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%AD%90%E5%A7%86%E8%9B%8B%E4%BF%B1%E6%A8%82%E9%83%A8Omuriceclub&query_place_id=ChIJrVwMgTStQjQR-4a0ayRRYrQ"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-11-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "歐姆蛋特餐（內用）",
+   "price": 210,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆蛋特餐（外帶）",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆蛋牛丼飯（內用）",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆蛋牛丼飯（外帶）",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆蛋豬丼飯（內用）",
+   "price": 160,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "歐姆蛋豬丼飯（外帶）",
+   "price": 130,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

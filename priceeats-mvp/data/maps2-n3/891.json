@@ -1,0 +1,112 @@
+{
+ "restaurant": {
+  "name": "春大直",
+  "address": "10491臺北市中山區金泰里樂群三路303號",
+  "lat": 25.0828015,
+  "lng": 121.5598921,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%98%A5%E5%A4%A7%E7%9B%B4&query_place_id=ChIJbQxz7KStQjQRs2gxZCvdkv4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "爐烤嫩牛（酸種）",
+   "price": 420,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻牛胸腹（酸種）",
+   "price": 420,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手撕豬肉（酸種）",
+   "price": 360,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛小排（酸種）",
+   "price": 980,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爐烤嫩牛（巧巴達/軟法）",
+   "price": 420,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻牛胸腹（巧巴達/軟法）",
+   "price": 420,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手撕豬肉（巧巴達/軟法）",
+   "price": 360,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛小排（巧巴達/軟法）",
+   "price": 980,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爐烤嫩牛（可頌）",
+   "price": 420,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻牛胸腹（可頌）",
+   "price": 420,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手撕豬肉（可頌）",
+   "price": 360,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛小排（可頌）",
+   "price": 980,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "脆皮豬（布里歐）",
+   "price": 420,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "油封鴨腿（布里歐）",
+   "price": 420,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

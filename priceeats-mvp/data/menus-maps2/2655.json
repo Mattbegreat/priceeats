@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "Moi Cafe 忠孝店",
+  "address": "106臺北市大安區光武里復興南路一段135巷29號",
+  "lat": 25.042732,
+  "lng": 121.545523,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moi%20Cafe%20%E5%BF%A0%E5%AD%9D%E5%BA%97&query_place_id=ChIJ4UxH9sirQjQRg4wcwRVAwnM"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "台式三杯雞義大利麵",
+   "price": 380,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典培根蛋黃奶油水管麵",
+   "price": 380,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "乾燒鮮蝦奶油義大利麵",
+   "price": 400,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "馬告燻鮭魚奶油蝴蝶麵",
+   "price": 400,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜辣鮮蝦蛤蜊義大利麵",
+   "price": 450,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酒香黑糖雞腿義大利麵",
+   "price": 420,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嫩煎櫻桃鴨胸柚香義大利麵",
+   "price": 620,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "栗子南瓜義式臘腸燉飯",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露牛肝菌野菇燉飯",
+   "price": 390,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油蛤蜊帆立貝燉飯",
+   "price": 400,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露麻油松阪豬燉飯",
+   "price": 460,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒透抽墨魚燉飯",
+   "price": 560,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

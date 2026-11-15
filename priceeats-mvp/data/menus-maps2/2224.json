@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "呆呆牛肉麵",
+  "address": "114臺北市內湖區五分里東湖路58號",
+  "lat": 25.0686999,
+  "lng": 121.6138986,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%91%86%E5%91%86%E7%89%9B%E8%82%89%E9%BA%B5&query_place_id=ChIJQy2RLxitQjQRZ0Dxf8TSbzw"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-12-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "招牌牛肉麵（大碗）",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌牛肉麵（小碗）",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌牛雜麵（大碗）",
+   "price": 210,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "招牌牛雜麵（小碗）",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

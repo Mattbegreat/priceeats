@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "虎噗食多健康餐盒 松山鋪",
+  "address": "105臺北市松山區東勢里南京東路四段133巷5弄3號1樓",
+  "lat": 25.0521474,
+  "lng": 121.5552825,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%99%8E%E5%99%97%E9%A3%9F%E5%A4%9A%E5%81%A5%E5%BA%B7%E9%A4%90%E7%9B%92%20%E6%9D%BE%E5%B1%B1%E9%8B%AA&query_place_id=ChIJy_omAymrQjQRI__WgQH8Y1w"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "水嫩嫩雞胸",
+   "price": 150,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎蛋豆腐",
+   "price": 160,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥雞腿",
+   "price": 170,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "五香豬梅花",
+   "price": 180,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白灼鮮白蝦",
+   "price": 180,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥炙鯛魚",
+   "price": 180,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑胡椒嫩肩牛",
+   "price": 185,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "腹肋骰子牛",
+   "price": 195,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒸干地瓜",
+   "price": 20,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "時蔬",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "生菜沙拉",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

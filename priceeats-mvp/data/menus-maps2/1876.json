@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "呼麵線（汐止麵線、五堵麵線、甜不辣）",
+  "address": "221新北市汐止區長安里長興街一段12號",
+  "lat": 25.0787999,
+  "lng": 121.6697128,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%91%BC%E9%BA%B5%E7%B7%9A%EF%BC%88%E6%B1%90%E6%AD%A2%E9%BA%B5%E7%B7%9A%E3%80%81%E4%BA%94%E5%A0%B5%E9%BA%B5%E7%B7%9A%E3%80%81%E7%94%9C%E4%B8%8D%E8%BE%A3%EF%BC%89&query_place_id=ChIJwcbGmUZTXTQR-4nP-m5Xz1w"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-11-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "大腸麵線",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "羊肉麵線",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合麵線",
+   "price": 60,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "甜不辣",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

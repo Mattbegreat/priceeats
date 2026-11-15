@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "牛王 牛肉麵",
+  "address": "221新北市汐止區新昌里南昌街51號",
+  "lat": 25.0683978,
+  "lng": 121.6632475,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%89%9B%E7%8E%8B%20%E7%89%9B%E8%82%89%E9%BA%B5&query_place_id=ChIJ-2OqUgBTXTQRFdGapv74Yoc"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "三寶清燉（小）",
+   "price": 145,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "嫩豆皮",
+   "price": 20,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滷味拼盤蛋",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "醬香豬五花肉飯",
+   "price": 55,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

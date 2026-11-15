@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "gonnaExpress 遠東SOGO台北忠孝店 | 地中海概念 | 原型食物 | 健康餐廳",
+  "address": "106臺北市大安區光武里忠孝東路四段45號B1",
+  "lat": 25.0419311,
+  "lng": 121.5446558,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=gonnaExpress%20%E9%81%A0%E6%9D%B1SOGO%E5%8F%B0%E5%8C%97%E5%BF%A0%E5%AD%9D%E5%BA%97%20%7C%20%E5%9C%B0%E4%B8%AD%E6%B5%B7%E6%A6%82%E5%BF%B5%20%7C%20%E5%8E%9F%E5%9E%8B%E9%A3%9F%E7%89%A9%20%7C%20%E5%81%A5%E5%BA%B7%E9%A4%90%E5%BB%B3&query_place_id=ChIJNSnflAmrQjQR2lK7ZU5G-hM"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "胡麻酪梨雞胸碗",
+   "price": 285,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌野菇豆腐碗",
+   "price": 259,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青醬鮭魚酪梨碗",
+   "price": 299,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "根島海蝦酪梨碗",
+   "price": 299,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大豐收烤蔬菜沙拉",
+   "price": 249,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "GE 舒肥雞胸羽衣甘藍沙拉",
+   "price": 279,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "野菇酪梨羽衣甘藍沙拉",
+   "price": 269,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥牛黑米烤蔬菜溫沙拉",
+   "price": 309,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤鮭魚黑米烤蔬菜溫沙拉",
+   "price": 299,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞胸黑米烤蔬菜溫沙拉",
+   "price": 279,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "今日湯",
+   "price": 79,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

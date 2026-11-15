@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "Cross Cafe克勞斯咖啡店",
+  "address": "106臺北市大安區仁愛里仁愛路四段91巷23號",
+  "lat": 25.0386679,
+  "lng": 121.5467191,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cross%20Cafe%E5%85%8B%E5%8B%9E%E6%96%AF%E5%92%96%E5%95%A1%E5%BA%97&query_place_id=ChIJDZR5S9CrQjQRo2E7h0QiaFY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "藜麥豐收溫沙拉",
+   "price": 250,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小農太陽蛋佐法式鄉村麵包",
+   "price": 150,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "燻鮭魚酪梨早午餐",
+   "price": 300,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

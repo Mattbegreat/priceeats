@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "Cafe Mode 木馬咖啡",
+  "address": "1樓, 376號, No. 376號富錦街松山區臺北市105",
+  "lat": 25.060451,
+  "lng": 121.559133,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Mode%20%E6%9C%A8%E9%A6%AC%E5%92%96%E5%95%A1&query_place_id=ChIJ53RXt_KrQjQRbxTtOk5hL2Y"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "經典麻油雞湯私廚鮮雞湯·銷魂滷肉飯套餐",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "懷味香菇雞湯私廚鮮雞湯·銷魂滷肉飯套餐",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香濃蒜頭雞湯私廚鮮雞湯·銷魂滷肉飯套餐",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "回甘剝皮辣椒雞湯私廚鮮雞湯·銷魂滷肉飯套餐",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "溫補帝王首烏雞湯私廚鮮雞湯·銷魂滷肉飯套餐",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "甘甜鳳梨苦瓜雞湯私廚鮮雞湯·銷魂滷肉飯套餐",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "銷魂滷肉飯",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "木馬大可頌",
+   "price": 350,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮果時蔬沙拉",
+   "price": 330,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "木馬大拼盤",
+   "price": 330,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸薯條",
+   "price": 200,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "墨西哥玉米片",
+   "price": 200,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

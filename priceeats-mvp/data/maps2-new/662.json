@@ -1,0 +1,322 @@
+{
+ "restaurant": {
+  "name": "湯鮮森mini鍋 快速鍋物",
+  "address": "114臺北市內湖區麗山里內湖路一段591巷10弄1號",
+  "lat": 25.081648,
+  "lng": 121.5731516,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B9%AF%E9%AE%AE%E6%A3%AEmini%E9%8D%8B%20%E5%BF%AB%E9%80%9F%E9%8D%8B%E7%89%A9%EF%BD%9C%E6%97%A5%E5%BC%8F%E6%8B%89%E9%BA%B5%EF%BD%9C%E6%BB%B7%E8%82%89%E9%A3%AF%20%28%E6%9C%80%E5%BE%8C%E6%94%B6%E5%AE%A2%E6%99%82%E9%96%9320%3A00%29&query_place_id=ChIJ-1B-50GtQjQR8N47UN8PSD4"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-09-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "素食菜鍋",
+   "price": 169,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "海洋昆布鍋",
+   "price": 179,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蒜香和風湯鍋",
+   "price": 189,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蒜香雞湯鍋",
+   "price": 189,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蛤蠣雞湯鍋",
+   "price": 199,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "暖胃胡椒雞湯",
+   "price": 229,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛油麻辣鍋",
+   "price": 279,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "台灣梅花豬肉（3oz）",
+   "price": 69,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "台灣梅花豬肉（4oz）",
+   "price": 89,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "美國精選牛肉（3oz）",
+   "price": 79,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "美國精選牛肉（4oz）",
+   "price": 99,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "特選澳洲羊肉（3oz）",
+   "price": 99,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "特選澳洲羊肉（4oz）",
+   "price": 119,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炙燒舒肥雞胸（3片）",
+   "price": 40,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炙燒舒肥雞胸（5片）",
+   "price": 59,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "舒肥梅花豬肉（2片）",
+   "price": 50,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "舒肥梅花豬肉（4片）",
+   "price": 90,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炙燒雞腿叉燒（2片）",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炙燒雞腿叉燒（4片）",
+   "price": 110,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蛤蜊（10顆）",
+   "price": 69,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蛤蜊（15顆）",
+   "price": 89,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "白蝦（5隻）",
+   "price": 69,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "白蝦（10隻）",
+   "price": 119,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "高麗菜",
+   "price": 49,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "時蔬",
+   "price": 49,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "水蓮",
+   "price": 59,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "玉米筍",
+   "price": 49,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "玉米",
+   "price": 59,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "白蘿蔔",
+   "price": 39,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "木耳",
+   "price": 49,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "紅蘿蔔",
+   "price": 39,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "金針菇",
+   "price": 49,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "韓式魚板",
+   "price": 59,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "小貢丸",
+   "price": 49,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "生豆皮",
+   "price": 49,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "凍豆腐",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香Q腸",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "冬粉",
+   "price": 30,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "魚卵捲",
+   "price": 49,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "椒麻滷肉飯",
+   "price": 40,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "叉燒飯",
+   "price": 60,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "滷肉飯",
+   "price": 35,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "叉燒飯+溫泉蛋",
+   "price": 80,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "麻辣乾拌麵",
+   "price": 89,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

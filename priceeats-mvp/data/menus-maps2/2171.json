@@ -1,0 +1,126 @@
+{
+ "restaurant": {
+  "name": "原宿廚房",
+  "address": "221新北市汐止區文化里新台五路一段遠雄U-TOWN大樓C棟b1",
+  "lat": 25.0620251,
+  "lng": 121.6484523,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8E%9F%E5%AE%BF%E5%BB%9A%E6%88%BF&query_place_id=ChIJdTOjBQBTXTQRdjHO6qWv5jU"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "歐姆蛋包飯全餐",
+   "price": 249,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.75
+  },
+  {
+   "name": "黑它黑骨雞蛋包飯",
+   "price": 249,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.7
+  },
+  {
+   "name": "赤寺嫩雞蛋包飯",
+   "price": 249,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.75
+  },
+  {
+   "name": "焗烤奶油起士蛋包飯",
+   "price": 219,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸豬排咖哩蛋包飯",
+   "price": 259,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "炸蝦咖哩蛋包飯",
+   "price": 259,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "炸蝦咖哩飯",
+   "price": 259,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "切片牛肉咖哩歐姆蛋包飯",
+   "price": 259,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炸豬排咖哩飯",
+   "price": 219,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.75
+  },
+  {
+   "name": "嫩雞咖哩飯",
+   "price": 169,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.8
+  },
+  {
+   "name": "炸豬排咖哩飯",
+   "price": 199,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "炸豬排+炸蝦咖哩飯",
+   "price": 209,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焗烤牛肉飯",
+   "price": 239,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.75
+  },
+  {
+   "name": "焗烤牛肉咖哩焗飯",
+   "price": 259,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.8
+  },
+  {
+   "name": "雙拼起司豬排焗烤飯",
+   "price": 239,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "雙能牛肉起士焗飯",
+   "price": 259,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.85
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "McCafé 咖啡-台北南京五店(含現烤法點)",
+  "address": "10491臺北市中山區力行里南京東路三段210號之 1 號",
+  "lat": 25.051612,
+  "lng": 121.543211,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=McCaf%C3%A9%20%E5%92%96%E5%95%A1-%E5%8F%B0%E5%8C%97%E5%8D%97%E4%BA%AC%E4%BA%94%E5%BA%97%28%E5%90%AB%E7%8F%BE%E7%83%A4%E6%B3%95%E9%BB%9E%29&query_place_id=ChIJMd9utqurQjQRyoid9wzW0jo"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "正宗韓式辣醬鷄腿堡 代言人小卡特餐",
+   "price": 294,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "十塊辣味麥克鷄塊 代言人小卡特餐",
+   "price": 278,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "十塊麥克鷄塊 代言人小卡特餐",
+   "price": 278,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "K-POP代言人小卡 分享盒(原味鷄塊)",
+   "price": 440,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "正宗韓式分享盒(原味鷄塊)",
+   "price": 462,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

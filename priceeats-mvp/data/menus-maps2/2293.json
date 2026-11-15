@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "鳥人拉麵 東湖店",
+  "address": "114臺北市內湖區安湖里東湖路43巷5號",
+  "lat": 25.0692863,
+  "lng": 121.6139385,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E4%BA%BA%E6%8B%89%E9%BA%B5%20%E6%9D%B1%E6%B9%96%E5%BA%97&query_place_id=ChIJo1Sw0lGtQjQR0MXyaQdn9Uw"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-11-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "淡麗·鳥人白湯",
+   "price": 160,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白湯拉麵",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "731白湯",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌拉麵",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "櫻花蝦味",
+   "price": 240,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "咖哩拉麵",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "強棒拉麵",
+   "price": 250,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔬菜拉麵",
+   "price": 250,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

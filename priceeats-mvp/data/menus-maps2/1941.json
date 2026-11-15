@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "金禾咖哩",
+  "address": "221新北市汐止區大同路二段312巷16弄4號",
+  "lat": 25.0657744,
+  "lng": 121.6555751,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E7%A6%BE%E5%92%96%E5%93%A9&query_place_id=ChIJXVUw3QZTXTQR7InZ84Nn-2o"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "豬排咖哩飯",
+   "price": 159,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸蝦咖哩飯",
+   "price": 169,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金禾金賞瓜仔肉便當",
+   "price": 85,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "漢堡排咖哩飯",
+   "price": 159,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚雞咖哩飯",
+   "price": 159,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鱈魚排咖哩飯",
+   "price": 169,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

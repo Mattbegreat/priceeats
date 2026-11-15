@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "弍弎麻辣",
+  "address": "110臺北市信義區國業里松山路522號",
+  "lat": 25.0379776,
+  "lng": 121.5780268,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BC%8D%E5%BC%8E%E9%BA%BB%E8%BE%A3%EF%BD%9C%E8%B1%9A%E9%AA%A8%E9%BA%BB%E8%BE%A3%E7%87%99%E5%B0%88%E9%96%80%EF%BD%9C23%20Spicy%20Hot%EF%BC%81&query_place_id=ChIJv31MgjyrQjQRfjf7ehQhwhU"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "牛肉",
+   "price": 65,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉",
+   "price": 50,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉",
+   "price": 50,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鯛魚",
+   "price": 50,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "細冬粉",
+   "price": 25,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "寬冬粉",
+   "price": 25,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣純鴨血",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

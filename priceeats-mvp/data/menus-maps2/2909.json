@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "雲川水月 蔬食餐酒館",
+  "address": "105臺北市松山區精忠里富錦街120號",
+  "lat": 25.0597433,
+  "lng": 121.5531659,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E5%B7%9D%E6%B0%B4%E6%9C%88%20%E8%94%AC%E9%A3%9F%E9%A4%90%E9%85%92%E9%A4%A8&query_place_id=ChIJu4WdyiOrQjQRAhfyZ_FXs-k"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "Clavius Set Menu 四人套餐",
+   "price": 5288,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

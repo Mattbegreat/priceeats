@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "一風堂 復興SOGO店",
+  "address": "106臺北市大安區義村里忠孝東路三段300號B2",
+  "lat": 25.0408932,
+  "lng": 121.5432417,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E9%A2%A8%E5%A0%82%20%E5%BE%A9%E8%88%88SOGO%E5%BA%97&query_place_id=ChIJv0tiRQCrQjQR-2kYtbWEElo"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "白丸元味×自家製煎餃定食",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "白丸元味×唐揚炸雞定食",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "白丸元味×揚出豆腐定食",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "柚香鹽味×自家製煎餃定食",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "柚香鹽味×唐揚炸雞定食",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "柚香鹽味×揚出豆腐定食",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.85
+  },
+  {
+   "name": "大名家系豚骨×自家製煎餃定食",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "大名家系豚骨×唐揚炸雞定食",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "大名家系豚骨×揚出豆腐定食",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "黑胡椒香雞排",
+  "address": "114臺北市內湖區五分里安康路353號",
+  "lat": 25.0681391,
+  "lng": 121.61583,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BB%91%E8%83%A1%E6%A4%92%E9%A6%99%E9%9B%9E%E6%8E%92&query_place_id=ChIJWVlSurqsQjQRxKj_24Dpqsk"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "雞排",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嫩雞條",
+   "price": 80,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞翅",
+   "price": 30,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

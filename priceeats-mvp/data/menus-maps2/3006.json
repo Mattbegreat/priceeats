@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "神來一爐燒肉民生店",
+  "address": "105臺北市松山區民生東路五段260巷1號",
+  "lat": 25.0590122,
+  "lng": 121.5671068,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E4%BE%86%E4%B8%80%E7%88%90%E7%87%92%E8%82%89%E6%B0%91%E7%94%9F%E5%BA%97&query_place_id=ChIJ_81lQI6rQjQRtusmmw1aaMs"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "神來一爐燒肉吃到飽",
+   "price": 795,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

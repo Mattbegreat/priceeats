@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "豚人拉麵 二代目台灣総本店",
+  "address": "106臺北市大安區建倫里忠孝東路四段170巷5弄10號",
+  "lat": 25.0406826,
+  "lng": 121.5512449,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B1%9A%E4%BA%BA%E6%8B%89%E9%BA%B5%20%E4%BA%8C%E4%BB%A3%E7%9B%AE%E5%8F%B0%E7%81%A3%E7%B7%8F%E6%9C%AC%E5%BA%97&query_place_id=ChIJ8ZmNn7erQjQRtHJwZvW-Xq8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-11-04",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "徹濃拉麵",
+   "price": 280,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清爽拉麵",
+   "price": 280,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣豚骨拉麵",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚炸雞",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "叉燒丼",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炒飯",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸煎餃（12入）",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

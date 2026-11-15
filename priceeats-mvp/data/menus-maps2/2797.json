@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "Waku ⁺｜burger pasta cafe",
+  "address": "10694臺北市大安區正聲里光復南路294巷21號",
+  "lat": 25.0391134,
+  "lng": 121.5564447,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Waku%20%E2%81%BA%EF%BD%9Cburger%20pasta%20cafe&query_place_id=ChIJr7TGi1yrQjQRInnz9AHC1cA"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "壽喜燒牛肉熱煎三明治",
+   "price": 295,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "柚子醬香野菇熱煎三明治",
+   "price": 285,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜味松阪豬青醬熱煎三明治",
+   "price": 325,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚炒蛋開放三明治",
+   "price": 350,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "半顆酪梨蒔蘿燻鮭魚可頌鬆餅",
+   "price": 295,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "糖漬蕃茄辣牛堡",
+   "price": 290,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅醬炒野菇豬排堡",
+   "price": 295,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "滿盛酪梨牛肉堡",
+   "price": 335,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

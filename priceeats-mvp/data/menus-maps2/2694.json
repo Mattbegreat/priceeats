@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "品尚樂食健康餐盒",
+  "address": "106臺北市大安區延吉街93號1樓",
+  "lat": 25.0434478,
+  "lng": 121.5540899,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%93%81%E5%B0%9A%E6%A8%82%E9%A3%9F%E5%81%A5%E5%BA%B7%E9%A4%90%E7%9B%92&query_place_id=ChIJf71kh9urQjQRrKWa48Pj7ls"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "手工腐皮燒-素",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "味噌台灣豬",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香台灣豬",
+   "price": 110,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薑燒豬肉片",
+   "price": 115,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式打拋豬",
+   "price": 115,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "低卡舒肥雞",
+   "price": 120,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "高鈣吻仔魚",
+   "price": 125,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬香白帶魚",
+   "price": 140,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椒麻手撕雞",
+   "price": 130,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎雞腿排",
+   "price": 135,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎鮭魚",
+   "price": 145,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

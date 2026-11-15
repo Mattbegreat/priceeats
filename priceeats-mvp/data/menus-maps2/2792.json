@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "品田牧場 台北光復南店",
+  "address": "106臺北市大安區正聲里光復南路240巷9號1F",
+  "lat": 25.040504,
+  "lng": 121.5569378,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%93%81%E7%94%B0%E7%89%A7%E5%A0%B4%20%E5%8F%B0%E5%8C%97%E5%85%89%E5%BE%A9%E5%8D%97%E5%BA%97&query_place_id=ChIJVbhsAJmrQjQRDB6GiaVEv40"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "厚切腰內豬排定食",
+   "price": 398,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬烤法蘭克牛排定食",
+   "price": 488,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "醬香叉燒定食",
+   "price": 368,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒鹽麴豬排定食",
+   "price": 358,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "薑燒豬排定食",
+   "price": 358,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香酥海苔魚飯（單點）",
+   "price": 49,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "爆爆明太子茶碗蒸（單點）",
+   "price": 79,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

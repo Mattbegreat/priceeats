@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "龍人拉麵忠孝復興店",
+  "address": "106臺北市大安區大安路一段16巷6號",
+  "lat": 25.044312,
+  "lng": 121.5459216,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BE%8D%E4%BA%BA%E6%8B%89%E9%BA%B5%E5%BF%A0%E5%AD%9D%E5%BE%A9%E8%88%88%E5%BA%97&query_place_id=ChIJazrVZNOrQjQR9B6_-vEg1No"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "拉麵（小碗）",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "拉麵（大碗）",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "汁無し（小碗）",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "汁無し（大碗）",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "辣味拉麵（小碗）",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣味拉麵（大碗）",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣味汁無し（小碗）",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "辣味汁無し（大碗）",
+   "price": 320,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

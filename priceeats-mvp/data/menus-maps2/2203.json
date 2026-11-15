@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "烤霸串燒",
+  "address": "221新北市汐止區秀峰里忠孝東路200之5號",
+  "lat": 25.065951,
+  "lng": 121.6615365,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%83%A4%E9%9C%B8%E4%B8%B2%E7%87%92&query_place_id=ChIJeSnOQ21TXTQRM5yX5tBzGis"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-11-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "特製烤蝦",
+   "price": 100,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞心",
+   "price": 35,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

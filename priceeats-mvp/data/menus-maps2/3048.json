@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "肥豚屋豬排食堂",
+  "address": "105臺北市松山區民有里敦化北路244巷37-2號",
+  "lat": 25.0610164,
+  "lng": 121.547538,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%82%A5%E8%B1%9A%E5%B1%8B%E8%B1%AC%E6%8E%92%E9%A3%9F%E5%A0%82&query_place_id=ChIJ-Qza7Z6rQjQRtAyekY3dpHA"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "極厚豬排丼飯",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "極厚豬排咖哩",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "迷你豬排丼飯",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "迷你豬排咖哩",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司漢堡排丼飯",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司漢堡排咖哩",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸起司漢堡排（1塊）（單點）",
+   "price": 130,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "迷你豬排（3塊）（單點）",
+   "price": 130,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式唐揚雞（4塊）（單點）",
+   "price": 90,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔬菜味噌湯（冬季限定）（單點）",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

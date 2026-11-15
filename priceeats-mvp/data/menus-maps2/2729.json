@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "慢步調 咖啡館",
+  "address": "106臺北市大安區忠孝東路三段251巷1弄1號",
+  "lat": 25.0421094,
+  "lng": 121.5417836,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%85%A2%E6%AD%A5%E8%AA%BF%20%E5%92%96%E5%95%A1%E9%A4%A8&query_place_id=ChIJO2MfWderQjQRrSvI-TL_2xA"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-12-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "平凡中的不平凡麵包",
+   "price": 100,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "起士貝果佐酒香乳酪醬",
+   "price": 100,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "手工鹹派（香腸蘑菇）",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "手工鹹派（牛肉洋芋）",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "手工鹹派（五彩鮮蔬-素）",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "牛肉起司捲",
+   "price": 170,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "焗烤燻雞泡菜棍子麵包",
+   "price": 210,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "明太子鮭魚棍子麵包",
+   "price": 210,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "舒肥香料雞凱薩沙拉",
+   "price": 280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "藜麥田園水果沙拉",
+   "price": 280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

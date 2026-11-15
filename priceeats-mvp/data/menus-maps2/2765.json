@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "串在一起平價串燒-東區大安店",
+  "address": "106臺北市大安區大安路一段51巷30號1樓",
+  "lat": 25.0430348,
+  "lng": 121.5473901,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%B2%E5%9C%A8%E4%B8%80%E8%B5%B7%E5%B9%B3%E5%83%B9%E4%B8%B2%E7%87%92-%E6%9D%B1%E5%8D%80%E5%A4%A7%E5%AE%89%E5%BA%97&query_place_id=ChIJKcRp6PCrQjQRTPrFbs4Gnu4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "日式咖哩飯",
+   "price": 99,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式炸豬排咖哩飯",
+   "price": 169,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸牡蠣咖哩飯",
+   "price": 159,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸魚排咖哩飯",
+   "price": 159,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸唐揚雞咖哩飯",
+   "price": 159,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

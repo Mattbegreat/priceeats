@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "Woopen木盆 內湖港墘門市",
+  "address": "114臺北市內湖區麗山里內湖路一段621號",
+  "lat": 25.080645,
+  "lng": 121.5742369,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Woopen%E6%9C%A8%E7%9B%86%20%E5%85%A7%E6%B9%96%E6%B8%AF%E5%A2%98%E9%96%80%E5%B8%82&query_place_id=ChIJYa2b-KmtQjQRKBd6g69TiCs"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "輕盈剛好（外帶）",
+   "price": 160,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "輕盈剛好（內用）",
+   "price": 185,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小資吃飽（外帶）",
+   "price": 265,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "小資吃飽（內用）",
+   "price": 290,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛋白能量補給（外帶）",
+   "price": 345,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蛋白能量補給（內用）",
+   "price": 365,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "就想吃熱的",
+   "price": 379,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "輕奢組合",
+   "price": 450,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "一飯·一肉·一湯",
+   "price": 168,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "吃不停鹹水雞",
+  "address": "114臺北市內湖區樂康里康樂街81號",
+  "lat": 25.0693341,
+  "lng": 121.6187623,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%90%83%E4%B8%8D%E5%81%9C%E9%B9%B9%E6%B0%B4%E9%9B%9E&query_place_id=ChIJ9xDTYkKtQjQRDFcEhE1fdFI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "簡單吃（綜合雞肉1份+任選3樣配菜）",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "多吃點（綜合雞肉2份+任選4樣配菜）",
+   "price": 150,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "吃飽飽（半雞+任選5樣配菜）",
+   "price": 200,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "全雞（單點）",
+   "price": 200,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "半雞（單點）",
+   "price": 120,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞腿（單點）",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞胸（單點）",
+   "price": 50,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "各式配菜（每份）",
+   "price": 20,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "各式配菜（三樣）",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

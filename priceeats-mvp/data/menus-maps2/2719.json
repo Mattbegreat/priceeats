@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "牛丁次郎坊x台北大安支店",
+  "address": "106臺北市大安區復興南路一段107巷19之2號",
+  "lat": 25.0437839,
+  "lng": 121.545207,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%89%9B%E4%B8%81%E6%AC%A1%E9%83%8E%E5%9D%8Ax%E5%8F%B0%E5%8C%97%E5%A4%A7%E5%AE%89%E6%94%AF%E5%BA%97&query_place_id=ChIJD85D9cqrQjQRmLF96y5MecI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "燃·戰斧牛排丼（單點）",
+   "price": 638,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "霜降牛排丼（單點）",
+   "price": 320,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "平白厚切起司豬排丼（單點）",
+   "price": 240,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒安格斯黑牛後腹肉丼（單點）",
+   "price": 168,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒安格斯黑牛後腹肉丼（極盛）",
+   "price": 268,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奈良極上帝王炭燒雞腿丼（單點）",
+   "price": 210,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "南蠻椒麻地雞丼（單點）",
+   "price": 198,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肥前屋油香叉燒丼（單點）",
+   "price": 198,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "京都次郎黑豚肉丼（單點）",
+   "price": 168,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "京都次郎黑豚肉丼（極盛）",
+   "price": 268,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

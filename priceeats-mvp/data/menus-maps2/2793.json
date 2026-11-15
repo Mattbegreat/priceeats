@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "蝦老爹美式海鮮",
+  "address": "106臺北市大安區華聲里光復南路180巷11號",
+  "lat": 25.042121,
+  "lng": 121.556883,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%9D%A6%E8%80%81%E7%88%B9%E7%BE%8E%E5%BC%8F%E6%B5%B7%E9%AE%AE&query_place_id=ChIJ7w-z48arQjQRKnV5zgurFBM"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "白飯",
+   "price": 50,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義麵",
+   "price": 50,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大蒜麵包",
+   "price": 60,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸饅頭",
+   "price": 50,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

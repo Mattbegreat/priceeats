@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "yokoso coffee stand (民生店）",
+  "address": "105臺北市松山區介壽里民生東路五段20號",
+  "lat": 25.0582026,
+  "lng": 121.5563364,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=yokoso%20coffee%20stand%20%28%E6%B0%91%E7%94%9F%E5%BA%97%EF%BC%89&query_place_id=ChIJ0QDnrdirQjQRD2OySM4pb9I"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "肉醬德式香腸CUPPE BUN",
+   "price": 120,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焗烤起司燻雞CUPPE BUN",
+   "price": 120,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

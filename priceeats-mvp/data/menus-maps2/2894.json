@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "鍋貼",
+  "address": "10491臺北市中山區下埤里龍江路312號",
+  "lat": 25.0645884,
+  "lng": 121.5408532,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%8D%8B%E8%B2%BC&query_place_id=ChIJkR4yxPyrQjQR4uchm3Rl3EI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "鍋貼（10顆，每顆7元）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "玉米濃湯",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "酸辣湯",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

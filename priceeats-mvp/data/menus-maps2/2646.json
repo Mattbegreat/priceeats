@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "啾哇嘿喲",
+  "address": "106臺北市大安區龍圖里信義路三段166巷2號-2號",
+  "lat": 25.0330449,
+  "lng": 121.5417634,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%95%BE%E5%93%87%E5%98%BF%E5%96%B2&query_place_id=ChIJo9dyJ9urQjQRZ-L8st3poik"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "火烤兩吃吃到飽（平日）",
+   "price": 599,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "火烤兩吃吃到飽（假日）",
+   "price": 659,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

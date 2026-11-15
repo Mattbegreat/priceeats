@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "Joe’s Cafe 喬叔咖啡｜寵物友善",
+  "address": "105臺北市松山區三民里富錦街464號",
+  "lat": 25.060761,
+  "lng": 121.56233,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Joe%E2%80%99s%20Cafe%20%E5%96%AC%E5%8F%94%E5%92%96%E5%95%A1%EF%BD%9C%E5%AF%B5%E7%89%A9%E5%8F%8B%E5%96%84&query_place_id=ChIJAabYBY2rQjQRkkSSkK9SiIU"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "喬叔早餐（沙拉、烤雜糧切片、炒蛋、肉包）",
+   "price": 380,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "經典匈牙利燉牛腩飯（微辣、半熟蛋）",
+   "price": 520,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "南洋咖哩雞飯",
+   "price": 340,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "健康烤雞腿沙拉碗",
+   "price": 340,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蕃茄燻肉香菇義大利麵",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "奶油培根義大利麵",
+   "price": 300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "手工麵包盤（單點）",
+   "price": 100,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "毛孩炒蛋（10顆，每顆35元）",
+   "price": 350,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

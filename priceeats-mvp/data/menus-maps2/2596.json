@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "Yanliu",
+  "address": "106臺北市大安區誠安里市民大道三段302號",
+  "lat": 25.044533,
+  "lng": 121.5431592,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yanliu&query_place_id=ChIJdQarGN-rQjQRk5CKflnle1Y"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "濃厚螃蟹沾麵",
+   "price": 350,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "螃蟹塩味清湯拉麵",
+   "price": 330,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "螃蟹濃湯拉麵",
+   "price": 340,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "干貝生薑醬油",
+   "price": 360,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "塩味雞豚濃湯拉麵",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "醬油雞豚濃湯拉麵",
+   "price": 260,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

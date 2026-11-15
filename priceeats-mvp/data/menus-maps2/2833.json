@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "好事食堂 家常菜餐盒",
+  "address": "105臺北市松山區民生東路三段113巷25弄13號",
+  "lat": 25.0598077,
+  "lng": 121.5465177,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A5%BD%E4%BA%8B%E9%A3%9F%E5%A0%82%20%E5%AE%B6%E5%B8%B8%E8%8F%9C%E9%A4%90%E7%9B%92&query_place_id=ChIJyx3QibyrQjQRG1P_PBMtGTQ"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-08-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "宮爆沙朗",
+   "price": 210,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "茄汁紅酒燉牛肉",
+   "price": 210,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "川味麻辣水煮牛",
+   "price": 210,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花雕雞便當",
+   "price": 200,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "私房蔥燒雞腿",
+   "price": 200,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "清蒸檸檬鱸魚(無刺)",
+   "price": 250,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎鯖魚",
+   "price": 190,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "椒鹽鱈斑魚",
+   "price": 190,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "馬鈴薯燉肉",
+   "price": 200,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "梅干燉肉",
+   "price": 200,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

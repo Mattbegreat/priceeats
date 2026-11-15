@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "康寧小籠包",
+  "address": "114臺北市內湖區紫雲里康寧路一段142號",
+  "lat": 25.0791517,
+  "lng": 121.5939426,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BA%B7%E5%AF%A7%E5%B0%8F%E7%B1%A0%E5%8C%85&query_place_id=ChIJb0h-BgCtQjQRJegCvu5oRSM"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "小籠包（8粒）",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉包",
+   "price": 16,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "菜包",
+   "price": 16,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白饅頭",
+   "price": 18,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑糖饅頭",
+   "price": 18,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芝麻包",
+   "price": 15,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅豆條",
+   "price": 20,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "芋泥條",
+   "price": 20,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉粽",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶黃包",
+   "price": 15,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

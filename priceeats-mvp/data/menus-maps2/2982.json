@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "LULU義大利餐廳",
+  "address": "105臺北市松山區民有里民生東路三段113巷9號",
+  "lat": 25.0585624,
+  "lng": 121.5462619,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=LULU%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%A4%90%E5%BB%B3&query_place_id=ChIJOSx8t-WrQjQRoGvtDtOuus8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "煙燻櫻桃鴨胸青醬燉飯",
+   "price": 370,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒔蘿燻鮭番茄冷麵",
+   "price": 380,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶油香蒜黑迦納配檸檬奶油寬麵",
+   "price": 380,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎羊排配白酒蘑菇麵",
+   "price": 410,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炭烤牛排配白酒蘑菇麵",
+   "price": 430,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炭烤牛排配白酒蘑菇麵（換US肋眼牛排4oz）",
+   "price": 610,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "香煎嫩雞腿配香料飯",
+   "price": 390,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炭烤脆皮鮮鮭魚",
+   "price": 470,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔬菜蘑菇奶油鮮蝦燉飯",
+   "price": 390,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手工麵包",
+   "price": 20,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "今日湯",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "主廚沙拉",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "何仙姑養生煲仔飯",
+  "address": "114臺北市內湖區安湖里東湖路113巷5弄14之1號",
+  "lat": 25.069021,
+  "lng": 121.614663,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BD%95%E4%BB%99%E5%A7%91%E9%A4%8A%E7%94%9F%E7%85%B2%E4%BB%94%E9%A3%AF&query_place_id=ChIJ14OaYHmtQjQRsKPzAOfKe-8"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-01-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "港式臘味煲仔飯",
+   "price": 200,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "港式臘味滑雞煲仔飯",
+   "price": 250,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "港式臘味排骨煲仔飯",
+   "price": 250,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "港式臘味海鮮煲仔飯",
+   "price": 250,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "港式滑蛋牛肉飯",
+   "price": 250,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮魚湯",
+   "price": 180,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "何首烏雞湯",
+   "price": 150,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "砂鍋海鮮粥",
+   "price": 150,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "港式蝦仁肉蛋腸粉",
+   "price": 120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "港式肉蛋腸粉",
+   "price": 100,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "港式海鮮湯麵",
+   "price": 160,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

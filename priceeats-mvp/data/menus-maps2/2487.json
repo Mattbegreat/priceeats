@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "天下三絕麵食館",
+  "address": "106臺北市大安區仁愛里仁愛路四段27巷3號",
+  "lat": 25.03888,
+  "lng": 121.5453168,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E4%B8%8B%E4%B8%89%E7%B5%95%E9%BA%B5%E9%A3%9F%E9%A4%A8&query_place_id=ChIJ6REc_tCrQjQR7g-IYs0CYgA"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "極品牛B腱麵",
+   "price": 500,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "天下三絕牛肉麵",
+   "price": 550,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "絕品牛肉麵",
+   "price": 310,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特級三爪牛筋牛肉麵",
+   "price": 400,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特級三爪全筋麵",
+   "price": 450,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肩胛小排麵",
+   "price": 550,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

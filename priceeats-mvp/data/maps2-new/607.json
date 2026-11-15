@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "豐 FOOD 海陸百匯",
+  "address": "10491臺北市中山區成功里植福路8號1樓",
+  "lat": 25.083697,
+  "lng": 121.554929,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B1%90%20FOOD%20%E6%B5%B7%E9%99%B8%E7%99%BE%E5%8C%AF&query_place_id=ChIJ9fOjOhKsQjQRL6BiIDTYm2M"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "龍蝦之夜（單人）",
+   "price": 2299,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "龍蝦之夜（四人優惠）",
+   "price": 2099,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "龍蝦之夜（八人優惠）",
+   "price": 1999,
+   "category": "自助餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "超級龍蝦",
+   "price": 290,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "帝王蟹",
+   "price": 2999,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

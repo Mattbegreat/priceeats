@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "桔梗JIEGENGE",
+  "address": "106臺北市大安區龍圖里信義路三段150-2號",
+  "lat": 25.0330315,
+  "lng": 121.540663,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A1%94%E6%A2%97JIEGENGE&query_place_id=ChIJO8LzwtSrQjQRPIim0_Otky4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "天使紅蝦佐墨西哥莎莎醬",
+   "price": 390,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "手作酪梨醬燻鮭魚 生食 Raw",
+   "price": 360,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒔蘿酸奶燻鮭魚 生食 Raw",
+   "price": 360,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "山火腿佐無花果醬",
+   "price": 360,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥豬里肌佐自家BBQ醬",
+   "price": 360,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青醬跳跳魚",
+   "price": 340,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "瑪薩拉黃咖哩雞肉",
+   "price": 320,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "天使紅蝦海膽燉飯",
+   "price": 480,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露干貝燉飯",
+   "price": 430,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "青醬煙燻豬里肌燉飯",
+   "price": 380,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

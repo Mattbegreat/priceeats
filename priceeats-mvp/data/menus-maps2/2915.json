@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "CURRY STAND 1983",
+  "address": "1樓, No. 29號敦化北路238巷民有里松山區臺北市105",
+  "lat": 25.0608413,
+  "lng": 121.5480843,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CURRY%20STAND%201983&query_place_id=ChIJe5JL4H6rQjQRiv8LWZGl668"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "原味雞肉咖哩",
+   "price": 210,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "原味雞肉咖哩（外帶）",
+   "price": 180,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉·乾咖哩",
+   "price": 230,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉·乾咖哩（外帶）",
+   "price": 200,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "茄汁雞肉咖哩",
+   "price": 230,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "茄汁雞肉咖哩（外帶）",
+   "price": 200,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅酒牛肉燴飯",
+   "price": 260,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅酒牛肉燴飯（外帶）",
+   "price": 260,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

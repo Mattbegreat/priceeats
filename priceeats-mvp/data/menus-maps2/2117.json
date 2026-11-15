@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "The Mean Coffee 樂命咖啡",
+  "address": "22126新北市汐止區新昌里汐科路23號",
+  "lat": 25.0681022,
+  "lng": 121.6620093,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Mean%20Coffee%20%E6%A8%82%E5%91%BD%E5%92%96%E5%95%A1&query_place_id=ChIJ26_jqNtTXTQRPWJ-aInipt0"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-04-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "蛋沙拉三明治",
+   "price": 70,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑胡椒豬肉三明治",
+   "price": 100,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑胡椒牛肉三明治",
+   "price": 110,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮪魚玉米熱壓",
+   "price": 65,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "火腿起司熱壓",
+   "price": 65,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "剛剛好麵包盤",
+   "price": 65,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

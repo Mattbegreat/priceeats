@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "鴻園海鮮餐廳",
+  "address": "105臺北市松山區介壽里民生東路五段96號",
+  "lat": 25.058515,
+  "lng": 121.560202,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%B4%BB%E5%9C%92%E6%B5%B7%E9%AE%AE%E9%A4%90%E5%BB%B3&query_place_id=ChIJbyYjspKrQjQRNFJjESl-FYE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "鴻園海鮮精緻合菜（4000元/4~6人份）",
+   "price": 4000,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鴻園海鮮精緻合菜（5000元/4~6人份）",
+   "price": 5000,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

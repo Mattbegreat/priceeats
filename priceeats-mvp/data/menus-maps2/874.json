@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "徽姑娘小食堂",
+  "address": "114臺北市內湖區瑞光里瑞光路251號",
+  "lat": 25.0747511,
+  "lng": 121.5778152,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BE%BD%E5%A7%91%E5%A8%98%E5%B0%8F%E9%A3%9F%E5%A0%82&query_place_id=ChIJi-OllXysQjQRZnvbTewpG2w"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-11-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "紅豆沙",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "韭菜盒",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蘿蔔絲",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

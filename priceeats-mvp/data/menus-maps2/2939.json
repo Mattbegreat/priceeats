@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "MERCER BRUNCH TAIWAN",
+  "address": "105臺北市松山區精忠里民生東路四段121號",
+  "lat": 25.058281,
+  "lng": 121.553485,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MERCER%20BRUNCH%20TAIWAN&query_place_id=ChIJa1pDFwCrQjQRPI1XQ9cUmKo"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "香煎鮭魚+螺旋蛋or太陽蛋",
+   "price": 780,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嫩煎雞腿排+螺旋蛋or太陽蛋",
+   "price": 650,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "楓糖脆皮雞胸佐北非米蔬菜+螺旋蛋or太陽蛋",
+   "price": 680,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "伊比利法式戰斧豬排 焦化甘蔥奶油+螺旋蛋or太陽蛋",
+   "price": 980,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美國Prime紐約客 焦化甘蔥奶油+螺旋蛋or太陽蛋",
+   "price": 1080,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "爐烤嫩煎干貝佐海鮮燉菜",
+   "price": 980,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "慢燉焗烤茄子肉醬",
+   "price": 550,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "焗烤奶油菠菜鮭魚",
+   "price": 680,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "自製手工香腸+螺旋蛋or太陽蛋",
+   "price": 550,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烤雞腿沙拉 柳橙醬",
+   "price": 680,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蘑菇酪梨沙拉 洋蔥醬",
+   "price": 550,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "自製布里歐法式吐司 三片",
+   "price": 360,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "民生工寓",
+  "address": "105臺北市松山區精忠里民生東路四段56巷1弄3號",
+  "lat": 25.0576079,
+  "lng": 121.551816,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B0%91%E7%94%9F%E5%B7%A5%E5%AF%93&query_place_id=ChIJEQ6z5e6rQjQR24LLOWbeGAs"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "拷克太太",
+   "price": 220,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "風味蕃茄青醬雞肉帕尼尼",
+   "price": 220,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "雞肉起司千層麵",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "海鮮起司千層麵",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "工寓鐵鍋烘蛋",
+   "price": 280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

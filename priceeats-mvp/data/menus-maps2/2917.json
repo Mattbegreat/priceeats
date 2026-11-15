@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "樂崎火鍋-民生店",
+  "address": "105009臺北市松山區精忠里民生東路四段55巷3弄14號",
+  "lat": 25.0582616,
+  "lng": 121.551195,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%82%E5%B4%8E%E7%81%AB%E9%8D%8B-%E6%B0%91%E7%94%9F%E5%BA%97&query_place_id=ChIJvSUnYearQjQRWPFxTgAjbeE"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "肉食主義海陸雙人套餐（20盎司肉盤）",
+   "price": 1380,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉食主義海陸雙人套餐（40盎司肉盤）",
+   "price": 1780,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肉食主義海陸雙人套餐（60盎司肉盤）",
+   "price": 2480,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "和牛海陸雙人套餐（10oz）",
+   "price": 2180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "特選海陸雙人套餐",
+   "price": 1580,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "極品龍蝦雙人套餐",
+   "price": 2180,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豪華龍蝦四人套餐",
+   "price": 4380,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "七仙女四人套餐",
+   "price": 7480,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

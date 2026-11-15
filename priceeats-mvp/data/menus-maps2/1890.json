@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "八方雲集-汐止大同店",
+  "address": "221新北市汐止區智慧里大同路二段193號",
+  "lat": 25.0645233,
+  "lng": 121.6523128,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%96%B9%E9%9B%B2%E9%9B%86-%E6%B1%90%E6%AD%A2%E5%A4%A7%E5%90%8C%E5%BA%97&query_place_id=ChIJ-T2rYwBTXTQRwmgq13N7eF8"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-04-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "紅燒牛湯菜肉大餛飩（大顆6顆）",
+   "price": 125,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣牛湯菜肉大餛飩（大顆6顆）",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒牛湯珍珠餛飩（珍珠10顆）",
+   "price": 125,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣牛湯珍珠餛飩（珍珠10顆）",
+   "price": 130,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒牛湯餃（8顆）",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻辣牛湯餃（8顆）",
+   "price": 125,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

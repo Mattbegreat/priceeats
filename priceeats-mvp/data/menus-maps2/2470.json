@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "瑞哥雞肉飯（復興店）",
+  "address": "106臺北市大安區光武里復興南路一段107巷23之3號1樓",
+  "lat": 25.0437029,
+  "lng": 121.5454511,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%91%9E%E5%93%A5%E9%9B%9E%E8%82%89%E9%A3%AF%EF%BC%88%E5%BE%A9%E8%88%88%E5%BA%97%EF%BC%89&query_place_id=ChIJLw6dldOrQjQR7XKEdpm-MhM"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "蝦爆飯",
+   "price": 239,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

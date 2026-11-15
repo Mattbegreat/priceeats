@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "富錦樹咖啡 FUJIN TREE CAFE 富錦店",
+  "address": "10583臺北市松山區東榮里富錦街353號",
+  "lat": 25.0606632,
+  "lng": 121.5577698,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E9%8C%A6%E6%A8%B9%E5%92%96%E5%95%A1%20FUJIN%20TREE%20CAFE%20%E5%AF%8C%E9%8C%A6%E5%BA%97&query_place_id=ChIJv1KTkfKrQjQRc6i4XnPpsTY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "經典原味",
+   "price": 90,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "卡門貝爾佐蜂蜜",
+   "price": 150,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "舒肥嫩雞佐蛋沙拉",
+   "price": 180,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酪梨佐香料煎菇",
+   "price": 180,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "煙燻鮭魚佐香草奶油乳酪",
+   "price": 180,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "熱燻培根披薩",
+   "price": 200,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

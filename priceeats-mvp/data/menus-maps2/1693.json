@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "瓦城泰國料理 - 松山車站店",
+  "address": "110臺北市信義區永吉里松山路11號2 樓",
+  "lat": 25.0492466,
+  "lng": 121.5785731,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%93%A6%E5%9F%8E%E6%B3%B0%E5%9C%8B%E6%96%99%E7%90%86%20-%20%E6%9D%BE%E5%B1%B1%E8%BB%8A%E7%AB%99%E5%BA%97&query_place_id=ChIJG1dfpJ6rQjQR380hhnhku44"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "原味青木瓜沙律",
+   "price": 280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大薄片沙律",
+   "price": 320,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "主廚海鮮什蔬沙律",
+   "price": 395,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥酥青木瓜溫沙律",
+   "price": 290,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "泰式中卷沙律",
+   "price": 380,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香茅蝦沙律",
+   "price": 335,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "restaurant": {
+  "name": "Poetry 如詩",
+  "address": "10491臺北市中山區金泰里堤頂大道二段466號",
+  "lat": 25.0816031,
+  "lng": 121.5617271,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Poetry%20%E5%A6%82%E8%A9%A9%EF%BD%9C%E5%A4%A7%E7%9B%B4%E6%97%A9%E5%8D%88%E9%A4%90%E3%80%81%E9%A4%90%E9%85%92%E9%A4%A8%20%EF%BD%9CBrunch%20%26%20Bistro&query_place_id=ChIJudLHAwCtQjQR0feRwZ68rZw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "小男孩和牛堡 7oz",
+   "price": 880,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "福爾摩沙流心堡",
+   "price": 660,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "羅馬披薩",
+   "price": 480,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香草騎士披薩（蛋奶素）",
+   "price": 480,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雙拼胭脂鴨佐發酵鳳梨辣醬",
+   "price": 720,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白浪之歌佐鮮蝦茄汁",
+   "price": 720,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "北非風情燉羊膝",
+   "price": 820,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "千絲暮雲慢燉和牛頰",
+   "price": 1180,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

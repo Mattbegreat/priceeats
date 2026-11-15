@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "貞鮮活蝦料理-內湖",
+  "address": "114臺北市內湖區港富里內湖路一段737巷33弄8號1樓",
+  "lat": 25.0797348,
+  "lng": 121.579322,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B2%9E%E9%AE%AE%E6%B4%BB%E8%9D%A6%E6%96%99%E7%90%86-%E5%85%A7%E6%B9%96&query_place_id=ChIJc3pfQnKtQjQREWt4VWj3WPY"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "大公蝦（活蝦）",
+   "price": 450,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "公蝦（活蝦）",
+   "price": 400,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅頭母蝦（活蝦）",
+   "price": 430,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合蝦（活蝦）",
+   "price": 400,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大公蝦（料理）",
+   "price": 600,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "公蝦（料理）",
+   "price": 550,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅頭母蝦（料理）",
+   "price": 580,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合蝦（料理）",
+   "price": 550,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "大公蝦（鹽烤）",
+   "price": 500,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "公蝦（鹽烤）",
+   "price": 450,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅頭母蝦（鹽烤）",
+   "price": 480,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合蝦（鹽烤）",
+   "price": 450,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

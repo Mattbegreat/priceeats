@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "心心港式腸粉 SIN SIN HK Rice Rolls",
+  "address": "105臺北市松山區饒河街204號攤位36號",
+  "lat": 25.050828,
+  "lng": 121.5770621,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BF%83%E5%BF%83%E6%B8%AF%E5%BC%8F%E8%85%B8%E7%B2%89%20SIN%20SIN%20HK%20Rice%20Rolls&query_place_id=ChIJv59nfpmrQjQRK-AcX8Ytk_Y"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-12-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "蝦仁腸粉",
+   "price": 95,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛肉腸粉",
+   "price": 85,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豬肉腸粉",
+   "price": 75,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

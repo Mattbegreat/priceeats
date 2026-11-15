@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "麵屋和創 鷹流深夜拉麵",
+  "address": "105臺北市松山區吉仁里延吉街2號",
+  "lat": 25.0479107,
+  "lng": 121.5532994,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BA%B5%E5%B1%8B%E5%92%8C%E5%89%B5%20%E9%B7%B9%E6%B5%81%E6%B7%B1%E5%A4%9C%E6%8B%89%E9%BA%B5&query_place_id=ChIJUT1PNTarQjQRJiiRnDno_vg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "生薑醬油拉麵",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生薑鹽味拉麵",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "東京魚介系醬油拉麵",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "東京魚介系鹽味拉麵",
+   "price": 220,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "和創蒜味豚骨濃湯醬油拉麵",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "和創蒜味豚骨濃湯鹽味拉麵",
+   "price": 270,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

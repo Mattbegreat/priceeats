@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "LOST and Found 內湖",
+  "address": "114臺北市內湖區基湖路3巷11號",
+  "lat": 25.0811533,
+  "lng": 121.5663818,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=LOST%20and%20Found%20%E5%85%A7%E6%B9%96&query_place_id=ChIJ9XjUMP2tQjQRXVUhaiaZ9u0"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "蘇格蘭蛋",
+   "price": 160,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "奶香蛋沙拉吐司",
+   "price": 180,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "屁味薯條",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "肯特炸雞",
+   "price": 260,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "EASE CAFE",
+  "address": "114臺北市內湖區內溝里康樂街186巷30號",
+  "lat": 25.0778785,
+  "lng": 121.6198966,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=EASE%20CAFE&query_place_id=ChIJfcIZCMGtQjQR7Drx9wSyGfY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-04-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "檸檬跳舞松阪",
+   "price": 420,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鹹蛋黃風味酥炸軟殼蟹",
+   "price": 390,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "XO風味炒蘑菇鮮蝦",
+   "price": 410,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式陳醋炒野菇",
+   "price": 280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蒜香白酒燴貽貝",
+   "price": 340,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式辣拌魷魚",
+   "price": 290,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式海鮮煎餅",
+   "price": 250,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "慶尚道韓式炸年糕",
+   "price": 180,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式燉物",
+   "price": 250,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "主廚特製兒童餐",
+   "price": 150,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

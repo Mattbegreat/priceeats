@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "章老丸脆皮章魚燒",
+  "address": "114臺北市內湖區五分里五分街56號",
+  "lat": 25.0672024,
+  "lng": 121.6157026,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%AB%A0%E8%80%81%E4%B8%B8%E8%84%86%E7%9A%AE%E7%AB%A0%E9%AD%9A%E7%87%92&query_place_id=ChIJ7_sq0WitQjQRtYCrsqbwhVw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-10-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "章魚燒（小盒）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "章魚燒（大盒）",
+   "price": 85,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

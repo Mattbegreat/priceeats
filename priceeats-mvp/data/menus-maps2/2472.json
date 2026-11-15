@@ -1,0 +1,119 @@
+{
+ "restaurant": {
+  "name": "雞三和 SOGO忠孝復興店",
+  "address": "106455臺北市大安區義村里忠孝東路三段300號B2",
+  "lat": 25.0410553,
+  "lng": 121.5431553,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%9B%9E%E4%B8%89%E5%92%8C%20SOGO%E5%BF%A0%E5%AD%9D%E5%BE%A9%E8%88%88%E5%BA%97&query_place_id=ChIJYciXAGarQjQRPfd1CXDiVpY"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "鐵板鰻魚雞腿排・親子丼御膳",
+   "price": 550,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵板鰻魚雞腿排・炸雞翅御膳",
+   "price": 540,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵板鰻魚雞腿排・唐揚雞御膳",
+   "price": 550,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵板鰻魚雞腿排・雞肉串燒御膳",
+   "price": 580,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵板鰻魚雞腿排御膳",
+   "price": 480,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵板雞腿排・親子丼御膳",
+   "price": 420,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵板雞腿排・炸雞翅御膳",
+   "price": 410,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵板雞腿排・唐揚雞御膳",
+   "price": 420,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵板雞腿排・雞肉串燒御膳",
+   "price": 450,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵板雞腿排御膳",
+   "price": 350,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雞肉串燒（1串）",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "唐揚雞（1塊）",
+   "price": 45,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸雞翅（1支）",
+   "price": 40,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日式地瓜可樂餅",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "茶碗蒸",
+   "price": 59,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

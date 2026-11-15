@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "麥當勞 台北光復餐廳",
+  "address": "106臺北市大安區正聲里光復南路286號",
+  "lat": 25.039546,
+  "lng": 121.55742,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BA%A5%E7%95%B6%E5%8B%9E%20%E5%8F%B0%E5%8C%97%E5%85%89%E5%BE%A9%E9%A4%90%E5%BB%B3&query_place_id=ChIJ5Zls-surQjQRvDrz7KyVZRw"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "酥炸廣島牡蠣（加購）",
+   "price": 98,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸海鮮天婦羅（加購）",
+   "price": 198,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子炙烤魷魚（加購）",
+   "price": 158,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炸廣島牡蠣（單點）",
+   "price": 208,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子烤魷魚（單點）",
+   "price": 358,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸海鮮天婦羅（單點）",
+   "price": 398,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

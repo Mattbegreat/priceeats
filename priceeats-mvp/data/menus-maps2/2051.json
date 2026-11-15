@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "Ramble Cafe漫步藍咖啡-汐止龍安店",
+  "address": "221新北市汐止區復興里龍安路1號1樓",
+  "lat": 25.0643115,
+  "lng": 121.6563839,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ramble%20Cafe%E6%BC%AB%E6%AD%A5%E8%97%8D%E5%92%96%E5%95%A1-%E6%B1%90%E6%AD%A2%E9%BE%8D%E5%AE%89%E5%BA%97&query_place_id=ChIJx_C7b3ZTXTQRmoAqN9oJKqA"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "奶油白醬培根",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式青醬雞腿排",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典紅醬舒肥雞",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式青醬嫩鮮蝦",
+   "price": 185,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典紅醬牛肉丸",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蜂蜜奶油鮮蝦",
+   "price": 175,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "藍莓培根佛卡夏",
+   "price": 175,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司腿排佛卡夏",
+   "price": 175,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "五穀檸檬舒肥雞",
+   "price": 180,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

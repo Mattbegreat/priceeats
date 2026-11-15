@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "泰廚世家",
+  "address": "105臺北市松山區新東里延壽街89號",
+  "lat": 25.0572339,
+  "lng": 121.5668682,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B3%B0%E5%BB%9A%E4%B8%96%E5%AE%B6&query_place_id=ChIJ0c_X5pGrQjQRwtnyPFmch2I"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "合菜5（5-6人份）",
+   "price": 1980,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "合菜6（5-6人份）",
+   "price": 1980,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "合菜7（6-8人份）",
+   "price": 2980,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "合菜8（8-10人份）",
+   "price": 4120,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "白飯（單點）",
+   "price": 25,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

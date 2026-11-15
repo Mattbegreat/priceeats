@@ -1,0 +1,126 @@
+{
+ "restaurant": {
+  "name": "小統一牛排",
+  "address": "105臺北市松山區東光里健康路174號",
+  "lat": 25.0536801,
+  "lng": 121.558516,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%B5%B1%E4%B8%80%E7%89%9B%E6%8E%92&query_place_id=ChIJ80A6XeurQjQR-13X46PZRco"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "神戶牛排（12 OZ）",
+   "price": 2350,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美國角尖牛排（10 OZ）",
+   "price": 2090,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "美國丁骨牛排（16 OZ）",
+   "price": 2090,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紐約牛排（10 OZ）",
+   "price": 2090,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑胡椒牛排（8 OZ）",
+   "price": 1690,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "牛小排骨",
+   "price": 2090,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵扒羊排",
+   "price": 1660,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "德國烤豬腿",
+   "price": 1190,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "法式焗龍蝦",
+   "price": 2390,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "龍蝦＆鮮鮑魚",
+   "price": 2290,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮮鮑魚＆大蝦",
+   "price": 1990,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鐵扒大蝦",
+   "price": 1690,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香煎杏仁鮭魚",
+   "price": 1290,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "比目魚",
+   "price": 1190,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮總匯",
+   "price": 1560,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司焗海鮮通心粉",
+   "price": 1460,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

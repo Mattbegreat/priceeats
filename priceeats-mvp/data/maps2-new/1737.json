@@ -1,0 +1,77 @@
+{
+ "restaurant": {
+  "name": "CAMPUS CAFE 南京店",
+  "address": "105臺北市松山區吉祥里光復北路11巷99號",
+  "lat": 25.0504398,
+  "lng": 121.5624172,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CAMPUS%20CAFE%20%E5%8D%97%E4%BA%AC%E5%BA%97&query_place_id=ChIJRU1KAZWrQjQRxMROE-4Jlnk"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-05-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "德州B.B.Q.鄉村碳烤豬肋排（全份）",
+   "price": 920,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "德州B.B.Q.鄉村碳烤豬肋排（半份）",
+   "price": 480,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豪華總匯炸物拼盤",
+   "price": 490,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "義式炒蘑菇",
+   "price": 240,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "佛羅倫斯風味炒鮮蔬",
+   "price": 280,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃金夯吉條",
+   "price": 130,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黃金起司條",
+   "price": 210,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "澎湃好雞匯",
+   "price": 490,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "總匯炸物拼盤",
+   "price": 490,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

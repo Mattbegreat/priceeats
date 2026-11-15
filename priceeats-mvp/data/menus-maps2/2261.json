@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "八方雲集-內湖新麗湖店",
+  "address": "114臺北市內湖區葫洲里康寧路三段46號",
+  "lat": 25.071912,
+  "lng": 121.6086085,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%96%B9%E9%9B%B2%E9%9B%86-%E5%85%A7%E6%B9%96%E6%96%B0%E9%BA%97%E6%B9%96%E5%BA%97&query_place_id=ChIJY0vV9kCtQjQRKjOAoxezcpU"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-12-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "古早味乾麵",
+   "price": 45,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌鍋貼（10顆，每顆7元）",
+   "price": 70,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "古早味排骨",
+   "price": 68,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "皮蛋豆腐",
+   "price": 45,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

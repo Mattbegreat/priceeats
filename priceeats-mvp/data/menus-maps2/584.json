@@ -1,0 +1,21 @@
+{
+ "restaurant": {
+  "name": "VASA 瓦薩美式餐廳 - 內科門市",
+  "address": "11493臺北市內湖區西湖里洲子街183號",
+  "lat": 25.0815651,
+  "lng": 121.5673362,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=VASA%20%E7%93%A6%E8%96%A9%E7%BE%8E%E5%BC%8F%E9%A4%90%E5%BB%B3%20-%20%E5%85%A7%E7%A7%91%E9%96%80%E5%B8%82&query_place_id=ChIJtQtRfW6sQjQRzjpE_jb97ag"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "四人餐",
+   "price": 2099,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

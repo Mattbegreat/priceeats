@@ -1,0 +1,28 @@
+{
+ "restaurant": {
+  "name": "千千的虎掌燒-松山民生店",
+  "address": "105臺北市松山區三民里三民路95巷34號1樓",
+  "lat": 25.0570997,
+  "lng": 121.5618672,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E5%8D%83%E7%9A%84%E8%99%8E%E6%8E%8C%E7%87%92-%E6%9D%BE%E5%B1%B1%E6%B0%91%E7%94%9F%E5%BA%97&query_place_id=ChIJn1Im14SrQjQRUBeLfE-bDCI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-03-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "脆皮德腸",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "莫札瑞拉起司",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

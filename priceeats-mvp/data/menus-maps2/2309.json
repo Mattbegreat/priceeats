@@ -1,0 +1,49 @@
+{
+ "restaurant": {
+  "name": "阿媽蔥抓餅",
+  "address": "114臺北市內湖區東湖里東湖路119巷50弄19號",
+  "lat": 25.0695376,
+  "lng": 121.6176552,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E5%AA%BD%E8%94%A5%E6%8A%93%E9%A4%85&query_place_id=ChIJc4FWcSutQjQRzsLoaFg4Jqk"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-11-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "原味蔥抓餅",
+   "price": 25,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "加蛋蔥抓餅",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "加菜蔥抓餅",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "玉米蛋蔥抓餅",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蔬菜蛋蔥抓餅",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

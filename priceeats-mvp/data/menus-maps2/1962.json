@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "九湯屋日本拉麵_汐止店",
+  "address": "221新北市汐止區復興里新興路10號",
+  "lat": 25.0647876,
+  "lng": 121.6563139,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B9%9D%E6%B9%AF%E5%B1%8B%E6%97%A5%E6%9C%AC%E6%8B%89%E9%BA%B5_%E6%B1%90%E6%AD%A2%E5%BA%97&query_place_id=ChIJpzq8jmtTXTQRaMwOiP8U5RI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "東京豚骨拉麵",
+   "price": 145,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "東京醬油拉麵",
+   "price": 145,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "九州白湯拉麵",
+   "price": 145,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

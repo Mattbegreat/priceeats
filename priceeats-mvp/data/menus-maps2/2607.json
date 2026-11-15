@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "瞞著爹八德壽司丼",
+  "address": "105臺北市松山區中崙里八德路二段366巷38號",
+  "lat": 25.0464316,
+  "lng": 121.545945,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%9E%9E%E8%91%97%E7%88%B9%E5%85%AB%E5%BE%B7%E5%A3%BD%E5%8F%B8%E4%B8%BC&query_place_id=ChIJLXuxgdurQjQR_f5zMhjEi-c"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "鮭魚綜合海鮮丼",
+   "price": 460,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚親子丼",
+   "price": 460,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鮭魚鰈魚星鰻丼",
+   "price": 460,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "甜蝦海膽干貝丼",
+   "price": 700,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松葉蟹海膽干貝丼",
+   "price": 820,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒魚腹海鮮丼",
+   "price": 480,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒魚腹丼",
+   "price": 480,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生魚海鮮丼",
+   "price": 480,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鰈魚星鰻丼",
+   "price": 480,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鰈魚丼",
+   "price": 500,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "星鰻魚丼",
+   "price": 500,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

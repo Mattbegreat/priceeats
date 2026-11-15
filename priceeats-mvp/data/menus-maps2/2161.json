@@ -1,0 +1,84 @@
+{
+ "restaurant": {
+  "name": "スシロー壽司郎 汐止遠雄店",
+  "address": "221新北市汐止區新台五路一段99號遠雄廣場1樓",
+  "lat": 25.0624021,
+  "lng": 121.6498736,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%82%B7%E3%83%AD%E3%83%BC%E5%A3%BD%E5%8F%B8%E9%83%8E%20%E6%B1%90%E6%AD%A2%E9%81%A0%E9%9B%84%E5%BA%97&query_place_id=ChIJOTm5jNNTXTQRcUcVfMdxrFg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-02-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "鹿兒島縣產紅魽",
+   "price": 90,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒喜知次",
+   "price": 60,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "豪華滿足豪華海鮮拼盤",
+   "price": 420,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炭燒野生紅鮭",
+   "price": 60,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "日本產大貝柱",
+   "price": 180,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "烏魚子赤蝦",
+   "price": 60,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "水煮紅雪蟹",
+   "price": 60,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酥炸瀨戶內海牡蠣",
+   "price": 60,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "生鮑魚",
+   "price": 40,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "黑鮪魚金三角",
+   "price": 90,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "restaurant": {
+  "name": "帥哥滷肉飯 A Handsome Guy",
+  "address": "10479臺北市中山區龍洲里長春路321之2號",
+  "lat": 25.0548044,
+  "lng": 121.5432807,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B8%A5%E5%93%A5%E6%BB%B7%E8%82%89%E9%A3%AF%20A%20Handsome%20Guy&query_place_id=ChIJ39M2o4OrQjQRyMsMYL6UL0g"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "高粱酒香腸企業餐盒",
+   "price": 160,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "招牌紅燒肉企業餐盒",
+   "price": 160,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "嫩切豬梅花與檸檬蔥鹽醬企業餐盒",
+   "price": 160,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "炙燒雞胸與柑橘酸甜醬企業餐盒",
+   "price": 160,
+   "category": "便當",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "restaurant": {
+  "name": "台韓民國 韓式燒肉店",
+  "address": "106臺北市大安區建安里敦化南路一段187巷70號",
+  "lat": 25.0424395,
+  "lng": 121.5527265,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E9%9F%93%E6%B0%91%E5%9C%8B%20%E9%9F%93%E5%BC%8F%E7%87%92%E8%82%89%E5%BA%97&query_place_id=ChIJh9zsZ8WrQjQROj1_EJ9moMs"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-01-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "韓式豬肉餅",
+   "price": 349,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "雜菜冬粉",
+   "price": 319,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "起司玉米",
+   "price": 189,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "高湯蒸蛋",
+   "price": 199,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "海鮮煎餅",
+   "price": 299,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓式部隊鍋",
+   "price": 799,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "辣燉雞",
+   "price": 799,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "安東燉雞",
+   "price": 799,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "聚會套餐",
+   "price": 1249,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "多人套餐",
+   "price": 1799,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "饗食套餐",
+   "price": 3299,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

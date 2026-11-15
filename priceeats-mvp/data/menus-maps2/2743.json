@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "Botega del vin",
+  "address": "106臺北市大安區建倫里忠孝東路四段170巷17弄7號",
+  "lat": 25.0399933,
+  "lng": 121.5514078,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Botega%20del%20vin&query_place_id=ChIJG2nsXs-rQjQRpRJ_Nf_Z6K8"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-08-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "蒜片辣椒義大利麵",
+   "price": 420,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "鴨肉醬家鄉手工寬麵",
+   "price": 480,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "燉煮牛肉寬帶麵",
+   "price": 480,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "經典牛肝菌菇寬帶麵",
+   "price": 480,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "松露醬香腸水管麵",
+   "price": 480,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "威尼斯海鮮墨魚麵",
+   "price": 580,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

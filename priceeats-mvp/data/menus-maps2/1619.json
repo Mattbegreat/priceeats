@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "MAMA'S 鐵鍋早午餐 南京店",
+  "address": "105臺北市松山區東勢里南京東路四段133巷8弄3號",
+  "lat": 25.0529987,
+  "lng": 121.554809,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MAMA%27S%20%E9%90%B5%E9%8D%8B%E6%97%A9%E5%8D%88%E9%A4%90%20%E5%8D%97%E4%BA%AC%E5%BA%97&query_place_id=ChIJX-MVHgurQjQRsHkHoe1Lc6Q"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-06-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "肉醬起司炒蛋盤餐",
+   "price": 215,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綠咖哩雞肉菠菜起司歐姆蛋",
+   "price": 215,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花生醬起司牛肉堡",
+   "price": 150,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "BBQ 手撕豬起司脆餅",
+   "price": 230,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "明太子雞腿起司烘蛋",
+   "price": 235,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蜂蜜芥末雞肉起司蛋捲餅",
+   "price": 125,
+   "category": "早餐",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

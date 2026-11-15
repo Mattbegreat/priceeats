@@ -1,0 +1,63 @@
+{
+ "restaurant": {
+  "name": "KONZY KAVA",
+  "address": "104臺北市中山區龍洲里長春路327巷5號",
+  "lat": 25.0551588,
+  "lng": 121.5435856,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=KONZY%20KAVA&query_place_id=ChIJ99ljC_urQjQR-bWiohgIPBg"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "花椒冷麵",
+   "price": 120,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花椒冷麵&胡麻豆腐",
+   "price": 150,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花椒冷麵&舒肥雞胸肉",
+   "price": 180,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "花椒冷麵&超爽雙拼(胡麻豆腐&舒肥雞)",
+   "price": 200,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合手工水餃佐花椒醬（大份12顆）",
+   "price": 160,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "綜合手工水餃佐花椒醬（小份9顆）",
+   "price": 140,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "香料牛肉咖哩飯",
+   "price": 280,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

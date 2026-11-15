@@ -1,0 +1,35 @@
+{
+ "restaurant": {
+  "name": "凹客雞排饒河店 Out&Back Fried Chicken",
+  "address": "105臺北市松山區慈祐里饒河街95號",
+  "lat": 25.0504731,
+  "lng": 121.5736294,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%87%B9%E5%AE%A2%E9%9B%9E%E6%8E%92%E9%A5%92%E6%B2%B3%E5%BA%97%20Out%26Back%20Fried%20Chicken&query_place_id=ChIJXbZWulSrQjQRfgZHv5ge5vo"
+ },
+ "source": "menu_photo",
+ "source_date": "2025-07-01",
+ "source_image": "google-maps-menu-photo-1",
+ "items": [
+  {
+   "name": "雞皮",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "臻選棒棒腿",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "吮指雞腿排",
+   "price": 60,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

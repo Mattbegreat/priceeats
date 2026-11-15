@@ -1,0 +1,98 @@
+{
+ "restaurant": {
+  "name": "蒸滿萬_蒸餃炒飯專賣店",
+  "address": "221027新北市汐止區秀山里秀峰路131號",
+  "lat": 25.0627134,
+  "lng": 121.6602809,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%92%B8%E6%BB%BF%E8%90%AC_%E8%92%B8%E9%A4%83%E7%82%92%E9%A3%AF%E5%B0%88%E8%B3%A3%E5%BA%97&query_place_id=ChIJW6yXqpJTXTQRioPYAbHmAwI"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "蒸餃套餐（黑豬蒸餃）",
+   "price": 215,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蒸餃套餐（春花素餃）",
+   "price": 225,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "蒸餃套餐（黑牛蒸餃）",
+   "price": 220,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炒飯套餐（排骨炒飯）",
+   "price": 265,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炒飯套餐（蝦仁炒飯）",
+   "price": 265,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "炒飯套餐（牛排炒飯）",
+   "price": 275,
+   "category": "飯類",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "餅類套餐（褡褳火燒）",
+   "price": 240,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "餅類套餐（牛肉捲餅）",
+   "price": 245,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "麵類套餐（炸醬麵）",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "麵類套餐（排骨乾麵）",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "麵類套餐（鮮蝦抄手燃麵）",
+   "price": 190,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  },
+  {
+   "name": "麵類套餐（牛肉拌麵）",
+   "price": 195,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.9
+  }
+ ]
+}

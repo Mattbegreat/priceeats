@@ -1,0 +1,56 @@
+{
+ "restaurant": {
+  "name": "佐藤精肉店",
+  "address": "100臺北市中正區幸市里八德路一段82巷9弄8號2樓",
+  "lat": 25.0435024,
+  "lng": 121.5319214,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%97%A4%E7%B2%BE%E8%82%89%E5%BA%97&query_place_id=ChIJa7IIo3ypQjQRLhW_upTa5v4"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-09-01",
+ "source_image": "google-maps-menu-photo-2",
+ "items": [
+  {
+   "name": "日式拌青菜",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韓國泡菜",
+   "price": 35,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "佐藤式豆芽菜",
+   "price": 25,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "納豆",
+   "price": 40,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "福神漬",
+   "price": 10,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "佐藤家味噌湯",
+   "price": 20,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}

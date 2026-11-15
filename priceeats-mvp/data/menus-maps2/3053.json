@@ -1,0 +1,112 @@
+{
+ "restaurant": {
+  "name": "真福記脆皮烤鴨餐廳",
+  "address": "105臺北市松山區中華里健康路3巷2號",
+  "lat": 25.0522972,
+  "lng": 121.5523993,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%9C%9F%E7%A6%8F%E8%A8%98%E8%84%86%E7%9A%AE%E7%83%A4%E9%B4%A8%E9%A4%90%E5%BB%B3&query_place_id=ChIJDZkyvOmrQjQRapA6A1wfqMs"
+ },
+ "source": "menu_photo",
+ "source_date": "2026-07-01",
+ "source_image": "google-maps-menu-photo-3",
+ "items": [
+  {
+   "name": "芋頭海鮮米粉鍋",
+   "price": 1300,
+   "category": "麵食",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "真福佛跳牆",
+   "price": 2000,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "東坡肉",
+   "price": 588,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "山藥燴海參",
+   "price": 488,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "蹄筋海參",
+   "price": 488,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "紅燒牛腩煲",
+   "price": 438,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "韭黃炒鱔片",
+   "price": 438,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "麻油松阪肉",
+   "price": 488,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "四季肥腸",
+   "price": 388,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金沙魚柳",
+   "price": 388,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸白菜炒牛肉",
+   "price": 388,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "酸白菜炒肉絲",
+   "price": 378,
+   "category": "肉類",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金沙蝦仁",
+   "price": 438,
+   "category": "海鮮",
+   "tags": [],
+   "confidence": 0.95
+  },
+  {
+   "name": "金沙杏鮑菇",
+   "price": 338,
+   "category": "小吃",
+   "tags": [],
+   "confidence": 0.95
+  }
+ ]
+}
