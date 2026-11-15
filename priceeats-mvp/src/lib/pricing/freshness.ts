@@ -13,9 +13,9 @@ export function daysBetween(verifiedAt: string | Date, today: Date): number {
 /** 測試資料：0–30 天＝近期；31–90 天＝可能需要確認；>90 天＝舊資料 */
 export const TEST_RECENT_DAYS = 30;
 export const TEST_MAYBE_DAYS = 90;
-/** 正式資料（菜單照片辨識，更新頻率低）：6 個月內＝近期；6–12 個月＝可能需要確認；>12 個月＝舊資料 */
+/** 正式資料（菜單照片辨識，更新頻率低）：≤ 6 個月＝近期；6–18 個月＝可能需要確認；> 18 個月＝舊資料 */
 export const REAL_RECENT_DAYS = 183;
-export const REAL_MAYBE_DAYS = 365;
+export const REAL_MAYBE_DAYS = 548;
 
 /** real 預設依建置模式 (IS_REAL_DATA)；測試可明確傳入 */
 export function freshnessFromDays(days: number, real: boolean = IS_REAL_DATA): Freshness {

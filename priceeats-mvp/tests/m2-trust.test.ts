@@ -11,12 +11,12 @@ import type { PriceVerification } from '@/types';
 const TODAY = new Date('2026-11-16T00:00:00.000Z');
 const ago = (d: number) => new Date(TODAY.getTime() - d * 86_400_000).toISOString();
 
-describe('M2-1 新鮮度分級 (正式模式 6／12 個月)', () => {
-  it('正式：0–183 天近期、184–365 天可能需要確認、366 天起舊資料', () => {
+describe('M2-1 新鮮度分級 (正式模式 6／18 個月)', () => {
+  it('正式：0–183 天近期、184–548 天可能需要確認、549 天起舊資料', () => {
     const f = (d: number) => freshnessFromDays(d, true);
     expect([0, 31, 91, 183].map(f)).toEqual(['recent', 'recent', 'recent', 'recent']);
-    expect([184, 200, 365].map(f)).toEqual(['maybe', 'maybe', 'maybe']);
-    expect([366, 400, 900].map(f)).toEqual(['old', 'old', 'old']);
+    expect([184, 200, 365, 366, 548].map(f)).toEqual(['maybe', 'maybe', 'maybe', 'maybe', 'maybe']);
+    expect([549, 600, 900].map(f)).toEqual(['old', 'old', 'old']);
   });
   it('測試資料模式維持 30／90 天', () => {
     const f = (d: number) => freshnessFromDays(d, false);
