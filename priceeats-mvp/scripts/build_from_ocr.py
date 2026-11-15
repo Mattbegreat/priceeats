@@ -5,6 +5,18 @@ per_piece=true 的品項（每顆計價）換算成 10 顆。
 """
 import csv, glob, json, os
 
+import re
+KW = r"(必吃|推薦|外送|外帶|會議|便當推薦|美食|人氣|熱門|平價|宵夜|晚餐|午餐|早午餐|下午茶|低卡|健康餐|專門店|專賣店|直營|滿\d+元)"
+def clean_name(s):
+    o = s
+    s = re.split(r"\s*[|｜《【]\s*", s)[0]
+    s = re.sub(r"\s*[(（][^()（）]*" + KW + r"[^()（）]*[)）]?.*$", "", s)
+    s = re.split(r"\s*[/／]\s*(?=.*" + KW + ")", s)[0]
+    s = re.sub(r"\s*-\s*\S*" + KW + r".*$", "", s)
+    s = re.sub(r"\s+\S*" + KW + r"\S*(/\S*)*$", "", s) if "/" in s else s
+    s = s.replace("·開啟過的連結", "").strip(" -”。\"|/")
+    return s if len(s) >= 2 else o
+
 CATS = {"便當", "飯類", "麵食", "肉類", "海鮮", "早餐", "小吃", "自助餐"}
 
 def main():
@@ -39,7 +51,7 @@ def main():
         img = data.get("source_image", "google-maps-menu-photo-1")
         date = next((p["source_date"] for p in m["photos"] if p["source_image"] == img), m["photos"][0]["source_date"])
         r = dict(m["restaurant"])
-        r["name"] = names.get(sid, r["name"].split("|")[0])
+        r["name"] = clean_name(names.get(sid, r["name"]))
         out = {"restaurant": {k: r[k] for k in ("name", "address", "lat", "lng", "google_maps_url")},
                "source": "menu_photo", "source_date": date, "source_image": img, "items": items}
         json.dump(out, open(f"data/menus-maps2/{sid}.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)

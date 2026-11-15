@@ -123,20 +123,27 @@ export class SupabaseRepository implements Repository {
     // 方框比圓大 (四個角落)，用 haversine 精確過濾
     const restaurants = boxed.filter((r) => haversineM(center, { lat: r.latitude, lng: r.longitude }) <= radiusM);
     const restaurantIds = restaurants.map((r) => r.id);
-    const byRestaurant = (table: string) =>
+    const byRestaurant = <T>(table: string, select = '*') =>
       pool(chunk(restaurantIds, IN_BATCH), CONCURRENCY, (ids) =>
-        this.get<{ restaurant_id: string }>(table, `select=*&restaurant_id=in.(${ids.join(',')})`),
+        this.get<T>(table, `select=${select}&restaurant_id=in.(${ids.join(',')})`),
       ).then((r) => r.flat());
-    const [foods, menuImages] = await Promise.all([
-      byRestaurant('foods') as Promise<Food[]>,
-      (byRestaurant('menu_images') as Promise<MenuImage[]>).catch(() => [] as MenuImage[]),
+    // foods 用資源內嵌一次帶出 food_tags、price_verifications，省下依 food id 分批的上百個請求
+    const [embedded, menuImages] = await Promise.all([
+      byRestaurant<Food & { food_tags?: FoodTag[]; price_verifications?: PriceVerification[] }>(
+        'foods',
+        '*,food_tags(*),price_verifications(*)',
+      ),
+      byRestaurant<MenuImage>('menu_images').catch(() => [] as MenuImage[]),
     ]);
-    const foodIds = foods.map((f) => f.id);
-    const byFood = <T>(table: string) =>
-      pool(chunk(foodIds, IN_BATCH), CONCURRENCY, (ids) => this.get<T>(table, `select=*&food_id=in.(${ids.join(',')})`)).then((r) =>
-        r.flat(),
-      );
-    const [foodTags, verifications] = await Promise.all([byFood<FoodTag>('food_tags'), byFood<PriceVerification>('price_verifications')]);
+    const foods: Food[] = [];
+    const foodTags: FoodTag[] = [];
+    const verifications: PriceVerification[] = [];
+    for (const row of embedded) {
+      const { food_tags, price_verifications, ...food } = row;
+      foods.push(food as Food);
+      foodTags.push(...(food_tags ?? []));
+      verifications.push(...(price_verifications ?? []));
+    }
     return { categories, restaurants, foods, foodTags, verifications, menuImages };
   }
 

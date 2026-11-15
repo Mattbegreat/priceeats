@@ -25,7 +25,16 @@ function makeServer(tables: Record<string, Row[]>) {
     }
     const off = Number(u.searchParams.get('offset') ?? 0);
     const lim = Math.min(Number(u.searchParams.get('limit') ?? 1000), 1000);
-    const slice = data.slice(off, off + lim);
+    let slice = data.slice(off, off + lim);
+    // 資源內嵌：select=*,food_tags(*),price_verifications(*)
+    const sel = u.searchParams.get('select') ?? '';
+    const embeds = ['food_tags', 'price_verifications'].filter((e) => sel.includes(`${e}(*)`));
+    if (embeds.length) {
+      slice = slice.map((r) => ({
+        ...r,
+        ...Object.fromEntries(embeds.map((e) => [e, (tables[e] ?? []).filter((x) => x.food_id === r.id)])),
+      }));
+    }
     log.push({ table, url: input, rows: slice.length });
     return new Response(JSON.stringify(slice), {
       status: 200,
@@ -118,6 +127,9 @@ describe('只載入搜尋中心附近', () => {
     for (const l of log.filter((x) => ['foods', 'food_tags', 'price_verifications', 'menu_images'].includes(x.table))) {
       expect(l.url).toMatch(/(restaurant_id|food_id)=in\.\(/);
     }
+    // food_tags、price_verifications 改由 foods 內嵌，不再單獨請求
+    expect(log.some((l) => l.table === 'food_tags' || l.table === 'price_verifications')).toBe(false);
+    expect(log.some((l) => l.table === 'foods' && /food_tags(%28|\()\*/.test(l.url))).toBe(true);
     expect(data.restaurants.length).toBeGreaterThan(0);
     expect(data.restaurants.length).toBeLessThan(world.restaurants.length);
     for (const r of data.restaurants) {

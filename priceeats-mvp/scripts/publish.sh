@@ -11,7 +11,7 @@ cd "$REPO" && git pull --ff-only
 rsync -a --delete \
   --exclude node_modules --exclude .env.local --exclude '.env*.local' --exclude menu_dataset \
   --exclude .next --exclude out --exclude __pycache__ --exclude .DS_Store --exclude tsconfig.tsbuildinfo \
-  --exclude test-results --exclude 'data/ocr-raw' --exclude 'data/ocr-chunks' --exclude 'data/ocr-run.*' \
+  --exclude test-results --exclude 'data/ocr-raw' --exclude 'data/ocr-chunks' --exclude 'data/ocr-run.*' --exclude 'data/maps2-*' --exclude '*.tgz' \
   "$SRC/" "$REPO/priceeats-mvp/"
 git add -A priceeats-mvp
 if git diff --cached --quiet; then echo "沒有變更"; exit 0; fi
