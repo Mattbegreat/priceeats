@@ -15,7 +15,7 @@ function Click({ onPick }: { onPick: (p: LatLng) => void }) {
 /** 上傳頁用的小地圖：點一下設定新店位置 */
 export function MapPicker({ center, value, onPick }: { center: LatLng; value: LatLng | null; onPick: (p: LatLng) => void }) {
   return (
-    <div className="h-56 overflow-hidden rounded-card border border-line" data-testid="map-picker">
+    <div className="h-56 overflow-hidden border-2 border-ink" data-testid="map-picker">
       <MapContainer center={[value?.lat ?? center.lat, value?.lng ?? center.lng]} zoom={15} className="h-full w-full">
         <TileLayer url="https://tile.openstreetmap.org/{z}/{x}/{y}.png" attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> 貢獻者' />
         <Click onPick={onPick} />

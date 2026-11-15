@@ -1,7 +1,7 @@
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 import { describe, expect, it } from 'vitest';
-import { FilterBar } from '@/components/FilterBar';
+import { FilterDrawer } from '@/components/FilterDrawer';
 import { noPhotoText } from '@/components/FoodDetailSheet';
 import { freshnessFromDays, freshnessOf } from '@/lib/pricing/freshness';
 import { DEFAULT_PARAMS, availableSorts, buildQuery, parseQuery } from '@/lib/search/params';
@@ -46,13 +46,15 @@ describe('M2-2 正式模式隱藏評分篩選與評價排序', () => {
     expect(availableSorts(true)).not.toContain('rating');
     expect(availableSorts(false)).toContain('rating');
   });
-  it('結果頁篩選列 DOM：正式模式無「最低評分」「評價最高」，測試模式有', () => {
+  it('改條件抽屜 DOM：正式模式無「最低評分」「評價最高」，測試模式有', () => {
     const noop = () => {};
-    const real = renderToStaticMarkup(createElement(FilterBar, { params: DEFAULT_PARAMS, onParams: noop, real: true }));
+    const loc = { source: 'default' as const, locating: false, onUseGps: noop, onPickPreset: noop };
+    const props = { params: DEFAULT_PARAMS, onParams: noop, count: 0, loc, onClose: noop };
+    const real = renderToStaticMarkup(createElement(FilterDrawer, { ...props, real: true }));
     expect(real).not.toContain('最低評分');
     expect(real).not.toContain('評價最高');
     expect(real).toContain('最貼近預算');
-    const test = renderToStaticMarkup(createElement(FilterBar, { params: DEFAULT_PARAMS, onParams: noop, real: false }));
+    const test = renderToStaticMarkup(createElement(FilterDrawer, { ...props, real: false }));
     expect(test).toContain('最低評分');
     expect(test).toContain('評價最高');
   });

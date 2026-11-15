@@ -7,11 +7,12 @@ import { DEFAULT_CENTER } from '@/data/centers';
 import { KEYS, readJson, removeKey, writeJson } from '@/lib/storage/safe';
 import { menuSubmissionSchema, type Repository } from '@/repositories/types';
 import { MenuOCRService } from '@/services/ocr';
+import { PageTitle } from './Receipt';
 import { CATEGORY_NAMES, type CategoryName, type Dataset, type LatLng } from '@/types';
 
 const MapPicker = dynamic(() => import('./MapPicker').then((m) => m.MapPicker), {
   ssr: false,
-  loading: () => <p className="text-sm text-mute">地圖載入中…</p>,
+  loading: () => <p className="text-aux">地圖載入中…</p>,
 });
 
 const ALLOWED = ['image/jpeg', 'image/png', 'image/webp'] as const;
@@ -31,7 +32,7 @@ interface Draft {
 }
 
 const emptyRow = (): Row => ({ name: '', price: '', category: '便當' });
-const input = 'tap w-full rounded-lg border border-line bg-white px-3 text-base';
+const input = 'field';
 
 export function UploadView({
   repo,
@@ -193,12 +194,12 @@ export function UploadView({
   return (
     <form onSubmit={submit} className="mx-auto max-w-xl space-y-5" noValidate>
       <div>
-        <h1 className="text-xl font-bold text-forest">上傳菜單</h1>
-        <p className="mt-1 text-sm text-mute">上傳的資料會先標示為「待確認」，不會直接改變店內價格。</p>
+        <PageTitle title="傳菜單" />
+        <p className="text-aux">上傳的資料會先標示為「待確認」，不會直接改變店內價格。</p>
       </div>
 
-      <section className="space-y-2 rounded-card border border-line bg-white p-4" aria-label="菜單照片">
-        <label className="block text-sm font-semibold" htmlFor="menu-file">
+      <section className="receipt space-y-2" aria-label="菜單照片">
+        <label className="block text-[15px] font-black" htmlFor="menu-file">
           菜單照片 (JPEG／PNG／WebP，8MB 以內)
         </label>
         {/* 原生 input 只做視覺隱藏 (sr-only)，由中文按鈕觸發；aria-label 與 E2E 的選取方式不變 */}
@@ -210,41 +211,41 @@ export function UploadView({
           aria-label="選擇菜單照片"
           tabIndex={-1}
           onChange={onFile}
-          className="sr-only"
+          className="hidden"
         />
         <div className="flex items-center gap-3">
           <button
             type="button"
             data-testid="pick-photo"
             onClick={() => fileRef.current?.click()}
-            className="tap rounded-lg border border-forest px-4 text-sm font-semibold text-forest"
+            className="btn-line px-4 text-[15px]"
           >
             選擇照片
           </button>
-          <span className="min-w-0 truncate text-sm text-mute" data-testid="picked-name">
+          <span className="min-w-0 truncate text-aux" data-testid="picked-name">
             {file ? file.name : '尚未選擇照片'}
           </span>
         </div>
         {fileError && (
-          <p role="alert" className="text-sm text-red-700" data-testid="file-error">
+          <p role="alert" className="text-aux font-bold text-stamp" data-testid="file-error">
             {fileError}
           </p>
         )}
         {preview && (
           // eslint-disable-next-line @next/next/no-img-element
-          <img src={preview} alt="菜單預覽" className="max-h-64 w-full rounded-lg border border-line object-contain" data-testid="menu-preview" />
+          <img src={preview} alt="菜單預覽" className="max-h-64 w-full border-2 border-ink object-contain" data-testid="menu-preview" />
         )}
         {ocrMsg && (
-          <p role="status" className="rounded-lg bg-canvas px-3 py-2 text-sm text-mute" data-testid="ocr-msg">
+          <p role="status" className="note-box" data-testid="ocr-msg">
             {ocrMsg}
           </p>
         )}
       </section>
 
-      <section className="space-y-3 rounded-card border border-line bg-white p-4" aria-label="店家與位置">
-        <label className="block text-sm font-semibold">
+      <section className="receipt space-y-3" aria-label="店家與位置">
+        <label className="block text-[15px] font-black">
           店名 (必填)
-          <input aria-label="店名" value={name} onChange={(e) => setName(e.target.value)} maxLength={60} className={`${input} mt-1 font-normal`} />
+          <input aria-label="店名" value={name} onChange={(e) => setName(e.target.value)} maxLength={60} className={`${input} mt-1`} />
         </label>
         <div role="group" aria-label="位置來源" className="flex gap-2">
           {(['existing', 'new'] as const).map((m) => (
@@ -254,7 +255,7 @@ export function UploadView({
               aria-pressed={mode === m}
               aria-label={m === 'existing' ? '選擇現有店家' : '地圖點選新位置'}
               onClick={() => setMode(m)}
-              className={`tap rounded-lg border px-3 text-sm font-medium ${mode === m ? 'border-forest bg-lime text-forest' : 'border-line bg-white'}`}
+              className="opt opt-pill"
             >
               {m === 'existing' ? '選現有店家' : '地圖點選新位置'}
             </button>
@@ -281,19 +282,19 @@ export function UploadView({
         ) : (
           <div className="space-y-1">
             <MapPicker center={DEFAULT_CENTER} value={pos} onPick={setPos} />
-            <p className="text-xs text-mute">{pos ? `已選位置：${pos.lat.toFixed(5)}, ${pos.lng.toFixed(5)}` : '點一下地圖設定新店位置'}</p>
+            <p className="text-small">{pos ? `已選位置：${pos.lat.toFixed(5)}, ${pos.lng.toFixed(5)}` : '點一下地圖設定新店位置'}</p>
           </div>
         )}
       </section>
 
-      <section className="space-y-3 rounded-card border border-line bg-white p-4" aria-label="餐點與價格">
-        <h2 className="text-sm font-semibold">人工輸入餐點與價格 (店內價格)</h2>
+      <section className="receipt space-y-3" aria-label="餐點與價格">
+        <h2 className="text-[15px] font-black">人工輸入餐點與價格 (店內價格)</h2>
         <div className="space-y-2">
           {rows.map((r, i) => (
-            <div key={i} className="space-y-2 rounded-lg border border-line p-2" data-testid="menu-row">
+            <div key={i} className="space-y-2 border-2 border-dotted border-leader p-2" data-testid="menu-row">
               <input aria-label={`餐點名稱 ${i + 1}`} placeholder="餐點名稱" value={r.name} onChange={(e) => setRow(i, { name: e.target.value })} className={input} />
               <div className="grid grid-cols-[1fr_1fr_auto] gap-2">
-                <input aria-label={`價格 ${i + 1}`} placeholder="價格 (元)" inputMode="numeric" value={r.price} onChange={(e) => setRow(i, { price: e.target.value })} className={`${input} tabular-nums`} />
+                <input aria-label={`價格 ${i + 1}`} placeholder="價格 (元)" inputMode="numeric" value={r.price} onChange={(e) => setRow(i, { price: e.target.value })} className={`${input} amount`} />
                 <select aria-label={`分類 ${i + 1}`} value={r.category} onChange={(e) => setRow(i, { category: e.target.value as CategoryName })} className={input}>
                   {CATEGORY_NAMES.map((c) => (
                     <option key={c} value={c}>
@@ -306,7 +307,7 @@ export function UploadView({
                   aria-label={`刪除第 ${i + 1} 列`}
                   disabled={rows.length === 1}
                   onClick={() => setRows((rs) => rs.filter((_, k) => k !== i))}
-                  className="tap flex items-center justify-center rounded-lg border border-line disabled:opacity-40"
+                  className="tap flex items-center justify-center border-2 border-ink disabled:opacity-40"
                 >
                   <Trash2 size={16} aria-hidden />
                 </button>
@@ -318,25 +319,25 @@ export function UploadView({
           type="button"
           aria-label="新增一列"
           onClick={() => setRows((rs) => [...rs, emptyRow()])}
-          className="tap inline-flex items-center gap-1.5 rounded-lg border border-forest px-3 text-sm font-semibold text-forest"
+          className="btn-line gap-1.5 px-4 text-[15px]"
         >
           <Plus size={16} aria-hidden /> 新增一列
         </button>
       </section>
 
       {errors.length > 0 && (
-        <ul role="alert" className="list-disc rounded-lg bg-red-50 py-2 pl-8 pr-3 text-sm text-red-800" data-testid="upload-errors">
+        <ul role="alert" className="note-box list-disc !pl-8 font-bold text-stamp" data-testid="upload-errors">
           {errors.map((e) => (
             <li key={e}>{e}</li>
           ))}
         </ul>
       )}
       {done && (
-        <p role="status" className="rounded-lg bg-lime px-3 py-2 font-medium text-forest" data-testid="upload-done">
+        <p role="status" className="note-box font-bold" data-testid="upload-done">
           已收到，待確認。人工確認後才會成為價格資料。
         </p>
       )}
-      <button type="submit" aria-label="送出菜單" className="tap h-12 w-full rounded-card bg-forest text-base font-bold text-white">
+      <button type="submit" aria-label="送出菜單" className="btn-ink h-14 w-full text-[18px]">
         送出待確認
       </button>
     </form>

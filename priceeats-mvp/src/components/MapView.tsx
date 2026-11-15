@@ -2,14 +2,16 @@
 
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
-import { List, Map as MapIcon } from 'lucide-react';
 import { useEffect, useMemo, useState } from 'react';
 import { Circle, MapContainer, Marker, TileLayer, useMap, useMapEvents } from 'react-leaflet';
-import { formatDistance } from '@/lib/geo/haversine';
+import { distShort } from '@/lib/geo/format';
 import { type FoodBase, groupByRestaurant } from '@/lib/search/filter';
+import { distLabel } from '@/lib/search/params';
 import type { FoodView, SearchParams } from '@/types';
 import { TestDataTag } from './Badges';
-import { FilterBar } from './FilterBar';
+import { FilterDrawer } from './FilterDrawer';
+import type { LocProps } from './HomeView';
+import { LeaderRow, PageTitle } from './Receipt';
 
 const TILE_URL = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
 
@@ -51,6 +53,7 @@ export function MapView({
   onParams,
   onPickCenter,
   onOpen,
+  loc,
 }: {
   index: FoodBase[];
   params: SearchParams;
@@ -59,8 +62,10 @@ export function MapView({
   onParams: (p: Partial<SearchParams>) => void;
   onPickCenter: (lat: number, lng: number) => void;
   onOpen: (id: string) => void;
+  loc: LocProps;
 }) {
   void today;
+  const [drawer, setDrawer] = useState(false);
   const [mode, setMode] = useState<'map' | 'list'>('map');
   const [selected, setSelected] = useState<string | null>(null);
   const [tileError, setTileError] = useState(false);
@@ -81,37 +86,43 @@ export function MapView({
 
   return (
     <div className="space-y-4">
-      <div className="flex items-end justify-between gap-2">
-        <h1 className="text-xl font-bold text-forest">價格地圖</h1>
-        <p className="text-sm text-mute" data-testid="map-count">
-          {rows.length} 間店 · {results.length} 道餐點
-        </p>
-      </div>
-      <FilterBar params={params} onParams={onParams} />
-      <div className="flex gap-2" role="group" aria-label="顯示模式">
-        <button
-          type="button"
-          aria-label="地圖模式"
-          aria-pressed={mode === 'map'}
-          onClick={() => setMode('map')}
-          className={`tap inline-flex items-center gap-1.5 rounded-lg border px-3 text-sm font-medium ${mode === 'map' ? 'border-forest bg-lime text-forest' : 'border-line bg-white'}`}
-        >
-          <MapIcon size={16} aria-hidden /> 地圖
+      <PageTitle
+        title="價格地圖"
+        aside={
+          <span className="text-aux" data-testid="map-count">
+            <span className="amount">{rows.length}</span> 間店 · <span className="amount">{results.length}</span> 道餐點
+          </span>
+        }
+      />
+      <div className="flex flex-wrap items-center gap-2">
+        <button type="button" data-testid="open-filter" onClick={() => setDrawer(true)} className="btn-ink h-11 px-4 text-[15px] font-bold">
+          改條件
         </button>
-        <button
-          type="button"
-          aria-label="清單模式"
-          aria-pressed={mode === 'list'}
-          onClick={() => setMode('list')}
-          className={`tap inline-flex items-center gap-1.5 rounded-lg border px-3 text-sm font-medium ${mode === 'list' ? 'border-forest bg-lime text-forest' : 'border-line bg-white'}`}
-        >
-          <List size={16} aria-hidden /> 清單
-        </button>
+        <span className="amount text-small">
+          ${params.budget}・{distLabel(params.dist)}・{params.cat}
+        </span>
+        <div className="ml-auto flex gap-2" role="group" aria-label="顯示模式">
+          <button type="button" aria-label="地圖模式" aria-pressed={mode === 'map'} onClick={() => setMode('map')} className="opt opt-pill">
+            地圖
+          </button>
+          <button type="button" aria-label="清單模式" aria-pressed={mode === 'list'} onClick={() => setMode('list')} className="opt opt-pill">
+            清單
+          </button>
+        </div>
       </div>
+      {drawer && (
+        <FilterDrawer
+          params={params}
+          onParams={onParams}
+          count={results.length}
+          loc={{ source: loc.source, locating: loc.locating, onUseGps: loc.onUseGps, onPickPreset: loc.onPickPreset }}
+          onClose={() => setDrawer(false)}
+        />
+      )}
 
       {mode === 'map' && (
         <div>
-          <div className="relative h-[52vh] min-h-[320px] overflow-hidden rounded-card border border-line" data-testid="map-box">
+          <div className="relative h-[52vh] min-h-[320px] overflow-hidden border-2 border-ink" data-testid="map-box">
             <MapContainer
               center={[params.lat, params.lng]}
               zoom={14}
@@ -132,7 +143,7 @@ export function MapView({
               <Circle
                 center={[params.lat, params.lng]}
                 radius={params.dist}
-                pathOptions={{ color: '#172C28', weight: 2, fillColor: '#D6F5B5', fillOpacity: 0.2 }}
+                pathOptions={{ color: '#2B4C9B', weight: 2, fillColor: '#2B4C9B', fillOpacity: 0.08 }}
               />
               <Marker position={[params.lat, params.lng]} icon={centerIcon} interactive={false} keyboard={false} />
               {rows.map((r) => (
@@ -147,11 +158,11 @@ export function MapView({
             </MapContainer>
           </div>
           {tileError && (
-            <p role="status" data-testid="tile-error" className="mt-2 rounded-lg bg-amber-50 px-3 py-2 text-sm text-amber-900">
+            <p role="status" data-testid="tile-error" className="note-box mt-2">
               地圖圖磚暫時無法載入，標記與清單仍可使用，也可切換到「清單模式」。
             </p>
           )}
-          <p className="mt-2 text-xs text-mute">點地圖空白處可設定搜尋中心，點價格標記可看該店符合條件的餐點。</p>
+          <p className="mt-2 text-small">點地圖空白處可設定搜尋中心，點價格標記可看該店符合條件的餐點。</p>
           {selRow && (
             <div className="mt-3" data-testid="map-selected">
               <RestaurantBlock row={selRow} onOpen={onOpen} />
@@ -167,7 +178,7 @@ export function MapView({
               <RestaurantBlock row={r} onOpen={onOpen} />
             </li>
           ))}
-          {rows.length === 0 && <li className="rounded-card border border-line bg-white p-6 text-center text-mute">沒有符合條件的店家，請放寬篩選。</li>}
+          {rows.length === 0 && <li className="receipt text-aux">沒有符合條件的店家，請放寬篩選。</li>}
         </ul>
       )}
     </div>
@@ -182,25 +193,28 @@ function RestaurantBlock({
   onOpen: (id: string) => void;
 }) {
   return (
-    <section className="rounded-card border border-line bg-white p-3" aria-label={row.restaurant.name}>
-      <div className="flex items-center justify-between gap-2">
-        <h2 className="flex flex-wrap items-center gap-1.5 text-base font-semibold">
+    <section className="receipt" aria-label={row.restaurant.name}>
+      <div className="receipt-head">
+        <h2 className="min-w-0 flex-1 text-store">
           {row.restaurant.name}
-          {row.restaurant.is_test_data && <TestDataTag />}
+          {row.restaurant.is_test_data && (
+            <span className="ml-2 align-middle">
+              <TestDataTag />
+            </span>
+          )}
         </h2>
-        <span className="text-sm text-mute">{formatDistance(row.dist)}</span>
+        <span className="amount shrink-0 text-small text-carbon">{distShort(row.dist)}</span>
       </div>
-      <ul className="mt-2 divide-y divide-line">
+      <ul className="mt-1.5">
         {row.foods.map((v) => (
           <li key={v.food.id}>
             <button
               type="button"
               aria-label={`${v.food.name} ${v.food.price} 元，查看詳情`}
               onClick={() => onOpen(v.food.id)}
-              className="tap flex w-full items-center justify-between gap-2 py-2 text-left"
+              className="flex min-h-[44px] w-full items-center text-left"
             >
-              <span>{v.food.name}</span>
-              <span className="text-lg font-bold text-forest tabular-nums">${v.food.price}</span>
+              <LeaderRow left={v.food.name} right={v.food.price} />
             </button>
           </li>
         ))}

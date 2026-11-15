@@ -4,7 +4,7 @@ import dynamic from 'next/dynamic';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { CENTER_PRESETS, DEFAULT_CENTER } from '@/data/centers';
 import { LOCATE_MESSAGE, locate } from '@/lib/geo/location';
-import { buildIndex, search, toView } from '@/lib/search/filter';
+import { buildIndex, search, toView, type FoodBase } from '@/lib/search/filter';
 import { DEFAULT_PARAMS, buildQuery, parseQuery, type UrlState } from '@/lib/search/params';
 import { KEYS, readJson, writeJson } from '@/lib/storage/safe';
 import { createRepository } from '@/repositories';
@@ -13,7 +13,7 @@ import { BottomNav } from './BottomNav';
 import { FavoritesView } from './FavoritesView';
 import { FoodDetailSheet } from './FoodDetailSheet';
 import { HomeView } from './HomeView';
-import type { LocSource } from './LocationBar';
+import type { LocSource } from './LocationPanel';
 import { ResultsView } from './ResultsView';
 import { StateMessage } from './StateMessage';
 import { UploadView } from './UploadView';
@@ -167,22 +167,32 @@ export function App() {
   }, [foodId, index, params]);
 
   const loc = { source: locSource, note: locNote, locating, onUseGps: useGps, onPickPreset: pickPreset };
+  const ready2 = ready && !loadError && data && index;
 
   let body: React.ReactNode;
   if (!ready) body = <StateMessage kind="loading" text="載入中…" />;
+  else if (view === 'home')
+    // 首頁不等資料：表單立即可操作，範例收據在資料載入後才出現
+    body = (
+      <>
+        {loadError && (
+          <div className="mb-4">
+            <StateMessage kind="error" text={`資料載入失敗：${loadError}`} actionLabel="重試" onAction={() => fetchData()} />
+          </div>
+        )}
+        <HomeView
+          params={params}
+          onParams={setSearchParams}
+          onSearch={() => go('results')}
+          isMock={repo.kind === 'mock'}
+          loc={loc}
+          results={ready2 ? results : null}
+        />
+      </>
+    );
   else if (loadError)
     body = <StateMessage kind="error" text={`資料載入失敗：${loadError}`} actionLabel="重試" onAction={() => fetchData()} />;
   else if (!data || !index) body = <StateMessage kind="loading" text="載入餐點資料中…" />;
-  else if (view === 'home')
-    body = (
-      <HomeView
-        params={params}
-        onParams={setSearchParams}
-        onSearch={() => go('results')}
-        isMock={repo.kind === 'mock'}
-        loc={loc}
-      />
-    );
   else if (view === 'results')
     body = (
       <ResultsView
@@ -205,6 +215,7 @@ export function App() {
         onParams={setSearchParams}
         onPickCenter={pickOnMap}
         onOpen={openFood}
+        loc={loc}
       />
     );
   else if (view === 'upload')
@@ -216,27 +227,25 @@ export function App() {
 
   return (
     <div className="min-h-screen pb-24">
-      <header className="border-b border-line bg-forest text-white">
-        <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-3">
-          <span className="text-lg font-bold tracking-wide">PriceEats</span>
-          <span className="text-xs text-lime">你的預算，決定今天吃什麼</span>
-        </div>
-      </header>
       {refreshing && data && !loadError && (
-        <div role="status" className="bg-lime/30 px-4 py-1 text-center text-xs text-forest">
+        <div role="status" className="bg-paper px-5 py-1 text-center text-small font-bold">
           更新附近餐點中…
         </div>
       )}
-      <main className="mx-auto w-full max-w-5xl px-4 py-4">{body}</main>
+      <main className="mx-auto w-full max-w-xl px-5 pb-6 pt-4">{body}</main>
       {detail && (
         <FoodDetailSheet
           view={detail}
           data={data as Dataset}
+          index={index as FoodBase[]}
+          params={params}
           today={today}
           repo={repo}
           isFav={favs.includes(detail.food.id)}
+          backLabel={view === 'results' || view === 'home' ? '回結果' : '返回'}
           onToggleFav={() => toggleFav(detail.food.id)}
           onClose={closeFood}
+          onSwitch={(id) => commit({ food: id }, 'replace')}
           onReported={() => fetchData(true)}
           onUploadMenu={() => {
             setUploadTarget(detail.restaurant.id);

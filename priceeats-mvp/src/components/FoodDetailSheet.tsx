@@ -1,46 +1,74 @@
 'use client';
 
-import { Heart, Navigation, X } from 'lucide-react';
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { creditForImage } from '@/data/photo-credits';
-import { formatDistance } from '@/lib/geo/haversine';
-import { FRESHNESS_LABEL, formatUpdated } from '@/lib/pricing/freshness';
+import { distShort } from '@/lib/geo/format';
+import { updatedLabel } from '@/lib/pricing/freshness';
 import { REPORT_LABEL, REPORT_TYPES, validateReport } from '@/lib/pricing/report';
 import { STATUS_LABEL } from '@/lib/pricing/verification';
+import type { FoodBase } from '@/lib/search/filter';
+import { sameStoreAlternatives } from '@/lib/search/same-store';
 import type { Repository } from '@/repositories/types';
-import type { Dataset, FoodView, PriceVerification, ReportType } from '@/types';
-import { MapsReviewLink, RatingText, TestDataTag, VerificationBadge } from './Badges';
-import { FoodImage } from './FoodImage';
+import type { Dataset, FoodView, PriceVerification, ReportType, SearchParams } from '@/types';
+import { MapsReviewLink, RatingText, TestDataTag } from './Badges';
+import { LeaderRow } from './Receipt';
 
 /** 價格來自菜單照片辨識但沒有可顯示的照片：照片未公開；其餘才是尚無照片 */
 export function noPhotoText(v: PriceVerification | null): string {
   return v && (v.source_type === 'menu_photo' || v.verification_status === 'menu_photo') ? '菜單照片未公開' : '尚無菜單照片';
 }
 
+function AltRows({ items, onSwitch }: { items: FoodBase[]; onSwitch: (id: string) => void }) {
+  return (
+    <>
+      {items.map((b) => (
+        <button
+          key={b.food.id}
+          type="button"
+          onClick={() => onSwitch(b.food.id)}
+          aria-label={`${b.food.name} ${b.food.price} 元，查看`}
+          className="flex min-h-[44px] w-full items-center text-left"
+        >
+          <LeaderRow left={b.food.name} right={b.food.price} />
+        </button>
+      ))}
+    </>
+  );
+}
+
+/** 餐點頁：一張長收據；底部固定「導航過去」(分享屬 M5，先不放) */
 export function FoodDetailSheet({
   view,
   data,
+  index,
+  params,
   today,
   repo,
   isFav,
+  backLabel,
   onToggleFav,
   onClose,
+  onSwitch,
   onReported,
   onUploadMenu,
 }: {
   view: FoodView;
   data: Dataset;
+  index: FoodBase[];
+  params: SearchParams;
   today: Date;
   repo: Repository;
   isFav: boolean;
+  backLabel: string;
   onToggleFav: () => void;
   onClose: () => void;
+  onSwitch: (id: string) => void;
   onReported: () => void;
   onUploadMenu: () => void;
 }) {
   const { food, restaurant, verification, freshness } = view;
   const closeRef = useRef<HTMLButtonElement>(null);
-  const credit = creditForImage(food.image_url);
+  const scrollRef = useRef<HTMLDivElement>(null);
+  const [reporting, setReporting] = useState(false);
   const history = useMemo(
     () =>
       data.verifications
@@ -49,6 +77,7 @@ export function FoodDetailSheet({
     [data.verifications, food.id],
   );
   const menuImages = data.menuImages.filter((m) => m.restaurant_id === restaurant.id);
+  const alt = useMemo(() => sameStoreAlternatives(index, view, params), [index, view, params]);
 
   useEffect(() => {
     closeRef.current?.focus();
@@ -64,167 +93,158 @@ export function FoodDetailSheet({
     };
   }, [onClose]);
 
+  // 換到同店另一道時捲回頂端、收起回報表單
+  useEffect(() => {
+    scrollRef.current?.scrollTo({ top: 0 });
+    setReporting(false);
+  }, [food.id]);
+
   const navUrl = `https://www.google.com/maps/search/?api=1&query=${restaurant.latitude},${restaurant.longitude}`;
 
   return (
-    <div className="fixed inset-0 z-40 flex items-end justify-center md:items-center" data-testid="detail-sheet">
-      <div className="absolute inset-0 bg-black/50" onClick={onClose} aria-hidden />
-      <div
-        role="dialog"
-        aria-modal="true"
-        aria-label={`${food.name} 餐點詳情`}
-        className="relative z-10 flex max-h-[94vh] w-full max-w-lg flex-col overflow-hidden rounded-t-card bg-canvas md:rounded-card"
-      >
-        <div className="relative h-44 w-full shrink-0 bg-white md:h-56">
-          <FoodImage src={food.image_url} alt={food.name} category={view.categoryName} />
-          <button
-            ref={closeRef}
-            type="button"
-            aria-label="關閉詳情"
-            onClick={onClose}
-            className="tap absolute right-2 top-2 flex items-center justify-center rounded-full bg-white/95 shadow"
-          >
-            <X aria-hidden />
-          </button>
-        </div>
-        <div className="space-y-4 overflow-y-auto p-4">
-          <div>
-            <div className="flex items-start justify-between gap-3">
-              <h2 className="text-xl font-bold">{food.name}</h2>
-              <span className="text-3xl font-bold leading-none text-forest tabular-nums" data-testid="detail-price">
-                ${food.price}
-              </span>
-            </div>
-            <p className="mt-1 text-xs text-mute">店內價格 (新台幣)</p>
-            <p className="mt-2 text-sm text-mute">{food.description}</p>
-          </div>
-
-          <div className="rounded-card border border-line bg-white p-3 text-sm">
-            <p className="flex flex-wrap items-center gap-2 font-semibold">
-              {restaurant.name}
-              {restaurant.is_test_data && <TestDataTag />}
-            </p>
-            <p className="mt-1 text-mute">{restaurant.address}</p>
-            <p className="mt-1 text-mute">
-              距離 {formatDistance(view.distanceM)}
-              {' · '}
-              {restaurant.is_test_data ? (
+    <div
+      role="dialog"
+      aria-modal="true"
+      aria-label={`${food.name} 餐點詳情`}
+      data-testid="detail-sheet"
+      className="fixed inset-0 z-40 bg-ground"
+    >
+      <div className="mx-auto flex h-full max-w-xl flex-col">
+      <div className="flex items-center justify-between px-5 pt-3">
+        <button ref={closeRef} type="button" onClick={onClose} className="tap inline-flex items-center text-[15px] font-bold">
+          {backLabel}
+        </button>
+        <button
+          type="button"
+          aria-pressed={isFav}
+          data-testid="fav-toggle"
+          onClick={onToggleFav}
+          className="link-carbon justify-end text-[15px]"
+        >
+          {isFav ? '已收藏' : '收藏'}
+        </button>
+      </div>
+      <div ref={scrollRef} className="flex-1 overflow-y-auto px-5 pb-6 pt-2">
+        <div className="receipt !px-[18px] !pb-[18px] !pt-[22px]">
+          <div className="flex flex-col gap-1 border-b-2 border-dashed border-ink pb-3.5 text-center">
+            <h2 className="text-[20px] font-black">{restaurant.name}</h2>
+            {restaurant.is_test_data && (
+              <p className="flex flex-wrap items-center justify-center gap-x-2 text-small">
+                <TestDataTag />
                 <RatingText rating={view.rating} isTest />
-              ) : (
-                <MapsReviewLink name={restaurant.name} address={restaurant.address} />
-              )}
-            </p>
-            <div className="mt-3 flex flex-wrap gap-2">
-              <a
-                href={navUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="用 Google 地圖導航"
-                className="tap inline-flex items-center gap-1.5 rounded-lg bg-forest px-4 text-sm font-semibold text-white"
-              >
-                <Navigation size={16} aria-hidden />
-                導航
-              </a>
-              <button
-                type="button"
-                aria-label={isFav ? '取消收藏' : '加入收藏'}
-                aria-pressed={isFav}
-                data-testid="fav-toggle"
-                onClick={onToggleFav}
-                className={`tap inline-flex items-center gap-1.5 rounded-lg border px-4 text-sm font-semibold ${
-                  isFav ? 'border-forest bg-lime text-forest' : 'border-line bg-white'
-                }`}
-              >
-                <Heart size={16} aria-hidden fill={isFav ? 'currentColor' : 'none'} />
-                {isFav ? '已收藏' : '收藏'}
-              </button>
-            </div>
+              </p>
+            )}
+            <p className="text-small">{restaurant.address}</p>
+            <p className="amount text-small text-carbon">距離 {distShort(view.distanceM)}</p>
           </div>
 
-          <section aria-label="價格來源與驗證" className="rounded-card border border-line bg-white p-3 text-sm">
-            <h3 className="font-semibold">價格資訊</h3>
-            {verification && freshness ? (
-              <dl className="mt-2 grid grid-cols-[auto_1fr] gap-x-3 gap-y-1">
-                <dt className="text-mute">驗證狀態</dt>
-                <dd>
-                  <VerificationBadge v={verification} freshness={freshness} />
-                </dd>
-                <dt className="text-mute">資料新鮮度</dt>
-                <dd>{FRESHNESS_LABEL[freshness]}</dd>
-                <dt className="text-mute">價格更新</dt>
-                <dd>{formatUpdated(verification.verified_at, today)}</dd>
-                <dt className="text-mute">來源</dt>
-                <dd>{STATUS_LABEL[verification.verification_status]}</dd>
-              </dl>
-            ) : (
-              <p className="mt-2 text-mute">尚未驗證</p>
-            )}
-          </section>
+          <div className="mt-3.5 flex items-end justify-between gap-3">
+            <div className="flex min-w-0 flex-col gap-0.5">
+              <h3 className="text-[clamp(24px,8vw,30px)] font-black leading-tight">{food.name}</h3>
+              <span className="text-small">店內價，以現場為準</span>
+              {food.description && <span className="text-small">{food.description}</span>}
+            </div>
+            <span className="amount shrink-0 text-[clamp(40px,14vw,56px)] leading-[0.95] tracking-[-2px]" data-testid="detail-price">
+              ${food.price}
+            </span>
+          </div>
 
-          <section aria-label="價格歷史" className="rounded-card border border-line bg-white p-3 text-sm">
-            <h3 className="font-semibold">價格歷史</h3>
-            <ul className="mt-2 divide-y divide-line" data-testid="price-history">
+          <dl className="mt-3.5 flex flex-col gap-1.5 border-t-2 border-ink pt-3 text-aux">
+            <div className="flex items-center justify-between gap-3">
+              <dt>價格更新</dt>
+              <dd className="amount text-right">{verification && freshness ? updatedLabel(verification.verified_at, freshness) : '尚未驗證'}</dd>
+            </div>
+            <div className="flex items-center justify-between gap-3">
+              <dt>來源</dt>
+              <dd className="text-right font-bold">{verification ? STATUS_LABEL[verification.verification_status] : '尚未驗證'}</dd>
+            </div>
+            <div className="flex items-center justify-between gap-3">
+              <dt>價格不對？</dt>
+              <dd>
+                <button type="button" aria-expanded={reporting} onClick={() => setReporting((o) => !o)} className="link-carbon text-aux">
+                  回報新價格
+                </button>
+              </dd>
+            </div>
+          </dl>
+
+          {reporting && (
+            <ReportForm foodId={food.id} currentPrice={food.price} repo={repo} today={today} onReported={onReported} />
+          )}
+
+          {(alt.within.length > 0 || alt.extra.length > 0) && (
+            <div className="mt-3.5 flex flex-col gap-0.5 border-t-2 border-dashed border-ink pt-3.5" data-testid="same-store">
+              {alt.within.length > 0 && (
+                <>
+                  <h3 className="pb-1 text-[15px] font-black">這家店 {params.budget} 元內還有</h3>
+                  <AltRows items={alt.within} onSwitch={onSwitch} />
+                </>
+              )}
+              {alt.extra.length > 0 && (
+                <>
+                  <h3 className="pb-1 pt-2 text-[15px] font-black">多加一點預算</h3>
+                  <AltRows items={alt.extra} onSwitch={onSwitch} />
+                </>
+              )}
+            </div>
+          )}
+
+          {!restaurant.is_test_data && (
+            <div className="mt-2">
+              <MapsReviewLink name={restaurant.name} address={restaurant.address} />
+            </div>
+          )}
+        </div>
+
+        <div className="receipt mt-8" aria-label="價格歷史與菜單照片">
+          <section aria-label="價格歷史">
+            <h3 className="receipt-head text-[15px] font-black">價格歷史</h3>
+            <ul className="mt-2 flex flex-col text-aux" data-testid="price-history">
               {history.map((v) => (
-                <li key={v.id} className="flex items-center justify-between gap-2 py-1.5">
-                  <span className="text-mute">
-                    {new Date(v.verified_at).toISOString().slice(0, 10)} · {STATUS_LABEL[v.verification_status]}
+                <li key={v.id} className="flex items-center justify-between gap-2 border-b-2 border-dotted border-leader py-1.5 last:border-b-0">
+                  <span>
+                    <span className="amount">{new Date(v.verified_at).toISOString().slice(0, 10)}</span> · {STATUS_LABEL[v.verification_status]}
                     {v.report_type ? `（${REPORT_LABEL[v.report_type]}）` : ''}
                   </span>
-                  <span className="font-semibold tabular-nums">{v.reported_price !== null ? `$${v.reported_price}` : '—'}</span>
+                  <span className="amount shrink-0">{v.reported_price !== null ? `$${v.reported_price}` : '—'}</span>
                 </li>
               ))}
-              {history.length === 0 && <li className="py-1.5 text-mute">尚無價格紀錄</li>}
+              {history.length === 0 && <li className="py-1.5">尚無價格紀錄</li>}
             </ul>
           </section>
-
-          <section aria-label="菜單照片" className="rounded-card border border-line bg-white p-3 text-sm">
-            <h3 className="font-semibold">菜單照片</h3>
+          <section aria-label="菜單照片" className="mt-4">
+            <h3 className="receipt-head text-[15px] font-black">菜單照片</h3>
             {menuImages.length === 0 ? (
-              <div className="mt-2 flex items-center justify-between gap-2">
-                <p className="text-mute">{noPhotoText(verification)}</p>
-                <button
-                  type="button"
-                  aria-label="上傳菜單照片"
-                  onClick={onUploadMenu}
-                  className="tap rounded-lg border border-forest px-3 text-sm font-semibold text-forest"
-                >
-                  上傳菜單
+              <div className="mt-2 flex items-center justify-between gap-2 text-aux">
+                <p>{noPhotoText(verification)}</p>
+                <button type="button" onClick={onUploadMenu} className="link-carbon text-aux">
+                  傳菜單
                 </button>
               </div>
             ) : (
               <ul className="mt-2 grid grid-cols-3 gap-2">
                 {menuImages.map((m) => (
-                  <li key={m.id} className="aspect-square overflow-hidden rounded-lg bg-canvas">
-                    <FoodImage src={m.image_url} alt="菜單照片" category={view.categoryName} />
+                  <li key={m.id} className="aspect-square overflow-hidden border-2 border-ink bg-paper">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img src={m.image_url} alt="菜單照片" loading="lazy" referrerPolicy="no-referrer" className="block h-full w-full object-cover" />
                   </li>
                 ))}
               </ul>
             )}
           </section>
-
-          <ReportForm
-            foodId={food.id}
-            currentPrice={food.price}
-            repo={repo}
-            today={today}
-            onReported={onReported}
-          />
-
-          {credit && (
-            <p className="text-xs text-mute">
-              照片：
-              <a className="underline" href={credit.pageUrl} target="_blank" rel="noopener noreferrer">
-                {credit.title}
-              </a>
-              ，作者 {credit.author}，授權{' '}
-              <a className="underline" href={credit.licenseUrl} target="_blank" rel="noopener noreferrer">
-                {credit.license}
-              </a>
-              ，來源 Wikimedia Commons。
-            </p>
-          )}
-          {!food.image_url && <p className="text-xs text-mute">圖片為示意插圖，非實際餐點照片。</p>}
         </div>
+      </div>
+      <div className="bg-ground px-5 pb-5 pt-3.5">
+        <a
+          href={navUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="導航過去，用 Google 地圖開啟"
+          className="btn-ink h-14 w-full text-[18px]"
+        >
+          導航過去
+        </a>
+      </div>
       </div>
     </div>
   );
@@ -276,10 +296,10 @@ function ReportForm({
   }
 
   return (
-    <section aria-label="價格回報" className="rounded-card border border-line bg-white p-3 text-sm">
-      <h3 className="font-semibold">價格回報</h3>
+    <section aria-label="價格回報" className="mt-3.5 border-t-2 border-dashed border-ink pt-3.5 text-aux">
+      <h3 className="text-[15px] font-black">價格回報</h3>
       {sent ? (
-        <p role="status" className="mt-2 rounded-lg bg-lime px-3 py-2 font-medium text-forest" data-testid="report-sent">
+        <p role="status" className="note-box mt-2 font-bold" data-testid="report-sent">
           已收到，待確認
         </p>
       ) : null}
@@ -290,8 +310,8 @@ function ReportForm({
             {REPORT_TYPES.map((t) => (
               <label
                 key={t}
-                className={`tap flex cursor-pointer items-center justify-center rounded-lg border px-2 text-center ${
-                  type === t ? 'border-forest bg-lime font-semibold text-forest' : 'border-line bg-white'
+                className={`relative flex min-h-[44px] cursor-pointer items-center justify-center border-2 border-ink px-2 text-center font-bold focus-within:outline focus-within:outline-[3px] focus-within:outline-carbon ${
+                  type === t ? 'bg-ink text-paper' : 'bg-paper'
                 }`}
               >
                 <input
@@ -304,8 +324,7 @@ function ReportForm({
                     setSent(false);
                     setError(null);
                   }}
-                  className="sr-only"
-                  aria-label={REPORT_LABEL[t]}
+                  className="absolute -inset-0.5 h-[calc(100%+4px)] w-[calc(100%+4px)] cursor-pointer opacity-0"
                 />
                 {REPORT_LABEL[t]}
               </label>
@@ -313,7 +332,7 @@ function ReportForm({
           </div>
         </fieldset>
         {needsPrice && (
-          <label className="flex items-center gap-2">
+          <label className="flex items-center gap-2 font-bold">
             新價格
             <input
               type="text"
@@ -321,36 +340,31 @@ function ReportForm({
               aria-label="新價格"
               value={price}
               onChange={(e) => setPrice(e.target.value)}
-              className="tap w-28 rounded-lg border border-line px-3 tabular-nums"
+              className="field amount !w-28"
             />
             元
           </label>
         )}
         <label className="block">
-          <span className="text-mute">{type === 'info_error' ? '說明 (必填)' : '補充說明 (選填)'}</span>
+          <span className="font-bold">{type === 'info_error' ? '說明 (必填)' : '補充說明 (選填)'}</span>
           <textarea
             aria-label="回報說明"
             rows={2}
             maxLength={200}
             value={note}
             onChange={(e) => setNote(e.target.value)}
-            className="mt-1 w-full rounded-lg border border-line px-3 py-2"
+            className="field mt-1"
           />
         </label>
         {error && (
-          <p role="alert" className="text-red-700">
+          <p role="alert" className="font-bold text-stamp">
             {error}
           </p>
         )}
-        <button
-          type="submit"
-          aria-label="送出回報"
-          disabled={busy}
-          className="tap w-full rounded-lg bg-forest font-semibold text-white disabled:opacity-60"
-        >
+        <button type="submit" disabled={busy} className="btn-ink h-12 w-full text-[16px]">
           送出回報
         </button>
-        <p className="text-xs text-mute">回報會先標示為「待確認」，不會直接修改餐點價格。</p>
+        <p className="text-small">回報會先標示為「待確認」，不會直接修改餐點價格。</p>
       </form>
     </section>
   );

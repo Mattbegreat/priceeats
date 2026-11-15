@@ -2,26 +2,168 @@
 @tailwind components;
 @tailwind utilities;
 
+/* 收據風格色票 (docs/specs/M4-style-receipt.md)；Tailwind theme 以 rgb(var(--x) / alpha) 引用 */
+:root {
+  --ground: 213 222 230; /* #D5DEE6 灰藍桌面 */
+  --paper: 251 251 247; /* #FBFBF7 紙 */
+  --ink: 34 37 42; /* #22252A 墨 */
+  --carbon: 43 76 155; /* #2B4C9B 複寫藍 */
+  --stamp: 210 51 43; /* #D2332B 印章紅 */
+  --leader: 154 163 173; /* #9AA3AD 點線 (裝飾用，不放文字) */
+  --edge: 185 196 206; /* #B9C4CE 紙邊陰影 */
+}
+
 html { -webkit-text-size-adjust: 100%; }
-body { background: #F7F8F5; color: #202823; }
+body { background: rgb(var(--ground)); color: rgb(var(--ink)); }
+button, select, input, textarea { font-family: inherit; }
 
 /* 觸控目標至少 44px */
 .tap { min-height: 44px; min-width: 44px; }
 
-input[type='range'] { accent-color: #172C28; }
-:focus-visible { outline: 2px solid #172C28; outline-offset: 2px; }
+:focus-visible { outline: 3px solid rgb(var(--carbon)); outline-offset: 2px; }
 
 .chip-scroll { scrollbar-width: none; }
 .chip-scroll::-webkit-scrollbar { display: none; }
 
-.leaflet-container { font-family: inherit; }
-.price-marker {
-  background: #172C28; color: #fff; font-weight: 700; font-size: 13px; line-height: 1;
-  padding: 6px 8px; border-radius: 10px; border: 2px solid #fff; white-space: nowrap;
-  box-shadow: 0 1px 4px rgba(0,0,0,.35); font-variant-numeric: tabular-nums; text-align: center;
+@layer components {
+  /* 一張收據：紙色底、無圓角、2px 紙邊陰影、底部鋸齒邊 (純 CSS) */
+  .receipt {
+    position: relative;
+    background: rgb(var(--paper));
+    box-shadow: 0 2px 0 rgb(var(--edge));
+    padding: 16px 18px 14px;
+  }
+  .receipt::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -8px;
+    height: 8px;
+    pointer-events: none;
+    background:
+      linear-gradient(135deg, rgb(var(--paper)) 4px, transparent 0) 0 0 / 8px 8px repeat-x,
+      linear-gradient(225deg, rgb(var(--paper)) 4px, transparent 0) 0 0 / 8px 8px repeat-x;
+  }
+  /* 店名列／分隔：下方 2px ink 實線 */
+  .receipt-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 8px;
+    border-bottom: 2px solid rgb(var(--ink));
+    padding-bottom: 8px;
+  }
+  /* 餐點列的點線 */
+  .leader-dots {
+    flex: 1 1 12px;
+    min-width: 12px;
+    border-bottom: 2px dotted rgb(var(--leader));
+    transform: translateY(-4px);
+  }
+  .amount { font-family: 'IBM Plex Mono', ui-monospace, monospace; font-weight: 600; font-variant-numeric: tabular-nums; }
+  /* 「預算內」印章 */
+  .stamp {
+    display: inline-block;
+    border: 2px solid rgb(var(--stamp));
+    color: rgb(var(--stamp));
+    font-weight: 900;
+    font-size: 13px;
+    padding: 3px 8px;
+    border-radius: 4px;
+    transform: rotate(-6deg);
+    white-space: nowrap;
+  }
+  .link-carbon {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+    min-width: 44px;
+    font-weight: 700;
+    color: rgb(var(--carbon));
+    text-decoration: underline;
+    background: none;
+    border: 0;
+    padding: 0;
+    text-align: left;
+  }
+  /* 主要按鈕：ink 底 paper 字膠囊 */
+  .btn-ink {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 44px;
+    min-width: 44px;
+    border-radius: 9999px;
+    background: rgb(var(--ink));
+    color: rgb(var(--paper));
+    border: 2px solid rgb(var(--ink));
+    font-weight: 900;
+  }
+  .btn-ink:disabled { opacity: 0.6; }
+  .btn-line {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 44px;
+    min-width: 44px;
+    border-radius: 9999px;
+    background: rgb(var(--paper));
+    color: rgb(var(--ink));
+    border: 2px solid rgb(var(--ink));
+    font-weight: 900;
+  }
+  /* 選項按鈕：金額／距離用方角 mono，類型用膠囊；選中＝ink 底 */
+  .opt {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    border: 2px solid rgb(var(--ink));
+    background: rgb(var(--paper));
+    color: rgb(var(--ink));
+    font-weight: 700;
+  }
+  .opt[aria-pressed='true'] { background: rgb(var(--ink)); color: rgb(var(--paper)); }
+  .opt-mono { min-height: 48px; min-width: 64px; padding: 0 14px; border-radius: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-weight: 600; font-size: 18px; }
+  .opt-pill { min-height: 44px; min-width: 44px; padding: 0 14px; border-radius: 9999px; font-size: 15px; }
+  .field {
+    min-height: 44px;
+    width: 100%;
+    border: 2px solid rgb(var(--ink));
+    background: rgb(var(--paper));
+    color: rgb(var(--ink));
+    padding: 0 10px;
+    border-radius: 0;
+    font-size: 16px;
+  }
+  textarea.field { padding: 8px 10px; }
+  .note-box { border: 2px solid rgb(var(--ink)); background: rgb(var(--paper)); padding: 8px 12px; font-size: 14px; }
 }
-.price-marker.sel { background: #D6F5B5; color: #172C28; border-color: #172C28; }
+
+.leaflet-container { font-family: inherit; }
+/* 地圖按鈕也維持 44px 觸控目標 */
+.leaflet-bar a { width: 44px !important; height: 44px !important; line-height: 44px !important; }
+.price-marker {
+  background: rgb(var(--ink)); color: rgb(var(--paper)); font-family: 'IBM Plex Mono', ui-monospace, monospace; font-weight: 600; font-size: 13px; line-height: 1;
+  padding: 6px 8px; border-radius: 0; border: 2px solid rgb(var(--paper)); white-space: nowrap;
+  box-shadow: 0 2px 0 rgb(var(--edge)); text-align: center;
+}
+.price-marker.sel { background: rgb(var(--stamp)); color: rgb(var(--paper)); }
 .center-marker {
-  width: 16px; height: 16px; border-radius: 50%; background: #2563eb; border: 3px solid #fff;
-  box-shadow: 0 0 0 2px #2563eb;
+  width: 16px; height: 16px; border-radius: 50%; background: rgb(var(--carbon)); border: 3px solid rgb(var(--paper));
+  box-shadow: 0 0 0 2px rgb(var(--carbon));
+}
+
+/* 動態只留抽屜開合與展開收合 */
+@keyframes drawer-in { from { transform: translateY(100%); } to { transform: translateY(0); } }
+@keyframes drawer-out { from { transform: translateY(0); } to { transform: translateY(100%); } }
+@keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
+@keyframes fade-out { from { opacity: 1; } to { opacity: 0; } }
+.drawer-in { animation: drawer-in 0.2s ease-out; }
+.drawer-out { animation: drawer-out 0.16s ease-in forwards; }
+.drawer-fade-in { animation: fade-in 0.2s ease-out; }
+.drawer-fade-out { animation: fade-out 0.16s ease-in forwards; }
+@media (prefers-reduced-motion: reduce) {
+  .drawer-in, .drawer-out, .drawer-fade-in, .drawer-fade-out { animation: none; }
 }

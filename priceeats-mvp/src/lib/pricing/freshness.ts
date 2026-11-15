@@ -30,23 +30,17 @@ export function freshnessOf(verifiedAt: string | Date, today: Date, real: boolea
   return freshnessFromDays(daysBetween(verifiedAt, today), real);
 }
 
-export const FRESHNESS_LABEL: Record<Freshness, string> = {
-  recent: '近期資料',
-  maybe: '可能需要確認',
-  old: '舊資料',
-};
+/** 更新年月 (UTC)：2026/03 */
+export function formatUpdatedMonth(verifiedAt: string | Date): string {
+  const dt = typeof verifiedAt === 'string' ? new Date(verifiedAt) : verifiedAt;
+  return `${dt.getUTCFullYear()}/${String(dt.getUTCMonth() + 1).padStart(2, '0')}`;
+}
 
-/** 文字 / 背景色 class (綠 / 黃 / 灰)，對比皆達 WCAG AA */
-export const FRESHNESS_CLASS: Record<Freshness, string> = {
-  recent: 'bg-green-100 text-green-800',
-  maybe: 'bg-amber-100 text-amber-900',
-  old: 'bg-gray-200 text-gray-700',
-};
-
-export function formatUpdated(verifiedAt: string, today: Date): string {
-  const d = daysBetween(verifiedAt, today);
-  if (d === 0) return '今天更新';
-  if (d < 31) return `${d} 天前更新`;
-  const dt = new Date(verifiedAt);
-  return `${dt.getUTCFullYear()}/${String(dt.getUTCMonth() + 1).padStart(2, '0')}/${String(dt.getUTCDate()).padStart(2, '0')} 更新`;
+/**
+ * 新鮮度文案 (M4 第 8 項)：只顯示更新年月，例「2026/03 更新」；
+ * 6 個月內與 6–18 個月都不加字樣 (不顯示「近期」「可能需要確認」)，超過 18 個月才標「舊資料」。
+ */
+export function updatedLabel(verifiedAt: string | Date, freshness: Freshness | null): string {
+  const base = `${formatUpdatedMonth(verifiedAt)} 更新`;
+  return freshness === 'old' ? `舊資料 · ${base}` : base;
 }

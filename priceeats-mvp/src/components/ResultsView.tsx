@@ -1,14 +1,23 @@
 'use client';
 
-import { useMemo } from 'react';
+import { useMemo, useState } from 'react';
+import { centerLabel } from '@/data/centers';
+import { distLabel } from '@/lib/search/params';
 import type { FoodBase } from '@/lib/search/filter';
 import { groupByStore } from '@/lib/search/group';
-import { centerLabel } from '@/data/centers';
-import type { FoodView, SearchParams } from '@/types';
+import type { FoodView, SearchParams, SortKey } from '@/types';
 import { EmptyState } from './EmptyState';
-import { FilterBar } from './FilterBar';
+import { FilterDrawer } from './FilterDrawer';
+import { LocationNote } from './LocationPanel';
 import { StoreCard } from './StoreCard';
 import type { LocProps } from './HomeView';
+
+const SORT_PHRASE: Record<SortKey, string> = {
+  budget: '最貼近預算',
+  price: '最便宜',
+  distance: '最近',
+  rating: '評價最高',
+};
 
 export function ResultsView({
   index,
@@ -28,34 +37,62 @@ export function ResultsView({
   loc: LocProps;
 }) {
   const groups = useMemo(() => groupByStore(results), [results]);
+  const [drawer, setDrawer] = useState(false);
+  const where = loc.source === 'gps' ? '目前位置' : centerLabel(params);
   return (
-    <div className="space-y-4">
-      <div className="flex items-end justify-between gap-2">
-        <h1 className="text-xl font-bold text-forest">符合預算的餐點</h1>
-        <p className="text-sm text-mute" data-testid="result-count" aria-live="polite">
-          共 <span className="font-bold text-ink tabular-nums">{results.length}</span> 筆
-        </p>
+    <div>
+      <header className="space-y-2 pb-2.5">
+        <div className="flex items-center justify-between text-small font-bold">
+          <span>PriceEats</span>
+          <span className="amount text-carbon" data-testid="center-text">
+            {where} {distLabel(params.dist)}
+          </span>
+        </div>
+        <div className="flex flex-wrap items-end justify-between gap-x-3 gap-y-1">
+          <h1 className="text-title">
+            今天的{params.cat === '不限' ? '餐點' : params.cat}
+            <br />
+            不超過
+          </h1>
+          <span className="amount text-[clamp(48px,17vw,64px)] leading-[0.95] tracking-[-2px]" data-testid="budget-value">
+            ${params.budget}
+          </span>
+        </div>
+        <div className="flex items-center gap-2">
+          <p className="flex-1 text-aux" data-testid="result-summary" aria-live="polite">
+            <span data-testid="result-count">
+              <span className="amount">{results.length}</span>
+            </span>{' '}
+            道，先列{SORT_PHRASE[params.sort]}的
+            {results.length > 0 && <span className="sr-only" data-testid="store-count">{` · ${groups.length} 家店`}</span>}
+          </p>
+          <button type="button" data-testid="open-filter" onClick={() => setDrawer(true)} className="btn-ink h-11 shrink-0 px-4 text-[15px] font-bold">
+            改條件
+          </button>
+        </div>
+      </header>
+      <div className="mb-3">
+        <LocationNote note={loc.note} />
       </div>
-      <p className="text-sm text-mute">
-        搜尋中心：{loc.source === 'gps' ? '目前位置' : centerLabel(params)}
-        {results.length > 0 && <span data-testid="store-count">{` · ${groups.length} 家店`}</span>}
-      </p>
-      {loc.note && (
-        <p className="rounded-lg bg-amber-50 px-3 py-2 text-sm text-amber-900" role="status" data-testid="location-note">
-          {loc.note}
-        </p>
-      )}
-      <FilterBar params={params} onParams={onParams} />
       {results.length === 0 ? (
         <EmptyState index={index} params={params} onParams={onParams} />
       ) : (
-        <ul className="grid gap-3 md:grid-cols-2 lg:grid-cols-3" data-testid="result-list">
+        <ul className="flex flex-col gap-6 pb-2" data-testid="result-list">
           {groups.map((g) => (
             <li key={g.restaurantId}>
               <StoreCard group={g} today={today} onOpen={onOpen} />
             </li>
           ))}
         </ul>
+      )}
+      {drawer && (
+        <FilterDrawer
+          params={params}
+          onParams={onParams}
+          count={results.length}
+          loc={{ source: loc.source, locating: loc.locating, onUseGps: loc.onUseGps, onPickPreset: loc.onPickPreset }}
+          onClose={() => setDrawer(false)}
+        />
       )}
     </div>
   );

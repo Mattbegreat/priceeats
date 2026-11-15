@@ -24,7 +24,7 @@ try {
     await page.getByRole('dialog').waitFor();
     await page.waitForTimeout(300);
     await shot('3-detail');
-    await page.getByRole('button', { name: '關閉詳情' }).click();
+    await page.getByRole('button', { name: '回結果' }).click();
     await page.getByTestId('nav-map').click();
     await page.locator('.price-marker').first().waitFor();
     await page.waitForTimeout(1500);

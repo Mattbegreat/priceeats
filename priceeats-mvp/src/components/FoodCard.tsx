@@ -1,49 +1,39 @@
 'use client';
 
-import { formatDistance } from '@/lib/geo/haversine';
+import { distShort } from '@/lib/geo/format';
+import type { SearchParams } from '@/types';
 import type { FoodView } from '@/types';
-import { RatingText, TestDataTag, UpdatedText, VerificationBadge } from './Badges';
-import { FoodImage } from './FoodImage';
+import { RatingText, TestDataTag } from './Badges';
+import { LeaderRow, Stamp } from './Receipt';
 
-export function FoodCard({ view, today, onOpen }: { view: FoodView; today: Date; onOpen: (id: string) => void }) {
-  const { food, restaurant, verification, freshness } = view;
+/** 收藏頁的餐點：一張小收據 (店名＋距離、一道餐點)；超出目前預算就不蓋「預算內」章 */
+export function FoodCard({ view, budget, onOpen }: { view: FoodView; budget: SearchParams['budget']; today?: Date; onOpen: (id: string) => void }) {
+  const { food, restaurant } = view;
   return (
-    <button
-      type="button"
-      onClick={() => onOpen(food.id)}
-      aria-label={`${food.name} ${food.price} 元，${restaurant.name}，查看詳情`}
-      data-testid="food-card"
-      data-price={food.price}
-      className="flex w-full gap-3 rounded-card border border-line bg-white p-3 text-left transition hover:border-forest focus-visible:border-forest"
-    >
-      <div className="h-24 w-24 shrink-0 overflow-hidden rounded-lg bg-canvas">
-        <FoodImage src={food.image_url} alt={food.name} category={view.categoryName} />
+    <div className="receipt" data-testid="fav-card">
+      <div className="receipt-head">
+        <h2 className="min-w-0 flex-1 truncate text-store" title={restaurant.name}>
+          {restaurant.name}
+        </h2>
+        <span className="amount shrink-0 text-small text-carbon">{distShort(view.distanceM)}</span>
       </div>
-      <div className="min-w-0 flex-1">
-        <div className="flex items-start justify-between gap-2">
-          <h3 className="min-w-0 text-base font-semibold leading-snug">{food.name}</h3>
-          <span className="shrink-0 text-2xl font-bold leading-none text-forest tabular-nums" data-testid="card-price">
-            ${food.price}
-          </span>
-        </div>
-        <p className="mt-1 flex flex-wrap items-center gap-1.5 text-sm text-mute">
-          <span className="truncate">{restaurant.name}</span>
-          {restaurant.is_test_data && <TestDataTag />}
+      {restaurant.is_test_data && (
+        <p className="mt-1.5 flex flex-wrap items-center gap-x-2 gap-y-1 text-small leading-tight">
+          <TestDataTag />
+          <RatingText rating={view.rating} isTest />
         </p>
-        <p className="mt-0.5 text-sm text-mute">
-          {formatDistance(view.distanceM)}
-          {restaurant.is_test_data && (
-            <>
-              {' · '}
-              <RatingText rating={view.rating} isTest />
-            </>
-          )}
-        </p>
-        <p className="mt-1.5 flex flex-wrap items-center gap-x-2 gap-y-1">
-          <VerificationBadge v={verification} freshness={freshness} />
-          <UpdatedText v={verification} freshness={freshness} today={today} />
-        </p>
-      </div>
-    </button>
+      )}
+      <button
+        type="button"
+        onClick={() => onOpen(food.id)}
+        aria-label={`${food.name} ${food.price} 元，${restaurant.name}，查看詳情`}
+        data-testid="food-card"
+        data-price={food.price}
+        className="mt-1.5 flex min-h-[44px] w-full items-center text-left"
+      >
+        <LeaderRow left={food.name} right={food.price} priceTestId="card-price" />
+      </button>
+      <div className="flex justify-end pt-1">{food.price <= budget ? <Stamp /> : <span className="text-small">超出目前預算</span>}</div>
+    </div>
   );
 }

@@ -77,7 +77,7 @@ priceeats/
 │  ├─ services/{ocr,adapters}/
 │  ├─ repositories/        types、mock、supabase、local、index
 │  ├─ server/handlers.ts   route handler 的實際邏輯
-│  ├─ data/                categories、centers、photo-credits、seed/(dishes、restaurants、index、sql、random)
+│  ├─ data/                categories、centers、photo-credits（畫面不使用）、seed/(dishes、restaurants、index、sql、random)
 │  └─ types/
 ├─ supabase/               migrations/0001_init.sql、0002_production.sql、seed.sql (由 script 產生)
 ├─ scripts/                build-demo.mjs、gen-seed-sql.ts、smoke-api.mjs、import-menu.ts
@@ -242,18 +242,37 @@ npm run screenshots    # 產生 docs/screenshots/ 10 張圖
 |---|---|
 | `tsc --noEmit` | 0 錯誤 |
 | `next lint` | 0 警告、0 錯誤 |
-| Vitest | 75／75 通過（7 個檔案） |
-| Playwright E2E（390×844） | 14／14 通過 |
+| Vitest | 見 `npm test`（M4 新增 `tests/m4-receipt.test.ts`） |
+| Playwright E2E（375×812；M4 量測另跑 320×640） | 見 `npm run test:e2e` |
 | API smoke | 4／4 通過 |
 | `npm run build` | 成功 |
 | `npm run build:demo` | 成功，out/ 約 1.3 MB |
 
 ## 圖片
 
-規格要求優先使用 Wikimedia Commons 可熱連結的照片，且網址、授權、作者都要先確認。這次執行環境連不到 commons.wikimedia.org（WebFetch 回傳 url_not_found，WebSearch 只能拿到檔案頁標題、讀不到授權與作者），依規格「不要自創或猜圖片網址」，所以**Commons 照片 0 張，8 個分類全部使用 SVG 插圖**。
+M4 起整站不使用餐點示意圖、也不顯示餐點照片（收據風格只有文字與金額）；`FoodImage`、`FoodIllustration` 已移除。
+詳情頁「菜單照片」區只顯示使用者／店家上傳的真實菜單照片。`src/data/photo-credits.ts` 與種子資料的 `image_url` 欄位保留（資料層不動），畫面不使用。
 
-- 所有圖片位置（卡片、詳情、地圖清單）都經 `FoodImage`：沒有網址或載入失敗就換成 SVG 插圖，不會破圖。
-- 日後加照片：在 `src/data/photo-credits.ts` 登錄（餐點名稱 → 網址、授權、作者、檔案頁），重新 `npm run gen:seed`；詳情頁會自動標示授權。
+## 整站風格：收據（M4）
+
+規格見 `docs/specs/M4-style-receipt.md`。
+
+- **色票**：寫成 CSS 變數（`src/app/globals.css` 的 `--ground／--paper／--ink／--carbon／--stamp／--leader／--edge`，RGB 三元組），Tailwind theme（`tailwind.config.ts`）以 `rgb(var(--x) / <alpha-value>)` 引用，元件只用 `bg-ground`、`bg-paper`、`text-ink`、`text-carbon`、`text-stamp` 等名稱，不散落 hex。唯一例外是 Leaflet 圓圈的 `pathOptions`（程式選項，不能用 CSS 變數）。
+- **字型**：Noto Sans TC（400／500／700／900）、IBM Plex Mono（500／600，金額與距離）。**用 `<link>` 載入 Google Fonts，不用 `next/font/google`**，理由：
+  1. `next/font/google` 在建置時要連 Google 下載字型檔；離線環境、CI 或沒有對外網路的沙盒建置會失敗，`<link>` 沒有這個建置期相依。
+  2. Google 的 CSS 會依瀏覽器切成 unicode-range 子集，中文字型只下載頁面用到的字；`next/font` 會把 Noto Sans TC 的全部子集檔放進 `out/`，靜態輸出變大。
+  3. 樣式表由 layout 內一小段 script 非同步插入（沒有 JS 時由 `<noscript>` 補），`display=swap`，字型沒載到時先用系統中文字型，不擋首次繪製與操作。
+  - 代價：多一個第三方連線（fonts.googleapis.com／fonts.gstatic.com）。不新增 npm 套件。E2E 會中斷這兩個網域，用系統字型量測。
+- **元件類別**：`globals.css` 的 `@layer components`：`.receipt`（紙色底、無圓角、2px 紙邊陰影、CSS 鋸齒底邊）、`.receipt-head`、`.leader-dots`、`.stamp`、`.opt`、`.btn-ink`、`.btn-line`、`.link-carbon`、`.field`。
+- **動態**只有抽屜滑入／滑出與背景淡入（`prefers-reduced-motion` 時關閉），沒有其他動畫。
+
+### M4 手機體驗
+
+- 首頁不等資料：表單立即可操作，範例收據在資料載入後才出現。
+- 結果頁頁首＋「改條件」底部抽屜（預算、類型、走多遠、先看、單點小菜／多人份、出發點；測試資料模式多「最低評分」）。
+- 餐點頁（全螢幕收據）：價格更新年月、來源、回報新價格、「這家店 N 元內還有」（預算內最多 5 道）、「多加一點預算」（超出預算但 ≤ 預算＋20 元最多 3 道）；底部固定「導航過去」（分享屬 M5）。
+- 新鮮度文案：只顯示更新年月（例：2026/03 更新）；超過 18 個月（測試資料 90 天）才加「舊資料」。
+- 加到主畫面：manifest 名稱、`display: standalone`、`theme_color`、192／512 PNG 與 maskable 圖示、`apple-touch-icon`、`appleWebApp`。實機（iPhone、Android 各一次）由 Matt 確認。
 
 ## 尚未實作／已知限制
 

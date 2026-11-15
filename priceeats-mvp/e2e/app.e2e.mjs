@@ -1,4 +1,4 @@
-// Playwright E2E：對 build:demo 的 out/ 起靜態伺服器，chromium、390x844
+// Playwright E2E：對 build:demo 的 out/ 起靜態伺服器，chromium；預設視窗 375x812，M4 量測另跑 320x640
 import assert from 'node:assert/strict';
 import { after, before, describe, it } from 'node:test';
 import { chromium } from 'playwright';
@@ -6,7 +6,7 @@ import { startServer } from './server.mjs';
 
 let server;
 let browser;
-const VIEWPORT = { width: 390, height: 844 };
+const VIEWPORT = { width: 375, height: 812 };
 const PNG_1x1 = Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg==', 'base64');
 
 before(async () => {
@@ -18,9 +18,15 @@ after(async () => {
   await server?.close();
 });
 
+/** 字型來自 Google Fonts：測試不連外 (中斷請求，改用系統字型)，也證明字型載入不影響操作 */
+async function blockFonts(context) {
+  await context.route(/fonts\.(googleapis|gstatic)\.com/, (r) => r.abort());
+}
+
 /** 開新 context/page，記錄頁面錯誤 (忽略外部資源載入失敗，例如沒有網路時的地圖圖磚) */
 async function open(path = '', opts = {}) {
   const context = await browser.newContext({ viewport: VIEWPORT, locale: 'zh-TW', ...opts });
+  await blockFonts(context);
   const page = await context.newPage();
   const errors = [];
   const requests = [];
@@ -34,12 +40,23 @@ async function open(path = '', opts = {}) {
   return { context, page, errors, requests };
 }
 
-const cards = (page) => page.getByTestId('food-card');
 
-describe('E2E (build:demo 的 out/，chromium 390x844)', () => {
-  it('13. 拒絕 GPS 權限仍能搜尋並出現結果與提示文字', async () => {
+const cards = (page) => page.getByTestId('food-card');
+const num = (t) => Number(String(t).replace(/[^0-9.]/g, ''));
+const count = async (page) => num(await page.getByTestId('result-count').innerText());
+const openDrawer = async (page) => {
+  await page.getByTestId('open-filter').click();
+  await page.getByRole('dialog', { name: '改條件' }).waitFor();
+};
+const closeDrawer = async (page) => {
+  await page.getByTestId('drawer-apply').click();
+  await page.getByRole('dialog', { name: '改條件' }).waitFor({ state: 'detached' });
+};
+
+describe('E2E (build:demo 的 out/，chromium 375x812)', () => {
+  it('13. 拒絕 GPS 權限仍能搜尋並出現結果與提示文字，預設中心保留', async () => {
     const { context, page, errors } = await open('', { permissions: [] });
-    await page.getByRole('button', { name: '使用目前位置' }).click();
+    await page.getByRole('button', { name: '改用我現在的位置' }).click();
     const note = page.getByTestId('location-note');
     await note.waitFor();
     assert.match(await note.innerText(), /預設位置：台北車站/);
@@ -47,6 +64,7 @@ describe('E2E (build:demo 的 out/，chromium 390x844)', () => {
     await cards(page).first().waitFor();
     assert.ok((await cards(page).count()) > 0, '應有結果');
     assert.match(await page.getByTestId('location-note').innerText(), /預設位置：台北車站/);
+    assert.match(await page.getByTestId('center-text').innerText(), /台北車站/);
     assert.deepEqual(errors, []);
     await context.close();
   });
@@ -71,33 +89,37 @@ describe('E2E (build:demo 的 out/，chromium 390x844)', () => {
     const title = await dialog.getByRole('heading', { level: 2 }).innerText();
     await dialog.getByTestId('fav-toggle').click();
     assert.equal(await dialog.getByTestId('fav-toggle').getAttribute('aria-pressed'), 'true');
-    await dialog.getByRole('button', { name: '關閉詳情' }).click();
+    await dialog.getByRole('button', { name: '回結果' }).click();
     await page.getByTestId('nav-favorites').click();
     await page.getByTestId('fav-list').waitFor();
     await page.reload();
     await page.getByTestId('fav-list').waitFor();
     assert.match(page.url(), /view=favorites/);
     assert.equal(await page.getByTestId('fav-count').innerText(), '共 1 道');
-    assert.match(await cards(page).first().innerText(), new RegExp(title));
+    assert.match(await page.getByTestId('fav-card').first().innerText(), new RegExp(title));
     await context.close();
   });
 
   it('16. 條件極嚴 (預算 30、500m、評分 4.5) 顯示 Empty State，點放寬按鈕後有結果', async () => {
     const { context, page } = await open();
-    await page.getByLabel('預算滑桿').focus();
-    await page.keyboard.press('Home');
-    assert.equal(await page.getByTestId('budget-value').innerText(), '$30');
-    await page.getByRole('button', { name: '距離 500m' }).click();
+    await page.getByRole('button', { name: '自訂', exact: true }).click();
+    await page.getByLabel('自訂預算金額').fill('30');
     await page.getByTestId('search-button').click();
-    await page.getByLabel('最低評分').selectOption('4.5');
+    await page.getByTestId('budget-value').waitFor();
+    assert.equal(await page.getByTestId('budget-value').innerText(), '$30');
+    await openDrawer(page);
+    await page.getByRole('button', { name: '距離 500m' }).click();
+    await page.getByRole('group', { name: '最低評分' }).getByRole('button', { name: '4.5' }).click();
+    await closeDrawer(page);
     await page.getByTestId('empty-state').waitFor();
+    assert.match(await page.getByTestId('empty-state').innerText(), /查無資料/);
     const relax = page.getByTestId('relax-budget');
     const text = await relax.innerText();
     const n = Number(/放寬後有 (\d+) 筆/.exec(text)?.[1]);
     assert.ok(n > 0, `預算 +50 放寬後應有結果，實際文字：${text}`);
     await relax.click();
     await cards(page).first().waitFor();
-    assert.equal(Number(await page.getByTestId('result-count').locator('span').innerText()), n, '放寬後筆數應與提示相符');
+    assert.equal(await count(page), n, '放寬後筆數應與提示相符');
     assert.equal(await page.getByTestId('budget-value').innerText(), '$80');
     await context.close();
   });
@@ -128,74 +150,99 @@ describe('E2E (build:demo 的 out/，chromium 390x844)', () => {
     await cards(page).first().waitFor();
     const prices = await page.getByTestId('card-price').allInnerTexts();
     assert.ok(prices.length > 0);
-    assert.ok(prices.every((p) => Number(p.replace('$', '')) <= 100));
+    assert.ok(prices.every((p) => num(p) <= 100));
     await context.close();
   });
 
-  it('18. 圖片網址失效時顯示 fallback，不出現破圖；圖片有效時正常顯示', async () => {
-    const BAD = 'https://upload.wikimedia.org/wikipedia/commons/x/xx/Not_Exist_For_Test.jpg';
+  it('18. 不使用餐點示意圖：結果、詳情都沒有 <img>／示意插圖，也沒有「圖片為示意插圖」字樣', async () => {
     const context = await browser.newContext({ viewport: VIEWPORT });
+    await blockFonts(context);
+    // 即使資料帶有圖片網址 (舊測試用的注入點) 也不會顯示
     await context.addInitScript((u) => {
       window.__PRICEEATS_TEST_IMAGE_URL = u;
-    }, BAD);
-    await context.route('https://upload.wikimedia.org/**', (r) => r.fulfill({ status: 404, body: 'nope' }));
+    }, 'https://upload.wikimedia.org/ok.png');
     const page = await context.newPage();
     await page.goto(server.url + '?view=results');
     await cards(page).first().waitFor();
-    // 讓所有 lazy 圖片立刻載入 (離開畫面的圖片預設不會載入，也就不會觸發錯誤)
-    await page.evaluate(() => document.querySelectorAll('img').forEach((i) => (i.loading = 'eager')));
-    await page.waitForTimeout(1000);
-    const n = await cards(page).count();
-    assert.equal(await page.locator('[data-testid="food-card"] img').count(), 0, '失效圖片不應留下 <img>');
-    assert.equal(await page.locator('[data-testid="food-card"] [data-testid="food-illustration"]').count(), n);
-    const broken = await page.$$eval('img', (imgs) => imgs.filter((i) => !i.complete || i.naturalWidth === 0).length);
-    assert.equal(broken, 0, '不得有破圖');
+    assert.equal(await page.locator('img, svg[data-testid="food-illustration"], [data-testid="food-illustration"]').count(), 0);
+    await cards(page).first().click();
+    await page.getByRole('dialog').waitFor();
+    assert.equal(await page.locator('img, [data-testid="food-illustration"]').count(), 0);
+    assert.ok(!/示意/.test(await page.locator('body').innerText()), '不應有「示意」字樣');
     await context.close();
-
-    // 對照組：圖片有效時真的顯示照片 (證明 fallback 不是永遠啟用)
-    const ctx2 = await browser.newContext({ viewport: VIEWPORT });
-    await ctx2.addInitScript((u) => {
-      window.__PRICEEATS_TEST_IMAGE_URL = u;
-    }, 'https://upload.wikimedia.org/ok.png');
-    await ctx2.route('https://upload.wikimedia.org/**', (r) => r.fulfill({ status: 200, contentType: 'image/png', body: PNG_1x1 }));
-    const p2 = await ctx2.newPage();
-    await p2.goto(server.url + '?view=results');
-    await cards(p2).first().waitFor();
-    await p2.waitForFunction(() => document.querySelector('[data-testid="food-card"] img')?.naturalWidth > 0);
-    assert.equal(await p2.locator('[data-testid="food-card"] [data-testid="food-illustration"]').count(), 0);
-    await ctx2.close();
   });
 
   it('19. 網址還原狀態：重新整理後篩選條件與開啟的詳情都還在', async () => {
     const { context, page } = await open('?view=results&budget=150&cat=%E8%82%89%E9%A1%9E&dist=2000&sort=distance');
     await cards(page).first().waitFor();
     assert.equal(await page.getByTestId('budget-value').innerText(), '$150');
-    assert.equal(await page.getByLabel('排序').inputValue(), 'distance');
-    assert.equal(await page.getByLabel('距離').inputValue(), '2000');
+    assert.match(await page.getByTestId('result-summary').innerText(), /先列最近的/);
+    await openDrawer(page);
+    assert.equal(await page.getByRole('button', { name: '最近', exact: true }).getAttribute('aria-pressed'), 'true');
+    assert.equal(await page.getByRole('button', { name: '距離 2km' }).getAttribute('aria-pressed'), 'true');
+    assert.equal(await page.getByRole('button', { name: '類型 肉類' }).getAttribute('aria-pressed'), 'true');
+    await closeDrawer(page);
     await cards(page).first().click();
     await page.getByRole('dialog').waitFor();
     assert.match(page.url(), /food=/);
     await page.reload();
     await page.getByRole('dialog').waitFor();
-    await page.getByRole('button', { name: '關閉詳情' }).click();
+    await page.getByRole('button', { name: '回結果' }).click();
     await page.getByRole('dialog').waitFor({ state: 'detached' });
     await context.close();
   });
 
-  it('20. 結果頁調整篩選即時更新 (不需再按搜尋)；詳情有導航連結與菜單照片空狀態', async () => {
+  it('20. 改條件即時更新 (不需再按搜尋)；詳情有導航連結、菜單照片空狀態與價格歷史', async () => {
     const { context, page } = await open('?view=results');
     await cards(page).first().waitFor();
-    const before = Number(await page.getByTestId('result-count').locator('span').innerText());
-    await page.getByLabel('預算滑桿').focus();
-    for (let i = 0; i < 6; i++) await page.keyboard.press('ArrowRight');
-    const after = Number(await page.getByTestId('result-count').locator('span').innerText());
+    const before = await count(page);
+    await openDrawer(page);
+    await page.getByRole('button', { name: '$200', exact: true }).click();
+    const after = await count(page);
     assert.ok(after > before, `預算變大筆數應增加 (${before} -> ${after})`);
+    assert.equal(num(await page.getByTestId('drawer-apply').innerText()), after, '抽屜按鈕的筆數要與結果一致');
+    await closeDrawer(page);
     await cards(page).first().click();
     const dialog = page.getByRole('dialog');
-    const href = await dialog.getByRole('link', { name: '用 Google 地圖導航' }).getAttribute('href');
+    const href = await dialog.getByRole('link', { name: /導航過去/ }).getAttribute('href');
     assert.match(href, /^https:\/\/www\.google\.com\/maps\/search\/\?api=1&query=\d+\.\d+,\d+\.\d+$/);
     assert.match(await dialog.innerText(), /尚無菜單照片|菜單照片未公開/);
     assert.match(await dialog.innerText(), /價格歷史/);
+    assert.ok(!/分享/.test(await dialog.innerText()), '分享屬 M5，此版不放');
+    await context.close();
+  });
+
+  it('20b. 餐點頁：這家店 N 元內還有 (最多 5 道、皆 <= 預算)、多加一點預算 (最多 3 道、預算 < 價格 <= 預算+20)；點同店餐點可切換', async () => {
+    const { context, page } = await open('?view=results&budget=100&dist=5000');
+    await cards(page).first().waitFor();
+    // 找一道同店還有其他預算內餐點的餐點
+    const stores = page.getByTestId('store-card');
+    const n = await stores.count();
+    let found = false;
+    for (let i = 0; i < n && !found; i++) {
+      if ((await stores.nth(i).getByTestId('food-card').count()) >= 2) {
+        await stores.nth(i).getByTestId('food-card').first().click();
+        found = true;
+      }
+    }
+    assert.ok(found, '應有同店至少 2 道的店');
+    const dialog = page.getByRole('dialog');
+    const section = dialog.getByTestId('same-store');
+    await section.waitFor();
+    assert.match(await section.innerText(), /這家店 100 元內還有/);
+    const rows = section.getByRole('button');
+    const total = await rows.count();
+    assert.ok(total >= 1 && total <= 8, `列數 ${total}`);
+    const prices = (await section.locator('.amount').allInnerTexts()).map(num);
+    const within = prices.filter((p) => p <= 100);
+    const extra = prices.filter((p) => p > 100);
+    assert.ok(within.length <= 5, '預算內最多 5 道');
+    assert.ok(extra.length <= 3 && extra.every((p) => p <= 120), '多加預算最多 3 道且 <= 預算+20');
+    const first = rows.first();
+    const label = (await first.getAttribute('aria-label')).split(' ')[0];
+    await first.click();
+    await dialog.getByRole('heading', { level: 3 }).first().waitFor();
+    assert.match(await dialog.innerText(), new RegExp(label));
     await context.close();
   });
 
@@ -204,12 +251,13 @@ describe('E2E (build:demo 的 out/，chromium 390x844)', () => {
     await cards(page).first().click();
     const dialog = page.getByRole('dialog');
     const priceBefore = await dialog.getByTestId('detail-price').innerText();
-    const num = Number(priceBefore.replace('$', ''));
+    const price = num(priceBefore);
+    await dialog.getByRole('button', { name: '回報新價格' }).click();
     await dialog.getByText('價格已調漲').click();
-    await dialog.getByLabel('新價格').fill(String(num - 5));
+    await dialog.getByLabel('新價格').fill(String(price - 5));
     await dialog.getByRole('button', { name: '送出回報' }).click();
     assert.match(await dialog.getByRole('alert').innerText(), /高於/);
-    await dialog.getByLabel('新價格').fill(String(num + 20));
+    await dialog.getByLabel('新價格').fill(String(price + 20));
     await dialog.getByRole('button', { name: '送出回報' }).click();
     assert.equal(await dialog.getByTestId('report-sent').innerText(), '已收到，待確認');
     assert.equal(await dialog.getByTestId('detail-price').innerText(), priceBefore);
@@ -219,6 +267,7 @@ describe('E2E (build:demo 的 out/，chromium 390x844)', () => {
 
   it('22. 地圖：標記顯示最低價、點標記開店內清單→詳情；圖磚失敗有提示且清單模式可用', async () => {
     const context = await browser.newContext({ viewport: VIEWPORT });
+    await blockFonts(context);
     await context.route('https://tile.openstreetmap.org/**', (r) => r.abort());
     const page = await context.newPage();
     const errors = [];
@@ -234,7 +283,7 @@ describe('E2E (build:demo 的 out/，chromium 390x844)', () => {
     await page.getByTestId('map-selected').waitFor();
     await page.getByTestId('map-selected').getByRole('button').first().click();
     await page.getByRole('dialog').waitFor();
-    await page.getByRole('button', { name: '關閉詳情' }).click();
+    await page.getByRole('button', { name: '返回' }).click();
     await page.getByRole('button', { name: '清單模式' }).click();
     await page.getByTestId('map-list').waitFor();
     assert.ok((await page.getByTestId('map-list').getByRole('button').count()) > 0);
@@ -242,7 +291,7 @@ describe('E2E (build:demo 的 out/，chromium 390x844)', () => {
     await context.close();
   });
 
-  it('23. 上傳：檔案驗證、OCR 未設定時切到人工輸入、不顯示辨識成功、送出為待確認', async () => {
+  it('23. 傳菜單：檔案驗證、OCR 未設定時切到人工輸入、不顯示辨識成功、送出為待確認', async () => {
     const { context, page } = await open();
     await page.getByTestId('nav-upload').click();
     const file = page.getByLabel('選擇菜單照片');
@@ -277,6 +326,7 @@ describe('E2E (build:demo 的 out/，chromium 390x844)', () => {
 
   it('24. localStorage 不可用時頁面仍正常 (收藏降級、搜尋照常)', async () => {
     const context = await browser.newContext({ viewport: VIEWPORT });
+    await blockFonts(context);
     await context.addInitScript(() => {
       Object.defineProperty(window, 'localStorage', {
         get() {
@@ -292,37 +342,38 @@ describe('E2E (build:demo 的 out/，chromium 390x844)', () => {
     await cards(page).first().waitFor();
     await cards(page).first().click();
     await page.getByTestId('fav-toggle').click();
-    await page.getByRole('button', { name: '關閉詳情' }).click();
+    await page.getByRole('button', { name: '回結果' }).click();
     assert.deepEqual(errors, []);
     await context.close();
   });
 
   it('25. 1440 與 375 寬無橫向捲動', async () => {
     for (const width of [375, 1440]) {
-      const context = await browser.newContext({ viewport: { width, height: 900 } });
-      const page = await context.newPage();
-      await page.goto(server.url + '?view=results');
+      const { context, page } = await open('?view=results', { viewport: { width, height: 900 } });
       await cards(page).first().waitFor();
       const over = await page.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth);
       assert.ok(over <= 0, `${width}px 寬出現橫向捲動 ${over}px`);
       await context.close();
     }
   });
-  it('26. 結果以店分組：每店一張卡、最多 3 道、可展開；預設排序為最貼近預算', async () => {
+
+  it('26. 結果以店分組：每店一張收據、最多 3 道、可展開；預設先列最貼近預算', async () => {
     const { context, page } = await open('?view=results&budget=300&dist=5000');
     await page.getByTestId('store-card').first().waitFor();
-    assert.equal(await page.getByLabel('排序').inputValue(), 'budget');
+    assert.match(await page.getByTestId('result-summary').innerText(), /先列最貼近預算的/);
     const stores = page.getByTestId('store-card');
     const n = await stores.count();
     for (let i = 0; i < n; i++) {
       assert.ok((await stores.nth(i).getByTestId('food-card').count()) <= 3, '預設每店最多顯示 3 道');
+      assert.match(await stores.nth(i).innerText(), /預算內/, '每張收據都蓋「預算內」章');
     }
     // 店內依價格高到低
-    const prices = (await stores.first().getByTestId('card-price').allInnerTexts()).map((t) => Number(t.replace('$', '')));
+    const prices = (await stores.first().getByTestId('card-price').allInnerTexts()).map(num);
     assert.deepEqual(prices, [...prices].sort((a, b) => b - a));
-    // 找一家有「展開」的店
+    // 找一家有「看這家全部」的店
     const expand = page.getByTestId('store-expand').first();
     await expand.waitFor();
+    assert.match(await expand.innerText(), /^看這家全部 \d+ 道$/);
     const card = page.getByTestId('store-card').filter({ has: expand }).first();
     const before = await card.getByTestId('food-card').count();
     await expand.click();
@@ -331,16 +382,221 @@ describe('E2E (build:demo 的 out/，chromium 390x844)', () => {
     await context.close();
   });
 
-  it('27. 含多人份勾選：預設不勾，勾選後筆數不減少', async () => {
+  it('27. 也顯示多人份：預設不勾，勾選後筆數不減少', async () => {
     const { context, page } = await open('?view=results&budget=2000&dist=5000');
     await page.getByTestId('store-card').first().waitFor();
-    const box = page.getByLabel('含多人份');
+    await openDrawer(page);
+    const box = page.getByLabel('也顯示多人份');
     assert.equal(await box.isChecked(), false);
-    const before = Number(await page.getByTestId('result-count').locator('span').innerText());
+    const before = await count(page);
     await box.check();
-    const after = Number(await page.getByTestId('result-count').locator('span').innerText());
+    const after = await count(page);
     assert.ok(after >= before, `勾選多人份後筆數不應減少 (${before} -> ${after})`);
     assert.match(page.url(), /multi=1/);
+    await context.close();
+  });
+});
+
+/** M4：手機體驗與收據風格的量測 (全部用程式量) */
+const SIZES = [
+  { width: 375, height: 812 },
+  { width: 320, height: 640 },
+];
+
+/** 回傳目前頁面所有可見的 button／a／input／select／textarea 中，寬或高 < 44px 的 */
+async function smallTargets(page) {
+  return page.evaluate(() => {
+    const out = [];
+    for (const el of document.querySelectorAll('button, a[href], input, select, textarea')) {
+      const st = getComputedStyle(el);
+      if (st.display === 'none' || st.visibility === 'hidden') continue;
+      if (el.closest('.leaflet-container')) continue; // 地圖圖磚的版權連結不在此量測
+      const r = el.getBoundingClientRect();
+      if (r.width === 0 || r.height === 0) continue;
+      if (r.width < 43.5 || r.height < 43.5) {
+        out.push(`${el.tagName.toLowerCase()} "${(el.getAttribute('aria-label') || el.textContent || '').trim().slice(0, 20)}" ${Math.round(r.width)}x${Math.round(r.height)}`);
+      }
+    }
+    return out;
+  });
+}
+const overflowX = (page) => page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
+
+for (const size of SIZES) {
+  describe(`M4 手機體驗與收據風格 (${size.width}x${size.height})`, () => {
+    const o = (path = '') => open(path, { viewport: size });
+
+    it('首頁表單在 DOMContentLoaded 後 1 秒內可點 (不等資料、不等字型)', async () => {
+      const context = await browser.newContext({ viewport: size, locale: 'zh-TW' });
+      // 字型請求故意卡住：字型沒到也不能擋住操作
+      await context.route(/fonts\.(googleapis|gstatic)\.com/, () => {});
+      const page = await context.newPage();
+      await page.goto(server.url, { waitUntil: 'domcontentloaded' });
+      const t0 = Date.now();
+      const quick = page.getByRole('button', { name: '$150', exact: true });
+      let pressed = false;
+      while (Date.now() - t0 < 1000 && !pressed) {
+        if (await quick.isVisible()) {
+          await quick.click({ timeout: 500 }).catch(() => {});
+          pressed = (await quick.getAttribute('aria-pressed')) === 'true';
+        }
+        if (!pressed) await page.waitForTimeout(30);
+      }
+      assert.ok(pressed, `DOMContentLoaded 後 1 秒內應可點 $150 並看到選中，實際 ${Date.now() - t0} ms`);
+      assert.match(await page.getByTestId('search-button').innerText(), /找 150 元內的餐點/);
+      await context.close();
+    });
+
+    it('無橫向捲動：首頁、結果、改條件抽屜、餐點頁、地圖、傳菜單、收藏', async () => {
+      const { context, page } = await o('?view=results&budget=300&dist=5000');
+      const check = async (name) => assert.ok((await overflowX(page)) <= 0, `${name}：scrollWidth 超出 innerWidth ${await overflowX(page)}px`);
+      await page.getByTestId('store-card').first().waitFor();
+      await check('結果');
+      await page.goto(server.url + '?view=results&budget=2000&dist=5000');
+      await page.getByTestId('store-card').first().waitFor();
+      await check('結果 (預算 2000)');
+      await openDrawer(page);
+      await check('抽屜');
+      await closeDrawer(page);
+      await cards(page).first().click();
+      await page.getByRole('dialog').waitFor();
+      await check('餐點頁');
+      await page.getByRole('button', { name: '回報新價格' }).click();
+      await check('餐點頁 (回報表單)');
+      await page.getByRole('button', { name: '回結果' }).click();
+      await page.goto(server.url);
+      await page.getByTestId('search-button').waitFor();
+      await check('首頁');
+      await page.getByTestId('center-button').click();
+      await check('首頁 (出發點面板)');
+      for (const id of ['nav-map', 'nav-upload', 'nav-favorites']) {
+        await page.getByTestId(id).click();
+        await page.waitForTimeout(300);
+        await check(id);
+      }
+      await context.close();
+    });
+
+    it('所有 button／a／input 寬高 >= 44px：首頁、結果、抽屜、餐點頁、收藏、傳菜單', async () => {
+      const { context, page } = await o();
+      const report = {};
+      report['首頁'] = await smallTargets(page);
+      await page.getByTestId('center-button').click();
+      report['首頁 (出發點面板)'] = await smallTargets(page);
+      await page.getByRole('button', { name: '自訂', exact: true }).click();
+      report['首頁 (自訂預算)'] = await smallTargets(page);
+      await page.goto(server.url + '?view=results&budget=2000&dist=5000');
+      await page.getByTestId('store-card').first().waitFor();
+      report['結果'] = await smallTargets(page);
+      await openDrawer(page);
+      report['抽屜'] = await smallTargets(page);
+      await closeDrawer(page);
+      await cards(page).first().click();
+      await page.getByRole('dialog').waitFor();
+      report['餐點頁'] = await smallTargets(page);
+      await page.getByRole('button', { name: '回報新價格' }).click();
+      report['餐點頁 (回報表單)'] = await smallTargets(page);
+      await page.getByTestId('fav-toggle').click();
+      await page.getByRole('button', { name: '回結果' }).click();
+      await page.getByTestId('nav-favorites').click();
+      await page.getByTestId('fav-list').waitFor();
+      report['收藏'] = await smallTargets(page);
+      await page.getByTestId('nav-upload').click();
+      await page.getByLabel('選擇菜單照片').waitFor({ state: 'attached' });
+      report['傳菜單'] = await smallTargets(page);
+      const bad = Object.entries(report).filter(([, v]) => v.length > 0);
+      assert.deepEqual(bad, [], '觸控目標小於 44px');
+      await context.close();
+    });
+
+    it('選中的類型自動捲到可見位置 (首頁類型列)', async () => {
+      const { context, page } = await o('?cat=%E8%87%AA%E5%8A%A9%E9%A4%90');
+      const chip = page.getByRole('button', { name: '類型 自助餐' });
+      await chip.waitFor();
+      await page.waitForTimeout(100);
+      const ok = await page.evaluate(() => {
+        const box = document.querySelector('[data-testid="category-chips"]');
+        const el = box.querySelector('[aria-pressed="true"]');
+        const b = box.getBoundingClientRect();
+        const r = el.getBoundingClientRect();
+        return r.left >= b.left - 1 && r.right <= b.right + 1 && box.scrollLeft > 0;
+      });
+      assert.ok(ok, '選中的「自助餐」應已捲進可見範圍');
+      await context.close();
+    });
+
+    it('結果卡不溢出：長店名截斷、金額固定靠右可見', async () => {
+      const { context, page } = await o('?view=results&budget=2000&dist=5000');
+      await page.getByTestId('store-card').first().waitFor();
+      await page.evaluate(() => {
+        const h = document.querySelector('[data-testid="store-card"] h2');
+        h.textContent = '一間名字非常非常非常非常非常非常非常非常長的餐廳';
+      });
+      const res = await page.evaluate(() => {
+        const vw = window.innerWidth;
+        const bad = [];
+        for (const card of document.querySelectorAll('[data-testid="store-card"]')) {
+          const cr = card.getBoundingClientRect();
+          if (cr.right > vw + 0.5 || cr.left < -0.5) bad.push('card');
+          for (const el of card.querySelectorAll('[data-testid="card-price"], .amount')) {
+            const r = el.getBoundingClientRect();
+            if (r.right > cr.right + 0.5 || r.width === 0) bad.push('price');
+          }
+        }
+        const h = document.querySelector('[data-testid="store-card"] h2');
+        return { bad, truncated: h.scrollWidth > h.clientWidth };
+      });
+      assert.deepEqual(res.bad, []);
+      assert.ok(res.truncated, '過長店名應被截斷');
+      await context.close();
+    });
+  });
+}
+
+describe('M4 第一屏 (375x812)', () => {
+  it('結果頁第一屏 >= 2 家店且 >= 5 道餐點 (收據卡較高時的驗收標準)', async () => {
+    const { context, page } = await open('?view=results&budget=300&dist=5000');
+    await page.getByTestId('store-card').first().waitFor();
+    const r = await page.evaluate(() => {
+      const nav = document.querySelector('nav').getBoundingClientRect().top;
+      const vis = (el) => {
+        const b = el.getBoundingClientRect();
+        return b.top >= 0 && b.bottom <= nav;
+      };
+      return {
+        stores: [...document.querySelectorAll('[data-testid="store-card"]')].filter(vis).length,
+        dishes: [...document.querySelectorAll('[data-testid="food-card"]')].filter(vis).length,
+      };
+    });
+    assert.ok(r.stores >= 2, `第一屏完整可見的店 ${r.stores}`);
+    assert.ok(r.dishes >= 5, `第一屏完整可見的餐點 ${r.dishes}`);
+    console.log(`    -> 第一屏：${r.stores} 家店、${r.dishes} 道餐點`);
+    await context.close();
+  });
+
+  it('整站套用收據風格：底色 ground、卡片 paper 無圓角、字型 stack 含 Noto Sans TC／IBM Plex Mono、導覽四項文字', async () => {
+    const { context, page } = await open('?view=results');
+    await page.getByTestId('store-card').first().waitFor();
+    const s = await page.evaluate(() => {
+      const cs = (el, p) => getComputedStyle(el)[p];
+      const card = document.querySelector('[data-testid="store-card"]');
+      return {
+        body: cs(document.body, 'backgroundColor'),
+        card: cs(card, 'backgroundColor'),
+        radius: cs(card, 'borderTopLeftRadius'),
+        font: cs(document.body, 'fontFamily'),
+        mono: cs(card.querySelector('.amount'), 'fontFamily'),
+        nav: [...document.querySelectorAll('nav button')].map((b) => b.textContent.trim()),
+        active: cs(document.querySelector('nav [aria-current="page"]'), 'color'),
+      };
+    });
+    assert.equal(s.body, 'rgb(213, 222, 230)');
+    assert.equal(s.card, 'rgb(251, 251, 247)');
+    assert.equal(s.radius, '0px');
+    assert.match(s.font, /Noto Sans TC/);
+    assert.match(s.mono, /IBM Plex Mono/);
+    assert.deepEqual(s.nav, ['找餐點', '地圖', '傳菜單', '收藏']);
+    assert.equal(s.active, 'rgb(210, 51, 43)');
     await context.close();
   });
 });
