@@ -8,7 +8,9 @@ import argparse, glob, json, os
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--since", default="2025-01-01")
+    ap.add_argument("--only", default="", help="只列這些店號（逗號分隔），給 pipeline.py 的批次用")
     a = ap.parse_args()
+    only = {x.strip() for x in a.only.split(",") if x.strip()}
     root = os.path.abspath(".")
     skip = set()
     if os.path.exists("data/ocr-skip.txt"):
@@ -16,7 +18,7 @@ def main():
     lines, skipped = ["# PriceEats OCR 待辦（agy 用）", "", "路徑都相對於 /Users/jingjhongchen/Downloads/priceeats-mvp/", ""], []
     for d in sorted(glob.glob("menu_dataset/*_*")):
         sid = os.path.basename(d).split("_")[0]
-        if sid in skip:
+        if sid in skip or (only and sid not in only):
             continue
         try:
             m = json.load(open(os.path.join(d, "metadata.json"), encoding="utf-8"))

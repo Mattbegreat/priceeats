@@ -16,6 +16,8 @@ def main():
     ap.add_argument("--area", default="南港", help="data/areas.json 的區域名稱，決定中心點")
     ap.add_argument("--radius", type=float, default=2.5, help="只收中心點幾公里內的店")
     ap.add_argument("--max", type=int, default=15, help="每個關鍵字最多新增幾家")
+    ap.add_argument("--limit", type=int, default=0, help="本次最多新增幾家（0 = 不限）；達到就停止搜尋")
+    ap.add_argument("--stop-on-block", action="store_true", help="遇到驗證碼／異常流量／429 就停（結束碼 75）")
     a = ap.parse_args()
     if a.query_file:
         a.query += [l.strip() for l in open(a.query_file, encoding="utf-8") if l.strip() and not l.startswith("#")]
@@ -29,9 +31,16 @@ def main():
     with sync_playwright() as p:
         ctx = p.chromium.connect_over_cdp(a.cdp).contexts[0]
         page = ctx.new_page()
+        if a.stop_on_block:
+            import block_detect
+            block_detect.attach(page)
         for q in a.query:
+            if a.limit and len(added) >= a.limit:
+                break
             page.goto("https://www.google.com/maps/search/" + urllib.parse.quote(q) + "?hl=zh-TW", wait_until="domcontentloaded")
             time.sleep(5)
+            if a.stop_on_block:
+                block_detect.stop_if_blocked(page)
             feed = page.locator('div[role="feed"]')
             for _ in range(6):
                 if feed.count():
@@ -50,8 +59,10 @@ def main():
                 known.add(m_id.group(1))
                 r = {"id": f"{next_id:02d}", "name": name.strip(), "lat": m_ll.group(1), "lng": m_ll.group(2), "place_id": m_id.group(1)}
                 rows.append(r); added.append(r); next_id += 1; n += 1
-                if n >= a.max:
+                if n >= a.max or (a.limit and len(added) >= a.limit):
                     break
+            if a.stop_on_block:
+                block_detect.stop_if_blocked(page)
             print(f"[{q}] 新增 {n} 家")
         page.close()
     with open(CSV, "w", encoding="utf-8", newline="") as f:

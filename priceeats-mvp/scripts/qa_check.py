@@ -17,7 +17,11 @@ def load(paths):
                 yield f, {"_error": str(e)}
 
 def main():
-    dirs = sys.argv[1:] or sorted(d for d in glob.glob("data/menus*") if os.path.isdir(d) and "hold" not in d and "maps3" not in d)
+    args = sys.argv[1:]
+    out_path = "data/qa-report.md"
+    if "--out" in args:  # 指定報告路徑（pipeline.py 用，避免覆蓋全站報告）
+        i = args.index("--out"); out_path = args[i + 1]; args = args[:i] + args[i + 2:]
+    dirs = args or sorted(d for d in glob.glob("data/menus*") if os.path.isdir(d) and "hold" not in d and "maps3" not in d)
     rows = collections.defaultdict(list)
     stores = 0; items = 0
     for f, d in load(dirs):
@@ -43,9 +47,9 @@ def main():
     out += [f"| 項目 | 筆數 |", "|---|---|"] + [f"| {k} | {len(v)} |" for k, v in rows.items()] + [""]
     for k, v in rows.items():
         out += [f"## {k}（{len(v)}）"] + [f"- {x}" for x in v[:200]] + [""]
-    open("data/qa-report.md", "w", encoding="utf-8").write("\n".join(out))
+    open(out_path, "w", encoding="utf-8").write("\n".join(out))
     print("\n".join(out[:4 + 2 + len(rows)]))
-    print("完整清單：data/qa-report.md")
+    print(f"完整清單：{out_path}")
 
 if __name__ == "__main__":
     main()

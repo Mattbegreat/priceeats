@@ -292,6 +292,62 @@ M4 起整站不使用餐點示意圖、也不顯示餐點照片（收據風格�
   腳本直接載入 `src/lib/search` 的篩選與排序（500m、排除單點小菜與多人份），不重寫規則；不讀 `SUPABASE_SERVICE_ROLE_KEY`。
 - `sitemap.xml`、`robots.txt` 的網域用 `NEXT_PUBLIC_SITE_URL`（預設 `https://priceeats.pages.dev`）。
 
+## 全台擴張流程（M11.1）
+
+`scripts/pipeline.sh <區域>` 把「找店 → 下載菜單照 → OCR → 轉檔 → QA → 匯入 → 刪照片」串成可續跑的批次（每批預設 50 家）。規格見 `docs/specs/M11-nationwide-expansion.md`，容量評估見 `docs/specs/M11-capacity.md`。不新增任何套件（Python 標準函式庫＋既有腳本）。
+
+**每批的步驟**（每步完成才寫 `data/pipeline-state.json`）：`discover`（區域一次）→ `download` → `ocr`（本機 agy，`run_ocr.sh`）→ `build` → `qa` → `import`（`npm run import:menu`，匯入後 `npm run gen:area-stats`）→ `prune`（`scripts/prune_photos.py`，只刪已匯入店家的圖片；店號 % 20 == 0 的樣本、`metadata.json`、`data/ocr-raw`、`data/menus-maps2` 一律保留）。
+
+**會自動停下來**（寫進 state 與 `data/pipeline.log`，結束碼非 0，不重試、不繞過）：
+
+| 結束碼 | 原因 |
+|---|---|
+| 2 | 可用空間 < 3 GB（`--min-free-gb` 可調；每批開始前檢查） |
+| 3 | Chrome CDP（`http://localhost:9222`）連不上，本程式不會登入 |
+| 4 | 偵測到 Google 驗證碼／異常流量頁／帳號警告／HTTP 429 |
+| 5 | OCR 額度用完（`run_ocr.sh` 寫出 `data/.quota-stop`） |
+| 6 | 同一個錯誤累計 3 次（處理後加 `--clear-errors`） |
+| 7 | 設定缺漏：缺 `SUPABASE_SERVICE_ROLE_KEY`、缺查詢檔、另一個 pipeline 正在跑 |
+| 1 | 某一步失敗（例如匯入回報部分店失敗；匯入是冪等的，重跑安全） |
+
+**先小區域試跑**（`data/areas.json` 已新增「台北車站」，查詢檔 `data/queries/area-taipei-station.txt`）。在自己的 Mac 終端機，於 repo 資料夾：
+
+```bash
+# 1. 開 Chrome（用已登入 Google 的那個資料夾；開著不要關）
+"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --remote-debugging-port=9222 --user-data-dir="$HOME/chrome-menu"
+
+# 2. 先看計畫（不下載、不呼叫 agy、不匯入、不刪檔、不寫任何檔）
+bash scripts/pipeline.sh 台北車站 --limit 20 --dry-run
+
+# 3. 真的跑 20 家（約一小時內；中斷後再跑同一行指令會接續）
+caffeinate -i bash scripts/pipeline.sh 台北車站 --limit 20
+
+# 4. 看結果
+tail -n 40 data/pipeline.log          # 停止原因與【本次回報】
+python3 -m json.tool data/pipeline-state.json | head -60
+df -h .                                # 跑完磁碟占用應回到跑之前 ±100 MB
+python3 scripts/coverage.py 台北車站
+```
+
+常用參數：`--batch N`（每批家數）、`--only <discover|download|ocr|build|qa|import|prune>`（只跑一步）、`--max-batches N`、`--retry-failed`（重排 ocr_failed／dl_error 的店）、`--rediscover`。可一次給多個區域（依序跑，任一個停就全停）。
+
+匯入需要 `.env.local` 內的 `SUPABASE_SERVICE_ROLE_KEY`（只從檔案讀、不印出、log 會遮蔽金鑰樣式）。`gen:area-stats` 需要公開的 `NEXT_PUBLIC_SUPABASE_ANON_KEY`（放 `.env.local` 或環境變數）；沒有就略過並記錄，之後手動跑。
+
+**每晚排程（由你自己載入；本專案不會替你改系統設定）**：範本 `scripts/launchd/tw.priceeats.pipeline.plist`（每晚 01:00、`caffeinate -i`）。先改範本內的 repo 路徑與區域名稱，然後：
+
+```bash
+cp scripts/launchd/tw.priceeats.pipeline.plist ~/Library/LaunchAgents/
+launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/tw.priceeats.pipeline.plist      # 載入
+launchctl kickstart -k gui/$(id -u)/tw.priceeats.pipeline                                 # 立刻試跑一次（選用）
+launchctl print gui/$(id -u)/tw.priceeats.pipeline | head                                 # 查狀態
+launchctl bootout gui/$(id -u)/tw.priceeats.pipeline                                      # 卸載
+rm ~/Library/LaunchAgents/tw.priceeats.pipeline.plist                                     # 移除檔案
+```
+
+01:00 時 Mac 要醒著（launchd 不會喚醒睡眠中的 Mac）、Chrome 要開著且已登入，否則當晚會停在步驟 3 並記錄。
+
+**測試**（用假資料夾與替身腳本，不開 Chrome、不呼叫 agy、不連 Supabase）：`npm run test:pipeline`，涵蓋續跑、冪等、磁碟不足、CDP 連不上、驗證碼、OCR 額度、匯入失敗不刪照片、同一錯誤 3 次、prune 只刪該刪的檔、樣本與 metadata 保留、`--dry-run` 無副作用。
+
 ## 尚未實作／已知限制
 
 - 沒有部署到 Vercel／Netlify（沒有帳號）。

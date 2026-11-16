@@ -8,7 +8,7 @@ MODEL="${MODEL:-Gemini 3.8 Flash (Low)}"
 JOBS="${1:-2}"
 rm -f data/.quota-stop
 : > data/ocr-run.err
-python3 scripts/make_ocr_queue.py 2>/dev/null | head -1
+python3 scripts/make_ocr_queue.py ${OCR_ONLY:+--only "$OCR_ONLY"} 2>/dev/null | head -1   # OCR_ONLY=店號,店號：只辨識這幾家（pipeline.py 用）
 IDS=$(grep -oE '^## [0-9]+' data/ocr-queue.md | awk '{print $2}')
 TOTAL=$(echo "$IDS" | grep -c . )
 echo "開始：$TOTAL 家，同時 $JOBS 家，紀錄在 data/ocr-run.log"

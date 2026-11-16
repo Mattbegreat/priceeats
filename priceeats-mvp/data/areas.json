@@ -38,5 +38,11 @@
   "lat": 25.0587,
   "lng": 121.5577,
   "label": "民生社區（富錦街）"
+ },
+ "台北車站": {
+  "lat": 25.0478,
+  "lng": 121.517,
+  "label": "台北車站（M11 試跑區）",
+  "queries": "data/queries/area-taipei-station.txt"
  }
 }

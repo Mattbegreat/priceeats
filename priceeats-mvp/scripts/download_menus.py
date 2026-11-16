@@ -18,6 +18,7 @@ import random
 import re
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import datetime
@@ -80,7 +81,14 @@ COLLECT_JS = """
 """
 
 
+STOP_ON_BLOCK = False  # --stop-on-block：遇到驗證碼／異常流量／429 不等人工，直接以結束碼 75 結束（給 pipeline.py 用）
+
+
 def check_captcha(page):
+    if STOP_ON_BLOCK:
+        import block_detect
+        block_detect.stop_if_blocked(page)
+        return
     if "sorry/index" in page.url or page.locator("form#captcha-form").count() > 0:
         input("偵測到 Google 驗證碼。請在瀏覽器視窗手動完成，完成後回到這裡按 Enter 繼續...")
 
@@ -167,6 +175,11 @@ def scrape_one(page, shop: dict, shop_dir: str) -> dict:
                 with open(path, "wb") as f:
                     f.write(data)
                 ok = True
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and STOP_ON_BLOCK:
+                import block_detect
+                block_detect.exit_blocked("HTTP 429（圖片下載）")
+            ok = False
         except Exception:
             ok = False
         if not ok:
@@ -196,7 +209,10 @@ def main():
     ap.add_argument("--headless", action="store_true")
     ap.add_argument("--force", action="store_true", help="已完成的店也重新下載（更新舊照片用）")
     ap.add_argument("--cdp", default="", help="連到已登入 Google 的 Chrome，例如 http://localhost:9222")
+    ap.add_argument("--stop-on-block", action="store_true", help="遇到驗證碼／異常流量／429 就停（結束碼 75），不等人工")
     a = ap.parse_args()
+    global STOP_ON_BLOCK
+    STOP_ON_BLOCK = a.stop_on_block
 
     with open(a.csv, "r", encoding="utf-8-sig") as f:
         shops = list(csv.DictReader(f))
@@ -244,6 +260,9 @@ def main():
                 time.sleep(3)
             with open(meta, "w", encoding="utf-8") as mf:
                 json.dump(result, mf, ensure_ascii=False, indent=2)
+            if STOP_ON_BLOCK:
+                import block_detect
+                block_detect.stop_if_blocked(page)
             print(f"  -> {result['status']}，照片 {len(result.get('photos', []))} 張")
             time.sleep(random.uniform(5.0, 9.0))
         if not a.cdp:

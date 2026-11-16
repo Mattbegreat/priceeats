@@ -8,3 +8,11 @@ out-artifact
 
 # 菜單照片下載資料夾（含瀏覽器設定檔），不要上傳
 menu_dataset/
+
+# M11 pipeline 的本機狀態與暫存（不進 repo）
+data/pipeline-state.json
+data/pipeline.log
+data/pipeline.lock
+data/pipeline-batches/
+data/.quota-stop
+data/pipeline.launchd.log

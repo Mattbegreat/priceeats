@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  PriceEats 全台擴張流程：每晚 01:00 跑 scripts/pipeline.sh（M11.1）。範本，不會自動載入。
+  使用前先改兩處：① 下面的 /Users/jingjhongchen/Downloads/priceeats-mvp（repo 路徑）② 「台北車站」換成要跑的區域。
+  載入／卸載指令見 README「全台擴張流程」。
+  注意：01:00 時 Mac 要醒著（launchd 不會喚醒），Chrome 要以 remote-debugging-port=9222 參數開著且已登入 Google；
+  沒開就會停下並寫進 data/pipeline.log，不會自己登入。
+-->
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>tw.priceeats.pipeline</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/usr/bin/caffeinate</string>
+    <string>-i</string>
+    <string>/bin/bash</string>
+    <string>/Users/jingjhongchen/Downloads/priceeats-mvp/scripts/pipeline.sh</string>
+    <string>台北車站</string>
+    <string>--batch</string>
+    <string>50</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/jingjhongchen/Downloads/priceeats-mvp</string>
+
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>1</integer>
+    <key>Minute</key>
+    <integer>0</integer>
+  </dict>
+
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+  </dict>
+
+  <!-- launchd 層級的輸出（pipeline 自己的紀錄在 data/pipeline.log） -->
+  <key>StandardOutPath</key>
+  <string>/Users/jingjhongchen/Downloads/priceeats-mvp/data/pipeline.launchd.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/jingjhongchen/Downloads/priceeats-mvp/data/pipeline.launchd.log</string>
+
+  <key>RunAtLoad</key>
+  <false/>
+</dict>
+</plist>
