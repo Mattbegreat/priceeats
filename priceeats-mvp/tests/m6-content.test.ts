@@ -112,14 +112,13 @@ describe('M6 說明頁', () => {
     const out = html(createElement(Privacy));
     for (const t of ['不需要註冊或登入', '定位只在瀏覽器內用來計算距離', '收藏存在這個瀏覽器', '送到資料庫', '待確認']) expect(out).toContain(t);
   });
-  it('回報：步驟與店家聯絡；CONTACT_EMAIL 為空時顯示「聯絡方式準備中」，頁面沒有任何 Email', () => {
-    expect(CONTACT_EMAIL).toBe('');
+  it('回報：步驟與店家聯絡；顯示 CONTACT_EMAIL 的 mailto 連結', () => {
+    expect(CONTACT_EMAIL).toBe('priceeat.tw@gmail.com');
     const out = html(createElement(Report));
     expect(out).toContain('回報新價格');
     expect(out).toContain('店家要求更正或下架');
-    expect(out).toContain('聯絡方式準備中');
-    expect(out).not.toMatch(EMAIL);
-    expect(out).not.toContain('mailto:');
+    expect(out).toContain('href="mailto:priceeat.tw@gmail.com"');
+    expect(out).not.toContain('聯絡方式準備中');
   });
   it('ContactInfo：有值才顯示 mailto 連結', () => {
     expect(html(createElement(ContactInfo, { email: '' }))).toContain('聯絡方式準備中');

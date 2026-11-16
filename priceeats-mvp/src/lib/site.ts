@@ -11,7 +11,7 @@ export const OG_IMAGE_URL = `${SITE_URL}/og.png`;
 export const SITE_TITLE = 'PriceEats 以預算找餐點';
 
 /** 店家要求更正或下架的聯絡 Email：尚未提供，值為空字串時頁面顯示「聯絡方式準備中」。不要編造。 */
-export const CONTACT_EMAIL = '';
+export const CONTACT_EMAIL = 'priceeat.tw@gmail.com';
 
 /** 說明頁 (頁尾連結與 sitemap 共用) */
 export const ABOUT_PAGES = [
