@@ -26,7 +26,7 @@ export function availableSorts(real: boolean = IS_REAL_DATA): SortKey[] {
 export const DEFAULT_PARAMS: SearchParams = {
   budget: 100,
   cat: '不限',
-  dist: 1000,
+  dist: 500,
   sort: 'budget',
   minRating: 0,
   // 正式資料預設只看主餐；Mock 測試資料維持全部顯示
@@ -74,19 +74,22 @@ const querySchema = z.object({
   lat: numStr(-90, 90).catch(DEFAULT_PARAMS.lat),
   lng: numStr(-180, 180).catch(DEFAULT_PARAMS.lng),
   food: z.string().max(64).optional().catch(undefined),
+  ref: z.string().max(16).optional().catch(undefined),
 });
 
 export interface UrlState {
   view: ViewKey;
   params: SearchParams;
   food: string | null;
+  /** 來源標記 (例 share)：只讀取、保留在網址，不影響搜尋 */
+  ref?: string | null;
 }
 
 /** 從 URL query 還原狀態；任何非法值都退回預設。正式模式忽略 minRating 與 sort=rating。 */
 export function parseQuery(search: string, real: boolean = IS_REAL_DATA): UrlState {
   const sp = new URLSearchParams(search);
   const raw: Record<string, string | undefined> = {};
-  for (const k of ['view', 'budget', 'cat', 'dist', 'sort', 'minRating', 'sides', 'multi', 'lat', 'lng', 'food']) {
+  for (const k of ['view', 'budget', 'cat', 'dist', 'sort', 'minRating', 'sides', 'multi', 'lat', 'lng', 'food', 'ref']) {
     const v = sp.get(k);
     if (v !== null) raw[k] = v;
   }
@@ -105,6 +108,7 @@ export function parseQuery(search: string, real: boolean = IS_REAL_DATA): UrlSta
       lng: q.lng,
     },
     food: q.food ?? null,
+    ...(q.ref ? { ref: q.ref } : {}),
   };
 }
 
@@ -126,6 +130,7 @@ export function buildQuery(state: UrlState): string {
     sp.set('lng', p.lng.toFixed(5));
   }
   if (state.food) sp.set('food', state.food);
+  if (state.ref) sp.set('ref', state.ref);
   const s = sp.toString();
   return s ? `?${s}` : '';
 }

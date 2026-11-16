@@ -24,22 +24,22 @@ const f = (id: string, rid: string, name: string, price: number, over: Partial<F
 
 const params = { ...DEFAULT_PARAMS, budget: 100, sides: true, multi: true };
 
-describe('M4-8 新鮮度文案：只顯示更新年月', () => {
+describe('M4-8 新鮮度文案：只顯示更新年月 (M5 小修：不接「更新」)', () => {
   it('更新年月 YYYY/MM (UTC)', () => {
     expect(formatUpdatedMonth('2026-03-15T00:00:00.000Z')).toBe('2026/03');
     expect(formatUpdatedMonth('2025-12-31T23:59:59.000Z')).toBe('2025/12');
   });
-  it('6 個月內與 6–18 個月：只有「2026/03 更新」，不出現「近期」「可能需要確認」', () => {
+  it('6 個月內與 6–18 個月：只有「2026/03」，不接「更新」，不出現「近期」「可能需要確認」', () => {
     for (const fr of ['recent', 'maybe'] as const) {
       const t = updatedLabel('2026-03-15T00:00:00.000Z', fr);
-      expect(t).toBe('2026/03 更新');
-      expect(t).not.toMatch(/近期|可能需要確認|舊資料/);
+      expect(t).toBe('2026/03');
+      expect(t).not.toMatch(/更新|近期|可能需要確認|舊資料/);
     }
   });
   it('超過 18 個月才標「舊資料」(正式資料 549 天起)', () => {
     expect(freshnessFromDays(548, true)).toBe('maybe');
     expect(freshnessFromDays(549, true)).toBe('old');
-    expect(updatedLabel('2025-01-10T00:00:00.000Z', 'old')).toBe('舊資料 · 2025/01 更新');
+    expect(updatedLabel('2025-01-10T00:00:00.000Z', 'old')).toBe('2025/01（舊資料）');
   });
   it('原始碼不再有「近期資料」「可能需要確認」字樣 (UI 與標籤)', () => {
     for (const p of ['src/lib/pricing/freshness.ts', 'src/lib/pricing/verification.ts', 'src/components/Badges.tsx', 'src/components/FoodDetailSheet.tsx']) {

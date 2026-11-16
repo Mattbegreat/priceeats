@@ -126,6 +126,7 @@ button, select, input, textarea { font-family: inherit; }
   }
   .opt[aria-pressed='true'] { background: rgb(var(--ink)); color: rgb(var(--paper)); }
   .opt-mono { min-height: 48px; min-width: 64px; padding: 0 14px; border-radius: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-weight: 600; font-size: 18px; }
+  .opt-compact { min-height: 44px; min-width: 48px; padding: 0 10px; font-size: 16px; }
   .opt-pill { min-height: 44px; min-width: 44px; padding: 0 14px; border-radius: 9999px; font-size: 15px; }
   .field {
     min-height: 44px;

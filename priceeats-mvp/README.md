@@ -194,6 +194,12 @@ Netlify 原生支援 Next.js，**不需要另裝 plugin、不需要 `netlify.tom
 5. 驗收：手機開首頁，預設中心為南港車站（正式模式）、預算 100 元搜尋，結果只會是匯入工具寫進 Supabase 的餐點，且沒有「測試資料」標記。預設只看主餐，勾選「含單點小菜、湯品」才會顯示滷蛋、湯品、小菜。
 6. 資料庫要先執行 `0001_init.sql`、`0002_production.sql`（見上方「Supabase 設定」），並用「正式資料匯入」寫入至少一家店；沒有任何正式資料時，網站會顯示查無結果，這是正常的。
 
+### 分享預覽（M5）
+
+- 網站網址由 `NEXT_PUBLIC_SITE_URL` 提供（建置時內嵌，不含結尾斜線），沒設就用 `https://priceeats.pages.dev`；`og:url`、`og:image`、`twitter:image` 都用這個網域組成絕對網址。換網域要設這個變數並重新部署。
+- 預覽圖 `public/og.png`（1200x630）由 `node scripts/make-og.mjs` 產生：用已預裝的 Playwright 對一段本地 HTML 截圖，不新增套件。需要 Noto Sans TC／IBM Plex Mono 已安裝在系統上，或用 `--fonts <資料夾>` 指定含 `fonts.css` 的字型資料夾。
+- 分享按鈕：有 `navigator.share` 就叫出系統分享，沒有就複製連結；連結保留目前網址條件並加上 `ref=share`（只讀取，不影響搜尋）。
+
 ### 取得菜單照片（Google 地圖）
 
 `scripts/download_menus.py` 讀 `data/shops.csv`，下載各店 Google 地圖「菜單」分頁的照片到 `menu_dataset/`（已在 .gitignore）。需要已登入 Google 的 Chrome，否則看不到菜單分頁：

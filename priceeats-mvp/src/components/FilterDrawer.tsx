@@ -99,11 +99,11 @@ export function FilterDrawer({
         <div className="flex flex-col gap-3.5 overflow-y-auto px-5 pb-3 pt-2">
           <section className={sec} aria-label="預算上限">
             <h3 className={secTitle}>預算上限</h3>
-            <BudgetControl value={params.budget} onChange={(budget) => onParams({ budget })} />
+            <BudgetControl compact value={params.budget} onChange={(budget) => onParams({ budget })} />
           </section>
           <section className={sec} aria-label="類型">
             <h3 className={secTitle}>類型</h3>
-            <CategoryChips value={params.cat} onChange={(cat) => onParams({ cat })} />
+            <CategoryChips scroll value={params.cat} onChange={(cat) => onParams({ cat })} />
           </section>
           <section className={sec} aria-label="走多遠">
             <h3 className={secTitle}>走多遠</h3>

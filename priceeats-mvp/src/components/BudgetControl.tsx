@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 import { QUICK_BUDGETS, parseBudgetInput } from '@/lib/search/params';
 
 /** 預算：$50／$100／$150／$200 快捷鍵＋自訂 (輸入 1–2000)；選中＝ink 底 */
-export function BudgetControl({ value, onChange }: { value: number; onChange: (v: number) => void }) {
+export function BudgetControl({ value, onChange, compact = false }: { value: number; onChange: (v: number) => void; compact?: boolean }) {
   const isQuick = (QUICK_BUDGETS as readonly number[]).includes(value);
   const [customOpen, setCustomOpen] = useState(false);
   const [text, setText] = useState(String(value));
@@ -29,12 +29,12 @@ export function BudgetControl({ value, onChange }: { value: number; onChange: (v
               setCustomOpen(false);
               onChange(b);
             }}
-            className="opt opt-mono"
+            className={`opt opt-mono${compact ? ' opt-compact' : ''}`}
           >
             ${b}
           </button>
         ))}
-        <button type="button" aria-pressed={showCustom} onClick={() => setCustomOpen((o) => !o)} className="opt opt-mono !font-sans !font-bold">
+        <button type="button" aria-pressed={showCustom} onClick={() => setCustomOpen((o) => !o)} className={`opt opt-mono !font-sans !font-bold${compact ? ' opt-compact' : ''}`}>
           自訂
         </button>
       </div>

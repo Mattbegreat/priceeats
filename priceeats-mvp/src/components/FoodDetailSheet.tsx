@@ -1,7 +1,8 @@
 'use client';
 
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { distShort } from '@/lib/geo/format';
+import { walkOrKm } from '@/lib/geo/walk';
+import { foodShareText } from '@/lib/share';
 import { updatedLabel } from '@/lib/pricing/freshness';
 import { REPORT_LABEL, REPORT_TYPES, validateReport } from '@/lib/pricing/report';
 import { STATUS_LABEL } from '@/lib/pricing/verification';
@@ -11,6 +12,7 @@ import type { Repository } from '@/repositories/types';
 import type { Dataset, FoodView, PriceVerification, ReportType, SearchParams } from '@/types';
 import { MapsReviewLink, RatingText, TestDataTag } from './Badges';
 import { LeaderRow } from './Receipt';
+import { ShareButton } from './ShareButton';
 
 /** 價格來自菜單照片辨識但沒有可顯示的照片：照片未公開；其餘才是尚無照片 */
 export function noPhotoText(v: PriceVerification | null): string {
@@ -35,7 +37,7 @@ function AltRows({ items, onSwitch }: { items: FoodBase[]; onSwitch: (id: string
   );
 }
 
-/** 餐點頁：一張長收據；底部固定「導航過去」(分享屬 M5，先不放) */
+/** 餐點頁：一張長收據；底部固定「導航過去」＋「分享」 */
 export function FoodDetailSheet({
   view,
   data,
@@ -135,7 +137,7 @@ export function FoodDetailSheet({
               </p>
             )}
             <p className="text-small">{restaurant.address}</p>
-            <p className="amount text-small text-carbon">距離 {distShort(view.distanceM)}</p>
+            <p className="amount text-small text-carbon">{walkOrKm(view.distanceM)}</p>
           </div>
 
           <div className="mt-3.5 flex items-end justify-between gap-3">
@@ -234,16 +236,17 @@ export function FoodDetailSheet({
           </section>
         </div>
       </div>
-      <div className="bg-ground px-5 pb-5 pt-3.5">
+      <div className="grid grid-cols-[2fr_1fr] gap-3 bg-ground px-5 pb-5 pt-3.5">
         <a
           href={navUrl}
           target="_blank"
           rel="noopener noreferrer"
           aria-label="導航過去，用 Google 地圖開啟"
-          className="btn-ink h-14 w-full text-[18px]"
+          className="btn-ink h-14 text-[18px]"
         >
           導航過去
         </a>
+        <ShareButton getText={() => foodShareText(restaurant.name, food.name, food.price)} className="btn-line h-14 text-[18px]" />
       </div>
       </div>
     </div>

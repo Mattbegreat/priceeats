@@ -1,11 +1,29 @@
 import type { Metadata, Viewport } from 'next';
 import { IS_REAL_DATA } from '@/data/centers';
-import { siteDescription } from '@/lib/site';
+import { OG_IMAGE_URL, SITE_TITLE, SITE_URL, siteDescription } from '@/lib/site';
 import './globals.css';
 
+const DESCRIPTION = siteDescription(IS_REAL_DATA);
+
 export const metadata: Metadata = {
-  title: 'PriceEats 以預算找餐點',
-  description: siteDescription(IS_REAL_DATA),
+  metadataBase: new URL(SITE_URL),
+  title: SITE_TITLE,
+  description: DESCRIPTION,
+  openGraph: {
+    type: 'website',
+    locale: 'zh_TW',
+    siteName: 'PriceEats',
+    url: SITE_URL,
+    title: SITE_TITLE,
+    description: DESCRIPTION,
+    images: [{ url: OG_IMAGE_URL, width: 1200, height: 630, alt: 'PriceEats：今天這餐，最多花多少？' }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: SITE_TITLE,
+    description: DESCRIPTION,
+    images: [OG_IMAGE_URL],
+  },
   applicationName: 'PriceEats',
   appleWebApp: { capable: true, title: 'PriceEats', statusBarStyle: 'default' },
 };

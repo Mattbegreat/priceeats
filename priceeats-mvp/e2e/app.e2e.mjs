@@ -144,7 +144,7 @@ describe('E2E (build:demo 的 out/，chromium 375x812)', () => {
     await context.close();
   });
 
-  it('17b. 首頁預設值 (100 元／不限／1 公里) 直接按搜尋即有結果，價格皆 <= 100', async () => {
+  it('17b. 首頁預設值 (100 元／不限／500 公尺) 直接按搜尋即有結果，價格皆 <= 100', async () => {
     const { context, page } = await open();
     await page.getByTestId('search-button').click();
     await cards(page).first().waitFor();
@@ -208,7 +208,7 @@ describe('E2E (build:demo 的 out/，chromium 375x812)', () => {
     assert.match(href, /^https:\/\/www\.google\.com\/maps\/search\/\?api=1&query=\d+\.\d+,\d+\.\d+$/);
     assert.match(await dialog.innerText(), /尚無菜單照片|菜單照片未公開/);
     assert.match(await dialog.innerText(), /價格歷史/);
-    assert.ok(!/分享/.test(await dialog.innerText()), '分享屬 M5，此版不放');
+    assert.ok(await dialog.getByRole('button', { name: '分享' }).isVisible(), 'M5：餐點頁底部有分享按鈕');
     await context.close();
   });
 
@@ -599,4 +599,122 @@ describe('M4 第一屏 (375x812)', () => {
     assert.equal(s.active, 'rgb(210, 51, 43)');
     await context.close();
   });
+
+  it('M5-小修 改條件抽屜：類型單列橫向滑動，兩個勾選項在 375x812 不捲動就看得到', async () => {
+    const { context, page } = await open('?view=results&cat=%E6%B5%B7%E9%AE%AE');
+    await page.getByTestId('store-card').first().waitFor().catch(() => {});
+    await openDrawer(page);
+    const r = await page.evaluate(() => {
+      const dlg = document.querySelector('[role="dialog"][aria-label="改條件"]');
+      const scroller = dlg.querySelector('.overflow-y-auto');
+      const sr = scroller.getBoundingClientRect();
+      const checks = [...dlg.querySelectorAll('input[type="checkbox"]')].map((c) => c.closest('label').getBoundingClientRect());
+      const chips = dlg.querySelector('[data-testid="category-chips"]');
+      const pressed = chips.querySelector('[aria-pressed="true"]').getBoundingClientRect();
+      const cr = chips.getBoundingClientRect();
+      const buttons = [...chips.querySelectorAll('button')].map((b) => Math.round(b.getBoundingClientRect().top));
+      return {
+        checks: checks.map((c) => ({ top: c.top, bottom: c.bottom })),
+        scrollerTop: sr.top,
+        scrollerBottom: sr.bottom,
+        scrollable: scroller.scrollHeight - scroller.clientHeight,
+        oneRow: new Set(buttons).size === 1,
+        chipsScrollable: chips.scrollWidth > chips.clientWidth,
+        pressedVisible: pressed.left >= cr.left - 1 && pressed.right <= cr.right + 1,
+        pageOverflow: document.documentElement.scrollWidth > document.documentElement.clientWidth,
+      };
+    });
+    assert.equal(r.checks.length, 2);
+    for (const c of r.checks) assert.ok(c.top >= r.scrollerTop && c.bottom <= r.scrollerBottom + 0.5, `勾選項未捲動就要在可視範圍內 ${JSON.stringify({ c, r })}`);
+    assert.ok(r.oneRow, '類型單列');
+    assert.ok(r.chipsScrollable, '類型可橫向滑動');
+    assert.ok(r.pressedVisible, '選中的類型自動捲入可見');
+    assert.ok(!r.pageOverflow, '無橫向捲動');
+    await context.close();
+  });
+
+  it('M5-小修 步行時間與抽屜選項文字；預設距離 500m；餐點頁價格更新只有年月', async () => {
+    const { context, page } = await open('?view=results&budget=200');
+    await cards(page).first().waitFor();
+    const head = await page.getByTestId('center-text').innerText();
+    assert.match(head, /500m$/, '頁首維持公尺');
+    const dist = await page.getByTestId('store-card').first().locator('.receipt-head .amount').innerText();
+    assert.match(dist, /^(走路約 \d+ 分|\d+\.\dkm)$/);
+    await openDrawer(page);
+    const g = page.getByRole('group', { name: '走多遠' });
+    assert.equal(await g.getByRole('button', { name: '距離 500m' }).innerText(), '走路 7 分（500m）');
+    assert.equal(await g.getByRole('button', { name: '距離 1km' }).innerText(), '走路 14 分（1km）');
+    assert.equal(await g.getByRole('button', { name: '距離 2km' }).innerText(), '2km');
+    assert.equal(await g.getByRole('button', { name: '距離 5km' }).innerText(), '5km');
+    assert.equal(await g.getByRole('button', { name: '距離 500m' }).getAttribute('aria-pressed'), 'true');
+    await closeDrawer(page);
+    await cards(page).first().click();
+    const dialog = page.getByRole('dialog');
+    const row = dialog.locator('dt', { hasText: '價格更新' }).locator('xpath=following-sibling::dd');
+    const t = (await row.innerText()).trim();
+    assert.ok(/^(\d{4}\/\d{2}(（舊資料）)?|尚未驗證)$/.test(t), `價格更新：${t}`);
+    assert.ok(!/更新$/.test(t));
+    await context.close();
+  });
+
+  it('M5-1 分享：有 navigator.share 就呼叫 (連結含目前條件＋ref=share)；沒有就複製連結', async () => {
+    const { context, page } = await open('?view=results&budget=150&dist=1000');
+    await cards(page).first().waitFor();
+    await page.evaluate(() => {
+      window.__shared = null;
+      navigator.share = async (d) => {
+        window.__shared = d;
+      };
+    });
+    await page.getByTestId('share-results').click();
+    const d = await page.evaluate(() => window.__shared);
+    assert.ok(d, '呼叫了 navigator.share');
+    const u = new URL(d.url);
+    assert.equal(u.searchParams.get('ref'), 'share');
+    assert.equal(u.searchParams.get('budget'), '150');
+    assert.equal(u.searchParams.get('dist'), '1000');
+    assert.match(d.text, /^.+ 150 元內有 \d+ 道，看看今天吃什麼$/);
+    assert.equal(Number(d.text.match(/有 (\d+) 道/)[1]), await count(page), '分享文字的筆數＝畫面筆數');
+    // 沒有 navigator.share：複製連結
+    await page.evaluate(() => {
+      Object.defineProperty(navigator, 'share', { value: undefined, configurable: true });
+      window.__copied = null;
+      Object.defineProperty(navigator, 'clipboard', { value: { writeText: async (t) => void (window.__copied = t) }, configurable: true });
+    });
+    await page.getByTestId('share-results').click();
+    assert.match(await page.evaluate(() => window.__copied), /[?&]ref=share/);
+    assert.match(await page.getByTestId('share-results').innerText(), /已複製連結/);
+    // 餐點頁
+    await cards(page).first().click();
+    const dialog = page.getByRole('dialog');
+    await page.evaluate(() => {
+      window.__shared = null;
+      Object.defineProperty(navigator, 'share', { value: async (x) => void (window.__shared = x), configurable: true });
+    });
+    const btn = dialog.getByRole('button', { name: '分享' });
+    const nav = dialog.getByRole('link', { name: /導航過去/ });
+    const bb = await btn.boundingBox();
+    const nb = await nav.boundingBox();
+    assert.ok(bb.x > nb.x + nb.width - 1, '分享在導航右側');
+    assert.ok(Math.abs(nb.width / bb.width - 2) < 0.15, `2fr:1fr (${nb.width}:${bb.width})`);
+    assert.ok(bb.height >= 44 && nb.height >= 44);
+    await btn.click();
+    const d2 = await page.evaluate(() => window.__shared);
+    assert.match(d2.text, / \d+ 元$/);
+    assert.equal(new URL(d2.url).searchParams.get('ref'), 'share');
+    assert.ok(new URL(d2.url).searchParams.get('food'), '餐點頁連結帶 food');
+    await context.close();
+  });
+
+  it('M5-1 帶 ref=share 的網址：搜尋結果與沒帶 ref 完全相同', async () => {
+    const a = await open('?view=results&budget=120&dist=1000');
+    await cards(a.page).first().waitFor();
+    const na = await count(a.page);
+    await a.context.close();
+    const b = await open('?view=results&budget=120&dist=1000&ref=share');
+    await cards(b.page).first().waitFor();
+    assert.equal(await count(b.page), na);
+    await b.context.close();
+  });
+
 });

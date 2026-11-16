@@ -202,6 +202,7 @@ export function App() {
         today={today}
         onParams={setSearchParams}
         onOpen={openFood}
+        onUpload={() => go('upload')}
         loc={loc}
       />
     );

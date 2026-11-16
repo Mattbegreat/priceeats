@@ -37,10 +37,10 @@ export function formatUpdatedMonth(verifiedAt: string | Date): string {
 }
 
 /**
- * 新鮮度文案 (M4 第 8 項)：只顯示更新年月，例「2026/03 更新」；
- * 6 個月內與 6–18 個月都不加字樣 (不顯示「近期」「可能需要確認」)，超過 18 個月才標「舊資料」。
+ * 新鮮度文案：只顯示更新年月，例「2026/03」；
+ * 6 個月內與 6–18 個月都不加字樣，超過 18 個月才標「2025/03（舊資料）」。
  */
 export function updatedLabel(verifiedAt: string | Date, freshness: Freshness | null): string {
-  const base = `${formatUpdatedMonth(verifiedAt)} 更新`;
-  return freshness === 'old' ? `舊資料 · ${base}` : base;
+  const month = formatUpdatedMonth(verifiedAt);
+  return freshness === 'old' ? `${month}（舊資料）` : month;
 }

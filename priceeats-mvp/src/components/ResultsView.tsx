@@ -9,6 +9,8 @@ import type { FoodView, SearchParams, SortKey } from '@/types';
 import { EmptyState } from './EmptyState';
 import { FilterDrawer } from './FilterDrawer';
 import { LocationNote } from './LocationPanel';
+import { ShareButton } from './ShareButton';
+import { resultsShareText } from '@/lib/share';
 import { StoreCard } from './StoreCard';
 import type { LocProps } from './HomeView';
 
@@ -26,6 +28,7 @@ export function ResultsView({
   today,
   onParams,
   onOpen,
+  onUpload,
   loc,
 }: {
   index: FoodBase[];
@@ -34,6 +37,7 @@ export function ResultsView({
   today: Date;
   onParams: (p: Partial<SearchParams>) => void;
   onOpen: (id: string) => void;
+  onUpload: () => void;
   loc: LocProps;
 }) {
   const groups = useMemo(() => groupByStore(results), [results]);
@@ -69,13 +73,18 @@ export function ResultsView({
           <button type="button" data-testid="open-filter" onClick={() => setDrawer(true)} className="btn-ink h-11 shrink-0 px-4 text-[15px] font-bold">
             改條件
           </button>
+          <ShareButton
+            getText={() => resultsShareText(where, params.budget, results.length)}
+            className="btn-line h-11 shrink-0 px-4 text-[15px] font-bold"
+            testId="share-results"
+          />
         </div>
       </header>
       <div className="mb-3">
         <LocationNote note={loc.note} />
       </div>
       {results.length === 0 ? (
-        <EmptyState index={index} params={params} onParams={onParams} />
+        <EmptyState index={index} params={params} onParams={onParams} onPickArea={loc.onPickPreset} onUpload={onUpload} />
       ) : (
         <ul className="flex flex-col gap-6 pb-2" data-testid="result-list">
           {groups.map((g) => (

@@ -2,6 +2,7 @@
 
 import { useEffect, useRef } from 'react';
 import { CATEGORY_FILTERS } from '@/data/categories';
+import { walkMinutes, WALK_LABEL_MAX_M } from '@/lib/geo/walk';
 import { DIST_OPTIONS, distLabel } from '@/lib/search/params';
 import type { CategoryFilter } from '@/types';
 
@@ -53,13 +54,18 @@ export function CategoryChips({
   );
 }
 
-/** 走多遠：500m／1km／2km／5km (mono 方角) */
+/** 選項文字：≤ 1500m 顯示「走路 7 分（500m）」，其餘直接顯示 2km、5km；分鐘用 walkMinutes 算 */
+export function distOptionText(d: number): string {
+  return d <= WALK_LABEL_MAX_M ? `走路 ${walkMinutes(d)} 分（${distLabel(d)}）` : distLabel(d);
+}
+
+/** 走多遠：走路 7 分（500m）／走路 14 分（1km）／2km／5km (mono 方角) */
 export function DistanceChips({ value, onChange }: { value: number; onChange: (d: number) => void }) {
   return (
     <div role="group" aria-label="走多遠" className="flex flex-wrap gap-2">
       {DIST_OPTIONS.map((d) => (
-        <button key={d} type="button" aria-label={`距離 ${distLabel(d)}`} aria-pressed={value === d} onClick={() => onChange(d)} className="opt opt-mono">
-          {distLabel(d)}
+        <button key={d} type="button" aria-label={`距離 ${distLabel(d)}`} aria-pressed={value === d} onClick={() => onChange(d)} className="opt opt-mono opt-compact !text-[14px]">
+          {distOptionText(d)}
         </button>
       ))}
     </div>

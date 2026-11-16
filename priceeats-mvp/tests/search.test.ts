@@ -40,7 +40,7 @@ describe('模擬資料規格', () => {
     for (const p of range('雞腿便當')) expect(p).toBeGreaterThanOrEqual(90), expect(p).toBeLessThanOrEqual(150);
     for (const p of range('牛肉麵')) expect(p).toBeGreaterThanOrEqual(150), expect(p).toBeLessThanOrEqual(285);
   });
-  it('首頁預設值 (100 元／不限／1 公里／價格最低) 直接有結果', () => {
+  it('首頁預設值 (100 元／不限／500 公尺／最貼近預算) 直接有結果', () => {
     expect(search(index, DEFAULT_PARAMS).length).toBeGreaterThan(0);
   });
 });

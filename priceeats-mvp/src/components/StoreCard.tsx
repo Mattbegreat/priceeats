@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { distShort } from '@/lib/geo/format';
+import { walkOrKm } from '@/lib/geo/walk';
 import { GROUP_PREVIEW, type StoreGroup } from '@/lib/search/group';
 import { isMultiServing } from '@/lib/search/multi-serving';
 import type { FoodView } from '@/types';
@@ -54,7 +54,7 @@ export function StoreCard({ group, onOpen }: { group: StoreGroup; today?: Date; 
         <h2 className="min-w-0 flex-1 truncate text-store" title={restaurant.name}>
           {restaurant.name}
         </h2>
-        <span className="amount shrink-0 text-small text-carbon">{distShort(distanceM)}</span>
+        <span className="amount shrink-0 text-small text-carbon">{walkOrKm(distanceM)}</span>
       </div>
       {restaurant.is_test_data && (
         <p className="mt-1.5 flex flex-wrap items-center gap-x-2 gap-y-1 text-small leading-tight">
