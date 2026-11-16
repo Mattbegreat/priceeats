@@ -9,3 +9,13 @@ export function siteDescription(real: boolean): string {
 export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || 'https://priceeats.pages.dev').replace(/\/+$/, '');
 export const OG_IMAGE_URL = `${SITE_URL}/og.png`;
 export const SITE_TITLE = 'PriceEats 以預算找餐點';
+
+/** 店家要求更正或下架的聯絡 Email：尚未提供，值為空字串時頁面顯示「聯絡方式準備中」。不要編造。 */
+export const CONTACT_EMAIL = '';
+
+/** 說明頁 (頁尾連結與 sitemap 共用) */
+export const ABOUT_PAGES = [
+  { path: '/about/source', label: '資料來源', title: '資料來源與價格說明' },
+  { path: '/about/privacy', label: '隱私', title: '隱私說明' },
+  { path: '/about/report', label: '回報與聯絡', title: '回報價格錯誤與店家聯絡' },
+] as const;

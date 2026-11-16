@@ -220,10 +220,12 @@ python scripts\download_menus.py --cdp http://localhost:9222 [--only 12]
 ### Netlify／任何靜態空間（示範版 out/）
 
 ```bash
-npm run build:demo     # 產生 out/，資產路徑為 ./_next/...，可放在任何子路徑
+npm run build:demo     # 產生 out/，資產路徑為 /_next/...（根目錄絕對路徑；說明頁與入口頁在子目錄，相對路徑會找不到）
+npm run check:out      # 檢查 out/：24 個入口頁＋3 個說明頁、title 不重複、sitemap 28 個網址
 ```
 - Netlify：拖曳 `out/` 資料夾到 Netlify Drop，或設定 Build command `npm run build:demo`、Publish directory `out`。
 - `build:demo` 會暫時把 `src/app/api` 移出（route handler 不能 `output: 'export'`），建置完成（或失敗）後一定還原。示範版的回報與上傳都存在瀏覽器 localStorage。
+- 要放在子路徑時，建置前設 `ASSET_PREFIX`（首頁可用，說明頁與入口頁需另外處理）。
 - 本機預覽：`node -e "import('./e2e/server.mjs').then(async m=>{const s=await m.startServer();console.log(s.url)})"`，或任何靜態伺服器指向 `out/`。
 
 > 沒有 Vercel／Netlify 帳號，**尚未實際部署**；兩種 build 皆已在本機成功。
@@ -279,6 +281,16 @@ M4 起整站不使用餐點示意圖、也不顯示餐點照片（收據風格�
 - 餐點頁（全螢幕收據）：價格更新年月、來源、回報新價格、「這家店 N 元內還有」（預算內最多 5 道）、「多加一點預算」（超出預算但 ≤ 預算＋20 元最多 3 道）；底部固定「導航過去」（分享屬 M5）。
 - 新鮮度文案：只顯示更新年月（例：2026/03 更新）；超過 18 個月（測試資料 90 天）才加「舊資料」。
 - 加到主畫面：manifest 名稱、`display: standalone`、`theme_color`、192／512 PNG 與 maskable 圖示、`apple-touch-icon`、`appleWebApp`。實機（iPhone、Android 各一次）由 Matt 確認。
+
+## 內容與說明頁（M6）
+- 說明頁：`/about/source`、`/about/privacy`、`/about/report`；頁尾連結在首頁與說明頁。店家聯絡 Email 集中在 `src/lib/site.ts` 的 `CONTACT_EMAIL`，空字串時顯示「聯絡方式準備中」（不要編造 Email）。
+- 入口頁：`/area/<slug>/<budget>`，8 區（nangang、neihu、xinyi、songshan、xizhi、donghu、zhongxiao、minsheng）× 預算 50／100／150。區域定義在 `src/data/areas.ts`。
+- 頁內店數與餐點數來自 `src/data/area-stats.json`（已提交）。`npm run build:demo` 不連網，只讀這個檔；沒有數字就不顯示。更新統計（需要公開的 anon key，約 20 秒）：
+  ```bash
+  NEXT_PUBLIC_SUPABASE_URL=… NEXT_PUBLIC_SUPABASE_ANON_KEY=… npm run gen:area-stats
+  ```
+  腳本直接載入 `src/lib/search` 的篩選與排序（500m、排除單點小菜與多人份），不重寫規則；不讀 `SUPABASE_SERVICE_ROLE_KEY`。
+- `sitemap.xml`、`robots.txt` 的網域用 `NEXT_PUBLIC_SITE_URL`（預設 `https://priceeats.pages.dev`）。
 
 ## 尚未實作／已知限制
 

@@ -36,12 +36,15 @@ export function EmptyState({
           <p className="mt-3 text-[16px] font-bold">目前只有台北東區 {areas.length} 區</p>
           <p className="mt-1 text-aux">你選的位置附近還沒有菜單資料。</p>
           <div className="mt-3 flex flex-col gap-2">
-            <button type="button" data-testid="nearest-area" onClick={() => onPickArea(far.area.name)} className="btn-ink min-h-[48px] justify-between px-5 text-[15px]">
+            <button type="button" data-testid="nearest-area" onClick={() => {
+                onPickArea(far.area.name);
+                onParams({ dist: 1000 });
+              }} className="btn-ink min-h-[48px] justify-between px-5 text-[15px]">
               <span>看最近的「{far.area.name}」</span>
               <span className="amount text-small">{(far.distanceM / 1000).toFixed(1)}km</span>
             </button>
             <button type="button" data-testid="empty-upload" onClick={onUpload} className="btn-line min-h-[48px] px-5 text-[15px]">
-              上傳菜單
+              傳菜單
             </button>
           </div>
         </div>

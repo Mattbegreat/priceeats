@@ -195,8 +195,23 @@ export function UploadView({
     <form onSubmit={submit} className="mx-auto max-w-xl space-y-5" noValidate>
       <div>
         <PageTitle title="傳菜單" />
-        <p className="text-aux">上傳的資料會先標示為「待確認」，不會直接改變店內價格。</p>
       </div>
+
+      <section className="receipt text-[15px] leading-relaxed" aria-label="傳菜單說明" data-testid="upload-intro">
+        <div className="receipt-head">
+          <h2 className="text-[17px] font-black">為什麼傳</h2>
+        </div>
+        <p className="mt-2">附近的店還沒收錄，或菜單價格已經不一樣。</p>
+        <p>你傳的菜單，能讓更多人查到店內價。</p>
+        <div className="receipt-head mt-4">
+          <h2 className="text-[17px] font-black">傳了之後</h2>
+        </div>
+        <ul className="mt-2 list-disc space-y-0.5 pl-5">
+          <li>先標示為「待確認」。</li>
+          <li>不會直接改變店內價格。</li>
+          <li>不需要帳號。</li>
+        </ul>
+      </section>
 
       <section className="receipt space-y-2" aria-label="菜單照片">
         <label className="block text-[15px] font-black" htmlFor="menu-file">

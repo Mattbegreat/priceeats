@@ -639,7 +639,7 @@ describe('M4 第一屏 (375x812)', () => {
     const head = await page.getByTestId('center-text').innerText();
     assert.match(head, /500m$/, '頁首維持公尺');
     const dist = await page.getByTestId('store-card').first().locator('.receipt-head .amount').innerText();
-    assert.match(dist, /^(走路約 \d+ 分|\d+\.\dkm)$/);
+    assert.match(dist, /^(走路約\d+分|\d+\.\dkm)$/);
     await openDrawer(page);
     const g = page.getByRole('group', { name: '走多遠' });
     assert.equal(await g.getByRole('button', { name: '距離 500m' }).innerText(), '走路 7 分（500m）');
@@ -717,4 +717,161 @@ describe('M4 第一屏 (375x812)', () => {
     await b.context.close();
   });
 
+});
+
+/** M6：說明頁與入口頁 (靜態頁，不載入 App) */
+async function openStatic(path, size = VIEWPORT) {
+  const context = await browser.newContext({ viewport: size, locale: 'zh-TW' });
+  await blockFonts(context);
+  const page = await context.newPage();
+  const errors = [];
+  const failed = [];
+  page.on('pageerror', (e) => errors.push(String(e)));
+  page.on('console', (m) => {
+    if (m.type() === 'error' && !/Failed to load resource|ERR_|net::/.test(m.text())) errors.push(m.text());
+  });
+  page.on('response', (r) => {
+    if (r.url().startsWith(server.url) && r.status() >= 400) failed.push(`${r.status()} ${r.url()}`);
+  });
+  const res = await page.goto(server.url + path.replace(/^\//, ''));
+  await page.locator('h1').waitFor();
+  return { context, page, errors, failed, status: res.status() };
+}
+
+/** 文字對背景的對比 (WCAG)：回傳低於 4.5 的元素 */
+async function lowContrast(page) {
+  return page.evaluate(() => {
+    const parse = (c) => c.match(/[\d.]+/g).map(Number);
+    const lum = ([r, g, b]) => {
+      const f = (v) => ((v /= 255) <= 0.03928 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4);
+      return 0.2126 * f(r) + 0.7152 * f(g) + 0.0722 * f(b);
+    };
+    const bgOf = (el) => {
+      for (let e = el; e; e = e.parentElement) {
+        const c = parse(getComputedStyle(e).backgroundColor);
+        if (c.length < 4 || c[3] > 0.99) return c.slice(0, 3);
+      }
+      return [255, 255, 255];
+    };
+    const bad = [];
+    for (const el of document.querySelectorAll('h1,h2,p,li,a,span,dt,dd')) {
+      if (![...el.childNodes].some((n) => n.nodeType === 3 && n.textContent.trim())) continue;
+      const fg = parse(getComputedStyle(el).color).slice(0, 3);
+      const [a, b] = [lum(fg), lum(bgOf(el))];
+      const ratio = (Math.max(a, b) + 0.05) / (Math.min(a, b) + 0.05);
+      if (ratio < 4.5) bad.push(`${el.tagName} "${el.textContent.trim().slice(0, 20)}" ${ratio.toFixed(2)}`);
+    }
+    return bad;
+  });
+}
+
+for (const size of SIZES) {
+  describe(`M6 說明頁與入口頁 (${size.width}x${size.height})`, () => {
+    const PAGES = ['about/source', 'about/privacy', 'about/report', 'area/nangang/100', 'area/zhongxiao/50', 'area/xizhi/150'];
+
+    it('每頁：200、有 h1、資產 (CSS／JS) 都載得到、無頁面錯誤、無橫向捲動、觸控目標 >= 44px、文字對比 >= 4.5', async () => {
+      for (const p of PAGES) {
+        const { context, page, errors, failed, status } = await openStatic(p, size);
+        assert.equal(status, 200, p);
+        assert.ok((await page.locator('h1').innerText()).trim().length > 0, `${p} h1`);
+        assert.deepEqual(failed, [], `${p} 有資源 404`);
+        assert.ok((await overflowX(page)) <= 0, `${p} 橫向捲動`);
+        assert.deepEqual(await smallTargets(page), [], `${p} 觸控目標小於 44px`);
+        assert.deepEqual(await lowContrast(page), [], `${p} 對比不足`);
+        const bg = await page.evaluate(() => getComputedStyle(document.body).backgroundColor);
+        assert.equal(bg, 'rgb(213, 222, 230)', `${p} 樣式表有載入 (ground 底色)`);
+        assert.deepEqual(errors, [], p);
+        await context.close();
+      }
+    });
+  });
+}
+
+describe('M6 說明頁與入口頁', () => {
+  it('首頁頁尾三個說明頁連結：點了到對應頁，頁尾也有連結，可回首頁', async () => {
+    const { context, page } = await open();
+    const footer = page.getByTestId('site-footer');
+    await footer.waitFor();
+    assert.deepEqual(await footer.locator('a').allInnerTexts(), ['資料來源', '隱私', '回報與聯絡']);
+    await footer.getByRole('link', { name: '隱私' }).click();
+    await page.waitForURL(/\/about\/privacy$/);
+    assert.match(await page.locator('h1').innerText(), /隱私/);
+    assert.equal(await page.getByTestId('site-footer').locator('a').count(), 3);
+    await page.getByRole('link', { name: 'PriceEats' }).click();
+    await page.getByTestId('search-button').waitFor();
+    await context.close();
+  });
+
+  it('回報頁：聯絡 Email 尚未提供時顯示「聯絡方式準備中」，頁面沒有 Email 位址', async () => {
+    const { context, page } = await openStatic('about/report');
+    assert.equal((await page.getByTestId('contact').innerText()).trim(), '聯絡方式準備中');
+    assert.ok(!/[\w.+-]+@[\w-]+\.[\w.-]+/.test(await page.locator('main').innerText()));
+    assert.equal(await page.locator('a[href^="mailto:"]').count(), 0);
+    await context.close();
+  });
+
+  it('入口頁：H1 與 title 各自獨立；店數／餐點數與統計日期；開始搜尋進結果頁並帶預算與座標', async () => {
+    const { context, page } = await openStatic('area/nangang/100');
+    assert.equal((await page.locator('h1').innerText()).trim(), '南港車站 100 元內吃什麼');
+    assert.match(await page.title(), /^南港車站 100 元內吃什麼｜PriceEats$/);
+    assert.match(await page.getByTestId('area-stat').innerText(), /^\d+ 家店、\d+ 道餐點\s+資料統計至 \d{4}\/\d{2}\/\d{2}$/);
+    await page.getByTestId('start-search').click();
+    await page.getByTestId('result-summary').waitFor();
+    const u = new URL(page.url());
+    assert.equal(u.searchParams.get('view'), 'results');
+    assert.equal(u.searchParams.get('budget'), '100');
+    assert.ok(u.searchParams.get('lat') && u.searchParams.get('lng'));
+    assert.match(await page.getByTestId('budget-value').innerText(), /\$100/);
+    await context.close();
+  });
+
+  it('不存在的入口頁 (預算 200、未知區域) 回 404', async () => {
+    for (const p of ['area/nangang/200', 'area/nowhere/100']) {
+      const context = await browser.newContext({ viewport: VIEWPORT });
+      const res = await (await context.newPage()).goto(server.url + p);
+      assert.equal(res.status(), 404, p);
+      await context.close();
+    }
+  });
+
+  it('sitemap.xml 與 robots.txt 可讀取', async () => {
+    const context = await browser.newContext();
+    const sm = await context.request.get(server.url + 'sitemap.xml');
+    assert.equal(sm.status(), 200);
+    assert.equal(((await sm.text()).match(/<loc>/g) ?? []).length, 28);
+    const rb = await context.request.get(server.url + 'robots.txt');
+    assert.equal(rb.status(), 200);
+    assert.match(await rb.text(), /Sitemap: https?:\/\/\S+\/sitemap\.xml/);
+    await context.close();
+  });
+
+  it('傳菜單頁上方有「為什麼傳、傳了之後」說明', async () => {
+    const { context, page } = await open();
+    await page.getByTestId('nav-upload').click();
+    const t = await page.getByTestId('upload-intro').innerText();
+    assert.match(t, /為什麼傳/);
+    assert.match(t, /傳了之後/);
+    assert.match(t, /待確認/);
+    await context.close();
+  });
+
+  it('M5 追加：0 筆時頁首只寫「0 道」；有結果時仍寫「N 道，先列…」', async () => {
+    const a = await open('?view=results&budget=1');
+    await a.page.getByTestId('empty-state').waitFor();
+    assert.equal((await a.page.getByTestId('result-summary').innerText()).trim(), '0 道');
+    await a.context.close();
+    const b = await open('?view=results&budget=200');
+    await cards(b.page).first().waitFor();
+    assert.match(await b.page.getByTestId('result-summary').innerText(), /^\d+ 道，先列最貼近預算的/);
+    await b.context.close();
+  });
+
+  it('M5 追加：「走路約N分」數字前後沒有空格', async () => {
+    const { context, page } = await open('?view=results&budget=200');
+    await cards(page).first().waitFor();
+    const texts = await page.getByTestId('store-card').locator('.receipt-head .amount').allInnerTexts();
+    assert.ok(texts.length > 0);
+    for (const t of texts) assert.ok(/^(走路約\d+分|\d+\.\dkm)$/.test(t), t);
+    await context.close();
+  });
 });

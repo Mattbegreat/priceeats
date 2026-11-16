@@ -46,10 +46,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="zh-Hant-TW">
       <head>
-        {/* 相對路徑：靜態匯出後放在任何子路徑 (如 Netlify) 都能運作 */}
-        <link rel="manifest" href="./manifest.webmanifest" />
-        <link rel="icon" href="./icon.svg" type="image/svg+xml" />
-        <link rel="apple-touch-icon" href="./icon-192.png" />
+        {/* 絕對路徑：說明頁與入口頁在子目錄 (/about/…、/area/…)，相對路徑會找不到 */}
+        <link rel="manifest" href="/manifest.webmanifest" />
+        <link rel="icon" href="/icon.svg" type="image/svg+xml" />
+        <link rel="apple-touch-icon" href="/icon-192.png" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <script dangerouslySetInnerHTML={{ __html: FONT_LOADER }} />

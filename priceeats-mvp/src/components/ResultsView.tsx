@@ -67,7 +67,7 @@ export function ResultsView({
             <span data-testid="result-count">
               <span className="amount">{results.length}</span>
             </span>{' '}
-            道，先列{SORT_PHRASE[params.sort]}的
+            道{results.length > 0 && `，先列${SORT_PHRASE[params.sort]}的`}
             {results.length > 0 && <span className="sr-only" data-testid="store-count">{` · ${groups.length} 家店`}</span>}
           </p>
           <button type="button" data-testid="open-filter" onClick={() => setDrawer(true)} className="btn-ink h-11 shrink-0 px-4 text-[15px] font-bold">

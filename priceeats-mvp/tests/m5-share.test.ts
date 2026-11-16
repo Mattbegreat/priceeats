@@ -39,8 +39,8 @@ describe('M5 小修：步行時間', () => {
     expect(walkMinutes(1500)).toBe(21);
   });
   it('≤ 1500m 顯示「走路約 N 分」，超過顯示公里', () => {
-    expect(walkOrKm(500)).toBe('走路約 7 分');
-    expect(walkOrKm(WALK_LABEL_MAX_M)).toBe('走路約 21 分');
+    expect(walkOrKm(500)).toBe('走路約7分');
+    expect(walkOrKm(WALK_LABEL_MAX_M)).toBe('走路約21分');
     expect(walkOrKm(1501)).toBe('1.5km');
     expect(walkOrKm(2300)).toBe('2.3km');
     expect(walkOrKm(5000)).toBe('5.0km');
@@ -78,7 +78,8 @@ describe('M5-3 最近區域', () => {
     const far = renderToStaticMarkup(createElement(EmptyState, { ...base, params: { ...DEFAULT_PARAMS, ...BANQIAO } }));
     expect(far).toContain('目前只有台北東區 8 區');
     expect(far).toContain('忠孝復興站');
-    expect(far).toContain('上傳菜單');
+    expect(far).toContain('傳菜單');
+    expect(far).not.toContain('上傳菜單');
     const near = renderToStaticMarkup(createElement(EmptyState, { ...base, params: DEFAULT_PARAMS }));
     expect(near).not.toContain('目前只有台北東區');
     const mock = renderToStaticMarkup(createElement(EmptyState, { ...base, real: false, params: { ...DEFAULT_PARAMS, ...BANQIAO } }));

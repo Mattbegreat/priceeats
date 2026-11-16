@@ -1,0 +1,118 @@
+{
+  "generatedAt": "2026-11-16",
+  "distM": 500,
+  "areas": {
+    "nangang": {
+      "50": {
+        "stores": 15,
+        "dishes": 142
+      },
+      "100": {
+        "stores": 35,
+        "dishes": 525
+      },
+      "150": {
+        "stores": 47,
+        "dishes": 700
+      }
+    },
+    "neihu": {
+      "50": {
+        "stores": 22,
+        "dishes": 86
+      },
+      "100": {
+        "stores": 59,
+        "dishes": 641
+      },
+      "150": {
+        "stores": 80,
+        "dishes": 1287
+      }
+    },
+    "xinyi": {
+      "50": {
+        "stores": 17,
+        "dishes": 34
+      },
+      "100": {
+        "stores": 39,
+        "dishes": 300
+      },
+      "150": {
+        "stores": 54,
+        "dishes": 526
+      }
+    },
+    "songshan": {
+      "50": {
+        "stores": 20,
+        "dishes": 94
+      },
+      "100": {
+        "stores": 38,
+        "dishes": 310
+      },
+      "150": {
+        "stores": 46,
+        "dishes": 591
+      }
+    },
+    "xizhi": {
+      "50": {
+        "stores": 27,
+        "dishes": 557
+      },
+      "100": {
+        "stores": 41,
+        "dishes": 1226
+      },
+      "150": {
+        "stores": 44,
+        "dishes": 1434
+      }
+    },
+    "donghu": {
+      "50": {
+        "stores": 34,
+        "dishes": 357
+      },
+      "100": {
+        "stores": 49,
+        "dishes": 1159
+      },
+      "150": {
+        "stores": 59,
+        "dishes": 1479
+      }
+    },
+    "zhongxiao": {
+      "50": {
+        "stores": 26,
+        "dishes": 134
+      },
+      "100": {
+        "stores": 64,
+        "dishes": 716
+      },
+      "150": {
+        "stores": 83,
+        "dishes": 1154
+      }
+    },
+    "minsheng": {
+      "50": {
+        "stores": 23,
+        "dishes": 257
+      },
+      "100": {
+        "stores": 37,
+        "dishes": 933
+      },
+      "150": {
+        "stores": 42,
+        "dishes": 1251
+      }
+    }
+  }
+}

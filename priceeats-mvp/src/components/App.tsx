@@ -15,6 +15,7 @@ import { FoodDetailSheet } from './FoodDetailSheet';
 import { HomeView } from './HomeView';
 import type { LocSource } from './LocationPanel';
 import { ResultsView } from './ResultsView';
+import { SiteFooter } from './SiteFooter';
 import { StateMessage } from './StateMessage';
 import { UploadView } from './UploadView';
 
@@ -188,6 +189,7 @@ export function App() {
           loc={loc}
           results={ready2 ? results : null}
         />
+        <SiteFooter />
       </>
     );
   else if (loadError)

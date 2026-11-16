@@ -12,6 +12,7 @@ const TYPES = {
   '.svg': 'image/svg+xml',
   '.png': 'image/png',
   '.txt': 'text/plain; charset=utf-8',
+  '.xml': 'application/xml; charset=utf-8',
   '.woff2': 'font/woff2',
 };
 
@@ -21,6 +22,8 @@ export async function startServer(dir = resolve(import.meta.dirname, '../out')) 
       const url = new URL(req.url ?? '/', 'http://localhost');
       let rel = normalize(decodeURIComponent(url.pathname)).replace(/^(\.\.[/\\])+/, '');
       if (rel.endsWith('/') || rel === '') rel = join(rel, 'index.html');
+      // 與 Cloudflare Pages 相同的乾淨網址：/about/source → about/source.html
+      if (!extname(rel)) rel = rel.replace(/[\\/]+$/, '') + '.html';
       const body = await readFile(join(dir, rel));
       res.writeHead(200, { 'Content-Type': TYPES[extname(rel)] ?? 'application/octet-stream' });
       res.end(body);
