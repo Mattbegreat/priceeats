@@ -3,6 +3,7 @@
 import dynamic from 'next/dynamic';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { CENTER_PRESETS, DEFAULT_CENTER } from '@/data/centers';
+import { analyticsOn, trackFoundMeal, trackPageView, trackReport, trackSearch, viewPagePath } from '@/lib/analytics';
 import { LOCATE_MESSAGE, locate } from '@/lib/geo/location';
 import { buildIndex, search, toView, type FoodBase } from '@/lib/search/filter';
 import { DEFAULT_PARAMS, buildQuery, parseQuery, type UrlState } from '@/lib/search/params';
@@ -106,6 +107,8 @@ export function App() {
   const go = useCallback((v: ViewKey) => commit({ view: v, food: null }, 'push'), [commit]);
   const openFood = useCallback(
     (id: string) => {
+      // 找到一餐：有搜尋條件 (結果或地圖畫面) 時點開餐點算一次
+      if (cur.current.view === 'results' || cur.current.view === 'map') trackFoundMeal(cur.current.params, 'open_food');
       openedByPush.current = true;
       commit({ food: id }, 'push');
     },
@@ -160,6 +163,28 @@ export function App() {
     },
     [setSearchParams],
   );
+
+  /** 單頁 App 的 view 切換送 page_view (page_path 只含 view，不含座標與餐點 id) */
+  useEffect(() => {
+    if (ready) trackPageView(viewPagePath(view));
+  }, [ready, view]);
+
+  /** search：按搜尋或條件變更後，結果實際出現時送一次 (等資料載入完、停 300ms 再送，避免拖曳預算時連發) */
+  const searchedKey = useRef<string | null>(null);
+  useEffect(() => {
+    if (view !== 'results' && view !== 'map') {
+      searchedKey.current = null;
+      return;
+    }
+    if (!analyticsOn() || !data || loadError || refreshing) return;
+    const key = [params.budget, params.cat, params.dist, params.lat, params.lng, params.sort, params.minRating, params.sides, params.multi].join('|');
+    if (searchedKey.current === key) return;
+    const t = setTimeout(() => {
+      searchedKey.current = key;
+      trackSearch(params, results.length);
+    }, 300);
+    return () => clearTimeout(t);
+  }, [view, data, loadError, refreshing, params, results]);
 
   const detail = useMemo(() => {
     if (!foodId || !index) return null;
@@ -249,7 +274,13 @@ export function App() {
           onToggleFav={() => toggleFav(detail.food.id)}
           onClose={closeFood}
           onSwitch={(id) => commit({ food: id }, 'replace')}
-          onReported={() => fetchData(true)}
+          onReported={() => {
+            fetchData(true);
+            trackReport(cur.current.params);
+          }}
+          onNavigate={() => {
+            if (cur.current.view === 'results' || cur.current.view === 'map') trackFoundMeal(cur.current.params, 'navigate');
+          }}
           onUploadMenu={() => {
             setUploadTarget(detail.restaurant.id);
             openedByPush.current = false;

@@ -51,6 +51,7 @@ export function FoodDetailSheet({
   onClose,
   onSwitch,
   onReported,
+  onNavigate,
   onUploadMenu,
 }: {
   view: FoodView;
@@ -65,6 +66,8 @@ export function FoodDetailSheet({
   onClose: () => void;
   onSwitch: (id: string) => void;
   onReported: () => void;
+  /** 按「導航過去」(追蹤用，可省略) */
+  onNavigate?: () => void;
   onUploadMenu: () => void;
 }) {
   const { food, restaurant, verification, freshness } = view;
@@ -242,11 +245,16 @@ export function FoodDetailSheet({
           target="_blank"
           rel="noopener noreferrer"
           aria-label="導航過去，用 Google 地圖開啟"
+          onClick={onNavigate}
           className="btn-ink h-14 text-[18px]"
         >
           導航過去
         </a>
-        <ShareButton getText={() => foodShareText(restaurant.name, food.name, food.price)} className="btn-line h-14 text-[18px]" />
+        <ShareButton
+          getText={() => foodShareText(restaurant.name, food.name, food.price)}
+          location="food"
+          className="btn-line h-14 text-[18px]"
+        />
       </div>
       </div>
     </div>

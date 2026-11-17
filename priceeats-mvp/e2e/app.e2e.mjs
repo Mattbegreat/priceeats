@@ -802,11 +802,10 @@ describe('M6 說明頁與入口頁', () => {
     await context.close();
   });
 
-  it('回報頁：聯絡 Email 尚未提供時顯示「聯絡方式準備中」，頁面沒有 Email 位址', async () => {
+  it('回報頁：顯示 CONTACT_EMAIL 的 mailto 連結 (8623f2f 已填入 Email)，沒有「聯絡方式準備中」', async () => {
     const { context, page } = await openStatic('about/report');
-    assert.equal((await page.getByTestId('contact').innerText()).trim(), '聯絡方式準備中');
-    assert.ok(!/[\w.+-]+@[\w-]+\.[\w.-]+/.test(await page.locator('main').innerText()));
-    assert.equal(await page.locator('a[href^="mailto:"]').count(), 0);
+    assert.equal(await page.locator('a[href="mailto:priceeat.tw@gmail.com"]').count(), 1);
+    assert.ok(!(await page.locator('main').innerText()).includes('聯絡方式準備中'));
     await context.close();
   });
 
@@ -872,6 +871,34 @@ describe('M6 說明頁與入口頁', () => {
     const texts = await page.getByTestId('store-card').locator('.receipt-head .amount').allInnerTexts();
     assert.ok(texts.length > 0);
     for (const t of texts) assert.ok(/^(走路約\d+分|\d+\.\dkm)$/.test(t), t);
+    await context.close();
+  });
+});
+
+describe('M7 追蹤 (測試與示範版一律不載入)', () => {
+  it('首頁、結果、餐點、說明頁、入口頁都沒有 googletagmanager 的 script，也沒有對 Google 追蹤網域的請求', async () => {
+    const pages = ['', 'about/privacy', 'about/source', 'area/nangang/100'];
+    for (const p of pages) {
+      const { context, page, requests } = p === '' ? await open() : { ...(await openStatic(p)), requests: [] };
+      if (p !== '') page.on('request', (r) => requests.push(r.url()));
+      if (p === '') {
+        await page.getByTestId('search-button').click();
+        await cards(page).first().waitFor();
+        await cards(page).first().click();
+        await page.getByRole('dialog').waitFor();
+        await page.getByTestId('share-button').click();
+        await page.waitForTimeout(500);
+      }
+      assert.equal(await page.locator('script[src*="googletagmanager"]').count(), 0, `${p || '/'} 不應有 gtag script`);
+      assert.equal(await page.evaluate(() => typeof window.dataLayer), 'undefined', `${p || '/'} 不應建立 dataLayer`);
+      assert.deepEqual(requests.filter((u) => /googletagmanager|google-analytics|analytics\.google/.test(u)), [], `${p || '/'} 不應對 Google 追蹤送請求`);
+      await context.close();
+    }
+  });
+  it('隱私頁有「使用統計」段與 Google Analytics 說明', async () => {
+    const { context, page } = await openStatic('about/privacy');
+    const text = await page.locator('main').innerText();
+    for (const t of ['使用統計', 'Google Analytics 4', 'cookie', '不收集精確座標']) assert.ok(text.includes(t), t);
     await context.close();
   });
 });

@@ -25,3 +25,6 @@
 
 ## 11/16 更新
 M2–M7 依 11/16 情境模擬重排，以各 M*.md 檔為準（本檔上方舊的里程碑表若不一致，以新檔為準）。驗收情境見 scenarios.md。完整計畫與行銷手冊：https://claude.ai/artifact/N4iyL8cRk6Fiy8y3uZ52bz
+
+## 11/17
+新增 M11-nationwide-expansion.md（全台擴張：串流流程、區域清單、品質閘門）。排在 M7 之後。

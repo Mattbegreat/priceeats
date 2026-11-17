@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from 'next';
 import { IS_REAL_DATA } from '@/data/centers';
 import { OG_IMAGE_URL, SITE_TITLE, SITE_URL, siteDescription } from '@/lib/site';
+import { Analytics } from '@/components/Analytics';
 import './globals.css';
 
 const DESCRIPTION = siteDescription(IS_REAL_DATA);
@@ -57,7 +58,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <link rel="stylesheet" href={FONT_HREF} />
         </noscript>
       </head>
-      <body className="bg-ground font-sans text-ink antialiased">{children}</body>
+      <body className="bg-ground font-sans text-ink antialiased">
+        {children}
+        <Analytics />
+      </body>
     </html>
   );
 }

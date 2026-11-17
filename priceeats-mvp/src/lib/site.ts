@@ -7,6 +7,9 @@ export function siteDescription(real: boolean): string {
 
 /** 網站正式網址 (og:url、og:image 要絕對網址)；由 NEXT_PUBLIC_SITE_URL 提供，必須以完整字面量存取才會在建置時內嵌 */
 export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || 'https://priceeats.pages.dev').replace(/\/+$/, '');
+/** GA4 評估 ID (公開值)。可用 NEXT_PUBLIC_GA_ID 覆寫，設為空字串即停用追蹤；必須以完整字面量存取才會在建置時內嵌。
+ *  只有「正式資料模式＋網址主機名等於 SITE_URL 的主機名」才會真的載入 (見 src/lib/analytics.ts)。 */
+export const GA_ID: string = process.env.NEXT_PUBLIC_GA_ID ?? 'G-NNCJKE0X94';
 export const OG_IMAGE_URL = `${SITE_URL}/og.png`;
 export const SITE_TITLE = 'PriceEats 以預算找餐點';
 

@@ -18,3 +18,6 @@
 
 ## 停止條件
 同一錯誤修 3 次失敗就停，回報。
+
+## 11/16 追加（Matt 提供）
+- CONTACT_EMAIL = priceeat.tw@gmail.com（Matt 同意公開，用於 /about/report 的聯絡與店家更正／下架）。

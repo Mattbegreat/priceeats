@@ -76,6 +76,7 @@ export function ResultsView({
           <ShareButton
             getText={() => resultsShareText(where, params.budget, results.length)}
             className="btn-line h-11 shrink-0 px-4 text-[15px] font-bold"
+            location="results"
             testId="share-results"
           />
         </div>

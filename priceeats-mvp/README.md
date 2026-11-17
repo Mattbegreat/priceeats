@@ -241,6 +241,7 @@ npm run build          # 一般建置（含 API 路由）
 npm run test:api       # 需先 build；起 next start 打 API 後關閉
 npm run build:demo     # 靜態匯出 out/
 npm run test:e2e       # Playwright，對 out/ 起靜態伺服器；需先 build:demo
+npm run test:e2e:ga    # GA4 事件驗證：需 out-real/（用假的 Supabase 變數建置，見 e2e/ga.e2e.mjs 檔頭）
 npm run screenshots    # 產生 docs/screenshots/ 10 張圖
 ```
 
@@ -347,6 +348,9 @@ rm ~/Library/LaunchAgents/tw.priceeats.pipeline.plist                           
 01:00 時 Mac 要醒著（launchd 不會喚醒睡眠中的 Mac）、Chrome 要開著且已登入，否則當晚會停在步驟 3 並記錄。
 
 **測試**（用假資料夾與替身腳本，不開 Chrome、不呼叫 agy、不連 Supabase）：`npm run test:pipeline`，涵蓋續跑、冪等、磁碟不足、CDP 連不上、驗證碼、OCR 額度、匯入失敗不刪照片、同一錯誤 3 次、prune 只刪該刪的檔、樣本與 metadata 保留、`--dry-run` 無副作用。
+
+## 使用統計（M7）
+GA4 評估 ID 在 `src/lib/site.ts` 的 `GA_ID`（可用 `NEXT_PUBLIC_GA_ID` 覆寫，空字串停用）。只在正式資料模式且主機名等於 `NEXT_PUBLIC_SITE_URL` 主機名時載入；不新增套件，gtag 以 `<script async>` 動態插入。事件與參數見 `docs/specs/M7-tracking-launch.md`，上線驗證見 `docs/launch-checklist.md`。
 
 ## 尚未實作／已知限制
 

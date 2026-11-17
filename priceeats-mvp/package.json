@@ -16,6 +16,7 @@
     "test": "vitest run",
     "test:pipeline": "python3 -B -m unittest discover -s tests/pipeline",
     "test:e2e": "node e2e/run.mjs",
+    "test:e2e:ga": "node --test --test-reporter=spec e2e/ga.e2e.mjs",
     "test:api": "node scripts/smoke-api.mjs",
     "screenshots": "node e2e/screenshots.mjs"
   },
