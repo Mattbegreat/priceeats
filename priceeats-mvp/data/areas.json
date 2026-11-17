@@ -2,12 +2,20 @@
  "南港": {
   "lat": 25.0525,
   "lng": 121.6073,
-  "label": "南港車站"
+  "label": "南港車站",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL22"
  },
  "內湖科技園區": {
   "lat": 25.0797,
   "lng": 121.5747,
-  "label": "內湖科技園區"
+  "label": "內湖科技園區",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR17"
  },
  "汐止": {
   "lat": 25.063,
@@ -17,7 +25,11 @@
  "信義": {
   "lat": 25.0411,
   "lng": 121.5652,
-  "label": "市政府站"
+  "label": "市政府站",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL18"
  },
  "松山": {
   "lat": 25.0492,
@@ -27,12 +39,21 @@
  "東湖": {
   "lat": 25.0672,
   "lng": 121.6116,
-  "label": "東湖站"
+  "label": "東湖站",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR22"
  },
  "忠孝復興": {
   "lat": 25.0416,
   "lng": 121.5437,
-  "label": "忠孝復興站"
+  "label": "忠孝復興站",
+  "line": [
+   "BL",
+   "BR"
+  ],
+  "station_code": "BL15/BR10"
  },
  "民生社區": {
   "lat": 25.0587,
@@ -43,6 +64,518 @@
   "lat": 25.0478,
   "lng": 121.517,
   "label": "台北車站（M11 試跑區）",
-  "queries": "data/queries/area-taipei-station.txt"
+  "queries": "data/queries/area-taipei-station.txt",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL12"
+ },
+ "松山機場站": {
+  "lat": 25.063446,
+  "lng": 121.551624,
+  "label": "松山機場站（BR13）",
+  "tier": "1a",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR13",
+  "slug": "br13",
+  "queries": "data/queries/area-br13.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "中山國中站": {
+  "lat": 25.060826,
+  "lng": 121.543979,
+  "label": "中山國中站（BR12）",
+  "tier": "1a",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR12",
+  "slug": "br12",
+  "queries": "data/queries/area-br12.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "南京復興站": {
+  "lat": 25.052016,
+  "lng": 121.543489,
+  "label": "南京復興站（BR11）",
+  "tier": "1a",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR11",
+  "slug": "br11",
+  "queries": "data/queries/area-br11.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "大安站": {
+  "lat": 25.033414,
+  "lng": 121.542894,
+  "label": "大安站（BR09）",
+  "tier": "1a",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR09",
+  "slug": "br09",
+  "queries": "data/queries/area-br09.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "科技大樓站": {
+  "lat": 25.026007,
+  "lng": 121.543465,
+  "label": "科技大樓站（BR08）",
+  "tier": "1a",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR08",
+  "slug": "br08",
+  "queries": "data/queries/area-br08.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "六張犁站": {
+  "lat": 25.023852,
+  "lng": 121.552737,
+  "label": "六張犁站（BR07）",
+  "tier": "1a",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR07",
+  "slug": "br07",
+  "queries": "data/queries/area-br07.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "麟光站": {
+  "lat": 25.018554,
+  "lng": 121.558606,
+  "label": "麟光站（BR06）",
+  "tier": "1a",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR06",
+  "slug": "br06",
+  "queries": "data/queries/area-br06.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "辛亥站": {
+  "lat": 25.005119,
+  "lng": 121.557021,
+  "label": "辛亥站（BR05）",
+  "tier": "1a",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR05",
+  "slug": "br05",
+  "queries": "data/queries/area-br05.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "萬芳醫院站": {
+  "lat": 24.999383,
+  "lng": 121.557737,
+  "label": "萬芳醫院站（BR04）",
+  "tier": "1a",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR04",
+  "slug": "br04",
+  "queries": "data/queries/area-br04.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "萬芳社區站": {
+  "lat": 24.998581,
+  "lng": 121.568409,
+  "label": "萬芳社區站（BR03）",
+  "tier": "1a",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR03",
+  "slug": "br03",
+  "queries": "data/queries/area-br03.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "木柵站": {
+  "lat": 24.998174,
+  "lng": 121.573417,
+  "label": "木柵站（BR02）",
+  "tier": "1a",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR02",
+  "slug": "br02",
+  "queries": "data/queries/area-br02.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "動物園站": {
+  "lat": 24.998135,
+  "lng": 121.579632,
+  "label": "動物園站（BR01）",
+  "tier": "1a",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR01",
+  "slug": "br01",
+  "queries": "data/queries/area-br01.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "大直站": {
+  "lat": 25.079795,
+  "lng": 121.54692,
+  "label": "大直站（BR14）",
+  "tier": "1a",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR14",
+  "slug": "br14",
+  "queries": "data/queries/area-br14.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "劍南路站": {
+  "lat": 25.084802,
+  "lng": 121.555541,
+  "label": "劍南路站（BR15）",
+  "tier": "1a",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR15",
+  "slug": "br15",
+  "queries": "data/queries/area-br15.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "西湖站": {
+  "lat": 25.082181,
+  "lng": 121.566894,
+  "label": "西湖站（BR16）",
+  "tier": "1a",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR16",
+  "slug": "br16",
+  "queries": "data/queries/area-br16.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "文德站": {
+  "lat": 25.078512,
+  "lng": 121.585119,
+  "label": "文德站（BR18）",
+  "tier": "1a",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR18",
+  "slug": "br18",
+  "queries": "data/queries/area-br18.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "內湖站": {
+  "lat": 25.08369,
+  "lng": 121.594439,
+  "label": "內湖站（BR19）",
+  "tier": "1a",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR19",
+  "slug": "br19",
+  "queries": "data/queries/area-br19.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "大湖公園站": {
+  "lat": 25.083785,
+  "lng": 121.602294,
+  "label": "大湖公園站（BR20）",
+  "tier": "1a",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR20",
+  "slug": "br20",
+  "queries": "data/queries/area-br20.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "葫洲站": {
+  "lat": 25.072522,
+  "lng": 121.607633,
+  "label": "葫洲站（BR21）",
+  "tier": "1a",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR21",
+  "slug": "br21",
+  "queries": "data/queries/area-br21.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "南港軟體園區站": {
+  "lat": 25.060253,
+  "lng": 121.616097,
+  "label": "南港軟體園區站（BR23）",
+  "tier": "1a",
+  "line": [
+   "BR"
+  ],
+  "station_code": "BR23",
+  "slug": "br23",
+  "queries": "data/queries/area-br23.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "南港展覽館站": {
+  "lat": 25.05509,
+  "lng": 121.617612,
+  "label": "南港展覽館站（BL23/BR24）",
+  "tier": "1a",
+  "line": [
+   "BL",
+   "BR"
+  ],
+  "station_code": "BL23/BR24",
+  "slug": "bl23-br24",
+  "queries": "data/queries/area-bl23-br24.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "頂埔站": {
+  "lat": 24.959508,
+  "lng": 121.418986,
+  "label": "頂埔站（BL01）",
+  "tier": "1a",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL01",
+  "slug": "bl01",
+  "queries": "data/queries/area-bl01.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "永寧站": {
+  "lat": 24.966863,
+  "lng": 121.436334,
+  "label": "永寧站（BL02）",
+  "tier": "1a",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL02",
+  "slug": "bl02",
+  "queries": "data/queries/area-bl02.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "土城站": {
+  "lat": 24.973209,
+  "lng": 121.44437,
+  "label": "土城站（BL03）",
+  "tier": "1a",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL03",
+  "slug": "bl03",
+  "queries": "data/queries/area-bl03.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "海山站": {
+  "lat": 24.985674,
+  "lng": 121.448901,
+  "label": "海山站（BL04）",
+  "tier": "1a",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL04",
+  "slug": "bl04",
+  "queries": "data/queries/area-bl04.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "亞東醫院站": {
+  "lat": 24.998687,
+  "lng": 121.452613,
+  "label": "亞東醫院站（BL05）",
+  "tier": "1a",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL05",
+  "slug": "bl05",
+  "queries": "data/queries/area-bl05.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "府中站": {
+  "lat": 25.008864,
+  "lng": 121.459183,
+  "label": "府中站（BL06）",
+  "tier": "1a",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL06",
+  "slug": "bl06",
+  "queries": "data/queries/area-bl06.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "板橋站": {
+  "lat": 25.014317,
+  "lng": 121.463269,
+  "label": "板橋站（BL07）",
+  "tier": "1a",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL07",
+  "slug": "bl07",
+  "queries": "data/queries/area-bl07.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "新埔站": {
+  "lat": 25.023206,
+  "lng": 121.46822,
+  "label": "新埔站（BL08）",
+  "tier": "1a",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL08",
+  "slug": "bl08",
+  "queries": "data/queries/area-bl08.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "江子翠站": {
+  "lat": 25.030249,
+  "lng": 121.47253,
+  "label": "江子翠站（BL09）",
+  "tier": "1a",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL09",
+  "slug": "bl09",
+  "queries": "data/queries/area-bl09.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "龍山寺站": {
+  "lat": 25.035338,
+  "lng": 121.500317,
+  "label": "龍山寺站（BL10）",
+  "tier": "1a",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL10",
+  "slug": "bl10",
+  "queries": "data/queries/area-bl10.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "西門站": {
+  "lat": 25.042197,
+  "lng": 121.508381,
+  "label": "西門站（BL11）",
+  "tier": "1a",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL11",
+  "slug": "bl11",
+  "queries": "data/queries/area-bl11.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "善導寺站": {
+  "lat": 25.044577,
+  "lng": 121.523955,
+  "label": "善導寺站（BL13）",
+  "tier": "1a",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL13",
+  "slug": "bl13",
+  "queries": "data/queries/area-bl13.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "忠孝新生站": {
+  "lat": 25.041813,
+  "lng": 121.53276,
+  "label": "忠孝新生站（BL14）",
+  "tier": "1a",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL14",
+  "slug": "bl14",
+  "queries": "data/queries/area-bl14.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "忠孝敦化站": {
+  "lat": 25.041477,
+  "lng": 121.550316,
+  "label": "忠孝敦化站（BL16）",
+  "tier": "1a",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL16",
+  "slug": "bl16",
+  "queries": "data/queries/area-bl16.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "國父紀念館站": {
+  "lat": 25.041347,
+  "lng": 121.557578,
+  "label": "國父紀念館站（BL17）",
+  "tier": "1a",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL17",
+  "slug": "bl17",
+  "queries": "data/queries/area-bl17.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "永春站": {
+  "lat": 25.040813,
+  "lng": 121.575971,
+  "label": "永春站（BL19）",
+  "tier": "1a",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL19",
+  "slug": "bl19",
+  "queries": "data/queries/area-bl19.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "後山埤站": {
+  "lat": 25.044753,
+  "lng": 121.582245,
+  "label": "後山埤站（BL20）",
+  "tier": "1a",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL20",
+  "slug": "bl20",
+  "queries": "data/queries/area-bl20.txt",
+  "source": "https://data.gov.tw/dataset/128428"
+ },
+ "昆陽站": {
+  "lat": 25.050473,
+  "lng": 121.593245,
+  "label": "昆陽站（BL21）",
+  "tier": "1a",
+  "line": [
+   "BL"
+  ],
+  "station_code": "BL21",
+  "slug": "bl21",
+  "queries": "data/queries/area-bl21.txt",
+  "source": "https://data.gov.tw/dataset/128428"
  }
 }
