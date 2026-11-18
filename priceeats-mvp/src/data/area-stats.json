@@ -1,117 +1,4341 @@
 {
-  "generatedAt": "2026-11-16",
+  "generatedAt": "2026-11-18",
   "distM": 500,
   "areas": {
     "nangang": {
       "50": {
         "stores": 15,
-        "dishes": 142
+        "dishes": 142,
+        "cheapest": {
+          "min": 20,
+          "max": 20
+        },
+        "topCategories": [
+          "早餐",
+          "麵食",
+          "飯類"
+        ],
+        "list": [
+          {
+            "id": "cad43d7a-6136-4243-a8de-fbecd18c51c6",
+            "name": "星馬快餐 sin ma express 海南雞飯 南港車站",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "純烤生吐司",
+                "price": 50,
+                "updated": "2026/04"
+              },
+              {
+                "name": "椰漿飯",
+                "price": 40,
+                "updated": "2026/04"
+              }
+            ]
+          },
+          {
+            "id": "3a9708e2-a6a8-4487-90db-ad2629f1c035",
+            "name": "華西街鐤邊趖",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "滷肉飯（大）",
+                "price": 50,
+                "updated": "2026/01"
+              },
+              {
+                "name": "滷肉飯（小）",
+                "price": 40,
+                "updated": "2026/01"
+              }
+            ]
+          },
+          {
+            "id": "d3754c61-8efc-4e1a-881b-5eb6def3e0ef",
+            "name": "榎輕食時尚創意食坊",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "香椿素肉燥飯",
+                "price": 50,
+                "updated": "2026/05"
+              },
+              {
+                "name": "素肉燥飯",
+                "price": 50,
+                "updated": "2026/05"
+              }
+            ]
+          },
+          {
+            "id": "dbdc1208-a6e7-401b-a5ac-98ffae9f2915",
+            "name": "豆漿哥早點宵夜",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "培根蛋餅",
+                "price": 50,
+                "updated": "2026/07"
+              },
+              {
+                "name": "燒餅油條",
+                "price": 50,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "c2bf8fef-e005-4ade-90c6-605ad585d480",
+            "name": "蘇記小吃店",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "肉燥乾麵（大）",
+                "price": 50,
+                "updated": "2025/08"
+              },
+              {
+                "name": "肉燥湯麵（大）",
+                "price": 50,
+                "updated": "2025/08"
+              }
+            ]
+          },
+          {
+            "id": "48a84156-041b-4246-8180-a7b273808803",
+            "name": "蓁好呷精緻早午餐",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "火腿乳酪餅",
+                "price": 50,
+                "updated": "2025/09"
+              },
+              {
+                "name": "玉米吐司",
+                "price": 50,
+                "updated": "2025/09"
+              }
+            ]
+          },
+          {
+            "id": "59a23ab4-79d2-4318-b844-cd5e46ceff3b",
+            "name": "闞記涼麵",
+            "walkMinutes": 7,
+            "items": [
+              {
+                "name": "沙茶麵（小）",
+                "price": 50,
+                "updated": "2026/08"
+              },
+              {
+                "name": "炸醬麵（小）",
+                "price": 50,
+                "updated": "2026/08"
+              }
+            ]
+          },
+          {
+            "id": "eed0c5b9-18c3-46ed-b255-0250ea851882",
+            "name": "南港庄黑舍排骨飯",
+            "walkMinutes": 7,
+            "items": [
+              {
+                "name": "油拌麵（小）",
+                "price": 50,
+                "updated": "2026/09"
+              },
+              {
+                "name": "素麵（小）",
+                "price": 50,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "f1f9151f-fb2d-4430-97c1-e0b1517963c4",
+            "name": "這一小鍋台北南港店",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "海陸雙拼（套餐加購）",
+                "price": 48,
+                "updated": "2026/08"
+              }
+            ]
+          },
+          {
+            "id": "6aa1c575-03a2-4791-a498-514b62c2324e",
+            "name": "好滋味素食",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "素麵線（小）",
+                "price": 40,
+                "updated": "2026/05"
+              }
+            ]
+          }
+        ]
       },
       "100": {
         "stores": 35,
-        "dishes": 525
+        "dishes": 525,
+        "cheapest": {
+          "min": 20,
+          "max": 20
+        },
+        "topCategories": [
+          "早餐",
+          "麵食",
+          "飯類"
+        ],
+        "list": [
+          {
+            "id": "0d63bb16-b3cd-491c-befc-0390deb5db5e",
+            "name": "点爭鮮 CITYLINK南港店",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "甘好有三鮮",
+                "price": 100,
+                "updated": "2025/07"
+              },
+              {
+                "name": "甘好三味盛",
+                "price": 90,
+                "updated": "2025/07"
+              }
+            ]
+          },
+          {
+            "id": "3fecc981-dd6b-4104-8443-4951514210fe",
+            "name": "台鐵便當 南港站（台鐵夢工場）",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "排骨經典便當",
+                "price": 100,
+                "updated": "2026/10"
+              },
+              {
+                "name": "植物肉蔬食便當（蛋素）",
+                "price": 100,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "9099ebc9-cf40-47e8-84c8-838cd8c86557",
+            "name": "くら寿司 藏壽司 南港CITYLINK店",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "北海三種盛合",
+                "price": 100,
+                "updated": "2026/02"
+              },
+              {
+                "name": "豆皮烏龍麵",
+                "price": 90,
+                "updated": "2026/02"
+              }
+            ]
+          },
+          {
+            "id": "31a22cd9-905f-4b10-bbe7-d38946115375",
+            "name": "小木屋鬆餅 南港興華店",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "青花椒麻炸雞蔬菜鬆餅",
+                "price": 100,
+                "updated": "2026/05"
+              },
+              {
+                "name": "日式炸豬排蔬菜鬆餅",
+                "price": 95,
+                "updated": "2026/05"
+              }
+            ]
+          },
+          {
+            "id": "80b7b2a8-1aed-4678-9cf0-882b6be63eb0",
+            "name": "福德烤雞腿飯",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "炸排骨飯",
+                "price": 100,
+                "updated": "2025/12"
+              },
+              {
+                "name": "紅糟肉飯",
+                "price": 100,
+                "updated": "2025/12"
+              }
+            ]
+          },
+          {
+            "id": "e592f422-05b3-40cd-8bce-8da1f68a0edf",
+            "name": "享蒔舒肥餐盒 南港店",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "享蒔時蔬餐（無肉）",
+                "price": 100,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "925938a1-4922-4626-9430-f4b77c974664",
+            "name": "豬家莊",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "炸排骨飯（配菜四樣）",
+                "price": 100,
+                "updated": "2025/02（舊資料）"
+              },
+              {
+                "name": "腿庫飯（配菜四樣）",
+                "price": 100,
+                "updated": "2025/02（舊資料）"
+              }
+            ]
+          },
+          {
+            "id": "066ec9d0-02a9-4467-9638-f76fd7d95f36",
+            "name": "蔡老師蔬食便當 南港車站",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "今日時蔬",
+                "price": 100,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "889ff36f-f140-4641-ad25-ef8110b572be",
+            "name": "懷舊鐵道物語-鐵道便當",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "焢肉飯",
+                "price": 100,
+                "updated": "2026/07"
+              },
+              {
+                "name": "懷舊黃金炸排骨飯",
+                "price": 100,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "6653a4e3-0d56-49fb-b202-f2475f89d52e",
+            "name": "南港福州乾拌麵",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "紅油抄手加麵",
+                "price": 100,
+                "updated": "2026/08"
+              },
+              {
+                "name": "綜合麵",
+                "price": 100,
+                "updated": "2026/08"
+              }
+            ]
+          }
+        ]
       },
       "150": {
         "stores": 47,
-        "dishes": 700
+        "dishes": 700,
+        "cheapest": {
+          "min": 20,
+          "max": 20
+        },
+        "topCategories": [
+          "早餐",
+          "麵食",
+          "飯類"
+        ],
+        "list": [
+          {
+            "id": "1861a60c-13d9-4544-90b8-30101c1b0f56",
+            "name": "靜岡勝政日式豬排 南港環球店",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "泡菜豬肉鍋",
+                "price": 150,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "d5ced8ef-8543-47e4-8293-0f0e3c2072e0",
+            "name": "天天烤肉飯（南港店）",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "炙烤鹹豬肉飯",
+                "price": 150,
+                "updated": "2026/09"
+              },
+              {
+                "name": "金酥糖醋魚飯",
+                "price": 150,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "e592f422-05b3-40cd-8bce-8da1f68a0edf",
+            "name": "享蒔舒肥餐盒 南港店",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "舒肥香蒜鯛魚",
+                "price": 150,
+                "updated": "2026/10"
+              },
+              {
+                "name": "舒肥雞胸肉",
+                "price": 130,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "477e50db-f63e-4dc2-b025-b24cdf75662b",
+            "name": "梁社漢排骨-南港興華店",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "橙汁排骨冬粉飯",
+                "price": 150,
+                "updated": "2026/10"
+              },
+              {
+                "name": "椒麻雞飯",
+                "price": 145,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "f5cc5025-199d-48e8-b352-35f3b0c0a45e",
+            "name": "久越（台越料理專賣店）",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "牛肉酸辣米線",
+                "price": 150,
+                "updated": "2026/02"
+              },
+              {
+                "name": "炸春捲米線",
+                "price": 150,
+                "updated": "2026/02"
+              }
+            ]
+          },
+          {
+            "id": "7bffe08f-3835-4d65-8389-7b3cc0b72eb5",
+            "name": "丸亀製麵 環球南港店 烏龍麵餐廳",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "麻油雞白湯烏龍麵",
+                "price": 149,
+                "updated": "2026/01"
+              },
+              {
+                "name": "素湯烏龍麵套餐（中）",
+                "price": 139,
+                "updated": "2026/01"
+              }
+            ]
+          },
+          {
+            "id": "773788b7-524e-4773-ad81-2b261f743ffa",
+            "name": "想想咖哩 - 南港環球店",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "日式經典咖哩飯",
+                "price": 149,
+                "updated": "2026/02"
+              }
+            ]
+          },
+          {
+            "id": "b5094fd4-440e-4c71-86ed-3a1ac09c2fbf",
+            "name": "SUKIYA すき家 南港車站店",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "牛燒肉丼（飯大碗）",
+                "price": 149,
+                "updated": "2026/07"
+              },
+              {
+                "name": "泡菜牛丼（飯大碗）",
+                "price": 149,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "ea7e9467-cdad-4041-b334-793d9c9e8b79",
+            "name": "美利香港茶餐廳",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "上上籤咖哩魚蛋",
+                "price": 148,
+                "updated": "2026/08"
+              }
+            ]
+          },
+          {
+            "id": "93e4591a-ef85-450d-b3f9-393c260430b4",
+            "name": "飯丸屋-台北南港店",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "炸魚塔塔醬（套餐）",
+                "price": 147,
+                "updated": "2026/05"
+              },
+              {
+                "name": "日式炸雞（套餐）",
+                "price": 137,
+                "updated": "2026/05"
+              }
+            ]
+          }
+        ]
       }
     },
     "neihu": {
       "50": {
         "stores": 22,
-        "dishes": 86
+        "dishes": 86,
+        "cheapest": {
+          "min": 13,
+          "max": 20
+        },
+        "topCategories": [
+          "飯類",
+          "麵食",
+          "早餐"
+        ],
+        "list": [
+          {
+            "id": "12556dce-a24a-4621-8daa-6cc4b156d0c6",
+            "name": "高雄五福扁食 K.H.Wufu 內湖港墘店",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "乾米粉（小）",
+                "price": 50,
+                "updated": "2026/03"
+              },
+              {
+                "name": "乾麵（小）",
+                "price": 50,
+                "updated": "2026/03"
+              }
+            ]
+          },
+          {
+            "id": "a8cb519d-6be0-40ba-8db9-03c8b2985391",
+            "name": "花樂發-內湖店",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "花生蛋吐司",
+                "price": 50,
+                "updated": "2026/07"
+              },
+              {
+                "name": "草莓起司吐司",
+                "price": 50,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "429267b2-2b72-4eee-92a2-d9808cf3b3d4",
+            "name": "寶米丸手作專門店",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "清飯糰",
+                "price": 50,
+                "updated": "2026/02"
+              }
+            ]
+          },
+          {
+            "id": "e2fc373a-21fd-43b8-ad1c-43ec2bf38719",
+            "name": "大莊牛肉麵",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "北港滷肉飯（大）",
+                "price": 50,
+                "updated": "2026/10"
+              },
+              {
+                "name": "肉燥乾麵（小）",
+                "price": 45,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "5f6b0041-ecb5-4d27-a8f3-5b0b85d2c8f5",
+            "name": "林記海南雞飯 內湖店-內湖海南雞 內湖美食 內湖小吃",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "薑黃飯",
+                "price": 50,
+                "updated": "2026/09"
+              },
+              {
+                "name": "雞油飯",
+                "price": 50,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "1455bf46-828f-48be-abaf-dc9dbc162f83",
+            "name": "台北內湖７３７炒米粉",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "切仔米粉（小）",
+                "price": 50,
+                "updated": "2026/09"
+              },
+              {
+                "name": "切仔麵（小）",
+                "price": 50,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "3e265c44-0e83-4ca4-95e3-61b613bbc6af",
+            "name": "737 綜合豬腸冬粉 滷三塊飯",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "沙茶乾麵",
+                "price": 50,
+                "updated": "2026/05"
+              },
+              {
+                "name": "清湯冬粉",
+                "price": 50,
+                "updated": "2026/05"
+              }
+            ]
+          },
+          {
+            "id": "6f71d63f-8952-4bbc-8d3a-c64c541cbbd0",
+            "name": "丘一司早午餐瑞光",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "起司香酥蛋餅",
+                "price": 50,
+                "updated": "2026/05"
+              },
+              {
+                "name": "培根蛋鬆軟吐司",
+                "price": 50,
+                "updated": "2026/05"
+              }
+            ]
+          },
+          {
+            "id": "ed676f68-f43b-4814-91f1-a074d7dc9367",
+            "name": "內湖山東餃子館",
+            "walkMinutes": 7,
+            "items": [
+              {
+                "name": "肉燥飯（大）",
+                "price": 50,
+                "updated": "2026/08"
+              },
+              {
+                "name": "酸辣飯（小）",
+                "price": 50,
+                "updated": "2026/08"
+              }
+            ]
+          },
+          {
+            "id": "17273471-341b-42c9-9f4c-ec8955724488",
+            "name": "張家傳統肉羹",
+            "walkMinutes": 7,
+            "items": [
+              {
+                "name": "米粉（大）",
+                "price": 50,
+                "updated": "2026/09"
+              },
+              {
+                "name": "油飯（大）",
+                "price": 50,
+                "updated": "2026/09"
+              }
+            ]
+          }
+        ]
       },
       "100": {
         "stores": 59,
-        "dishes": 641
+        "dishes": 641,
+        "cheapest": {
+          "min": 13,
+          "max": 20
+        },
+        "topCategories": [
+          "麵食",
+          "早餐",
+          "飯類"
+        ],
+        "list": [
+          {
+            "id": "acebed2d-2f06-44d2-adc5-8d03a190ac3d",
+            "name": "台記家傳手勁麵",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "東東醋麵（小）",
+                "price": 100,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "a8cb519d-6be0-40ba-8db9-03c8b2985391",
+            "name": "花樂發-內湖店",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "招牌吐司",
+                "price": 100,
+                "updated": "2026/07"
+              },
+              {
+                "name": "起司漢堡排培根蛋吐司",
+                "price": 100,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "c66ae95f-4d68-40ba-8182-aeef283b66cc",
+            "name": "御吉YUJI 日式便當專賣",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "香料杏鮑菇弁當",
+                "price": 100,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "153cb8bd-04ec-4845-a20a-98184334fa47",
+            "name": "十鷄食堂",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "酥炸雞柳飯",
+                "price": 100,
+                "updated": "2026/07"
+              },
+              {
+                "name": "酥炸雞排飯",
+                "price": 100,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "429267b2-2b72-4eee-92a2-d9808cf3b3d4",
+            "name": "寶米丸手作專門店",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "玉米鮮肉水餃",
+                "price": 100,
+                "updated": "2026/02"
+              },
+              {
+                "name": "高麗菜鮮肉水餃",
+                "price": 100,
+                "updated": "2026/02"
+              }
+            ]
+          },
+          {
+            "id": "05943143-3cc5-4de5-bb2b-cfd9d9d01d82",
+            "name": "港墘飯包",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "古早味焢肉飯",
+                "price": 100,
+                "updated": "2026/10"
+              },
+              {
+                "name": "府城蝦捲飯",
+                "price": 100,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "03b1bd03-d7da-46cd-ad6d-ddcb106ee483",
+            "name": "勝太郎和食專門店「湖光門市」",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "麻辣鍋燒意麵",
+                "price": 100,
+                "updated": "2026/05"
+              },
+              {
+                "name": "麻婆豆腐蛋包飯",
+                "price": 90,
+                "updated": "2026/05"
+              }
+            ]
+          },
+          {
+            "id": "ba3e4a7e-71ac-4b88-9619-76cc71ac450a",
+            "name": "兄弟麵館內湖店",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "老北京炸醬麵",
+                "price": 100,
+                "updated": "2025/12"
+              },
+              {
+                "name": "荊芥蝦油麵",
+                "price": 100,
+                "updated": "2025/12"
+              }
+            ]
+          },
+          {
+            "id": "885f4328-26a6-45bc-85fb-fc809c192dc5",
+            "name": "鍋燒麵 丼飯",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "牛肉壽喜燒丼飯",
+                "price": 100,
+                "updated": "2026/05"
+              },
+              {
+                "name": "牛肉讚岐鍋燒烏龍麵",
+                "price": 100,
+                "updated": "2026/05"
+              }
+            ]
+          },
+          {
+            "id": "3ae8d54a-1d9a-4bb1-9605-15a62f5a039e",
+            "name": "北方水餃(麵)",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "北方貓耳朵-乾（小）",
+                "price": 100,
+                "updated": "2026/10"
+              },
+              {
+                "name": "牛肉湯餃",
+                "price": 95,
+                "updated": "2026/10"
+              }
+            ]
+          }
+        ]
       },
       "150": {
         "stores": 80,
-        "dishes": 1287
+        "dishes": 1287,
+        "cheapest": {
+          "min": 13,
+          "max": 20
+        },
+        "topCategories": [
+          "麵食",
+          "便當",
+          "飯類"
+        ],
+        "list": [
+          {
+            "id": "acebed2d-2f06-44d2-adc5-8d03a190ac3d",
+            "name": "台記家傳手勁麵",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "(牛)麻辣涼麵（大）",
+                "price": 150,
+                "updated": "2026/09"
+              },
+              {
+                "name": "(紅)牛肉湯河粉（大）",
+                "price": 150,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "153cb8bd-04ec-4845-a20a-98184334fa47",
+            "name": "十鷄食堂",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "日式唐揚雞飯",
+                "price": 150,
+                "updated": "2026/07"
+              },
+              {
+                "name": "去骨海南雞腿飯",
+                "price": 150,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "d054d0b8-677b-403f-895a-06055d73b46c",
+            "name": "榛品越南河粉",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "越式羊肉片",
+                "price": 150,
+                "updated": "2026/07"
+              },
+              {
+                "name": "越式咖哩羊肉",
+                "price": 150,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "03b1bd03-d7da-46cd-ad6d-ddcb106ee483",
+            "name": "勝太郎和食專門店「湖光門市」",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "炸雞咖哩丼",
+                "price": 150,
+                "updated": "2026/05"
+              },
+              {
+                "name": "炸豬排丼",
+                "price": 139,
+                "updated": "2026/05"
+              }
+            ]
+          },
+          {
+            "id": "6a37fb8d-612c-4bde-946f-0989556a0177",
+            "name": "烤食煮盒烤物便當 內湖店",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "私房鹹豬肉飯盒",
+                "price": 150,
+                "updated": "2025/10"
+              },
+              {
+                "name": "招牌烤雞腿飯盒",
+                "price": 150,
+                "updated": "2025/10"
+              }
+            ]
+          },
+          {
+            "id": "885f4328-26a6-45bc-85fb-fc809c192dc5",
+            "name": "鍋燒麵 丼飯",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "黑胡椒牛小排丼飯（加泡菜）",
+                "price": 150,
+                "updated": "2026/05"
+              },
+              {
+                "name": "豪華讚岐烏龍麵（加泡菜）",
+                "price": 150,
+                "updated": "2026/05"
+              }
+            ]
+          },
+          {
+            "id": "aa868bae-61d0-449a-a646-92fc5f787478",
+            "name": "好YOUNG 港味燒臘",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "三寶飯（雞鴨叉燒）",
+                "price": 150,
+                "updated": "2026/06"
+              },
+              {
+                "name": "脆皮烤鴨腿飯（限量）",
+                "price": 150,
+                "updated": "2026/06"
+              }
+            ]
+          },
+          {
+            "id": "2e80d299-49e3-41c6-b73a-eddfd527d200",
+            "name": "昇客肉食堂-內湖店",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "白斬土雞腿飯",
+                "price": 150,
+                "updated": "2026/09"
+              },
+              {
+                "name": "白斬土雞肉飯",
+                "price": 140,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "41d8b41c-2d0c-47d0-b52c-714e64b5d17e",
+            "name": "澄食小人屋2",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "天使蝦握壽司",
+                "price": 150,
+                "updated": "2026/10"
+              },
+              {
+                "name": "比目魚鰭邊握壽司",
+                "price": 150,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "5f6b0041-ecb5-4d27-a8f3-5b0b85d2c8f5",
+            "name": "林記海南雞飯 內湖店-內湖海南雞 內湖美食 內湖小吃",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "海南雞飯",
+                "price": 150,
+                "updated": "2026/09"
+              },
+              {
+                "name": "餐肉蛋公仔湯麵",
+                "price": 140,
+                "updated": "2026/09"
+              }
+            ]
+          }
+        ]
       }
     },
     "xinyi": {
       "50": {
         "stores": 17,
-        "dishes": 34
+        "dishes": 34,
+        "cheapest": {
+          "min": 25,
+          "max": 35
+        },
+        "topCategories": [
+          "麵食",
+          "飯類",
+          "小吃"
+        ],
+        "list": [
+          {
+            "id": "f8d57d51-b1ef-4afe-a87c-317bcc6ef6db",
+            "name": "楓玥食堂",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "肉燥飯（大）",
+                "price": 50,
+                "updated": "2025/10"
+              },
+              {
+                "name": "肉燥飯（小）",
+                "price": 40,
+                "updated": "2025/10"
+              }
+            ]
+          },
+          {
+            "id": "7ff8767f-be67-4659-aeba-de829bcf1848",
+            "name": "味家魯肉飯",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "肉燥乾冬粉（大）",
+                "price": 50,
+                "updated": "2026/01"
+              },
+              {
+                "name": "肉燥乾米粉（大）",
+                "price": 50,
+                "updated": "2026/01"
+              }
+            ]
+          },
+          {
+            "id": "85cc747f-5c8f-4678-a8b1-7ee2e6a0d9f8",
+            "name": "春發汕頭乾拌麵",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "汕頭乾拌麵（小）",
+                "price": 50,
+                "updated": "2026/10"
+              },
+              {
+                "name": "梅干魯肉飯（小）",
+                "price": 50,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "be0d1966-4bb0-46e3-af9c-eba56069d743",
+            "name": "芝香雞肉飯 涼麵",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "涼麵（小）",
+                "price": 50,
+                "updated": "2026/07"
+              },
+              {
+                "name": "滷肉飯（小）",
+                "price": 45,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "8b0b6ee1-200c-4837-95b3-e50123104fb8",
+            "name": "梁記涼麵",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "涼麵（小）",
+                "price": 50,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "70a130d5-ba0e-471f-9b2b-6c58aea54540",
+            "name": "麵食主義 KIRIN PASTA 忠孝店",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "番茄普切塔麵包",
+                "price": 50,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "33603fa3-196d-4506-bf13-ca444fa6f71f",
+            "name": "毅壽司",
+            "walkMinutes": 7,
+            "items": [
+              {
+                "name": "香鬆飯糰",
+                "price": 50,
+                "updated": "2025/07"
+              }
+            ]
+          },
+          {
+            "id": "197b7f3d-e633-477b-9856-598ef65b98d4",
+            "name": "八方雲集-信義忠孝店",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "古早味乾麵",
+                "price": 45,
+                "updated": "2025/04（舊資料）"
+              },
+              {
+                "name": "古早味湯麵",
+                "price": 45,
+                "updated": "2025/04（舊資料）"
+              }
+            ]
+          },
+          {
+            "id": "9b68c3e4-ef71-413a-9f5e-e9ff6ab0e211",
+            "name": "王師父滿月油飯行",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "油飯",
+                "price": 45,
+                "updated": "2026/04"
+              }
+            ]
+          },
+          {
+            "id": "e36e6221-6857-4b8a-bdde-c6a8a6532d06",
+            "name": "鴨肉謝",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "乾冬粉",
+                "price": 45,
+                "updated": "2026/10"
+              },
+              {
+                "name": "乾米粉",
+                "price": 45,
+                "updated": "2026/10"
+              }
+            ]
+          }
+        ]
       },
       "100": {
         "stores": 39,
-        "dishes": 300
+        "dishes": 300,
+        "cheapest": {
+          "min": 25,
+          "max": 35
+        },
+        "topCategories": [
+          "麵食",
+          "飯類",
+          "便當"
+        ],
+        "list": [
+          {
+            "id": "197b7f3d-e633-477b-9856-598ef65b98d4",
+            "name": "八方雲集-信義忠孝店",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "鮮蝦水餃（10顆，每顆10元）",
+                "price": 100,
+                "updated": "2025/04（舊資料）"
+              },
+              {
+                "name": "玉米湯餃",
+                "price": 90,
+                "updated": "2025/04（舊資料）"
+              }
+            ]
+          },
+          {
+            "id": "62459783-f5b8-4bdd-9eb3-9b42ec53b534",
+            "name": "流氓炒飯",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "牛肉炒飯",
+                "price": 100,
+                "updated": "2026/10"
+              },
+              {
+                "name": "香辣咖哩牛飯",
+                "price": 100,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "7ff8767f-be67-4659-aeba-de829bcf1848",
+            "name": "味家魯肉飯",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "魯肉便當",
+                "price": 100,
+                "updated": "2026/01"
+              },
+              {
+                "name": "肉羹冬粉（大）",
+                "price": 80,
+                "updated": "2026/01"
+              }
+            ]
+          },
+          {
+            "id": "d4ae2209-a99a-43c5-87eb-f2e0c48923ca",
+            "name": "正德小吃店",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "菜飯便當",
+                "price": 100,
+                "updated": "2026/09"
+              },
+              {
+                "name": "魯肉便當",
+                "price": 100,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "85cc747f-5c8f-4678-a8b1-7ee2e6a0d9f8",
+            "name": "春發汕頭乾拌麵",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "三色麵",
+                "price": 100,
+                "updated": "2026/10"
+              },
+              {
+                "name": "紅油抄手麵",
+                "price": 100,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "be0d1966-4bb0-46e3-af9c-eba56069d743",
+            "name": "芝香雞肉飯 涼麵",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "滷肉飯（便當）",
+                "price": 100,
+                "updated": "2026/07"
+              },
+              {
+                "name": "雞肉飯（便當）",
+                "price": 100,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "503aa087-09bf-41e9-93e5-b6c627b5c949",
+            "name": "大灣碼頭-松隆店",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "炒飯",
+                "price": 100,
+                "updated": "2026/04"
+              },
+              {
+                "name": "炒麵",
+                "price": 100,
+                "updated": "2026/04"
+              }
+            ]
+          },
+          {
+            "id": "bc2f22ea-a3da-47a0-8bcf-530704401680",
+            "name": "小樂天餃子館",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "大滷麵（小碗）",
+                "price": 100,
+                "updated": "2026/08"
+              },
+              {
+                "name": "榨菜肉絲麵（大碗）",
+                "price": 100,
+                "updated": "2026/08"
+              }
+            ]
+          },
+          {
+            "id": "0129fd37-a5cc-4828-a9ca-881f34ed3917",
+            "name": "草蔬宴義式蔬食餐廳",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "手作佛卡夏麵包",
+                "price": 100,
+                "updated": "2026/01"
+              }
+            ]
+          },
+          {
+            "id": "3e2700f4-1e91-42c9-ac89-99b445c7ba8e",
+            "name": "南北合小館",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "汕頭乾麵",
+                "price": 100,
+                "updated": "2026/10"
+              },
+              {
+                "name": "陝西蛋飯",
+                "price": 100,
+                "updated": "2026/10"
+              }
+            ]
+          }
+        ]
       },
       "150": {
         "stores": 54,
-        "dishes": 526
+        "dishes": 526,
+        "cheapest": {
+          "min": 25,
+          "max": 35
+        },
+        "topCategories": [
+          "麵食",
+          "飯類",
+          "便當"
+        ],
+        "list": [
+          {
+            "id": "1841d9dd-4386-4f13-a475-246434d9f5fd",
+            "name": "輕靚美 忠孝市府gogo店 健康餐盒x機能蔬果飲 排毒瘦身LINE開團",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "主廚烤雞腿排",
+                "price": 150,
+                "updated": "2026/10"
+              },
+              {
+                "name": "厚切澳洲牛漢堡排",
+                "price": 150,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "62459783-f5b8-4bdd-9eb3-9b42ec53b534",
+            "name": "流氓炒飯",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "麻油雞飯（冬令限定）",
+                "price": 150,
+                "updated": "2026/10"
+              },
+              {
+                "name": "麻油雞麵",
+                "price": 150,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "f8d57d51-b1ef-4afe-a87c-317bcc6ef6db",
+            "name": "楓玥食堂",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "越式牛肉河粉",
+                "price": 150,
+                "updated": "2025/10"
+              },
+              {
+                "name": "越式海鮮河粉",
+                "price": 140,
+                "updated": "2025/10"
+              }
+            ]
+          },
+          {
+            "id": "568affe3-bdff-4b3a-bbdc-f21c53b9edec",
+            "name": "香港正宗廣居燒臘",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "蜜汁烤雞腿飯",
+                "price": 150,
+                "updated": "2025/05（舊資料）"
+              },
+              {
+                "name": "黑胡椒豬排飯",
+                "price": 135,
+                "updated": "2025/05（舊資料）"
+              }
+            ]
+          },
+          {
+            "id": "9b68c3e4-ef71-413a-9f5e-e9ff6ab0e211",
+            "name": "王師父滿月油飯行",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "麻油雞麵線",
+                "price": 150,
+                "updated": "2026/04"
+              },
+              {
+                "name": "魚丸冬粉",
+                "price": 75,
+                "updated": "2026/04"
+              }
+            ]
+          },
+          {
+            "id": "85cc747f-5c8f-4678-a8b1-7ee2e6a0d9f8",
+            "name": "春發汕頭乾拌麵",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "麻辣牛五花拌麵",
+                "price": 150,
+                "updated": "2026/10"
+              },
+              {
+                "name": "麻辣豬五花拌麵",
+                "price": 140,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "be0d1966-4bb0-46e3-af9c-eba56069d743",
+            "name": "芝香雞肉飯 涼麵",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "滷雞腿飯",
+                "price": 150,
+                "updated": "2026/07"
+              },
+              {
+                "name": "焢肉飯",
+                "price": 130,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "503aa087-09bf-41e9-93e5-b6c627b5c949",
+            "name": "大灣碼頭-松隆店",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "古法炒米粉",
+                "price": 150,
+                "updated": "2026/04"
+              },
+              {
+                "name": "泡菜炒飯",
+                "price": 130,
+                "updated": "2026/04"
+              }
+            ]
+          },
+          {
+            "id": "f689e0c6-3629-4143-90e0-89338091fd80",
+            "name": "Hërs biströ她/的餐酒",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "粉紅醬香草雞丁義大利麵",
+                "price": 150,
+                "updated": "2026/07"
+              },
+              {
+                "name": "紅醬香料肉丸義大利麵",
+                "price": 145,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "c37bb2ed-2b1a-4eee-bf24-d9d746526c09",
+            "name": "胡饕米粉湯美食小吃 台北市府店",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "蛤蠣雞腿湯麵",
+                "price": 150,
+                "updated": "2026/08"
+              },
+              {
+                "name": "痛風蛤蠣湯麵",
+                "price": 145,
+                "updated": "2026/08"
+              }
+            ]
+          }
+        ]
       }
     },
     "songshan": {
       "50": {
         "stores": 20,
-        "dishes": 94
+        "dishes": 94,
+        "cheapest": {
+          "min": 20,
+          "max": 25
+        },
+        "topCategories": [
+          "早餐",
+          "麵食",
+          "飯類"
+        ],
+        "list": [
+          {
+            "id": "bdc613c2-44e0-4a7a-a7f4-f10e3947d61c",
+            "name": "東松排骨",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "魯肉飯（小）",
+                "price": 50,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "1e9c112b-9a4e-45fc-bc5d-9e24ba305c5d",
+            "name": "船軒鄉村煙燻滷味",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "切仔冬粉",
+                "price": 50,
+                "updated": "2026/09"
+              },
+              {
+                "name": "切仔米粉",
+                "price": 50,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "6c8ebdcb-67e0-4c39-bd43-bbf43f38319a",
+            "name": "九粕好吃滷肉飯米粉湯",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "乾麵",
+                "price": 50,
+                "updated": "2026/07"
+              },
+              {
+                "name": "滷肉飯（大）",
+                "price": 50,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "ef0f69e1-59bf-4392-8bf5-537b2c98b2db",
+            "name": "饒河62.蔬食 素食",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "若燥飯",
+                "price": 50,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "a057e4c7-aa96-4943-bb61-d8da632b82d6",
+            "name": "下港名彭臭豆腐",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "麻辣肉燥乾冬粉",
+                "price": 50,
+                "updated": "2026/07"
+              },
+              {
+                "name": "麻辣泡飯",
+                "price": 40,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "428e5b24-d039-4635-9df4-5d51267e6c4a",
+            "name": "顏加唐麵線",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "油飯",
+                "price": 50,
+                "updated": "2026/08"
+              },
+              {
+                "name": "滷肉飯",
+                "price": 40,
+                "updated": "2026/08"
+              }
+            ]
+          },
+          {
+            "id": "705c4ffb-3dd5-484e-8eeb-9901de4100ff",
+            "name": "星島海南雞（松山店）",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "撈麵",
+                "price": 50,
+                "updated": "2026/03"
+              },
+              {
+                "name": "薑黃飯",
+                "price": 50,
+                "updated": "2026/03"
+              }
+            ]
+          },
+          {
+            "id": "9a868d29-3a48-4c15-8aff-116c7ddf78b0",
+            "name": "齒牛香牛肉麵",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "涼麵（大）",
+                "price": 50,
+                "updated": "2026/08"
+              },
+              {
+                "name": "涼麵（小）",
+                "price": 40,
+                "updated": "2026/08"
+              }
+            ]
+          },
+          {
+            "id": "e70b9c92-c5d8-4d4e-afb5-31458607393d",
+            "name": "波波草Brunch",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "沙茶麵",
+                "price": 50,
+                "updated": "2026/03"
+              },
+              {
+                "name": "里肌豬排蛋吐司",
+                "price": 50,
+                "updated": "2026/03"
+              }
+            ]
+          },
+          {
+            "id": "7e5c8077-0cf7-4178-b69d-eb196b39ee52",
+            "name": "阿布拉小吃店",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "米粉（小）",
+                "price": 45,
+                "updated": "2026/10"
+              },
+              {
+                "name": "油麵（小）",
+                "price": 45,
+                "updated": "2026/10"
+              }
+            ]
+          }
+        ]
       },
       "100": {
         "stores": 38,
-        "dishes": 310
+        "dishes": 310,
+        "cheapest": {
+          "min": 20,
+          "max": 25
+        },
+        "topCategories": [
+          "麵食",
+          "早餐",
+          "飯類"
+        ],
+        "list": [
+          {
+            "id": "31d1a732-0174-4a5d-adb7-b942d2552a4b",
+            "name": "享蒔舒肥餐盒 松山店",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "享蒔時蔬餐(無肉)",
+                "price": 100,
+                "updated": "2026/06"
+              },
+              {
+                "name": "三色米飯",
+                "price": 25,
+                "updated": "2026/06"
+              }
+            ]
+          },
+          {
+            "id": "f9a4de1d-1e34-4f29-9671-262e26211774",
+            "name": "58海南河粉 越南法國麵包-饒河街夜市美食",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "叉燒法國麵包",
+                "price": 100,
+                "updated": "2025/06"
+              },
+              {
+                "name": "火腿法國麵包",
+                "price": 100,
+                "updated": "2025/06"
+              }
+            ]
+          },
+          {
+            "id": "bdc613c2-44e0-4a7a-a7f4-f10e3947d61c",
+            "name": "東松排骨",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "火腿蛋炒飯",
+                "price": 100,
+                "updated": "2026/09"
+              },
+              {
+                "name": "肉絲蛋（炒飯）",
+                "price": 100,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "3887c84c-e23b-444e-b211-9b9f9a2e562a",
+            "name": "茶壺蝦",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "松阪豬炒飯",
+                "price": 100,
+                "updated": "2026/09"
+              },
+              {
+                "name": "雞肉炒飯",
+                "price": 100,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "6c8ebdcb-67e0-4c39-bd43-bbf43f38319a",
+            "name": "九粕好吃滷肉飯米粉湯",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "青菜便當",
+                "price": 100,
+                "updated": "2026/07"
+              },
+              {
+                "name": "乾麵",
+                "price": 50,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "ef0f69e1-59bf-4392-8bf5-537b2c98b2db",
+            "name": "饒河62.蔬食 素食",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "什錦湯麵",
+                "price": 100,
+                "updated": "2026/07"
+              },
+              {
+                "name": "咖哩飯",
+                "price": 100,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "d7408e0c-10e0-4d3a-a682-76d974591f13",
+            "name": "阿甘越南美食",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "豬肉米粉",
+                "price": 100,
+                "updated": "2026/05"
+              },
+              {
+                "name": "豬肉河粉",
+                "price": 100,
+                "updated": "2026/05"
+              }
+            ]
+          },
+          {
+            "id": "7e5c8077-0cf7-4178-b69d-eb196b39ee52",
+            "name": "阿布拉小吃店",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "肉羹冬粉（大）",
+                "price": 100,
+                "updated": "2026/10"
+              },
+              {
+                "name": "肉羹米粉（大）",
+                "price": 100,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "852f40ac-e2be-4a25-a12a-c0e10f35e54c",
+            "name": "四味海鮮羹",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "麻辣麵+豆腐+鴨血",
+                "price": 100,
+                "updated": "2026/02"
+              },
+              {
+                "name": "麻辣乾麵+鴨血",
+                "price": 75,
+                "updated": "2026/02"
+              }
+            ]
+          },
+          {
+            "id": "9c1b8387-d955-49db-8f44-0a93117b3e44",
+            "name": "太官私房牛肉麵",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "清燉牛肉湯麵（小）",
+                "price": 100,
+                "updated": "2026/09"
+              },
+              {
+                "name": "蔥油拌麵（大）",
+                "price": 100,
+                "updated": "2026/09"
+              }
+            ]
+          }
+        ]
       },
       "150": {
         "stores": 46,
-        "dishes": 591
+        "dishes": 591,
+        "cheapest": {
+          "min": 20,
+          "max": 25
+        },
+        "topCategories": [
+          "麵食",
+          "早餐",
+          "飯類"
+        ],
+        "list": [
+          {
+            "id": "5bdd0916-b8d9-443f-a593-a2fa13304653",
+            "name": "咖啡屋 珈琲や 台北松山工房",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "松山火腿起司三明治",
+                "price": 150,
+                "updated": "2025/11"
+              },
+              {
+                "name": "松山三明治",
+                "price": 140,
+                "updated": "2025/11"
+              }
+            ]
+          },
+          {
+            "id": "31d1a732-0174-4a5d-adb7-b942d2552a4b",
+            "name": "享蒔舒肥餐盒 松山店",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "舒肥香蒜鯛魚",
+                "price": 150,
+                "updated": "2026/06"
+              },
+              {
+                "name": "舒肥雞胸肉",
+                "price": 130,
+                "updated": "2026/06"
+              }
+            ]
+          },
+          {
+            "id": "f9a4de1d-1e34-4f29-9671-262e26211774",
+            "name": "58海南河粉 越南法國麵包-饒河街夜市美食",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "原味米粉海鮮",
+                "price": 150,
+                "updated": "2025/06"
+              },
+              {
+                "name": "原味河粉海鮮",
+                "price": 150,
+                "updated": "2025/06"
+              }
+            ]
+          },
+          {
+            "id": "8fbc1541-4081-456c-bd1d-589b81bd6093",
+            "name": "善緣素食",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "咖哩米苔目",
+                "price": 150,
+                "updated": "2026/10"
+              },
+              {
+                "name": "咖哩米粉",
+                "price": 150,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "3887c84c-e23b-444e-b211-9b9f9a2e562a",
+            "name": "茶壺蝦",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "蝦仁炒飯",
+                "price": 150,
+                "updated": "2026/09"
+              },
+              {
+                "name": "鮭魚炒飯",
+                "price": 150,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "0449a1ad-46b8-470e-9102-0cf7d43c7c45",
+            "name": "阿雲越南小吃",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "綜合米線",
+                "price": 150,
+                "updated": "2026/07"
+              },
+              {
+                "name": "蟹膏湯米線",
+                "price": 150,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "6a2e137f-6a97-41ae-af50-92f6d649c254",
+            "name": "鷄原麵屋",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "四川擔麻拌麵",
+                "price": 150,
+                "updated": "2026/10"
+              },
+              {
+                "name": "古早味蔥油麵",
+                "price": 130,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "5e83cc17-eb68-467f-a635-aed500c650a0",
+            "name": "鄧家越南麵館",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "牛肉炒河粉",
+                "price": 150,
+                "updated": "2026/03"
+              },
+              {
+                "name": "牛肉炒麵",
+                "price": 150,
+                "updated": "2026/03"
+              }
+            ]
+          },
+          {
+            "id": "2f8090b8-c4c8-4261-b41f-162e988f5233",
+            "name": "五二牛肉麵",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "招牌炸醬麵（大碗）",
+                "price": 150,
+                "updated": "2026/09"
+              },
+              {
+                "name": "鮮蝦紅油抄手麵（大碗）",
+                "price": 150,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "b956f449-436f-4f1d-91a5-c39b060388a3",
+            "name": "Oguri Coffee 小栗原珈琲 · 咖啡",
+            "walkMinutes": 7,
+            "items": [
+              {
+                "name": "夏威夷總匯帕尼尼",
+                "price": 150,
+                "updated": "2025/05（舊資料）"
+              },
+              {
+                "name": "里肌火腿歐姆蛋三明治",
+                "price": 135,
+                "updated": "2025/05（舊資料）"
+              }
+            ]
+          }
+        ]
       }
     },
     "xizhi": {
       "50": {
         "stores": 27,
-        "dishes": 557
+        "dishes": 557,
+        "cheapest": {
+          "min": 13,
+          "max": 15
+        },
+        "topCategories": [
+          "早餐",
+          "麵食",
+          "飯類"
+        ],
+        "list": [
+          {
+            "id": "06f1a310-af80-4afa-a4b6-60b8aebd0213",
+            "name": "鄰家早餐",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "兒童餐（薯餅+熱狗2條+蛋+小杯飲料）",
+                "price": 50,
+                "updated": "2025/03（舊資料）"
+              },
+              {
+                "name": "黑胡椒肉排蛋",
+                "price": 50,
+                "updated": "2025/03（舊資料）"
+              }
+            ]
+          },
+          {
+            "id": "5246cb8b-4645-4207-bdee-e8275d1f1fd0",
+            "name": "林家涼麵",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "肉燥乾麵（小）",
+                "price": 50,
+                "updated": "2025/11"
+              },
+              {
+                "name": "肉燥涼麵（小）",
+                "price": 50,
+                "updated": "2025/11"
+              }
+            ]
+          },
+          {
+            "id": "c6626f6b-6b73-44c5-8719-49261c31ca48",
+            "name": "美加美早餐店",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "卡拉雞腿堡",
+                "price": 50,
+                "updated": "2025/07"
+              },
+              {
+                "name": "卡啦雞腿三明治",
+                "price": 50,
+                "updated": "2025/07"
+              }
+            ]
+          },
+          {
+            "id": "317adc63-197c-4c19-b9c8-3f5bd8abaea5",
+            "name": "圓緣素饍",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "炒米粉(大)",
+                "price": 50,
+                "updated": "2026/02"
+              },
+              {
+                "name": "炒麵(大)",
+                "price": 50,
+                "updated": "2026/02"
+              }
+            ]
+          },
+          {
+            "id": "8185157b-ac5a-41cc-9ffb-0283c22c2d5c",
+            "name": "陳家姊妹",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "米苔目（乾、大）",
+                "price": 50,
+                "updated": "2026/01"
+              },
+              {
+                "name": "米苔目（湯、大）",
+                "price": 50,
+                "updated": "2026/01"
+              }
+            ]
+          },
+          {
+            "id": "f4cd1ca3-d5be-4cd1-b83d-535a4c5c46be",
+            "name": "捌號早午餐",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "九層塔乳酪餅",
+                "price": 50,
+                "updated": "2026/04"
+              },
+              {
+                "name": "古早味肉燥鐵板麵",
+                "price": 50,
+                "updated": "2026/04"
+              }
+            ]
+          },
+          {
+            "id": "d8e00c07-5282-43d2-82d0-c3cd76aecba9",
+            "name": "樂夯堡早午餐",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "火腿歐姆（乳酪）",
+                "price": 50,
+                "updated": "2025/08"
+              },
+              {
+                "name": "奶油鐵板麵（單麵）",
+                "price": 50,
+                "updated": "2025/08"
+              }
+            ]
+          },
+          {
+            "id": "2bd40fd0-941d-4060-82eb-ea69accd752c",
+            "name": "奧菲斯早午餐",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "火腿潛艇堡",
+                "price": 50,
+                "updated": "2026/04"
+              },
+              {
+                "name": "起司蛋燒餅",
+                "price": 50,
+                "updated": "2026/04"
+              }
+            ]
+          },
+          {
+            "id": "531244a0-db8f-43cb-97ba-c6e4d36aa452",
+            "name": "日光巷早午餐",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "地瓜泥乳酪餅",
+                "price": 50,
+                "updated": "2025/04（舊資料）"
+              },
+              {
+                "name": "芋泥肉鬆吐司",
+                "price": 50,
+                "updated": "2025/04（舊資料）"
+              }
+            ]
+          },
+          {
+            "id": "735312c8-a2c1-47e9-b152-83d4c9b25e30",
+            "name": "卯食mouth汐止店",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "清麵線",
+                "price": 50,
+                "updated": "2026/05"
+              },
+              {
+                "name": "原味酥皮蛋餅",
+                "price": 40,
+                "updated": "2026/05"
+              }
+            ]
+          }
+        ]
       },
       "100": {
         "stores": 41,
-        "dishes": 1226
+        "dishes": 1226,
+        "cheapest": {
+          "min": 13,
+          "max": 15
+        },
+        "topCategories": [
+          "早餐",
+          "麵食",
+          "飯類"
+        ],
+        "list": [
+          {
+            "id": "317adc63-197c-4c19-b9c8-3f5bd8abaea5",
+            "name": "圓緣素饍",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "紅燒湯餃",
+                "price": 100,
+                "updated": "2026/02"
+              },
+              {
+                "name": "鐵板飯(含素排)",
+                "price": 95,
+                "updated": "2026/02"
+              }
+            ]
+          },
+          {
+            "id": "40abb6cc-6af3-49d1-8b6a-ded5a8166478",
+            "name": "金旺海鮮熱炒（金大豐）",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "海鮮炒麵",
+                "price": 100,
+                "updated": "2026/02"
+              },
+              {
+                "name": "海鮮湯麵",
+                "price": 100,
+                "updated": "2026/02"
+              }
+            ]
+          },
+          {
+            "id": "d8e00c07-5282-43d2-82d0-c3cd76aecba9",
+            "name": "樂夯堡早午餐",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "5號餐：法式套餐（生菜+薯泥+法式吐司+培根+蛋）",
+                "price": 100,
+                "updated": "2025/08"
+              },
+              {
+                "name": "6號餐：招牌套餐（生菜+薯泥+果醬吐司+里肌+蛋）",
+                "price": 90,
+                "updated": "2025/08"
+              }
+            ]
+          },
+          {
+            "id": "1d29a3ee-f4bb-4a93-a23c-c7659a63f4aa",
+            "name": "薛家飯麵館",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "什錦海鮮炒麵",
+                "price": 100,
+                "updated": "2025/04（舊資料）"
+              },
+              {
+                "name": "牛肉炒麵",
+                "price": 100,
+                "updated": "2025/04（舊資料）"
+              }
+            ]
+          },
+          {
+            "id": "20d57ce8-97e3-439c-a4cc-a4417df3c037",
+            "name": "阿水越南小吃店",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "火腿麵包",
+                "price": 100,
+                "updated": "2026/02"
+              },
+              {
+                "name": "越南鹹粥（大）",
+                "price": 100,
+                "updated": "2026/02"
+              }
+            ]
+          },
+          {
+            "id": "b6b500a2-876c-4620-8d79-f6e1b9250c64",
+            "name": "八方雲集-汐止仁愛店",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "鮮蝦水餃（10顆，每顆10元）",
+                "price": 100,
+                "updated": "2025/08"
+              },
+              {
+                "name": "玉米湯餃（8顆招牌）",
+                "price": 90,
+                "updated": "2025/08"
+              }
+            ]
+          },
+          {
+            "id": "531244a0-db8f-43cb-97ba-c6e4d36aa452",
+            "name": "日光巷早午餐",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "奶油培根義大利麵",
+                "price": 100,
+                "updated": "2025/04（舊資料）"
+              },
+              {
+                "name": "奶油鮮菇義大利麵",
+                "price": 100,
+                "updated": "2025/04（舊資料）"
+              }
+            ]
+          },
+          {
+            "id": "735312c8-a2c1-47e9-b152-83d4c9b25e30",
+            "name": "卯食mouth汐止店",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "金斧雞腿酥皮蛋餅（升級水牛城口味）",
+                "price": 100,
+                "updated": "2026/05"
+              },
+              {
+                "name": "1號超值套餐（甜味吐司+荷包蛋+小雞塊3塊）",
+                "price": 99,
+                "updated": "2026/05"
+              }
+            ]
+          },
+          {
+            "id": "66d7a78a-6a07-4462-bc4a-b76ecab6771a",
+            "name": "吉兒好食",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "豆包彩蔬便當",
+                "price": 100,
+                "updated": "2026/08"
+              },
+              {
+                "name": "魯肉飯便當",
+                "price": 100,
+                "updated": "2026/08"
+              }
+            ]
+          },
+          {
+            "id": "ffea547b-808f-4f22-8a1b-1b8807a92d99",
+            "name": "雞大衛",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "商業午餐",
+                "price": 100,
+                "updated": "2026/09"
+              },
+              {
+                "name": "精選米飯",
+                "price": 30,
+                "updated": "2026/09"
+              }
+            ]
+          }
+        ]
       },
       "150": {
         "stores": 44,
-        "dishes": 1434
+        "dishes": 1434,
+        "cheapest": {
+          "min": 13,
+          "max": 15
+        },
+        "topCategories": [
+          "早餐",
+          "麵食",
+          "飯類"
+        ],
+        "list": [
+          {
+            "id": "735312c8-a2c1-47e9-b152-83d4c9b25e30",
+            "name": "卯食mouth汐止店",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "泰式雞腿蛋麥堡",
+                "price": 150,
+                "updated": "2026/05"
+              },
+              {
+                "name": "山姆大叔厚牛蛋麥堡（升級水牛城口味）",
+                "price": 145,
+                "updated": "2026/05"
+              }
+            ]
+          },
+          {
+            "id": "ffea547b-808f-4f22-8a1b-1b8807a92d99",
+            "name": "雞大衛",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "油蔥嫩雞腿（餐盒）",
+                "price": 150,
+                "updated": "2026/09"
+              },
+              {
+                "name": "炙燒明太子雞腿（餐盒）",
+                "price": 150,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "cd55e549-440d-4e69-8bfe-f43a944904a6",
+            "name": "左可碳烤三明治",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "香煎雞腿",
+                "price": 150,
+                "updated": "2026/08"
+              },
+              {
+                "name": "厚切豬排",
+                "price": 120,
+                "updated": "2026/08"
+              }
+            ]
+          },
+          {
+            "id": "a8d0f980-6e19-4d78-ab6b-d152047fce8a",
+            "name": "錦發師日式蔬食",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "野菜炒飯（重口味）",
+                "price": 150,
+                "updated": "2026/08"
+              },
+              {
+                "name": "野菜炒飯（原味）",
+                "price": 140,
+                "updated": "2026/08"
+              }
+            ]
+          },
+          {
+            "id": "a52fc24f-664e-4387-84ec-2872d98e16e1",
+            "name": "好先生美食汐止店(觀光夜市)",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "豬腳圈圈麵線",
+                "price": 150,
+                "updated": "2026/08"
+              },
+              {
+                "name": "究極日式豚燒麵線",
+                "price": 140,
+                "updated": "2026/08"
+              }
+            ]
+          },
+          {
+            "id": "dacb30a6-b0af-46d2-8a69-37646ccc422e",
+            "name": "男子漢拉麵食堂-汐止站前店",
+            "walkMinutes": 7,
+            "items": [
+              {
+                "name": "札幌味噌拉麵",
+                "price": 150,
+                "updated": "2025/12"
+              },
+              {
+                "name": "東京醬油拉麵",
+                "price": 140,
+                "updated": "2025/12"
+              }
+            ]
+          },
+          {
+            "id": "c9431589-a8d8-4d21-85ce-8971f3a0fca3",
+            "name": "慢漫回家吃飯",
+            "walkMinutes": 7,
+            "items": [
+              {
+                "name": "慢漫小火鍋（豬肉）",
+                "price": 150,
+                "updated": "2026/09"
+              },
+              {
+                "name": "日本水果咖哩雞",
+                "price": 130,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "b0ee5f17-6623-4887-a952-0fb50075f639",
+            "name": "義麵入魂Pasta",
+            "walkMinutes": 7,
+            "items": [
+              {
+                "name": "奶油培根麵",
+                "price": 150,
+                "updated": "2026/11"
+              },
+              {
+                "name": "田園培根麵",
+                "price": 150,
+                "updated": "2026/11"
+              }
+            ]
+          },
+          {
+            "id": "08e3b9b1-9e38-42ae-9ec3-831d9fe70025",
+            "name": "喫飽早午餐-汐止復興店",
+            "walkMinutes": 7,
+            "items": [
+              {
+                "name": "泰式打拋肉醬（燉飯）",
+                "price": 149,
+                "updated": "2026/08"
+              },
+              {
+                "name": "茄汁玉米嫩雞（義麵）",
+                "price": 145,
+                "updated": "2026/08"
+              }
+            ]
+          },
+          {
+            "id": "efe5905a-3f81-4e5f-9331-3ae194271ff7",
+            "name": "雞肉本家 汐止店",
+            "walkMinutes": 7,
+            "items": [
+              {
+                "name": "咖哩獅子頭飯",
+                "price": 145,
+                "updated": "2026/10"
+              },
+              {
+                "name": "咖哩雞肉飯",
+                "price": 145,
+                "updated": "2026/10"
+              }
+            ]
+          }
+        ]
       }
     },
     "donghu": {
       "50": {
         "stores": 34,
-        "dishes": 357
+        "dishes": 357,
+        "cheapest": {
+          "min": 15,
+          "max": 15
+        },
+        "topCategories": [
+          "早餐",
+          "麵食",
+          "飯類"
+        ],
+        "list": [
+          {
+            "id": "e0fcfd01-4dec-4502-b671-598e300377af",
+            "name": "早點幸福-東湖捷運店",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "招牌豬肉堡",
+                "price": 50,
+                "updated": "2026/08"
+              },
+              {
+                "name": "果醬貝果（藍莓）",
+                "price": 50,
+                "updated": "2026/08"
+              }
+            ]
+          },
+          {
+            "id": "cc610922-c7ce-4689-ac48-5fe8a752fa05",
+            "name": "幸福早午餐",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "火腿蛋吐司",
+                "price": 50,
+                "updated": "2026/06"
+              },
+              {
+                "name": "肉鬆蛋吐司",
+                "price": 50,
+                "updated": "2026/06"
+              }
+            ]
+          },
+          {
+            "id": "908d7c51-4dff-4e59-a8c5-ba35271dcf12",
+            "name": "台北。初早餐",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "招牌肉土司",
+                "price": 50,
+                "updated": "2026/01"
+              },
+              {
+                "name": "香雞排蛋土司",
+                "price": 50,
+                "updated": "2026/01"
+              }
+            ]
+          },
+          {
+            "id": "1c06f5ec-aa95-47c0-bfae-14acd0f64f09",
+            "name": "曾記焿府",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "沙茶清羹麵（小）",
+                "price": 50,
+                "updated": "2026/04"
+              },
+              {
+                "name": "炒米粉（小）",
+                "price": 40,
+                "updated": "2026/04"
+              }
+            ]
+          },
+          {
+            "id": "4d1ea181-aa69-4767-9ec8-5c16b6b4648e",
+            "name": "吉品勝口味(東湖店)",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "筒仔米糕",
+                "price": 50,
+                "updated": "2026/02"
+              },
+              {
+                "name": "清麵線（大）",
+                "price": 45,
+                "updated": "2026/02"
+              }
+            ]
+          },
+          {
+            "id": "c70c5f9c-5ba3-4203-aca1-48af7f9e0f44",
+            "name": "心裡麵",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "乾麵（小）",
+                "price": 50,
+                "updated": "2025/08"
+              },
+              {
+                "name": "陽春麵（小）",
+                "price": 50,
+                "updated": "2025/08"
+              }
+            ]
+          },
+          {
+            "id": "bc86a5d8-2417-4c93-a8e4-20507c102294",
+            "name": "英瑛美代子的店",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "雞滷飯（小）",
+                "price": 50,
+                "updated": "2025/09"
+              },
+              {
+                "name": "乾米粉（小）",
+                "price": 45,
+                "updated": "2025/09"
+              }
+            ]
+          },
+          {
+            "id": "20f573f3-3b53-4a34-a4c7-d3a8d891cf9c",
+            "name": "早點回魂 Breakfast",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "香雞抓餅",
+                "price": 50,
+                "updated": "2025/08"
+              },
+              {
+                "name": "培根抓餅",
+                "price": 50,
+                "updated": "2025/08"
+              }
+            ]
+          },
+          {
+            "id": "53581f07-1d8d-403a-8163-9c5d2fcdc58e",
+            "name": "航情麵線總店",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "米苔目乾（小）",
+                "price": 50,
+                "updated": "2026/07"
+              },
+              {
+                "name": "粄條乾（小）",
+                "price": 50,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "96aa2c78-a0b8-42b7-b75a-3820e0fa6b09",
+            "name": "A+豆漿店(東湖)",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "蛋餅夾油條",
+                "price": 50,
+                "updated": "2025/08"
+              },
+              {
+                "name": "豬排蛋餅",
+                "price": 50,
+                "updated": "2025/08"
+              }
+            ]
+          }
+        ]
       },
       "100": {
         "stores": 49,
-        "dishes": 1159
+        "dishes": 1159,
+        "cheapest": {
+          "min": 15,
+          "max": 15
+        },
+        "topCategories": [
+          "早餐",
+          "麵食",
+          "飯類"
+        ],
+        "list": [
+          {
+            "id": "b571fc4a-796e-4747-9911-13bb7a849786",
+            "name": "Fu Rong",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "純歐姆蛋咖哩",
+                "price": 100,
+                "updated": "2026/09"
+              },
+              {
+                "name": "清湯烏龍麵",
+                "price": 89,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "cc610922-c7ce-4689-ac48-5fe8a752fa05",
+            "name": "幸福早午餐",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "蝦仁蛋炒飯",
+                "price": 100,
+                "updated": "2026/06"
+              },
+              {
+                "name": "蝦仁蛋炒麵",
+                "price": 100,
+                "updated": "2026/06"
+              }
+            ]
+          },
+          {
+            "id": "07cbefe0-2704-4331-b933-ef496c575861",
+            "name": "東湖社子排骨",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "土魠魚羹米粉（小）",
+                "price": 100,
+                "updated": "2025/03（舊資料）"
+              },
+              {
+                "name": "土魠魚羹飯（小）",
+                "price": 100,
+                "updated": "2025/03（舊資料）"
+              }
+            ]
+          },
+          {
+            "id": "c70c5f9c-5ba3-4203-aca1-48af7f9e0f44",
+            "name": "心裡麵",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "牛肉湯麵（大）",
+                "price": 100,
+                "updated": "2025/08"
+              },
+              {
+                "name": "炸醬麵（大）",
+                "price": 90,
+                "updated": "2025/08"
+              }
+            ]
+          },
+          {
+            "id": "7d396559-3247-4d7f-a721-0157648ec8f9",
+            "name": "東湖鮮爸王手作水餃",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "宜蘭三星蔥水餃（10顆，每顆10元）",
+                "price": 100,
+                "updated": "2026/02"
+              },
+              {
+                "name": "上等韭菜水餃（10顆，每顆9元）",
+                "price": 90,
+                "updated": "2026/02"
+              }
+            ]
+          },
+          {
+            "id": "0e23828e-6d94-42b9-8165-b5e5759b6c56",
+            "name": "巧一牛排",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "青椒牛肉炒飯",
+                "price": 100,
+                "updated": "2026/08"
+              },
+              {
+                "name": "青椒牛肉燴飯",
+                "price": 100,
+                "updated": "2026/08"
+              }
+            ]
+          },
+          {
+            "id": "20f573f3-3b53-4a34-a4c7-d3a8d891cf9c",
+            "name": "早點回魂 Breakfast",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "印尼炒麵（套餐）",
+                "price": 100,
+                "updated": "2025/08"
+              },
+              {
+                "name": "茄汁鐵板麵（套餐）",
+                "price": 100,
+                "updated": "2025/08"
+              }
+            ]
+          },
+          {
+            "id": "141c71e9-368f-416f-8dc1-ff3c74fc55e1",
+            "name": "微想咖哩東湖店",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "鬼魚咖哩便當",
+                "price": 100,
+                "updated": "2025/08"
+              },
+              {
+                "name": "經典燒肉丼便當",
+                "price": 100,
+                "updated": "2025/08"
+              }
+            ]
+          },
+          {
+            "id": "0238a2c4-51e5-4a10-ab9a-dc2c27b93720",
+            "name": "本家咖哩",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "日式叉燒飯",
+                "price": 100,
+                "updated": "2026/07"
+              },
+              {
+                "name": "日式炒烏龍",
+                "price": 100,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "49d9e67a-e448-4e7c-8369-be06c9a95ccf",
+            "name": "明湖上品牛肉麵",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "排骨飯",
+                "price": 100,
+                "updated": "2026/04"
+              },
+              {
+                "name": "排骨麵",
+                "price": 100,
+                "updated": "2026/04"
+              }
+            ]
+          }
+        ]
       },
       "150": {
         "stores": 59,
-        "dishes": 1479
+        "dishes": 1479,
+        "cheapest": {
+          "min": 15,
+          "max": 15
+        },
+        "topCategories": [
+          "早餐",
+          "麵食",
+          "飯類"
+        ],
+        "list": [
+          {
+            "id": "b571fc4a-796e-4747-9911-13bb7a849786",
+            "name": "Fu Rong",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "日式豬丼",
+                "price": 150,
+                "updated": "2026/09"
+              },
+              {
+                "name": "泡菜燒肉飯",
+                "price": 150,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "cc610922-c7ce-4689-ac48-5fe8a752fa05",
+            "name": "幸福早午餐",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "海鮮鍋燒麵",
+                "price": 150,
+                "updated": "2026/06"
+              },
+              {
+                "name": "紅燒牛肉麵",
+                "price": 130,
+                "updated": "2026/06"
+              }
+            ]
+          },
+          {
+            "id": "3ec7637d-447b-4c47-988b-840ea8b4e105",
+            "name": "沐水盒 低卡健康餐 東湖店",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "叉燒肉（M）",
+                "price": 150,
+                "updated": "2026/04"
+              },
+              {
+                "name": "拉絲起司雞胸（M）",
+                "price": 150,
+                "updated": "2026/04"
+              }
+            ]
+          },
+          {
+            "id": "d94bf5fc-4437-47a4-b5e2-305a3d3bef98",
+            "name": "福德排骨飯",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "半月鮭魚便當",
+                "price": 150,
+                "updated": "2026/09"
+              },
+              {
+                "name": "美式炸雞腿飯",
+                "price": 130,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "69b7062a-2fc9-401b-bab9-6294d63c9025",
+            "name": "樂禾田拉麵",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "叉燒丼套餐",
+                "price": 150,
+                "updated": "2026/04"
+              },
+              {
+                "name": "豬排丼套餐",
+                "price": 150,
+                "updated": "2026/04"
+              }
+            ]
+          },
+          {
+            "id": "31a5961f-5393-47fe-86e5-980785f857cb",
+            "name": "東湖阿水越南美食",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "咖哩牛腩麵包",
+                "price": 150,
+                "updated": "2026/05"
+              },
+              {
+                "name": "咖哩雞腿麵包",
+                "price": 150,
+                "updated": "2026/05"
+              }
+            ]
+          },
+          {
+            "id": "2bd0d79a-a195-45c5-b67b-0379a6c6e38a",
+            "name": "何仙姑養生煲仔飯",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "砂鍋海鮮粥",
+                "price": 150,
+                "updated": "2025/01（舊資料）"
+              }
+            ]
+          },
+          {
+            "id": "49d9e67a-e448-4e7c-8369-be06c9a95ccf",
+            "name": "明湖上品牛肉麵",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "乾拌麵+鮮肉餛飩湯套餐",
+                "price": 150,
+                "updated": "2026/04"
+              },
+              {
+                "name": "牛肉飯",
+                "price": 140,
+                "updated": "2026/04"
+              }
+            ]
+          },
+          {
+            "id": "5d07903b-4e70-40ee-90fc-1489df2a2e09",
+            "name": "油雞/醉雞 輕食餐盒 內湖康寧店",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "減脂高纖餐",
+                "price": 150,
+                "updated": "2026/03"
+              },
+              {
+                "name": "輕食水煮餐盒（雞胸）",
+                "price": 150,
+                "updated": "2026/03"
+              }
+            ]
+          },
+          {
+            "id": "78e719ef-4257-4c5d-96ab-9882615f5630",
+            "name": "柚子・鍋燒麵",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "古早味炒泡麵（特大）",
+                "price": 150,
+                "updated": "2026/07"
+              },
+              {
+                "name": "和風味噌鍋燒（特大）",
+                "price": 150,
+                "updated": "2026/07"
+              }
+            ]
+          }
+        ]
       }
     },
     "zhongxiao": {
       "50": {
         "stores": 26,
-        "dishes": 134
+        "dishes": 134,
+        "cheapest": {
+          "min": 10,
+          "max": 20
+        },
+        "topCategories": [
+          "早餐",
+          "麵食",
+          "飯類"
+        ],
+        "list": [
+          {
+            "id": "c233d170-1d23-4eb0-8f88-79717c9c9517",
+            "name": "安東58",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "乾拌冬粉",
+                "price": 50,
+                "updated": "2026/09"
+              },
+              {
+                "name": "乾拌米粉",
+                "price": 50,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "9da3d146-6362-4f94-81b6-82e954f7cb31",
+            "name": "許家邨扁食",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "麻醬乾麵",
+                "price": 50,
+                "updated": "2026/04"
+              },
+              {
+                "name": "招牌(滷肉)乾麵",
+                "price": 45,
+                "updated": "2026/04"
+              }
+            ]
+          },
+          {
+            "id": "09355128-c38a-4db4-a0e1-7b9fd1e81ea8",
+            "name": "東區早餐店",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "豬排蛋三明治",
+                "price": 50,
+                "updated": "2026/08"
+              },
+              {
+                "name": "豬排蛋乳酪餅",
+                "price": 50,
+                "updated": "2026/08"
+              }
+            ]
+          },
+          {
+            "id": "c481763e-5112-4f1f-a0e9-30ac10e72d20",
+            "name": "Chao•炒炒新亞洲蔬食",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "台式滷肉飯",
+                "price": 50,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "ce4fb08e-b261-4369-8665-5c87cd2cdb5d",
+            "name": "六六順黑白切",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "陽春湯麵（小）",
+                "price": 50,
+                "updated": "2026/05"
+              },
+              {
+                "name": "滷肉飯（大）",
+                "price": 50,
+                "updated": "2026/05"
+              }
+            ]
+          },
+          {
+            "id": "dd8f3f0d-48ac-42c4-b4c7-e1e8ebf4c0f6",
+            "name": "金鹿早餐",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "火腿起士蛋熱壓三明治",
+                "price": 50,
+                "updated": "2025/11"
+              },
+              {
+                "name": "起士蛋熱壓三明治",
+                "price": 45,
+                "updated": "2025/11"
+              }
+            ]
+          },
+          {
+            "id": "2c5e4987-83a4-4168-a3dc-4fe1393f1f36",
+            "name": "食三碗手工麵線",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "清麵線（大）",
+                "price": 50,
+                "updated": "2026/08"
+              },
+              {
+                "name": "清麵線（小）",
+                "price": 35,
+                "updated": "2026/08"
+              }
+            ]
+          },
+          {
+            "id": "6b14a5ec-aba8-4eda-9f86-b0ad739f553d",
+            "name": "日日灶咖",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "雙蛋蛋餅",
+                "price": 50,
+                "updated": "2026/05"
+              },
+              {
+                "name": "吐司夾蛋",
+                "price": 30,
+                "updated": "2026/05"
+              }
+            ]
+          },
+          {
+            "id": "8e8bde93-699c-4b5c-baba-4da855edadfd",
+            "name": "川品排骨店",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "魯肉飯（小）",
+                "price": 50,
+                "updated": "2026/02"
+              }
+            ]
+          },
+          {
+            "id": "b80040de-a01c-494a-af29-50f660abc482",
+            "name": "可口豬肝湯麻醬麵",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "拌冬粉（小）",
+                "price": 50,
+                "updated": "2026/06"
+              },
+              {
+                "name": "拌米粉（小）",
+                "price": 50,
+                "updated": "2026/06"
+              }
+            ]
+          }
+        ]
       },
       "100": {
-        "stores": 64,
-        "dishes": 716
+        "stores": 66,
+        "dishes": 719,
+        "cheapest": {
+          "min": 10,
+          "max": 20
+        },
+        "topCategories": [
+          "麵食",
+          "早餐",
+          "飯類"
+        ],
+        "list": [
+          {
+            "id": "c233d170-1d23-4eb0-8f88-79717c9c9517",
+            "name": "安東58",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "四寶魯肉飯",
+                "price": 100,
+                "updated": "2026/09"
+              },
+              {
+                "name": "生(漿)魷魚冬粉",
+                "price": 90,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "11e501f6-f29f-448b-b4d4-f11494cdd6ce",
+            "name": "扶旺號 - 復興店",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "茄汁雞蛋鐵板炒飯",
+                "price": 100,
+                "updated": "2026/11"
+              },
+              {
+                "name": "辣燒肉蛋鐵板捲餅",
+                "price": 100,
+                "updated": "2026/11"
+              }
+            ]
+          },
+          {
+            "id": "9da3d146-6362-4f94-81b6-82e954f7cb31",
+            "name": "許家邨扁食",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "鮮蝦抄手乾麵",
+                "price": 100,
+                "updated": "2026/04"
+              },
+              {
+                "name": "鮮蝦扁食湯麵",
+                "price": 100,
+                "updated": "2026/04"
+              }
+            ]
+          },
+          {
+            "id": "8d96366c-e46d-4823-8f93-799b3cc08031",
+            "name": "Dreamers Coffee Roasters 忠孝復興店",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "雙色巧克力可頌",
+                "price": 100,
+                "updated": "2026/01"
+              }
+            ]
+          },
+          {
+            "id": "10cee26f-cb17-4214-b21f-aa344b956e9d",
+            "name": "慢步調 咖啡館",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "平凡中的不平凡麵包",
+                "price": 100,
+                "updated": "2025/12"
+              },
+              {
+                "name": "起士貝果佐酒香乳酪醬",
+                "price": 100,
+                "updated": "2025/12"
+              }
+            ]
+          },
+          {
+            "id": "ad3897c5-6bed-4b2c-8c44-f12ad11aacc6",
+            "name": "王記非常麵",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "手工大滷湯麵",
+                "price": 100,
+                "updated": "2026/03"
+              },
+              {
+                "name": "手工麻辣炸醬麵",
+                "price": 100,
+                "updated": "2026/03"
+              }
+            ]
+          },
+          {
+            "id": "5b6f9b18-40fe-409e-85cc-63f3856071d4",
+            "name": "竣師父牛肉麵-大安店",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "牛肉燥飯",
+                "price": 100,
+                "updated": "2026/10"
+              },
+              {
+                "name": "麻辣牛肉燥飯",
+                "price": 100,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "ce4fb08e-b261-4369-8665-5c87cd2cdb5d",
+            "name": "六六順黑白切",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "豬腳麵",
+                "price": 100,
+                "updated": "2026/05"
+              },
+              {
+                "name": "肝連麵",
+                "price": 90,
+                "updated": "2026/05"
+              }
+            ]
+          },
+          {
+            "id": "3b91f821-9f9f-4cba-bbd4-c3fad7971bf7",
+            "name": "VEGANAMORE蔬慕 復興店",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "主廚麵包",
+                "price": 100,
+                "updated": "2026/10"
+              },
+              {
+                "name": "酸種麵包",
+                "price": 100,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "f91f4b60-a40a-4de1-b95f-bfa4ace9b57a",
+            "name": "安東小吃",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "什錦炒米粉",
+                "price": 100,
+                "updated": "2025/01（舊資料）"
+              },
+              {
+                "name": "什錦炒飯",
+                "price": 100,
+                "updated": "2025/01（舊資料）"
+              }
+            ]
+          }
+        ]
       },
       "150": {
-        "stores": 83,
-        "dishes": 1154
+        "stores": 85,
+        "dishes": 1195,
+        "cheapest": {
+          "min": 10,
+          "max": 20
+        },
+        "topCategories": [
+          "麵食",
+          "早餐",
+          "飯類"
+        ],
+        "list": [
+          {
+            "id": "581d9f5f-8943-4e6b-9b7c-941763035e1d",
+            "name": "小飯桌 臺北便當外送店",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "素食（商務餐盒）",
+                "price": 150,
+                "updated": "2026/07"
+              },
+              {
+                "name": "黃金魚排（商務餐盒）",
+                "price": 150,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "15efbcf0-197a-49b5-92f8-3f9ce6d0c2b2",
+            "name": "越好吃越南料理台北忠孝SOGO店",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "牛肉法國麵包",
+                "price": 150,
+                "updated": "2026/07"
+              },
+              {
+                "name": "打拋豬法國麵包",
+                "price": 150,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "c233d170-1d23-4eb0-8f88-79717c9c9517",
+            "name": "安東58",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "排骨湯麵",
+                "price": 150,
+                "updated": "2026/09"
+              },
+              {
+                "name": "綜合羹冬粉",
+                "price": 110,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "ffa161dc-8f7a-4cd8-a6de-5c16aadf0eb8",
+            "name": "大戶屋 忠孝復興店",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "木盒烏龍麵",
+                "price": 150,
+                "updated": "2026/08"
+              },
+              {
+                "name": "木盒蕎麥麵",
+                "price": 150,
+                "updated": "2026/08"
+              }
+            ]
+          },
+          {
+            "id": "11e501f6-f29f-448b-b4d4-f11494cdd6ce",
+            "name": "扶旺號 - 復興店",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "沙茶牛肉鐵板炒飯",
+                "price": 150,
+                "updated": "2026/11"
+              },
+              {
+                "name": "去骨雞腿鐵板土司",
+                "price": 110,
+                "updated": "2026/11"
+              }
+            ]
+          },
+          {
+            "id": "63fb3228-28d7-4b5d-bf3e-5445962f7382",
+            "name": "四海木須麵",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "紅糟豬柳便當",
+                "price": 150,
+                "updated": "2026/09"
+              },
+              {
+                "name": "花雕雞炒飯（小）",
+                "price": 145,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "770c0fe4-e843-4e23-97ce-3bb286ab16ae",
+            "name": "胖子小吃部",
+            "walkMinutes": 2,
+            "items": [
+              {
+                "name": "什錦湯米粉",
+                "price": 150,
+                "updated": "2026/10"
+              },
+              {
+                "name": "什錦湯麵",
+                "price": 150,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "ad3897c5-6bed-4b2c-8c44-f12ad11aacc6",
+            "name": "王記非常麵",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "鮮蝦水餃（10粒）（10顆，每顆15元）",
+                "price": 150,
+                "updated": "2026/03"
+              },
+              {
+                "name": "紅油抄手麵",
+                "price": 135,
+                "updated": "2026/03"
+              }
+            ]
+          },
+          {
+            "id": "8660b7ea-1d43-459a-bd51-01f5ee27d20f",
+            "name": "日本拉麵",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "日式咖哩飯（小）",
+                "price": 150,
+                "updated": "2026/03"
+              },
+              {
+                "name": "塔塔醬炸鱈魚排",
+                "price": 150,
+                "updated": "2026/03"
+              }
+            ]
+          },
+          {
+            "id": "8d8a58a0-bf0d-4c0c-965f-b6f9b4a82b76",
+            "name": "拉亞漢堡 北市忠孝復興",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "法式皇后盤餐",
+                "price": 150,
+                "updated": "2025/03（舊資料）"
+              },
+              {
+                "name": "白醬日式豬排義大利麵",
+                "price": 140,
+                "updated": "2025/03（舊資料）"
+              }
+            ]
+          }
+        ]
       }
     },
     "minsheng": {
       "50": {
         "stores": 23,
-        "dishes": 257
+        "dishes": 257,
+        "cheapest": {
+          "min": 20,
+          "max": 20
+        },
+        "topCategories": [
+          "早餐",
+          "麵食",
+          "飯類"
+        ],
+        "list": [
+          {
+            "id": "412dc9fd-aac8-4d9f-b065-84bd43e81092",
+            "name": "呷尚宝-富錦店",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "火腿蛋餅",
+                "price": 50,
+                "updated": "2026/07"
+              },
+              {
+                "name": "肉醬鐵板麵",
+                "price": 50,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "59f978ec-abaa-4406-b552-2b779ea1b36b",
+            "name": "秈鮨和食行",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "蔬菜釜飯",
+                "price": 50,
+                "updated": "2026/09"
+              }
+            ]
+          },
+          {
+            "id": "e8df01a5-1634-4dbc-a565-86dc1612a212",
+            "name": "曉食點早午餐",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "火腿三明治+起司",
+                "price": 50,
+                "updated": "2026/07"
+              },
+              {
+                "name": "火腿蛋餅+起司",
+                "price": 50,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "72cbbda7-6eb9-4231-8393-835bf0d467fe",
+            "name": "杜家隨意小吃",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "乾麵",
+                "price": 50,
+                "updated": "2026/07"
+              },
+              {
+                "name": "湯麵",
+                "price": 50,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "2f37a712-8c10-4da4-ad98-7a6750058fc1",
+            "name": "三友拉麵(民生店)",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "咖哩可樂餅",
+                "price": 50,
+                "updated": "2026/05"
+              }
+            ]
+          },
+          {
+            "id": "f7fc88c8-18d1-4bd3-a434-779d6857f084",
+            "name": "吖香堡早午餐屋",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "火腿蛋漢堡",
+                "price": 50,
+                "updated": "2026/04"
+              },
+              {
+                "name": "玉米蛋漢堡",
+                "price": 50,
+                "updated": "2026/04"
+              }
+            ]
+          },
+          {
+            "id": "92f6c205-e46c-4d05-9a72-fb436301926e",
+            "name": "NORI BRUNCH",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "芋泥脆餅",
+                "price": 50,
+                "updated": "2026/07"
+              },
+              {
+                "name": "黑胡椒鐵板麵",
+                "price": 50,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "57163a69-45de-49d0-9640-53c2998747c3",
+            "name": "小王記麵食館",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "芝麻醬麵",
+                "price": 50,
+                "updated": "2026/04"
+              },
+              {
+                "name": "紅油乾麵",
+                "price": 50,
+                "updated": "2026/04"
+              }
+            ]
+          },
+          {
+            "id": "7610aba2-0925-4ef9-ba9e-3738dd0014a0",
+            "name": "韓國之家",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "沙茶乾麵",
+                "price": 50,
+                "updated": "2026/10"
+              },
+              {
+                "name": "麻辣乾麵",
+                "price": 50,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "76358f26-835f-4f6c-ad3e-53c052783cac",
+            "name": "小李麵食館",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "麻醬麵（小）",
+                "price": 50,
+                "updated": "2026/01"
+              },
+              {
+                "name": "陽春麵（小）",
+                "price": 45,
+                "updated": "2026/01"
+              }
+            ]
+          }
+        ]
       },
       "100": {
         "stores": 37,
-        "dishes": 933
+        "dishes": 933,
+        "cheapest": {
+          "min": 20,
+          "max": 20
+        },
+        "topCategories": [
+          "早餐",
+          "麵食",
+          "飯類"
+        ],
+        "list": [
+          {
+            "id": "881e9248-d2c5-4ef4-8a21-2360ab4d9a92",
+            "name": "周胖子餃子館 民生店",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "牛肉湯麵",
+                "price": 100,
+                "updated": "2026/03"
+              },
+              {
+                "name": "炸醬麵",
+                "price": 100,
+                "updated": "2026/03"
+              }
+            ]
+          },
+          {
+            "id": "b1d4a2bb-9be0-45f8-82a4-12a046ddb522",
+            "name": "天曉得牛肉麵",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "紅油抄手(乾)",
+                "price": 100,
+                "updated": "2025/10"
+              },
+              {
+                "name": "上海餛飩細麵",
+                "price": 80,
+                "updated": "2025/10"
+              }
+            ]
+          },
+          {
+            "id": "37e95491-70ca-4c3a-a069-aa960236f26b",
+            "name": "好米吉便當專賣",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "叉燒燒肉咖哩",
+                "price": 100,
+                "updated": "2026/05"
+              },
+              {
+                "name": "香腸特餐",
+                "price": 100,
+                "updated": "2026/05"
+              }
+            ]
+          },
+          {
+            "id": "d08b9344-7b94-4b68-a5dd-a4d935b6ded5",
+            "name": "紅亞鍋燒小吃店",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "火腿蛋炒飯",
+                "price": 100,
+                "updated": "2026/05"
+              },
+              {
+                "name": "香腸蛋炒飯",
+                "price": 100,
+                "updated": "2026/05"
+              }
+            ]
+          },
+          {
+            "id": "e8df01a5-1634-4dbc-a565-86dc1612a212",
+            "name": "曉食點早午餐",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "鐵板麵套餐",
+                "price": 100,
+                "updated": "2026/07"
+              },
+              {
+                "name": "兒童套餐",
+                "price": 95,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "72cbbda7-6eb9-4231-8393-835bf0d467fe",
+            "name": "杜家隨意小吃",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "火腿炒飯",
+                "price": 100,
+                "updated": "2026/07"
+              },
+              {
+                "name": "牛肉湯餃",
+                "price": 100,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "f7fc88c8-18d1-4bd3-a434-779d6857f084",
+            "name": "吖香堡早午餐屋",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "日式炸豬排蛋吐司",
+                "price": 100,
+                "updated": "2026/04"
+              },
+              {
+                "name": "日式炸豬排蛋漢堡",
+                "price": 100,
+                "updated": "2026/04"
+              }
+            ]
+          },
+          {
+            "id": "92f6c205-e46c-4d05-9a72-fb436301926e",
+            "name": "NORI BRUNCH",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "拿坡里義大利麵",
+                "price": 100,
+                "updated": "2026/07"
+              },
+              {
+                "name": "花生醬卡啦堡",
+                "price": 95,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "bfa4b32e-b4e0-4661-9b2f-cfa9c8c73471",
+            "name": "宏記飯館",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "火腿蛋炒飯",
+                "price": 100,
+                "updated": "2025/12"
+              },
+              {
+                "name": "肉絲炒麵",
+                "price": 95,
+                "updated": "2025/12"
+              }
+            ]
+          },
+          {
+            "id": "1df12d39-cb0c-475b-8c33-8448c96fb573",
+            "name": "想柒飯-木片餐盒（台北民生店）",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "香嫩滷腿排飯",
+                "price": 100,
+                "updated": "2026/07"
+              },
+              {
+                "name": "麻油三杯菇飯",
+                "price": 100,
+                "updated": "2026/07"
+              }
+            ]
+          }
+        ]
       },
       "150": {
         "stores": 42,
-        "dishes": 1251
+        "dishes": 1251,
+        "cheapest": {
+          "min": 20,
+          "max": 20
+        },
+        "topCategories": [
+          "早餐",
+          "麵食",
+          "飯類"
+        ],
+        "list": [
+          {
+            "id": "881e9248-d2c5-4ef4-8a21-2360ab4d9a92",
+            "name": "周胖子餃子館 民生店",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "牛肉湯餃",
+                "price": 150,
+                "updated": "2026/03"
+              },
+              {
+                "name": "豬肉湯餃",
+                "price": 140,
+                "updated": "2026/03"
+              }
+            ]
+          },
+          {
+            "id": "9720d0f1-3e81-44f8-a4bf-b15ab6f0c33a",
+            "name": "parco義大利麵店",
+            "walkMinutes": 1,
+            "items": [
+              {
+                "name": "茄汁肉醬麵",
+                "price": 150,
+                "updated": "2026/08"
+              }
+            ]
+          },
+          {
+            "id": "2647e4db-0817-40b8-872a-2be4fbd0c29f",
+            "name": "富錦樹咖啡 FUJIN TREE CAFE 富錦店",
+            "walkMinutes": 3,
+            "items": [
+              {
+                "name": "卡門貝爾佐蜂蜜",
+                "price": 150,
+                "updated": "2026/10"
+              },
+              {
+                "name": "經典原味",
+                "price": 90,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "72cbbda7-6eb9-4231-8393-835bf0d467fe",
+            "name": "杜家隨意小吃",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "海鮮炒飯",
+                "price": 150,
+                "updated": "2026/07"
+              },
+              {
+                "name": "海鮮炒麵",
+                "price": 150,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "f7fc88c8-18d1-4bd3-a434-779d6857f084",
+            "name": "吖香堡早午餐屋",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "搖搖鬆餅拼盤",
+                "price": 150,
+                "updated": "2026/04"
+              },
+              {
+                "name": "菇菇蛋炒飯（日式炸豬排）",
+                "price": 140,
+                "updated": "2026/04"
+              }
+            ]
+          },
+          {
+            "id": "92f6c205-e46c-4d05-9a72-fb436301926e",
+            "name": "NORI BRUNCH",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "貴族拼盤",
+                "price": 150,
+                "updated": "2026/07"
+              },
+              {
+                "name": "杏鮑菇牛肉堡",
+                "price": 120,
+                "updated": "2026/07"
+              }
+            ]
+          },
+          {
+            "id": "57163a69-45de-49d0-9640-53c2998747c3",
+            "name": "小王記麵食館",
+            "walkMinutes": 4,
+            "items": [
+              {
+                "name": "海鮮湯麵",
+                "price": 150,
+                "updated": "2026/04"
+              },
+              {
+                "name": "牛肉乾麵",
+                "price": 130,
+                "updated": "2026/04"
+              }
+            ]
+          },
+          {
+            "id": "9a421d89-c297-4fdb-9590-d00174831ce6",
+            "name": "昀吐司（民生社區店）",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "豆乳核桃吐司(全素)",
+                "price": 150,
+                "updated": "2026/08"
+              },
+              {
+                "name": "甜菜根紅寶石吐司",
+                "price": 150,
+                "updated": "2026/08"
+              }
+            ]
+          },
+          {
+            "id": "7610aba2-0925-4ef9-ba9e-3738dd0014a0",
+            "name": "韓國之家",
+            "walkMinutes": 5,
+            "items": [
+              {
+                "name": "沙茶牛肉麵",
+                "price": 150,
+                "updated": "2026/10"
+              },
+              {
+                "name": "沙茶豬肉麵",
+                "price": 150,
+                "updated": "2026/10"
+              }
+            ]
+          },
+          {
+            "id": "452287c8-1276-418e-94e3-4ade8edca3d1",
+            "name": "伯父食堂",
+            "walkMinutes": 6,
+            "items": [
+              {
+                "name": "木須番茄疙瘩（牛肉）",
+                "price": 150,
+                "updated": "2025/12"
+              },
+              {
+                "name": "木須番茄疙瘩（豬肉）",
+                "price": 150,
+                "updated": "2025/12"
+              }
+            ]
+          }
+        ]
       }
     }
   }

@@ -291,7 +291,9 @@ M4 起整站不使用餐點示意圖、也不顯示餐點照片（收據風格�
   NEXT_PUBLIC_SUPABASE_URL=… NEXT_PUBLIC_SUPABASE_ANON_KEY=… npm run gen:area-stats
   ```
   腳本直接載入 `src/lib/search` 的篩選與排序（500m、排除單點小菜與多人份），不重寫規則；不讀 `SUPABASE_SERVICE_ROLE_KEY`。
-- `sitemap.xml`、`robots.txt` 的網域用 `NEXT_PUBLIC_SITE_URL`（預設 `https://priceeats.pages.dev`）。
+- 每次匯入新資料後跑 `gen:area-stats` 再部署，入口頁的數字、說明文字與店家清單才會更新。
+- 入口頁在建置時就把清單輸出成 HTML（每區×預算前 10 家店、每家最多 2 道，另有說明段落與 JSON-LD ItemList）；清單與數字都來自 `area-stats.json`，規則在 `src/lib/area-listing.ts`。
+- `sitemap.xml`、`robots.txt` 的網域用 `NEXT_PUBLIC_SITE_URL`（預設 `https://priceeats.pages.dev`）；sitemap 每個網址有 `<lastmod>`（入口頁＝統計日期，首頁與說明頁＝建置日期）。
 
 ## 全台擴張流程（M11.1）
 

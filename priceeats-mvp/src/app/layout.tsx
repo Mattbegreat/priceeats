@@ -8,6 +8,7 @@ const DESCRIPTION = siteDescription(IS_REAL_DATA);
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
+  verification: { google: 'AlBF-8ICckImbt6pAuA62T4qmFs8SKW14jCUa05HtQk' },
   title: SITE_TITLE,
   description: DESCRIPTION,
   openGraph: {

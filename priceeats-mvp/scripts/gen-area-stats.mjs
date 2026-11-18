@@ -1,5 +1,6 @@
-// 入口頁的店數與餐點數：用 anon key 讀 Supabase，套用與前端相同的預設 (500m、排除單點小菜與多人份)，
-// 直接 import src/lib 的純函式，不重寫規則。寫入 src/data/area-stats.json (要提交)；npm run build:demo 只讀這個 JSON，不連網。
+// 入口頁的統計與清單：用 anon key 讀 Supabase，套用與前端相同的預設 (500m、排除單點小菜與多人份、最貼近預算、以店分組)，
+// 直接 import src/lib 的純函式 (src/lib/area-listing.ts 的 buildAreaEntry)，不重寫規則。
+// 每個「區域×預算」輸出：店數、餐點數、最便宜 3 道主餐的價格區間、最常見 3 個分類、前 10 家店各最多 2 道 (店名、餐點名、價格、步行分鐘、更新年月)。寫入 src/data/area-stats.json (要提交)；npm run build:demo 只讀這個 JSON，不連網。
 //
 // 用法：NEXT_PUBLIC_SUPABASE_URL=… NEXT_PUBLIC_SUPABASE_ANON_KEY=… npm run gen:area-stats
 // (只用公開的 anon key；SUPABASE_SERVICE_ROLE_KEY 不會被讀取)
@@ -14,8 +15,8 @@ if (!url || !anon) {
 }
 // 兩個變數必須在載入 src/ 之前就位：IS_REAL_DATA 在 import 時就決定 (正式模式的預設值)
 const { SupabaseRepository } = await import('../src/repositories/supabase.ts');
-const { buildIndex, search } = await import('../src/lib/search/filter.ts');
-const { DEFAULT_PARAMS } = await import('../src/lib/search/params.ts');
+const { buildIndex } = await import('../src/lib/search/filter.ts');
+const { buildAreaEntry } = await import('../src/lib/area-listing.ts');
 const { AREAS, AREA_BUDGETS, AREA_DIST_M, findArea } = await import('../src/data/areas.ts');
 
 const today = new Date();
@@ -31,18 +32,7 @@ for (const a of AREAS) {
     const index = buildIndex(data, today, true);
     areas[a.slug] = {};
     for (const budget of AREA_BUDGETS) {
-      const results = search(index, {
-        ...DEFAULT_PARAMS,
-        budget,
-        cat: '不限',
-        dist: AREA_DIST_M,
-        sides: false,
-        multi: false,
-        minRating: 0,
-        lat: area.lat,
-        lng: area.lng,
-      });
-      areas[a.slug][String(budget)] = { stores: new Set(results.map((r) => r.restaurant.id)).size, dishes: results.length };
+      areas[a.slug][String(budget)] = buildAreaEntry(index, { lat: area.lat, lng: area.lng }, budget, AREA_DIST_M);
     }
     ok++;
   } catch (e) {
